@@ -155,7 +155,7 @@
         const porArtista = {};
         Object.values(ventas).forEach(mes => {
           mes.forEach(v => {
-            if ((v.tipo !== 'vendida' && v.tipo !== 'nueva_vendida') || !(v.precio_num > 0)) return;
+            if (v.tipo !== 'vendida' && v.tipo !== 'nueva_vendida') return;
             if (!porArtista[v.artista]) {
               porArtista[v.artista] = { total: 0, obras: [] };
             }
@@ -202,9 +202,10 @@
             const titulo = obra.url
               ? `<a href="${obra.url}" target="_blank" rel="noreferrer noopener" style="color:var(--text-dim);text-decoration:none;" onmouseover="this.style.color='var(--accent)'" onmouseout="this.style.color='var(--text-dim)'">${obra.titulo}</a>`
               : obra.titulo;
+            const precioStr = obra.precio_num > 0 ? formatNum(obra.precio_num) : '—';
             html += `<div class="obra-row">
               <span class="obra-titulo">${titulo}</span>
-              <span class="obra-precio" data-num="${obra.precio_num}">${formatNum(obra.precio_num)}</span>
+              <span class="obra-precio" data-num="${obra.precio_num}">${precioStr}</span>
             </div>`;
           });
 
