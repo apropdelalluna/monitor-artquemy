@@ -3,6 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="robots" content="noindex, nofollow">
+  <meta name="referrer" content="no-referrer">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Ventas Totales · Artquemy</title>
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=DM+Mono:wght@300;400;500&display=swap" rel="stylesheet">
@@ -200,7 +201,7 @@
 
           obrasOrdenadas.forEach(obra => {
             const titulo = obra.url
-              ? `<a href="${obra.url}" target="_blank" rel="noreferrer noopener" style="color:var(--text-dim);text-decoration:none;" onmouseover="this.style.color='var(--accent)'" onmouseout="this.style.color='var(--text-dim)'">${obra.titulo}</a>`
+              ? `<a href="${obra.url}" target="_blank" rel="noreferrer noopener" referrerpolicy="no-referrer" style="color:var(--text-dim);text-decoration:none;" onmouseover="this.style.color='var(--accent)'" onmouseout="this.style.color='var(--text-dim)'">${obra.titulo}</a>`
               : obra.titulo;
             const precioStr = obra.precio_num > 0 ? formatNum(obra.precio_num) : '—';
             html += `<div class="obra-row">
