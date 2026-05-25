@@ -1,0 +1,614 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Monitor Artquemy</title>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=DM+Mono:wght@300;400;500&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #0e0e0e;
+      --surface: #161616;
+      --border: #2a2a2a;
+      --accent: #c0392b;
+      --accent-dim: #8a2a1e;
+      --text: #e8e4dc;
+      --text-dim: #888;
+      --sold: #e05252;
+      --new: #52a870;
+      --retired: #e09352;
+      --disappeared: #e09352;
+      --eliminated: #7f8c8d;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'DM Mono', monospace;
+      min-height: 100vh;
+      padding: 40px 20px;
+    }
+
+    .grain {
+      position: fixed;
+      inset: 0;
+      opacity: 0.03;
+      background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E");
+      pointer-events: none;
+      z-index: 0;
+    }
+
+    .container {
+      max-width: 860px;
+      margin: 0 auto;
+      position: relative;
+      z-index: 1;
+    }
+
+    header {
+      border-bottom: 1px solid var(--border);
+      padding-bottom: 32px;
+      margin-bottom: 40px;
+    }
+
+    .logo {
+      font-family: 'Playfair Display', serif;
+      font-size: clamp(28px, 5vw, 48px);
+      font-weight: 900;
+      letter-spacing: -1px;
+      color: var(--text);
+    }
+
+    .logo span { color: var(--accent); }
+
+    .subtitle {
+      font-size: 11px;
+      color: var(--text-dim);
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      margin-top: 6px;
+    }
+
+    .status-bar {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-top: 20px;
+      flex-wrap: wrap;
+    }
+
+    .status-dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: #52a870;
+      animation: pulse 2s infinite;
+    }
+
+    .status-dot.loading { background: var(--accent); }
+    .status-dot.error { background: var(--sold); animation: none; }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.4; }
+    }
+
+    .status-text { font-size: 12px; color: var(--text-dim); }
+
+    .wake-btn {
+      margin-left: auto;
+      background: var(--accent);
+      color: #fff;
+      border: none;
+      padding: 10px 20px;
+      font-family: 'DM Mono', monospace;
+      font-size: 12px;
+      font-weight: 500;
+      letter-spacing: 1px;
+      cursor: pointer;
+      text-transform: uppercase;
+      transition: all 0.2s;
+    }
+
+    .wake-btn:hover { background: #fff; color: #000; }
+    .wake-btn:disabled { opacity: 0.4; cursor: not-allowed; }
+
+    .grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+      margin-bottom: 32px;
+    }
+
+    @media (max-width: 600px) {
+      .grid { grid-template-columns: 1fr; }
+    }
+
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      padding: 24px;
+    }
+
+    .card-label {
+      font-size: 10px;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      color: var(--text-dim);
+      margin-bottom: 12px;
+    }
+
+    .card-value {
+      font-family: 'Playfair Display', serif;
+      font-size: 36px;
+      font-weight: 700;
+      color: var(--accent);
+    }
+
+    .card-sub {
+      font-size: 11px;
+      color: var(--text-dim);
+      margin-top: 4px;
+    }
+
+    .section-title {
+      font-size: 10px;
+      letter-spacing: 4px;
+      text-transform: uppercase;
+      color: var(--text-dim);
+      margin-bottom: 16px;
+      padding-bottom: 8px;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .section { margin-bottom: 40px; }
+
+    .cambios-list {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .cambio-item {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-left: 3px solid var(--border);
+      padding: 16px;
+    }
+
+    .cambio-item.vendida { border-left-color: var(--sold); }
+    .cambio-item.nueva { border-left-color: var(--new); }
+    .cambio-item.retirada { border-left-color: var(--retired); }
+    .cambio-item.eliminada { border-left-color: var(--eliminated); }
+    .cambio-item.desaparecida { border-left-color: var(--disappeared); }
+    .cambio-item.precio_cambiado { border-left-color: var(--retired); }
+
+    .cambio-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 12px;
+    }
+
+    .cambio-artista {
+      font-family: 'Playfair Display', serif;
+      font-size: 16px;
+      font-weight: 700;
+    }
+
+    .cambio-fecha {
+      font-size: 11px;
+      color: var(--text-dim);
+      white-space: nowrap;
+    }
+
+    .cambio-obra {
+      font-size: 12px;
+      color: var(--text-dim);
+      margin-top: 6px;
+    }
+
+    .badge {
+      display: inline-block;
+      font-size: 10px;
+      padding: 2px 8px;
+      border-radius: 2px;
+      margin-right: 6px;
+      font-weight: 500;
+    }
+
+    .badge.vendida { background: rgba(224,82,82,0.15); color: var(--sold); }
+    .badge.nueva { background: rgba(82,168,112,0.15); color: var(--new); }
+    .badge.retirada { background: rgba(224,147,82,0.15); color: var(--retired); }
+    .badge.eliminada { background: rgba(127,140,141,0.15); color: var(--eliminated); }
+    .badge.desaparecida { background: rgba(224,147,82,0.15); color: var(--disappeared); }
+    .badge.precio_cambiado { background: rgba(224,147,82,0.15); color: var(--retired); }
+
+    .cambio-precio {
+      font-size: 13px;
+      color: var(--accent);
+      margin-top: 4px;
+    }
+
+    .empty {
+      text-align: center;
+      padding: 40px;
+      color: var(--text-dim);
+      font-size: 12px;
+    }
+
+    .loading-text {
+      color: var(--text-dim);
+      font-size: 12px;
+      animation: blink 1.2s infinite;
+    }
+
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.3; }
+    }
+
+    .last-update {
+      font-size: 11px;
+      color: var(--text-dim);
+      text-align: right;
+      margin-top: 40px;
+      padding-top: 16px;
+      border-top: 1px solid var(--border);
+    }
+
+    .toast {
+      position: fixed;
+      bottom: 24px;
+      right: 24px;
+      background: var(--accent);
+      color: #fff;
+      padding: 12px 20px;
+      font-size: 12px;
+      font-family: 'DM Mono', monospace;
+      opacity: 0;
+      transform: translateY(10px);
+      transition: all 0.3s;
+      z-index: 100;
+    }
+
+    .toast.show { opacity: 1; transform: translateY(0); }
+  </style>
+</head>
+<body>
+  <div class="grain"></div>
+  <div class="container">
+
+    <header>
+      <div class="logo">Art<span>quemy</span> Monitor</div>
+      <div class="subtitle">Panel de control · artquemy.com</div>
+      <div class="status-bar">
+        <div class="status-dot loading" id="statusDot"></div>
+        <span class="status-text" id="statusText">Cargando datos...</span>
+        <button class="wake-btn" id="wakeBtn" onclick="despertarServicio()">⚡ Despertar servicio</button>
+      </div>
+      <div style="text-align:right; font-size:11px; color:var(--text-dim); margin-top:6px;" id="lastUpdateHeader">—</div>
+    </header>
+
+    <div class="grid">
+      <div class="card">
+        <div class="card-label">Ventas del mes</div>
+        <div class="card-value" id="totalMes">—</div>
+        <div class="card-sub" id="obrasMes">Cargando...</div>
+      </div>
+      <div class="card">
+        <div class="card-label">Obras vendidas este mes</div>
+        <div class="card-value" style="font-size:36px;" id="numObrasCard">—</div>
+        <div class="card-sub" id="numObrasSub">Cargando...</div>
+      </div>
+    </div>
+
+    <div class="section">
+      <div class="section-title">Historial mensual</div>
+      <div id="historialContainer"><span class="loading-text">Cargando...</span></div>
+    </div>
+
+    <div class="section">
+      <div style="display:flex;justify-content:space-between;align-items:center;padding-bottom:8px;border-bottom:1px solid var(--border);cursor:pointer;" onclick="toggleSection('vendidas')">
+        <div class="section-title" style="border:none;padding:0;margin:0;" id="vendidasTitle">Obras vendidas</div>
+        <div style="display:flex;align-items:center;gap:10px;">
+          <span style="font-size:11px;color:var(--text-dim);" id="vendidasMeta"></span>
+          <span style="font-size:20px;color:var(--text-dim);" id="vendidasArrow">▸</span>
+        </div>
+      </div>
+      <div class="cambios-list" id="vendidasList" style="margin-top:12px;display:none;"><span class="loading-text">Cargando...</span></div>
+    </div>
+
+    <div class="section">
+      <div class="section-title">Últimos cambios detectados</div>
+      <div class="cambios-list" id="cambiosList"><span class="loading-text">Cargando...</span></div>
+    </div>
+
+    <div class="last-update" id="lastUpdate">—</div>
+  </div>
+
+  <div class="toast" id="toast"></div>
+
+  <script>
+    const GITHUB_USER = 'apropdelalluna';
+    const GITHUB_REPO = 'monitor-artquemy';
+    const DEPLOY_HOOK = 'https://api.render.com/deploy/srv-d8a9ouml51nc73cit26g?key=rf4fW3ImMcw';
+
+    const MESES_ES = {
+      'January':'Enero','February':'Febrero','March':'Marzo','April':'Abril',
+      'May':'Mayo','June':'Junio','July':'Julio','August':'Agosto',
+      'September':'Septiembre','October':'Octubre','November':'Noviembre','December':'Diciembre'
+    };
+
+    let _historialInvertido = [];
+    let _cambiosMostrados = 0;
+
+    const TIPO_LABEL = {
+      'vendida':         '🔴 Vendida',
+      'nueva':           '🟢 Nueva',
+      'nueva_vendida':   '🔴🟢 Nueva vendida',
+      'retirada':        '⚠️ Retirada',
+      'eliminada':       '🗑️ Eliminada',
+      'precio_cambiado': '💰 Precio cambiado',
+      'desaparecida':    '🟠 Desaparecida',
+    };
+
+    function renderCambios(desde, hasta) {
+      let cambiosHTML = '';
+      let ultimoIndice = desde;
+      for (let i = desde; i < Math.min(hasta, _historialInvertido.length); i++) {
+        const c = _historialInvertido[i];
+        const tipo = c.tipo || 'desaparecida';
+        ultimoIndice = i + 1;
+        const tipoLabel = TIPO_LABEL[tipo] || tipo;
+        const claseItem = tipo;
+        const precioAnterior = c.precio_anterior ? `<span style="color:var(--text-dim);text-decoration:line-through;margin-right:6px;">${c.precio_anterior}</span>` : '';
+        cambiosHTML += `<div class="cambio-item ${claseItem}">
+          <div class="cambio-header">
+            <div class="cambio-artista">${c.artista}</div>
+            <div class="cambio-fecha">${c.fecha}</div>
+          </div>
+          <div class="cambio-obra">
+            <span class="badge ${claseItem}">${tipoLabel}</span>
+            ${c.url ? `<a href="${c.url}" target="_blank" rel="noreferrer noopener" style="color:inherit;text-decoration:none;border-bottom:1px solid var(--border);">${c.obra}</a>` : c.obra}
+          </div>
+          ${c.precio && c.precio !== 'Precio no disponible' ? `<div class="cambio-precio">${precioAnterior}${c.precio}</div>` : ''}
+        </div>`;
+      }
+      _cambiosMostrados = ultimoIndice;
+      return cambiosHTML;
+    }
+
+    function verMasCambios() {
+      const boton = document.getElementById('verMasBtn');
+      const nuevoHTML = renderCambios(_cambiosMostrados, _cambiosMostrados + 20);
+      boton.insertAdjacentHTML('beforebegin', nuevoHTML);
+      const restantes = _historialInvertido.length - _cambiosMostrados;
+      if (restantes <= 0) boton.style.display = 'none';
+      else boton.textContent = `Ver más (${restantes} restantes)`;
+    }
+
+    function formatMes(yyyymm) {
+      const [y, m] = yyyymm.split('-');
+      const fecha = new Date(y, m - 1, 1);
+      const nombre = fecha.toLocaleString('en-US', { month: 'long' });
+      return MESES_ES[nombre] + ' ' + y;
+    }
+
+    function formatNum(n) {
+      return Number(n).toLocaleString('es-ES', { minimumFractionDigits: 0, maximumFractionDigits: 0 }) + ' €';
+    }
+
+    function showToast(msg) {
+      const t = document.getElementById('toast');
+      t.textContent = msg;
+      t.classList.add('show');
+      setTimeout(() => t.classList.remove('show'), 3000);
+    }
+
+    async function fetchGitHub(file) {
+      const url = `https://api.github.com/repos/${GITHUB_USER}/${GITHUB_REPO}/contents/${file}`;
+      const r = await fetch(url, { headers: { 'Accept': 'application/vnd.github.v3.raw' } });
+      if (!r.ok) throw new Error('No encontrado: ' + file);
+      return r.json();
+    }
+
+    async function cargarDatos() {
+      try {
+        const [ventas, historial, meta] = await Promise.all([
+          fetchGitHub('ventas_mensuales_artquemy.json'),
+          fetchGitHub('historial_cambios_artquemy.json'),
+          fetchGitHub('meta_artquemy.json')
+        ]);
+
+        // Última comprobación
+        const ultimaComp = meta?.ultima_comprobacion || '—';
+        document.getElementById('lastUpdateHeader').textContent = `Última visita a Artquemy: ${ultimaComp}`;
+
+        // Mes actual
+        const ahora = new Date();
+        const mesActual = `${ahora.getFullYear()}-${String(ahora.getMonth()+1).padStart(2,'0')}`;
+        const ventasMes = ventas[mesActual] || [];
+
+        // Vendidas del mes (solo vendida y nueva_vendida)
+        const ventasReales = ventasMes.filter(v => v.tipo === 'vendida' || v.tipo === 'nueva_vendida');
+        const totalMes = ventasReales.reduce((s, v) => s + (v.precio_num || 0), 0);
+        const numObras = ventasReales.length;
+
+        document.getElementById('totalMes').textContent = formatNum(totalMes);
+        document.getElementById('obrasMes').textContent = `${numObras} obra${numObras !== 1 ? 's' : ''} vendida${numObras !== 1 ? 's' : ''} en ${formatMes(mesActual)}`;
+        document.getElementById('numObrasCard').textContent = numObras;
+        document.getElementById('numObrasSub').textContent = formatMes(mesActual);
+
+        // Historial mensual
+        const meses = Object.keys(ventas).sort().reverse();
+        let historialHTML = '';
+        meses.forEach(mes => {
+          const vs = ventas[mes].filter(v => v.tipo === 'vendida' || v.tipo === 'nueva_vendida');
+          const total = vs.reduce((s, v) => s + (v.precio_num || 0), 0);
+          const esMesActual = mes === mesActual;
+          const nombreMes = formatMes(mes);
+
+          historialHTML += `<div style="margin-bottom:16px;">
+            <div style="display:flex;justify-content:space-between;align-items:baseline;padding:10px 0;border-bottom:1px solid var(--border);">
+              <div>
+                <span style="font-family:'Playfair Display',serif;font-size:15px;font-weight:700;${esMesActual ? 'color:var(--new)' : ''}">${nombreMes}${esMesActual ? ' ·' : ''}</span>
+                <span style="font-size:11px;color:var(--text-dim);margin-left:8px;">${vs.length} obra${vs.length !== 1 ? 's' : ''}</span>
+              </div>
+              <span style="font-size:14px;font-weight:500;">${formatNum(total)}</span>
+            </div>`;
+
+          vs.forEach(v => {
+            historialHTML += `<div style="display:flex;justify-content:space-between;padding:8px 0 8px 16px;border-bottom:1px solid var(--border);font-size:13px;">
+              <span style="color:var(--text-dim);">${v.url ? `<a href="${v.url}" target="_blank" rel="noreferrer noopener" style="color:var(--text-dim);text-decoration:none;border-bottom:1px solid var(--border);">${v.obra}</a>` : v.obra}</span>
+              <span style="font-weight:500;">${v.precio_num ? formatNum(v.precio_num) : '—'}</span>
+            </div>`;
+          });
+
+          // Resumen por artista
+          const porArtista = {};
+          vs.forEach(v => {
+            if (!porArtista[v.artista]) porArtista[v.artista] = { obras: 0, total: 0 };
+            porArtista[v.artista].obras++;
+            porArtista[v.artista].total += v.precio_num || 0;
+          });
+          const artistasOrdenados = Object.entries(porArtista).sort((a, b) => b[1].total - a[1].total);
+          if (artistasOrdenados.length > 1) {
+            historialHTML += `<div style="margin-top:8px;padding:8px 0 4px 16px;border-top:2px solid var(--border);">
+              <div style="font-size:10px;letter-spacing:3px;text-transform:uppercase;color:var(--text-dim);margin-bottom:6px;">Por artista</div>`;
+            artistasOrdenados.forEach(([artista, datos]) => {
+              historialHTML += `<div style="display:flex;justify-content:space-between;padding:4px 0;font-size:12px;">
+                <span style="color:var(--text-dim);">${artista} <span style="font-size:10px;">(${datos.obras})</span></span>
+                <span style="color:var(--accent);font-weight:500;">${formatNum(datos.total)}</span>
+              </div>`;
+            });
+            historialHTML += `</div>`;
+          }
+
+          historialHTML += '</div>';
+        });
+
+        document.getElementById('historialContainer').innerHTML = historialHTML || '<div class="empty">Sin datos</div>';
+
+        // Obras vendidas del mes actual
+        const nombreMesActual = formatMes(mesActual);
+        document.getElementById('vendidasTitle').textContent = `Obras vendidas en ${nombreMesActual}`;
+        document.getElementById('vendidasMeta').textContent = `${ventasReales.length} obra${ventasReales.length !== 1 ? 's' : ''} · ${formatNum(totalMes)}`;
+
+        if (ventasReales.length === 0) {
+          document.getElementById('vendidasList').innerHTML = '<div class="empty">Sin obras vendidas este mes</div>';
+        } else {
+          let vendidasHTML = '';
+          ventasReales.forEach(v => {
+            vendidasHTML += `<div class="cambio-item vendida">
+              <div class="cambio-header">
+                <div class="cambio-artista">${v.artista || ''}</div>
+                <div class="cambio-fecha">${v.fecha || ''}</div>
+              </div>
+              <div class="cambio-obra">
+                <span class="badge vendida">🔴 Vendida</span>${v.url ? `<a href="${v.url}" target="_blank" rel="noreferrer noopener" style="color:inherit;text-decoration:none;border-bottom:1px solid var(--border);">${v.obra}</a>` : v.obra}
+              </div>
+              ${v.precio_num ? `<div class="cambio-precio">${formatNum(v.precio_num)}</div>` : ''}
+            </div>`;
+          });
+          document.getElementById('vendidasList').innerHTML = vendidasHTML;
+        }
+
+        // Últimos cambios del historial
+        // El historial de Artquemy tiene estructura diferente a Artevistas:
+        // cada entrada tiene { fecha, artista, cambios_obras: [{tipo, titulo, precio, precio_num, url}] }
+        // Aplanamos para mostrar como Artevistas
+        const historialPlano = [];
+        historial.forEach(entrada => {
+          (entrada.cambios_obras || []).forEach(c => {
+            historialPlano.push({
+              fecha:    entrada.fecha,
+              artista:  entrada.artista,
+              tipo:     c.tipo,
+              obra:     c.titulo,
+              precio:   c.precio,
+              precio_num: c.precio_num,
+              url:      c.url,
+              precio_anterior: c.precio_anterior,
+            });
+          });
+        });
+
+        _historialInvertido = historialPlano.reverse();
+        _cambiosMostrados = 0;
+
+        if (_historialInvertido.length === 0) {
+          document.getElementById('cambiosList').innerHTML = '<div class="empty">Sin cambios registrados aún</div>';
+        } else {
+          const htmlInicial = renderCambios(0, 20);
+          const restantes = _historialInvertido.length - _cambiosMostrados;
+          const botonHTML = restantes > 0
+            ? `<button id="verMasBtn" onclick="verMasCambios()" style="width:100%;margin-top:12px;padding:10px;background:none;border:1px solid var(--border);color:var(--text-dim);font-family:'DM Mono',monospace;font-size:11px;letter-spacing:2px;text-transform:uppercase;cursor:pointer;">Ver más (${restantes} restantes)</button>`
+            : '';
+          document.getElementById('cambiosList').innerHTML = htmlInicial + botonHTML;
+        }
+
+        // Status
+        document.getElementById('statusDot').className = 'status-dot';
+        document.getElementById('statusText').textContent = `Datos actualizados · ${historialPlano.length} cambios registrados`;
+        document.getElementById('lastUpdate').textContent = `Última actualización local: ${new Date().toLocaleString('es-ES')}`;
+
+      } catch (e) {
+        document.getElementById('statusDot').className = 'status-dot error';
+        document.getElementById('statusText').textContent = 'Error al cargar datos';
+        console.error(e);
+      }
+    }
+
+    async function despertarServicio() {
+      const btn = document.getElementById('wakeBtn');
+      btn.disabled = true;
+      document.getElementById('statusDot').className = 'status-dot loading';
+
+      try {
+        await fetch(DEPLOY_HOOK, { method: 'POST', mode: 'no-cors' });
+        showToast('✅ Servicio despertado. Actualizando datos en ~5 min.');
+
+        const totalSegundos = 5 * 60;
+        let restantes = totalSegundos;
+
+        const intervalo = setInterval(() => {
+          restantes--;
+          const min = Math.floor(restantes / 60);
+          const seg = restantes % 60;
+          btn.textContent = `⏳ ${min}:${String(seg).padStart(2, '0')} para actualizar`;
+
+          if (restantes <= 0) {
+            clearInterval(intervalo);
+            btn.textContent = '🔄 Actualizando...';
+            cargarDatos().then(() => {
+              btn.disabled = false;
+              btn.textContent = '⚡ Despertar servicio';
+              document.getElementById('statusDot').className = 'status-dot';
+            });
+          }
+        }, 1000);
+
+      } catch (e) {
+        showToast('❌ Error al despertar el servicio');
+        btn.disabled = false;
+        btn.textContent = '⚡ Despertar servicio';
+        document.getElementById('statusDot').className = 'status-dot error';
+      }
+    }
+
+    function toggleSection(id) {
+      const content = document.getElementById(id + 'List');
+      const arrow = document.getElementById(id + 'Arrow');
+      const isOpen = content.style.display !== 'none';
+      content.style.display = isOpen ? 'none' : 'block';
+      arrow.textContent = isOpen ? '▸' : '▾';
+    }
+
+    cargarDatos();
+  </script>
+</body>
+</html>
