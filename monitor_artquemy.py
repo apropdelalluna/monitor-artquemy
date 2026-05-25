@@ -649,10 +649,10 @@ def detectar_cambios_obras(obras_nuevas: dict, obras_viejas: dict) -> list:
             tipo = "nueva_vendida" if info_nueva.get("estado") == "vendido" else "nueva"
             precio_str = info_nueva["precio"]
             precio_num = info_nueva.get("precio_num", 0.0)
-            # Para obra nueva ya vendida, intentar obtener precio de la página individual
-            if tipo == "nueva_vendida" and precio_num == 0.0 and info_nueva.get("url"):
-                logging.info("Buscando precio de obra nueva vendida: %s", titulo)
-                precio_str, precio_num = obtener_precio_desde_producto(info_nueva["url"])
+            # Artquemy oculta el precio al vender — no hay forma de recuperarlo
+            if tipo == "nueva_vendida":
+                precio_str = "Precio no disponible"
+                precio_num = 0.0
             cambios.append({
                 "tipo": tipo, "titulo": titulo,
                 "precio": precio_str, "precio_num": precio_num,
