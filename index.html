@@ -433,8 +433,8 @@
         const mesActual = `${ahora.getFullYear()}-${String(ahora.getMonth()+1).padStart(2,'0')}`;
         const ventasMes = ventas[mesActual] || [];
 
-        // Vendidas del mes (solo vendida y nueva_vendida)
-        const ventasReales = ventasMes.filter(v => v.tipo === 'vendida' || v.tipo === 'nueva_vendida');
+        // Vendidas del mes con precio conocido (excluye nueva_vendida sin precio del primer escaneo)
+        const ventasReales = ventasMes.filter(v => (v.tipo === 'vendida' || v.tipo === 'nueva_vendida') && (v.precio_num || 0) > 0);
         const totalMes = ventasReales.reduce((s, v) => s + (v.precio_num || 0), 0);
         const numObras = ventasReales.length;
 
@@ -447,7 +447,7 @@
         const meses = Object.keys(ventas).sort().reverse();
         let historialHTML = '';
         meses.forEach(mes => {
-          const vs = ventas[mes].filter(v => v.tipo === 'vendida' || v.tipo === 'nueva_vendida');
+          const vs = ventas[mes].filter(v => (v.tipo === 'vendida' || v.tipo === 'nueva_vendida') && (v.precio_num || 0) > 0);
           const total = vs.reduce((s, v) => s + (v.precio_num || 0), 0);
           const esMesActual = mes === mesActual;
           const nombreMes = formatMes(mes);
