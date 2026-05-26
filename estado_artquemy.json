@@ -10401,5 +10401,88 @@
         "url": "https://artquemy.com/producto/old-school/"
       }
     }
+  },
+  "Ana Rosenzweig": {
+    "hash": "e1e5273627134e786554af7490447ae4",
+    "texto": "Sculpture\nSpring\n€\n5.500,00\nAdd to cart\nThis product is already in your cart\nCart\nSculpture\nPart\n€\n3.500,00\nAdd to cart\nThis product is already in your cart\nCart\nSculpture\nI might be a deer in love\n€\n3.500,00\nAdd to cart\nThis product is already in your cart\nCart\nSculpture\nConch\n€\n3.000,00\nAdd to cart\nThis product is already in your cart\nCart\nSculpture\nBad conscience I\n€\n1.000,00\nAdd to cart\nThis product is already in your cart\nCart\nSculpture\nBad conscience\n€\n1.000,00\nAdd to cart\nThis product is already in your cart\nCart\nOut of Stock\nDrawing\nSin título V\nSOLD\nDrawing\nSin título IV\n€\n500,00\nAdd to cart\nThis product is already in your cart\nCart\nDrawing\nSin título II\n€\n500,00\nAdd to cart\nThis product is already in your cart\nCart\nOut of Stock\nDrawing\nSin título III\nSOLD\nOut of Stock\nDrawing\nSin título I\nSOLD",
+    "obras": {
+      "https://artquemy.com/producto/spring/": {
+        "titulo": "Spring",
+        "precio": "€5.500,00",
+        "precio_num": 5500.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/spring/"
+      },
+      "https://artquemy.com/producto/part/": {
+        "titulo": "Part",
+        "precio": "€3.500,00",
+        "precio_num": 3500.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/part/"
+      },
+      "https://artquemy.com/producto/i-might-be-a-deer-in-love/": {
+        "titulo": "I might be a deer in love",
+        "precio": "€3.500,00",
+        "precio_num": 3500.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/i-might-be-a-deer-in-love/"
+      },
+      "https://artquemy.com/producto/conch/": {
+        "titulo": "Conch",
+        "precio": "€3.000,00",
+        "precio_num": 3000.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/conch/"
+      },
+      "https://artquemy.com/producto/bad-conscience-i/": {
+        "titulo": "Bad conscience I",
+        "precio": "€1.000,00",
+        "precio_num": 1000.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/bad-conscience-i/"
+      },
+      "https://artquemy.com/producto/bad-conscience/": {
+        "titulo": "Bad conscience",
+        "precio": "€1.000,00",
+        "precio_num": 1000.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/bad-conscience/"
+      },
+      "https://artquemy.com/producto/sin-titulo-v/": {
+        "titulo": "Sin título V",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/sin-titulo-v/"
+      },
+      "https://artquemy.com/producto/sin-titulo-iv/": {
+        "titulo": "Sin título IV",
+        "precio": "€500,00",
+        "precio_num": 500.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/sin-titulo-iv/"
+      },
+      "https://artquemy.com/producto/sin-titulo-ii/": {
+        "titulo": "Sin título II",
+        "precio": "€500,00",
+        "precio_num": 500.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/sin-titulo-ii/"
+      },
+      "https://artquemy.com/producto/sin-titulo-iii/": {
+        "titulo": "Sin título III",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/sin-titulo-iii/"
+      },
+      "https://artquemy.com/producto/sin-titulo-i/": {
+        "titulo": "Sin título I",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/sin-titulo-i/"
+      }
+    }
   }
 }
