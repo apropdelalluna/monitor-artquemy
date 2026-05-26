@@ -6353,6 +6353,33 @@
       "precio_num": 0.0,
       "tipo": "nueva_vendida",
       "url": "https://artquemy.com/producto/old-school/"
+    },
+    {
+      "fecha": "26/05/2026 10:56",
+      "artista": "Ana Rosenzweig",
+      "obra": "Sin título V",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/sin-titulo-v/"
+    },
+    {
+      "fecha": "26/05/2026 10:56",
+      "artista": "Ana Rosenzweig",
+      "obra": "Sin título III",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/sin-titulo-iii/"
+    },
+    {
+      "fecha": "26/05/2026 10:56",
+      "artista": "Ana Rosenzweig",
+      "obra": "Sin título I",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/sin-titulo-i/"
     }
   ]
 }
