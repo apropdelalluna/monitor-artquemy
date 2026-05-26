@@ -10401,5 +10401,88 @@
         "url": "https://artquemy.com/producto/old-school/"
       }
     ]
+  },
+  {
+    "fecha": "26/05/2026 10:56",
+    "artista": "Ana Rosenzweig",
+    "cambios_obras": [
+      {
+        "tipo": "nueva",
+        "titulo": "Spring",
+        "precio": "€5.500,00",
+        "precio_num": 5500.0,
+        "url": "https://artquemy.com/producto/spring/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Part",
+        "precio": "€3.500,00",
+        "precio_num": 3500.0,
+        "url": "https://artquemy.com/producto/part/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "I might be a deer in love",
+        "precio": "€3.500,00",
+        "precio_num": 3500.0,
+        "url": "https://artquemy.com/producto/i-might-be-a-deer-in-love/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Conch",
+        "precio": "€3.000,00",
+        "precio_num": 3000.0,
+        "url": "https://artquemy.com/producto/conch/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Bad conscience I",
+        "precio": "€1.000,00",
+        "precio_num": 1000.0,
+        "url": "https://artquemy.com/producto/bad-conscience-i/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Bad conscience",
+        "precio": "€1.000,00",
+        "precio_num": 1000.0,
+        "url": "https://artquemy.com/producto/bad-conscience/"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "Sin título V",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/sin-titulo-v/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Sin título IV",
+        "precio": "€500,00",
+        "precio_num": 500.0,
+        "url": "https://artquemy.com/producto/sin-titulo-iv/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Sin título II",
+        "precio": "€500,00",
+        "precio_num": 500.0,
+        "url": "https://artquemy.com/producto/sin-titulo-ii/"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "Sin título III",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/sin-titulo-iii/"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "Sin título I",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/sin-titulo-i/"
+      }
+    ]
   }
 ]
