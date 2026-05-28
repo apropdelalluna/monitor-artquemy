@@ -10531,5 +10531,18 @@
         "url": "https://artquemy.com/producto/memento-mori/"
       }
     ]
+  },
+  {
+    "fecha": "28/05/2026 15:26",
+    "artista": "Juncosa",
+    "cambios_obras": [
+      {
+        "tipo": "nueva",
+        "titulo": "Panot Gaudí – Lila II",
+        "precio": "€290,00",
+        "precio_num": 290.0,
+        "url": "https://artquemy.com/producto/panot-gaudi-lila-ii/"
+      }
+    ]
   }
 ]
