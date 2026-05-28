@@ -461,7 +461,7 @@
               <span style="font-size:14px;font-weight:500;">${formatNum(total)}</span>
             </div>`;
 
-          vs.forEach(v => {
+          [...vs].reverse().forEach(v => {
             historialHTML += `<div style="display:flex;justify-content:space-between;padding:8px 0 8px 16px;border-bottom:1px solid var(--border);font-size:13px;">
               <span style="color:var(--text-dim);">${v.url ? `<a href="${v.url}" target="_blank" rel="noreferrer noopener" style="color:var(--text-dim);text-decoration:none;border-bottom:1px solid var(--border);">${v.obra}</a>` : v.obra}</span>
               <span style="font-weight:500;">${v.precio_num ? formatNum(v.precio_num) : '—'}</span>
@@ -502,7 +502,7 @@
           document.getElementById('vendidasList').innerHTML = '<div class="empty">Sin obras vendidas este mes</div>';
         } else {
           let vendidasHTML = '';
-          ventasReales.forEach(v => {
+          [...ventasReales].reverse().forEach(v => {
             vendidasHTML += `<div class="cambio-item vendida">
               <div class="cambio-header">
                 <div class="cambio-artista">${v.artista || ''}</div>
