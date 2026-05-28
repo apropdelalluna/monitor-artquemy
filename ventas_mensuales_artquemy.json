@@ -6380,6 +6380,51 @@
       "precio_num": 0.0,
       "tipo": "nueva_vendida",
       "url": "https://artquemy.com/producto/sin-titulo-i/"
+    },
+    {
+      "fecha": "28/05/2026 13:04",
+      "artista": "Juncosa",
+      "obra": "Panot Gaudí – Lila",
+      "precio": "€290,00",
+      "precio_num": 290.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/panot-gaudi-azul/"
+    },
+    {
+      "fecha": "28/05/2026 13:04",
+      "artista": "Juncosa",
+      "obra": "Panot Gaudí – Lila II",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/panot-gaudi-lila-ii/"
+    },
+    {
+      "fecha": "28/05/2026 13:04",
+      "artista": "Juncosa",
+      "obra": "Panot Gaudí – Rosa II",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/panot-gaudi-rosa-ii/"
+    },
+    {
+      "fecha": "28/05/2026 13:04",
+      "artista": "Juncosa",
+      "obra": "Panot Gaudí – Verde II",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/panot-gaudi-verde-ii/"
+    },
+    {
+      "fecha": "28/05/2026 13:04",
+      "artista": "Soy feo pero te amo",
+      "obra": "Memento Mori",
+      "precio": "€1.350,00",
+      "precio_num": 1350.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/memento-mori/"
     }
   ]
 }
