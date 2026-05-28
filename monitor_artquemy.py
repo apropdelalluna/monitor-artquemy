@@ -1021,40 +1021,6 @@ def cargar_artistas_github() -> None:
 
 # ── Main ──────────────────────────────────────
 
-def main() -> None:
-    logging.info("=" * 55)
-    logging.info("Monitor Artquemy iniciado")
-    logging.info("Artistas vigilados : %d", len(ARTISTAS))
-    logging.info("=" * 55)
-
-
-    hilo = threading.Thread(target=iniciar_servidor_http, daemon=True)
-    hilo.start()
-
-    cargar_artistas_github()
-    cargar_estado()
-    be_cargar_estado()
-
-    # Comprobación al arrancar
-    cambios_artistas = detectar_artistas_nuevos()
-    comprobar_todos()
-    be_comprobar_todos()
-
-    # Comprobación automática diaria a las 17:50
-    schedule.every().day.at("17:50").do(detectar_artistas_nuevos)
-    schedule.every().day.at("17:50").do(comprobar_todos)
-    schedule.every().day.at("17:50").do(be_comprobar_todos)
-
-    logging.info("Scheduler activo. Comprobación automática a las 17:50 UTC.")
-
-    while True:
-        schedule.run_pending()
-        time.sleep(60)
-
-
-if __name__ == "__main__":
-    main()
-
 
 # ══════════════════════════════════════════════════════════════
 #  MONITOR BASE ELEMENTS
@@ -1478,3 +1444,38 @@ def be_comprobar_todos() -> None:
 
     except Exception as e:
         logging.error("[BE] Error general en comprobación: %s", e)
+
+
+def main() -> None:
+    logging.info("=" * 55)
+    logging.info("Monitor Artquemy iniciado")
+    logging.info("Artistas vigilados : %d", len(ARTISTAS))
+    logging.info("=" * 55)
+
+
+    hilo = threading.Thread(target=iniciar_servidor_http, daemon=True)
+    hilo.start()
+
+    cargar_artistas_github()
+    cargar_estado()
+    be_cargar_estado()
+
+    # Comprobación al arrancar
+    cambios_artistas = detectar_artistas_nuevos()
+    comprobar_todos()
+    be_comprobar_todos()
+
+    # Comprobación automática diaria a las 17:50
+    schedule.every().day.at("17:50").do(detectar_artistas_nuevos)
+    schedule.every().day.at("17:50").do(comprobar_todos)
+    schedule.every().day.at("17:50").do(be_comprobar_todos)
+
+    logging.info("Scheduler activo. Comprobación automática a las 17:50 UTC.")
+
+    while True:
+        schedule.run_pending()
+        time.sleep(60)
+
+
+if __name__ == "__main__":
+    main()
