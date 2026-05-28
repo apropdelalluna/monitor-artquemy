@@ -1,5 +1,32 @@
 {
   "2026-05": [
+    ,{
+  "fecha": "28/05/2026 13:04",
+  "artista": "Juncosa",
+  "obra": "Panot Gaudí – Verde II",
+  "precio": "€290,00",
+  "precio_num": 290.0,
+  "tipo": "vendida",
+  "url": ""
+},
+{
+  "fecha": "28/05/2026 13:04",
+  "artista": "Juncosa",
+  "obra": "Panot Gaudí – Rosa II",
+  "precio": "€290,00",
+  "precio_num": 290.0,
+  "tipo": "vendida",
+  "url": ""
+},
+{
+  "fecha": "28/05/2026 13:04",
+  "artista": "Juncosa",
+  "obra": "Panot Gaudí – Lila II",
+  "precio": "€290,00",
+  "precio_num": 290.0,
+  "tipo": "vendida",
+  "url": ""
+}
     {
       "fecha": "25/05/2026 20:04",
       "artista": "Alessia Innocenti",
