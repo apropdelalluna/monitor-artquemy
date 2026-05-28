@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="referrer" content="no-referrer">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Base Elements · Sales by Artist</title>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Bebas+Neue&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #0a0a0a; --surface: #111; --border: #222;
+      --accent: #e8ff00; --text: #f0ece4; --text-dim: #666;
+      --sold: #ff3c3c; --new: #3cff8f;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { background: var(--bg); color: var(--text); font-family: 'Space Mono', monospace; min-height: 100vh; padding: 40px 20px; }
+    .container { max-width: 860px; margin: 0 auto; }
+    header { border-bottom: 2px solid var(--accent); padding-bottom: 24px; margin-bottom: 40px; }
+    .logo { font-family: 'Bebas Neue', sans-serif; font-size: clamp(28px, 5vw, 56px); letter-spacing: 4px; }
+    .logo span { color: var(--accent); }
+    .subtitle { font-size: 10px; color: var(--text-dim); letter-spacing: 4px; text-transform: uppercase; margin-top: 6px; }
+    .back-link { display: inline-block; font-size: 10px; color: var(--accent); text-decoration: none; letter-spacing: 2px; text-transform: uppercase; margin-top: 8px; }
+    .artist-card { background: var(--surface); border: 1px solid var(--border); border-left: 3px solid var(--accent); padding: 20px; margin-bottom: 12px; }
+    .artist-header { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 12px; }
+    .artist-name { font-family: 'Bebas Neue', sans-serif; font-size: 22px; letter-spacing: 2px; }
+    .artist-total { font-size: 18px; font-weight: 700; color: var(--accent); }
+    .obra-row { display: flex; justify-content: space-between; padding: 6px 0; border-top: 1px solid var(--border); font-size: 11px; }
+    .obra-row:first-child { border-top: none; }
+    .loading-text { color: var(--text-dim); font-size: 11px; animation: blink 1.2s infinite; }
+    @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0.3; } }
+    .empty { text-align: center; padding: 40px; color: var(--text-dim); font-size: 11px; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div class="logo">Base<span>Elements</span></div>
+      <div class="subtitle">Total sales by artist</div>
+      <a href="baseelements.html" class="back-link">← Back to monitor</a>
+    </header>
+    <div id="contenido"><span class="loading-text">Loading...</span></div>
+  </div>
+  <script>
+    async function cargar() {
+      try {
+        const r = await fetch('https://api.github.com/repos/apropdelalluna/monitor-artquemy/contents/ventas_mensuales_baseelements.json', { headers: { 'Accept': 'application/vnd.github.v3.raw' } });
+        if (!r.ok) throw new Error();
+        const ventas = await r.json();
+
+        const porArtista = {};
+        Object.values(ventas).forEach(mes => {
+          mes.forEach(v => {
+            if ((v.tipo === 'vendida' || v.tipo === 'nueva_vendida') && (v.precio_num || 0) > 0) {
+              if (!porArtista[v.artista]) porArtista[v.artista] = { total: 0, obras: [] };
+              porArtista[v.artista].total += v.precio_num;
+              porArtista[v.artista].obras.push(v);
+            }
+          });
+        });
+
+        const ordenados = Object.entries(porArtista).sort((a, b) => b[1].total - a[1].total);
+        if (ordenados.length === 0) {
+          document.getElementById('contenido').innerHTML = '<div class="empty">No sales recorded yet</div>';
+          return;
+        }
+
+        let html = '';
+        ordenados.forEach(([artista, datos]) => {
+          const obrasOrdenadas = [...datos.obras].sort((a, b) => b.precio_num - a.precio_num);
+          html += `<div class="artist-card">
+            <div class="artist-header">
+              <div class="artist-name">${artista}</div>
+              <div class="artist-total">€${datos.total.toLocaleString('es-ES')}</div>
+            </div>`;
+          obrasOrdenadas.forEach(o => {
+            html += `<div class="obra-row">
+              <span style="color:var(--text-dim);">${o.url ? `<a href="${o.url}" target="_blank" rel="noreferrer noopener" style="color:var(--text-dim);text-decoration:none;border-bottom:1px solid var(--border);">${o.obra}</a>` : o.obra}</span>
+              <span style="color:var(--text);font-weight:700;">€${o.precio_num.toLocaleString('es-ES')}</span>
+            </div>`;
+          });
+          html += '</div>';
+        });
+        document.getElementById('contenido').innerHTML = html;
+      } catch(e) {
+        document.getElementById('contenido').innerHTML = '<div class="empty">Error loading data</div>';
+      }
+    }
+    cargar();
+  </script>
+</body>
+</html>

@@ -324,8 +324,15 @@ def precio_a_numero(precio_str: str) -> float:
         return 0.0
 
 
+def _precio_str_desde_num(precio_num: float) -> str:
+    return f"{precio_num:,.2f}€".replace(",", "X").replace(".", ",").replace("X", ".")
+
+
 def obtener_precio_desde_producto(url_producto: str) -> tuple[str, float]:
-    """Intenta extraer precio de la página individual vía JSON-LD."""
+    """
+    Análisis exhaustivo del HTML de una obra vendida para intentar recuperar el precio.
+    Busca en: JSON-LD, meta tags, data attributes, scripts inline, variables JS.
+    """
     headers = {
         "User-Agent": (
             "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -338,7 +345,9 @@ def obtener_precio_desde_producto(url_producto: str) -> tuple[str, float]:
         resp = requests.get(url_producto, headers=headers, timeout=20)
         resp.raise_for_status()
         soup = BeautifulSoup(resp.text, "html.parser")
+        html_raw = resp.text
 
+        # 1. JSON-LD (más fiable)
         for script in soup.find_all("script", type="application/ld+json"):
             try:
                 data = json.loads(script.string or "")
@@ -353,16 +362,84 @@ def obtener_precio_desde_producto(url_producto: str) -> tuple[str, float]:
                     if isinstance(offers, dict):
                         precio_num = float(offers.get("price", 0))
                         if precio_num > 0:
-                            moneda = offers.get("priceCurrency", "EUR")
-                            precio_str = f"{precio_num:,.2f}€".replace(",", "X").replace(".", ",").replace("X", ".")
-                            return precio_str, precio_num
+                            logging.info("    💰 Precio recuperado vía JSON-LD: %.2f", precio_num)
+                            return _precio_str_desde_num(precio_num), precio_num
                     for spec in (offers if isinstance(offers, list) else offers.get("priceSpecification", [])):
                         precio_num = float(spec.get("price", 0))
                         if precio_num > 0:
-                            precio_str = f"{precio_num:,.2f}€".replace(",", "X").replace(".", ",").replace("X", ".")
-                            return precio_str, precio_num
+                            logging.info("    💰 Precio recuperado vía JSON-LD priceSpec: %.2f", precio_num)
+                            return _precio_str_desde_num(precio_num), precio_num
             except Exception:
                 continue
+
+        # 2. Meta tags (og:price:amount, product:price:amount, etc.)
+        for meta in soup.find_all("meta"):
+            name = (meta.get("name") or meta.get("property") or "").lower()
+            content = meta.get("content", "")
+            if any(x in name for x in ["price", "amount"]) and content:
+                try:
+                    precio_num = float(re.sub(r"[^\d.]", "", content))
+                    if precio_num > 0:
+                        logging.info("    💰 Precio recuperado vía meta tag '%s': %.2f", name, precio_num)
+                        return _precio_str_desde_num(precio_num), precio_num
+                except Exception:
+                    continue
+
+        # 3. Data attributes (data-price, data-product-price, etc.)
+        for el in soup.find_all(attrs=True):
+            for attr, val in el.attrs.items():
+                if "price" in attr.lower() and isinstance(val, str):
+                    try:
+                        precio_num = float(re.sub(r"[^\d.]", "", val))
+                        if precio_num > 0:
+                            logging.info("    💰 Precio recuperado vía data-attr '%s': %.2f", attr, precio_num)
+                            return _precio_str_desde_num(precio_num), precio_num
+                    except Exception:
+                        continue
+
+        # 4. Scripts inline — buscar patrones comunes de WooCommerce/JS
+        patrones_js = [
+            r'"price"\s*:\s*"?(\d+\.?\d*)"?',
+            r"'price'\s*:\s*'?(\d+\.?\d*)'?",
+            r'data-price=["\']?(\d+\.?\d*)["\']?',
+            r'wc_product_price[^\d]+(\d+\.?\d*)',
+            r'regular_price[^\d]+(\d+\.?\d*)',
+            r'sale_price[^\d]+(\d+\.?\d*)',
+        ]
+        for script in soup.find_all("script"):
+            texto_script = script.string or ""
+            if not texto_script:
+                continue
+            for patron in patrones_js:
+                matches = re.findall(patron, texto_script)
+                for m in matches:
+                    try:
+                        precio_num = float(m)
+                        if precio_num > 0:
+                            logging.info("    💰 Precio recuperado vía script inline: %.2f", precio_num)
+                            return _precio_str_desde_num(precio_num), precio_num
+                    except Exception:
+                        continue
+
+        # 5. Buscar en el HTML raw cualquier referencia a precio en euros
+        patron_euro = r'(\d{2,4})[,.]00\s*[€]|€\s*(\d{2,4})'
+        matches_euro = re.findall(patron_euro, html_raw)
+        candidatos = set()
+        for m in matches_euro:
+            val = m[0] or m[1]
+            try:
+                precio_num = float(val)
+                if 10 <= precio_num <= 50000:  # rango razonable para arte
+                    candidatos.add(precio_num)
+            except Exception:
+                continue
+        if len(candidatos) == 1:
+            precio_num = list(candidatos)[0]
+            logging.info("    💰 Precio recuperado vía HTML euro pattern: %.2f", precio_num)
+            return _precio_str_desde_num(precio_num), precio_num
+        elif len(candidatos) > 1:
+            logging.debug("    ⚠️  Múltiples candidatos de precio en HTML: %s", candidatos)
+
     except Exception as e:
         logging.debug("No se pudo obtener precio de %s: %s", url_producto, e)
 
@@ -566,7 +643,78 @@ def investigar_obra_desaparecida(info_vieja: dict, titulo: str) -> tuple[str, st
     return "desaparecida", precio_guardado, precio_num_guardado
 
 
-def detectar_cambios_obras(obras_nuevas: dict, obras_viejas: dict) -> list:
+def buscar_precio_estimado(titulo: str, artista_nombre: str, obras_viejas: dict, estado_global: dict) -> tuple[str, float, bool]:
+    """
+    Busca un precio estimado para una obra nueva_vendida sin precio.
+    Busca obras del mismo artista con título similar y precio conocido.
+    Devuelve (precio_str, precio_num, es_estimado).
+    """
+    import difflib
+
+    # Recopilar todas las obras del mismo artista con precio conocido
+    obras_con_precio = []
+
+    # Buscar en el estado global (todas las obras conocidas de todos los artistas)
+    for nombre_artista, datos_artista in estado_global.items():
+        if nombre_artista != artista_nombre:
+            continue
+        for clave, info in datos_artista.get("obras", {}).items():
+            precio_num = info.get("precio_num", 0.0)
+            if precio_num > 0:
+                obras_con_precio.append({
+                    "titulo": info.get("titulo", clave),
+                    "precio": info.get("precio", ""),
+                    "precio_num": precio_num,
+                })
+
+    # También buscar en obras_viejas del mismo artista (pasadas como parámetro)
+    for clave, info in obras_viejas.items():
+        precio_num = info.get("precio_num", 0.0)
+        if precio_num > 0:
+            obras_con_precio.append({
+                "titulo": info.get("titulo", clave),
+                "precio": info.get("precio", ""),
+                "precio_num": precio_num,
+            })
+
+    if not obras_con_precio:
+        return "Precio no disponible", 0.0, False
+
+    # Buscar similitud de título
+    titulos_conocidos = [o["titulo"] for o in obras_con_precio]
+    coincidencias = difflib.get_close_matches(titulo, titulos_conocidos, n=3, cutoff=0.4)
+
+    if not coincidencias:
+        return "Precio no disponible", 0.0, False
+
+    # Obtener precios de las coincidencias
+    precios_coincidentes = []
+    for titulo_coincidente in coincidencias:
+        for obra in obras_con_precio:
+            if obra["titulo"] == titulo_coincidente:
+                precios_coincidentes.append(obra["precio_num"])
+                break
+
+    if not precios_coincidentes:
+        return "Precio no disponible", 0.0, False
+
+    # Si todos los precios coincidentes son iguales, es muy probable que sea correcto
+    if len(set(precios_coincidentes)) == 1:
+        precio_num = precios_coincidentes[0]
+        precio_str = f"~€{precio_num:,.0f}".replace(",", ".")
+        logging.info("  💡 Precio estimado para '%s': %s (por similitud con '%s')",
+                     titulo, precio_str, coincidencias[0])
+        return precio_str, precio_num, True
+
+    # Si hay varios precios distintos, usar el más frecuente
+    from collections import Counter
+    precio_mas_frecuente = Counter(precios_coincidentes).most_common(1)[0][0]
+    precio_str = f"~€{precio_mas_frecuente:,.0f}".replace(",", ".")
+    logging.info("  💡 Precio estimado (frecuencia) para '%s': %s", titulo, precio_str)
+    return precio_str, precio_mas_frecuente, True
+
+
+def detectar_cambios_obras(obras_nuevas: dict, obras_viejas: dict, artista_nombre: str = "", estado_global: dict = None) -> list:
     cambios = []
     obras_nuevas_por_titulo = {}
     for clave_n, info_n in obras_nuevas.items():
@@ -649,13 +797,34 @@ def detectar_cambios_obras(obras_nuevas: dict, obras_viejas: dict) -> list:
             tipo = "nueva_vendida" if info_nueva.get("estado") == "vendido" else "nueva"
             precio_str = info_nueva["precio"]
             precio_num = info_nueva.get("precio_num", 0.0)
-            # Artquemy oculta el precio al vender — no hay forma de recuperarlo
+            precio_estimado = False
+            # Artquemy oculta el precio al vender — intentar recuperarlo o estimarlo
             if tipo == "nueva_vendida":
+                url_obra = info_nueva.get("url", "")
                 precio_str = "Precio no disponible"
                 precio_num = 0.0
+
+                # Paso 1: análisis exhaustivo del HTML de la obra vendida
+                if url_obra:
+                    precio_str_html, precio_num_html = obtener_precio_desde_producto(url_obra)
+                    if precio_num_html > 0:
+                        precio_str = precio_str_html
+                        precio_num = precio_num_html
+                        logging.info("    ✅ Precio real recuperado del HTML para '%s': %s", titulo, precio_str)
+
+                # Paso 2: si no se encontró precio real, intentar estimarlo por similitud
+                if precio_num == 0.0:
+                    precio_str_est, precio_num_est, es_estimado = buscar_precio_estimado(
+                        titulo, artista_nombre, obras_viejas, estado_global or {}
+                    )
+                    if es_estimado:
+                        precio_str = precio_str_est
+                        precio_num = precio_num_est
+                        precio_estimado = True
             cambios.append({
                 "tipo": tipo, "titulo": titulo,
                 "precio": precio_str, "precio_num": precio_num,
+                "precio_estimado": precio_estimado,
                 "url": info_nueva.get("url", "")
             })
 
@@ -697,7 +866,7 @@ def comprobar_artista(artista: dict) -> dict | None:
     obras_viejas = entrada_vieja.get("obras", {})
     texto_viejo = entrada_vieja.get("texto", "")
 
-    cambios_obras = detectar_cambios_obras(obras_actuales, obras_viejas)
+    cambios_obras = detectar_cambios_obras(obras_actuales, obras_viejas, artista_nombre=nombre, estado_global=estado)
 
     if hash_actual != hash_viejo or cambios_obras:
         diff = generar_diff(texto_viejo, texto_actual)
@@ -796,11 +965,19 @@ def obtener_artistas_web() -> list:
         return []
 
 
+# URLs de artistas a ignorar (páginas rotas o inaccesibles)
+URLS_IGNORAR = {
+    "https://artquemy.com/artists/ana-rosenzweig/",
+}
+
 def detectar_artistas_nuevos() -> list:
     global ARTISTAS
     artistas_web = obtener_artistas_web()
     if not artistas_web:
         return []
+
+    # Filtrar URLs problemáticas
+    artistas_web = [a for a in artistas_web if a["url"] not in URLS_IGNORAR]
 
     urls_actuales = {a["url"] for a in ARTISTAS}
     urls_web = {a["url"] for a in artistas_web}
@@ -856,14 +1033,17 @@ def main() -> None:
 
     cargar_artistas_github()
     cargar_estado()
+    be_cargar_estado()
 
     # Comprobación al arrancar
     cambios_artistas = detectar_artistas_nuevos()
     comprobar_todos()
+    be_comprobar_todos()
 
     # Comprobación automática diaria a las 17:50
     schedule.every().day.at("17:50").do(detectar_artistas_nuevos)
     schedule.every().day.at("17:50").do(comprobar_todos)
+    schedule.every().day.at("17:50").do(be_comprobar_todos)
 
     logging.info("Scheduler activo. Comprobación automática a las 17:50 UTC.")
 
@@ -874,3 +1054,427 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
+
+# ══════════════════════════════════════════════════════════════
+#  MONITOR BASE ELEMENTS
+# ══════════════════════════════════════════════════════════════
+
+BE_ARCHIVO_ESTADO    = "estado_baseelements.json"
+BE_ARCHIVO_MENSUAL   = "ventas_mensuales_baseelements.json"
+BE_ARCHIVO_HISTORIAL = "historial_cambios_baseelements.json"
+BE_ARCHIVO_META      = "meta_baseelements.json"
+
+BE_CATEGORIAS = [
+    {"nombre": "Curated Limited Editions", "url": "https://www.baseelements.net/product-category/curated-limited-editions/"},
+    {"nombre": "Curator's Selection",       "url": "https://www.baseelements.net/product-category/curator-selection/"},
+    {"nombre": "Urban Object Art",          "url": "https://www.baseelements.net/product-category/urban-object-art/"},
+    {"nombre": "El Pez",                    "url": "https://www.baseelements.net/product-category/el-pez/"},
+    {"nombre": "Uriginal",                  "url": "https://www.baseelements.net/product-category/uriginal/"},
+    {"nombre": "Btoy",                      "url": "https://www.baseelements.net/product-category/btoy/"},
+    {"nombre": "Kram",                      "url": "https://www.baseelements.net/product-category/kram/"},
+    {"nombre": "Pres Fusion",               "url": "https://www.baseelements.net/product-category/pres-fusion/"},
+    {"nombre": "Ivana Flores",              "url": "https://www.baseelements.net/product-category/ivana-flores/"},
+    {"nombre": "J Loca",                    "url": "https://www.baseelements.net/product-category/j-loca/"},
+    {"nombre": "Soem",                      "url": "https://www.baseelements.net/product-category/soem/"},
+    {"nombre": "Julián Lorenzo",            "url": "https://www.baseelements.net/product-category/julian-lorenzo/"},
+    {"nombre": "Joan Tarragó",              "url": "https://www.baseelements.net/product-category/joan-tarrago/"},
+    {"nombre": "Zosen",                     "url": "https://www.baseelements.net/product-category/zosen/"},
+    {"nombre": "BNS",                       "url": "https://www.baseelements.net/product-category/bns/"},
+    {"nombre": "Morcky",                    "url": "https://www.baseelements.net/product-category/morcky/"},
+    {"nombre": "Konair",                    "url": "https://www.baseelements.net/product-category/konair/"},
+    {"nombre": "Ilia Mayer",                "url": "https://www.baseelements.net/product-category/ilia-mayer/"},
+    {"nombre": "Vic",                       "url": "https://www.baseelements.net/product-category/vic/"},
+    {"nombre": "Gastón Sanmiguel",          "url": "https://www.baseelements.net/product-category/gaston-sanmiguel/"},
+    {"nombre": "Justin Case",               "url": "https://www.baseelements.net/product-category/justin-case/"},
+    {"nombre": "Sara León",                 "url": "https://www.baseelements.net/product-category/sara-leon/"},
+    {"nombre": "Guest Artists",             "url": "https://www.baseelements.net/product-category/guest-artists/"},
+    {"nombre": "Reality Is Overrated",      "url": "https://www.baseelements.net/product-category/reality-is-overrated-collection/"},
+    {"nombre": "Avant-Groove Collection",   "url": "https://www.baseelements.net/product-category/avant-groove-collection/"},
+]
+
+be_estado = {}
+be_cambios_del_dia = []
+
+
+def be_titulo_desde_slug(url: str) -> str:
+    """Extrae un título legible del slug de la URL."""
+    try:
+        slug = url.rstrip("/").split("/")[-1]
+        titulo = slug.replace("-", " ").title()
+        # Convertir dimensiones como "130 X 97" a "130 x 97"
+        titulo = re.sub(r"(\d+) X (\d+)", r"\1 x \2", titulo)
+        return titulo
+    except Exception:
+        return url
+
+
+def be_obtener_titulo_real(url: str) -> str:
+    """Visita la página de la obra para obtener el título real."""
+    headers = {
+        "User-Agent": (
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+            "AppleWebKit/537.36 (KHTML, like Gecko) "
+            "Chrome/124.0.0.0 Safari/537.36"
+        ),
+        "Accept-Language": "es-ES,es;q=0.9",
+    }
+    try:
+        resp = requests.get(url, headers=headers, timeout=15)
+        if resp.status_code != 200:
+            return be_titulo_desde_slug(url)
+        soup = BeautifulSoup(resp.text, "html.parser")
+        # Título del producto en WooCommerce
+        titulo_el = (
+            soup.select_one(".product_title")
+            or soup.select_one("h1.entry-title")
+            or soup.select_one("h1")
+        )
+        if titulo_el:
+            titulo = titulo_el.get_text(strip=True)
+            if titulo and titulo.upper() != "SOLD":
+                return titulo
+    except Exception:
+        pass
+    return be_titulo_desde_slug(url)
+
+
+def be_extraer_obras(soup: BeautifulSoup, nombre_categoria: str) -> dict:
+    """Extrae obras de una página de categoría de Base Elements."""
+    obras = {}
+
+    productos = soup.select("li.product")
+    if not productos:
+        productos = soup.select("ul.products li")
+
+    for producto in productos:
+        # URL
+        enlace = producto.select_one("a.woocommerce-LoopProduct-link, a.woocommerce-loop-product__link")
+        if not enlace or not enlace.get("href"):
+            continue
+        url_obra = enlace["href"]
+
+        # Título
+        titulo_el = (
+            producto.select_one(".woocommerce-loop-product__title")
+            or producto.select_one("h2")
+            or producto.select_one("h3")
+        )
+        titulo = titulo_el.get_text(strip=True) if titulo_el else ""
+        if not titulo:
+            titulo = be_titulo_desde_slug(url_obra)
+
+        # Estado vendido — en Base Elements el título es "SOLD"
+        es_vendido = titulo.upper() == "SOLD"
+
+        # Precio
+        precio_el = producto.select_one(".woocommerce-Price-amount, .price")
+        precio_str = precio_el.get_text(strip=True) if precio_el else "Precio no disponible"
+        precio_str = precio_str.split("–")[0].split("-")[0].strip()
+        precio_num = precio_a_numero(precio_str)
+
+        if es_vendido:
+            precio_str = "Precio no disponible"
+            precio_num = 0.0
+
+        estado_obra = "vendido" if es_vendido else "disponible"
+
+        obras[url_obra] = {
+            "titulo":     titulo,
+            "precio":     precio_str,
+            "precio_num": precio_num,
+            "estado":     estado_obra,
+            "url":        url_obra,
+            "artista":    nombre_categoria,
+        }
+
+    return obras
+
+
+def be_obtener_contenido(categoria: dict) -> dict | None:
+    headers = {
+        "User-Agent": (
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+            "AppleWebKit/537.36 (KHTML, like Gecko) "
+            "Chrome/124.0.0.0 Safari/537.36"
+        ),
+        "Accept-Language": "es-ES,es;q=0.9",
+    }
+    try:
+        obras_totales = {}
+        textos = []
+        url = categoria["url"]
+        pagina = 1
+        max_paginas = 10
+
+        while url and pagina <= max_paginas:
+            resp = requests.get(url, headers=headers, timeout=20)
+            resp.raise_for_status()
+            soup = BeautifulSoup(resp.text, "html.parser")
+
+            zona = soup.select_one(".products") or soup.select_one("main") or soup.body
+            textos.append(zona.get_text(separator="\n", strip=True))
+
+            obras_pagina = be_extraer_obras(soup, categoria["nombre"])
+            obras_totales.update(obras_pagina)
+
+            siguiente = soup.select_one("a.next.page-numbers, .woocommerce-pagination a.next")
+            url = siguiente["href"] if siguiente else None
+            pagina += 1
+
+        texto_completo = "\n".join(textos)
+        hash_actual = hashlib.md5(texto_completo.encode()).hexdigest()
+
+        return {"texto": texto_completo, "hash": hash_actual, "obras": obras_totales}
+
+    except requests.RequestException as e:
+        logging.error("[BE][%s] Error: %s", categoria["nombre"], e)
+        return None
+
+
+def be_detectar_cambios(obras_nuevas: dict, obras_viejas: dict, nombre_categoria: str) -> list:
+    cambios = []
+    fecha = datetime.now().strftime("%d/%m/%Y %H:%M")
+
+    for url, info_nueva in obras_nuevas.items():
+        info_vieja = obras_viejas.get(url)
+
+        if info_vieja is None:
+            # Obra nueva
+            if info_nueva["estado"] == "vendido":
+                # Aparece directamente como SOLD — recuperar título real
+                titulo_real = be_obtener_titulo_real(url)
+                precio_str, precio_num = obtener_precio_desde_producto(url)
+                cambios.append({
+                    "tipo": "nueva_vendida",
+                    "titulo": titulo_real,
+                    "artista": nombre_categoria,
+                    "precio": precio_str,
+                    "precio_num": precio_num,
+                    "url": url,
+                    "fecha": fecha,
+                })
+            else:
+                cambios.append({
+                    "tipo": "nueva",
+                    "titulo": info_nueva["titulo"],
+                    "artista": nombre_categoria,
+                    "precio": info_nueva["precio"],
+                    "precio_num": info_nueva["precio_num"],
+                    "url": url,
+                    "fecha": fecha,
+                })
+        else:
+            # Obra existente — detectar cambios
+            if info_vieja["estado"] != info_nueva["estado"]:
+                if info_nueva["estado"] == "vendido":
+                    # Pasó a vendida — usar precio guardado
+                    titulo_real = info_vieja["titulo"]
+                    if titulo_real.upper() == "SOLD":
+                        titulo_real = be_obtener_titulo_real(url)
+                    cambios.append({
+                        "tipo": "vendida",
+                        "titulo": titulo_real,
+                        "artista": nombre_categoria,
+                        "precio": info_vieja["precio"],
+                        "precio_num": info_vieja["precio_num"],
+                        "url": url,
+                        "fecha": fecha,
+                    })
+                elif info_vieja["estado"] == "vendido" and info_nueva["estado"] == "disponible":
+                    cambios.append({
+                        "tipo": "nueva",
+                        "titulo": info_nueva["titulo"],
+                        "artista": nombre_categoria,
+                        "precio": info_nueva["precio"],
+                        "precio_num": info_nueva["precio_num"],
+                        "url": url,
+                        "fecha": fecha,
+                    })
+            elif (info_vieja["estado"] == "disponible"
+                  and info_nueva["estado"] == "disponible"
+                  and info_vieja.get("precio_num", 0) != info_nueva.get("precio_num", 0)
+                  and info_nueva.get("precio_num", 0) > 0):
+                cambios.append({
+                    "tipo": "precio_cambiado",
+                    "titulo": info_nueva["titulo"],
+                    "artista": nombre_categoria,
+                    "precio": info_nueva["precio"],
+                    "precio_num": info_nueva["precio_num"],
+                    "precio_anterior": info_vieja["precio"],
+                    "url": url,
+                    "fecha": fecha,
+                })
+
+    # Obras desaparecidas
+    for url, info_vieja in obras_viejas.items():
+        if url not in obras_nuevas:
+            titulo = info_vieja["titulo"]
+            if titulo.upper() == "SOLD":
+                titulo = be_obtener_titulo_real(url)
+            cambios.append({
+                "tipo": "desaparecida",
+                "titulo": titulo,
+                "artista": nombre_categoria,
+                "precio": info_vieja["precio"],
+                "precio_num": info_vieja["precio_num"],
+                "url": url,
+                "fecha": fecha,
+            })
+
+    return cambios
+
+
+def be_cargar_estado() -> None:
+    global be_estado
+    contenido = github_cargar_archivo(BE_ARCHIVO_ESTADO)
+    if contenido:
+        try:
+            be_estado = json.loads(contenido)
+            logging.info("[BE] Estado cargado: %d categorías.", len(be_estado))
+        except Exception as e:
+            logging.warning("[BE] No se pudo parsear estado: %s", e)
+    else:
+        logging.info("[BE] Sin estado previo — primer escaneo.")
+
+
+def be_guardar_estado() -> None:
+    try:
+        with open(BE_ARCHIVO_ESTADO, "w", encoding="utf-8") as f:
+            json.dump(be_estado, f, ensure_ascii=False, indent=2)
+        github_guardar_archivo(BE_ARCHIVO_ESTADO)
+        logging.info("[BE] ✅ %s guardado.", BE_ARCHIVO_ESTADO)
+    except Exception as e:
+        logging.error("[BE] Error guardando estado: %s", e)
+
+
+def be_guardar_ventas_mensuales(cambios_list: list) -> None:
+    try:
+        contenido = github_cargar_archivo(BE_ARCHIVO_MENSUAL)
+        ventas = json.loads(contenido) if contenido else {}
+
+        mes_actual = datetime.now().strftime("%Y-%m")
+        if mes_actual not in ventas:
+            ventas[mes_actual] = []
+
+        for cambio in cambios_list:
+            for c in cambio.get("cambios_obras", []):
+                if c["tipo"] in ("vendida", "nueva_vendida"):
+                    ventas[mes_actual].append({
+                        "fecha":      c.get("fecha", cambio.get("hora", "")),
+                        "artista":    c.get("artista", ""),
+                        "obra":       c.get("titulo", ""),
+                        "precio":     c.get("precio", "Precio no disponible"),
+                        "precio_num": c.get("precio_num", 0.0),
+                        "tipo":       c["tipo"],
+                        "url":        c.get("url", ""),
+                    })
+
+        with open(BE_ARCHIVO_MENSUAL, "w", encoding="utf-8") as f:
+            json.dump(ventas, f, ensure_ascii=False, indent=2)
+        github_guardar_archivo(BE_ARCHIVO_MENSUAL)
+        logging.info("[BE] ✅ %s guardado.", BE_ARCHIVO_MENSUAL)
+    except Exception as e:
+        logging.error("[BE] Error guardando ventas mensuales: %s", e)
+
+
+def be_guardar_historial(cambios_list: list) -> None:
+    try:
+        contenido = github_cargar_archivo(BE_ARCHIVO_HISTORIAL)
+        historial = json.loads(contenido) if contenido else []
+
+        fecha = datetime.now().strftime("%d/%m/%Y %H:%M")
+        for cambio in cambios_list:
+            obras = cambio.get("cambios_obras", [])
+            if not obras:
+                continue
+            historial.append({
+                "fecha":        fecha,
+                "artista":      cambio.get("artista", {}).get("nombre", ""),
+                "cambios_obras": obras,
+            })
+
+        historial = historial[-1000:]
+
+        with open(BE_ARCHIVO_HISTORIAL, "w", encoding="utf-8") as f:
+            json.dump(historial, f, ensure_ascii=False, indent=2)
+        github_guardar_archivo(BE_ARCHIVO_HISTORIAL)
+        logging.info("[BE] ✅ %s guardado.", BE_ARCHIVO_HISTORIAL)
+    except Exception as e:
+        logging.error("[BE] Error guardando historial: %s", e)
+
+
+def be_guardar_meta() -> None:
+    try:
+        meta = {"ultima_comprobacion": datetime.now().strftime("%d/%m/%Y %H:%M")}
+        with open(BE_ARCHIVO_META, "w", encoding="utf-8") as f:
+            json.dump(meta, f, ensure_ascii=False, indent=2)
+        github_guardar_archivo(BE_ARCHIVO_META)
+    except Exception as e:
+        logging.error("[BE] Error guardando meta: %s", e)
+
+
+def be_comprobar_categoria(categoria: dict) -> dict | None:
+    global be_estado, be_cambios_del_dia
+
+    nombre = categoria["nombre"]
+    logging.info("[BE] Comprobando: %s", nombre)
+
+    datos = be_obtener_contenido(categoria)
+    if datos is None:
+        return None
+
+    hash_actual = datos["hash"]
+    obras_actuales = datos["obras"]
+    texto_actual = datos["texto"]
+
+    entrada_vieja = be_estado.get(nombre, {})
+    hash_viejo = entrada_vieja.get("hash", "")
+    obras_viejas = entrada_vieja.get("obras", {})
+
+    cambios_obras = be_detectar_cambios(obras_actuales, obras_viejas, nombre)
+
+    if hash_actual != hash_viejo or cambios_obras:
+        logging.info("[BE]  → Cambios en %s: %d", nombre, len(cambios_obras))
+        for c in cambios_obras:
+            logging.info("[BE]    [%s] %s — %s", c["tipo"], c["titulo"], c["precio"])
+
+        cambio = {
+            "artista":       categoria,
+            "hora":          datetime.now().strftime("%H:%M"),
+            "cambios_obras": cambios_obras,
+        }
+        be_cambios_del_dia.append(cambio)
+
+    be_estado[nombre] = {
+        "hash":  hash_actual,
+        "texto": texto_actual,
+        "obras": obras_actuales,
+    }
+    return None
+
+
+def be_comprobar_todos() -> None:
+    global be_cambios_del_dia
+    logging.info("[BE] " + "=" * 45)
+    logging.info("[BE] Inicio comprobación Base Elements — %s", datetime.now().strftime("%d/%m/%Y %H:%M"))
+
+    be_cambios_del_dia = []
+
+    try:
+        for categoria in BE_CATEGORIAS:
+            be_comprobar_categoria(categoria)
+            time.sleep(2)
+
+        be_guardar_estado()
+        be_guardar_meta()
+
+        if be_cambios_del_dia:
+            be_guardar_ventas_mensuales(be_cambios_del_dia)
+            be_guardar_historial(be_cambios_del_dia)
+            logging.info("[BE] Comprobación finalizada — %d categorías con cambios.", len(be_cambios_del_dia))
+        else:
+            logging.info("[BE] Comprobación finalizada — Sin cambios detectados.")
+
+    except Exception as e:
+        logging.error("[BE] Error general en comprobación: %s", e)

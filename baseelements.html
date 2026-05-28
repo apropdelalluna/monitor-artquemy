@@ -1,0 +1,580 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="referrer" content="no-referrer">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Monitor Base Elements</title>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Bebas+Neue&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #0a0a0a;
+      --surface: #111;
+      --border: #222;
+      --accent: #e8ff00;
+      --accent-dim: #9aaa00;
+      --text: #f0ece4;
+      --text-dim: #666;
+      --sold: #ff3c3c;
+      --new: #3cff8f;
+      --reserved: #ff9a3c;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'Space Mono', monospace;
+      min-height: 100vh;
+      padding: 40px 20px;
+    }
+
+    .container {
+      max-width: 860px;
+      margin: 0 auto;
+    }
+
+    header {
+      border-bottom: 2px solid var(--accent);
+      padding-bottom: 28px;
+      margin-bottom: 40px;
+    }
+
+    .logo {
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: clamp(36px, 7vw, 72px);
+      letter-spacing: 4px;
+      color: var(--text);
+      line-height: 1;
+    }
+
+    .logo span { color: var(--accent); }
+
+    .subtitle {
+      font-size: 10px;
+      color: var(--text-dim);
+      letter-spacing: 4px;
+      text-transform: uppercase;
+      margin-top: 6px;
+    }
+
+    .status-bar {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-top: 20px;
+      flex-wrap: wrap;
+    }
+
+    .status-dot {
+      width: 8px; height: 8px;
+      border-radius: 50%;
+      background: var(--new);
+      animation: pulse 2s infinite;
+    }
+    .status-dot.loading { background: var(--accent); }
+    .status-dot.error { background: var(--sold); animation: none; }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.3; }
+    }
+
+    .status-text { font-size: 11px; color: var(--text-dim); }
+
+    .wake-btn {
+      margin-left: auto;
+      background: var(--accent);
+      color: #000;
+      border: none;
+      padding: 10px 20px;
+      font-family: 'Space Mono', monospace;
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 2px;
+      cursor: pointer;
+      text-transform: uppercase;
+      transition: all 0.2s;
+    }
+    .wake-btn:hover { background: #fff; }
+    .wake-btn:disabled { opacity: 0.4; cursor: not-allowed; }
+
+    .grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+      margin-bottom: 32px;
+    }
+    @media (max-width: 600px) { .grid { grid-template-columns: 1fr; } }
+
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-top: 2px solid var(--accent);
+      padding: 24px;
+    }
+
+    .card-label {
+      font-size: 9px;
+      letter-spacing: 4px;
+      text-transform: uppercase;
+      color: var(--text-dim);
+      margin-bottom: 12px;
+    }
+
+    .card-value {
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: 42px;
+      letter-spacing: 2px;
+      color: var(--accent);
+    }
+
+    .card-sub { font-size: 10px; color: var(--text-dim); margin-top: 4px; }
+
+    .section { margin-bottom: 40px; }
+
+    .section-title {
+      font-size: 9px;
+      letter-spacing: 4px;
+      text-transform: uppercase;
+      color: var(--text-dim);
+      margin-bottom: 16px;
+      padding-bottom: 8px;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .cambio-item {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-left: 3px solid var(--border);
+      padding: 16px;
+      margin-bottom: 8px;
+    }
+    .cambio-item.vendida { border-left-color: var(--sold); }
+    .cambio-item.nueva { border-left-color: var(--new); }
+    .cambio-item.nueva_vendida { border-left-color: var(--sold); }
+    .cambio-item.precio_cambiado { border-left-color: var(--accent); }
+    .cambio-item.desaparecida { border-left-color: var(--reserved); }
+
+    .cambio-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 12px;
+    }
+
+    .cambio-artista {
+      font-size: 13px;
+      font-weight: 700;
+      color: var(--text);
+      letter-spacing: 1px;
+      text-transform: uppercase;
+    }
+
+    .cambio-fecha { font-size: 10px; color: var(--text-dim); white-space: nowrap; }
+
+    .cambio-obra { font-size: 12px; color: var(--text-dim); margin-top: 6px; }
+
+    .badge {
+      display: inline-block;
+      font-size: 9px;
+      padding: 2px 7px;
+      margin-right: 6px;
+      font-weight: 700;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+    }
+    .badge.vendida { background: rgba(255,60,60,0.15); color: var(--sold); }
+    .badge.nueva { background: rgba(60,255,143,0.15); color: var(--new); }
+    .badge.nueva_vendida { background: rgba(255,60,60,0.15); color: var(--sold); }
+    .badge.precio_cambiado { background: rgba(232,255,0,0.15); color: var(--accent); }
+    .badge.desaparecida { background: rgba(255,154,60,0.15); color: var(--reserved); }
+
+    .cambio-precio { font-size: 13px; color: var(--accent); margin-top: 4px; font-weight: 700; }
+
+    .historial-mes {
+      margin-bottom: 20px;
+      border: 1px solid var(--border);
+    }
+
+    .historial-mes-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 12px 16px;
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+    }
+
+    .historial-mes-nombre {
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: 18px;
+      letter-spacing: 2px;
+    }
+
+    .historial-mes-total {
+      font-size: 14px;
+      font-weight: 700;
+      color: var(--accent);
+    }
+
+    .historial-obra {
+      display: flex;
+      justify-content: space-between;
+      padding: 10px 16px;
+      border-bottom: 1px solid var(--border);
+      font-size: 12px;
+    }
+    .historial-obra:last-child { border-bottom: none; }
+
+    .empty { text-align: center; padding: 40px; color: var(--text-dim); font-size: 11px; }
+
+    .loading-text { color: var(--text-dim); font-size: 11px; animation: blink 1.2s infinite; }
+    @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0.3; } }
+
+    .last-update {
+      font-size: 10px;
+      color: var(--text-dim);
+      text-align: right;
+      margin-top: 40px;
+      padding-top: 16px;
+      border-top: 1px solid var(--border);
+    }
+
+    .toast {
+      position: fixed;
+      bottom: 24px; right: 24px;
+      background: var(--accent);
+      color: #000;
+      padding: 12px 20px;
+      font-size: 11px;
+      font-family: 'Space Mono', monospace;
+      font-weight: 700;
+      opacity: 0;
+      transform: translateY(10px);
+      transition: all 0.3s;
+      z-index: 100;
+    }
+    .toast.show { opacity: 1; transform: translateY(0); }
+
+    .nav-link {
+      display: inline-block;
+      font-size: 10px;
+      color: var(--accent);
+      text-decoration: none;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      margin-top: 8px;
+    }
+    .nav-link:hover { color: #fff; }
+  </style>
+</head>
+<body>
+  <div class="container">
+
+    <header>
+      <div class="logo">Base<span>Elements</span></div>
+      <div class="subtitle">Sales Monitor · baseelements.net</div>
+      <a href="ventas_baseelements.html" class="nav-link">Ventas totales por artista →</a>
+      <div class="status-bar">
+        <div class="status-dot loading" id="statusDot"></div>
+        <span class="status-text" id="statusText">Loading data...</span>
+        <button class="wake-btn" id="wakeBtn" onclick="despertarServicio()">⚡ Wake service</button>
+      </div>
+      <div style="text-align:right;font-size:10px;color:var(--text-dim);margin-top:6px;" id="lastUpdateHeader">—</div>
+    </header>
+
+    <div class="grid">
+      <div class="card">
+        <div class="card-label">Sales this month</div>
+        <div class="card-value" id="totalMes">—</div>
+        <div class="card-sub" id="obrasMes">Loading...</div>
+      </div>
+      <div class="card">
+        <div class="card-label">Total works tracked</div>
+        <div class="card-value" id="totalObras">—</div>
+        <div class="card-sub" id="totalObrasSub">Loading...</div>
+      </div>
+    </div>
+
+    <div class="section">
+      <div class="section-title">Monthly history</div>
+      <div id="historialContainer"><span class="loading-text">Loading...</span></div>
+    </div>
+
+    <div class="section">
+      <div style="display:flex;justify-content:space-between;align-items:center;padding-bottom:8px;border-bottom:1px solid var(--border);cursor:pointer;" onclick="toggleSection('vendidas')">
+        <div class="section-title" style="border:none;padding:0;margin:0;" id="vendidasTitle">Works sold this month</div>
+        <div style="display:flex;align-items:center;gap:10px;">
+          <span style="font-size:10px;color:var(--text-dim);" id="vendidasMeta"></span>
+          <span style="font-size:20px;color:var(--text-dim);" id="vendidasArrow">▸</span>
+        </div>
+      </div>
+      <div class="cambios-list" id="vendidasList" style="margin-top:12px;display:none;"><span class="loading-text">Loading...</span></div>
+    </div>
+
+    <div class="section">
+      <div class="section-title">Latest changes</div>
+      <div id="cambiosList"><span class="loading-text">Loading...</span></div>
+    </div>
+
+    <div class="last-update" id="lastUpdate">—</div>
+  </div>
+
+  <div class="toast" id="toast"></div>
+
+  <script>
+    const GITHUB_USER = 'apropdelalluna';
+    const GITHUB_REPO = 'monitor-artquemy';
+    const DEPLOY_HOOK = 'https://api.render.com/deploy/srv-d8a9ouml51nc73cit26g?key=rf4fW3ImMcw';
+
+    const MESES = {
+      '01':'January','02':'February','03':'March','04':'April',
+      '05':'May','06':'June','07':'July','08':'August',
+      '09':'September','10':'October','11':'November','12':'December'
+    };
+
+    const TIPO_LABEL = {
+      'vendida': '🔴 Sold',
+      'nueva': '🟢 New',
+      'nueva_vendida': '🔴🟢 New & Sold',
+      'precio_cambiado': '💰 Price changed',
+      'desaparecida': '⚠️ Disappeared',
+    };
+
+    let _historialPlano = [];
+    let _cambiosMostrados = 0;
+
+    function formatNum(n) {
+      return '€' + n.toLocaleString('es-ES', { minimumFractionDigits: 0, maximumFractionDigits: 0 });
+    }
+
+    function formatMes(yyyymm) {
+      const [y, m] = yyyymm.split('-');
+      return (MESES[m] || m) + ' ' + y;
+    }
+
+    function showToast(msg) {
+      const t = document.getElementById('toast');
+      t.textContent = msg;
+      t.classList.add('show');
+      setTimeout(() => t.classList.remove('show'), 3000);
+    }
+
+    async function fetchGitHub(file) {
+      const url = `https://api.github.com/repos/${GITHUB_USER}/${GITHUB_REPO}/contents/${file}`;
+      const r = await fetch(url, { headers: { 'Accept': 'application/vnd.github.v3.raw' } });
+      if (!r.ok) throw new Error('Not found: ' + file);
+      return r.json();
+    }
+
+    function renderCambios(desde, hasta) {
+      let html = '';
+      let ultimo = desde;
+      for (let i = desde; i < Math.min(hasta, _historialPlano.length); i++) {
+        const c = _historialPlano[i];
+        const tipo = c.tipo || 'desaparecida';
+        ultimo = i + 1;
+        if (tipo === 'desaparecida') continue;
+        const tipoLabel = TIPO_LABEL[tipo] || tipo;
+        const precioAnterior = c.precio_anterior
+          ? `<span style="color:var(--text-dim);text-decoration:line-through;margin-right:6px;">${c.precio_anterior}</span>` : '';
+        html += `<div class="cambio-item ${tipo}">
+          <div class="cambio-header">
+            <div class="cambio-artista">${c.artista || ''}</div>
+            <div class="cambio-fecha">${c.fecha || ''}</div>
+          </div>
+          <div class="cambio-obra">
+            <span class="badge ${tipo}">${tipoLabel}</span>
+            ${c.url ? `<a href="${c.url}" target="_blank" rel="noreferrer noopener" style="color:inherit;text-decoration:none;border-bottom:1px solid var(--border);">${c.obra}</a>` : (c.obra || '')}
+          </div>
+          ${c.precio && c.precio !== 'Precio no disponible' ? `<div class="cambio-precio">${precioAnterior}${c.precio}</div>` : ''}
+        </div>`;
+      }
+      _cambiosMostrados = ultimo;
+      return html;
+    }
+
+    function verMasCambios() {
+      const boton = document.getElementById('verMasBtn');
+      const nuevoHTML = renderCambios(_cambiosMostrados, _cambiosMostrados + 20);
+      boton.insertAdjacentHTML('beforebegin', nuevoHTML);
+      const restantes = _historialPlano.length - _cambiosMostrados;
+      if (restantes <= 0) boton.style.display = 'none';
+      else boton.textContent = `Load more (${restantes} remaining)`;
+    }
+
+    async function cargarDatos() {
+      try {
+        const [ventas, historial, meta] = await Promise.all([
+          fetchGitHub('ventas_mensuales_baseelements.json'),
+          fetchGitHub('historial_cambios_baseelements.json'),
+          fetchGitHub('meta_baseelements.json'),
+        ]);
+
+        const ultimaComp = meta?.ultima_comprobacion || '—';
+        document.getElementById('lastUpdateHeader').textContent = `Last check: ${ultimaComp}`;
+
+        const ahora = new Date();
+        const mesActual = `${ahora.getFullYear()}-${String(ahora.getMonth()+1).padStart(2,'0')}`;
+        const ventasMes = ventas[mesActual] || [];
+        const ventasReales = ventasMes.filter(v => (v.tipo === 'vendida' || v.tipo === 'nueva_vendida') && (v.precio_num || 0) > 0);
+        const totalMes = ventasReales.reduce((s, v) => s + (v.precio_num || 0), 0);
+
+        document.getElementById('totalMes').textContent = formatNum(totalMes);
+        document.getElementById('obrasMes').textContent = `${ventasReales.length} work${ventasReales.length !== 1 ? 's' : ''} sold in ${formatMes(mesActual)}`;
+
+        // Total obras en catálogo
+        try {
+          const estado = await fetchGitHub('estado_baseelements.json');
+          let totalObras = 0, disponibles = 0;
+          Object.values(estado).forEach(cat => {
+            Object.values(cat.obras || {}).forEach(o => {
+              totalObras++;
+              if (o.estado === 'disponible') disponibles++;
+            });
+          });
+          document.getElementById('totalObras').textContent = disponibles;
+          document.getElementById('totalObrasSub').textContent = `${disponibles} available · ${totalObras} total tracked`;
+        } catch(e) {}
+
+        // Historial mensual
+        const meses = Object.keys(ventas).sort().reverse();
+        let historialHTML = '';
+        meses.forEach(mes => {
+          const vs = ventas[mes].filter(v => (v.tipo === 'vendida' || v.tipo === 'nueva_vendida') && (v.precio_num || 0) > 0);
+          const total = vs.reduce((s, v) => s + (v.precio_num || 0), 0);
+          const nombreMes = formatMes(mes);
+          const esMesActual = mes === mesActual;
+
+          historialHTML += `<div class="historial-mes">
+            <div class="historial-mes-header">
+              <div>
+                <span class="historial-mes-nombre" style="${esMesActual ? 'color:var(--new)' : ''}">${nombreMes}</span>
+                <span style="font-size:10px;color:var(--text-dim);margin-left:8px;">${vs.length} work${vs.length !== 1 ? 's' : ''}</span>
+              </div>
+              <span class="historial-mes-total">${formatNum(total)}</span>
+            </div>`;
+          [...vs].reverse().forEach(v => {
+            historialHTML += `<div class="historial-obra">
+              <span style="color:var(--text-dim);">${v.url ? `<a href="${v.url}" target="_blank" rel="noreferrer noopener" style="color:var(--text-dim);text-decoration:none;border-bottom:1px solid var(--border);">${v.obra}</a>` : v.obra} <span style="font-size:10px;opacity:0.6;">(${v.artista})</span></span>
+              <span style="font-weight:700;color:var(--text);">${v.precio_num ? formatNum(v.precio_num) : '—'}</span>
+            </div>`;
+          });
+          historialHTML += '</div>';
+        });
+        document.getElementById('historialContainer').innerHTML = historialHTML || '<div class="empty">No data yet</div>';
+
+        // Obras vendidas este mes
+        document.getElementById('vendidasTitle').textContent = `Works sold in ${formatMes(mesActual)}`;
+        document.getElementById('vendidasMeta').textContent = `${ventasReales.length} work${ventasReales.length !== 1 ? 's' : ''} · ${formatNum(totalMes)}`;
+
+        if (ventasReales.length === 0) {
+          document.getElementById('vendidasList').innerHTML = '<div class="empty">No works sold this month</div>';
+        } else {
+          let vendidasHTML = '';
+          [...ventasReales].reverse().forEach(v => {
+            vendidasHTML += `<div class="cambio-item vendida">
+              <div class="cambio-header">
+                <div class="cambio-artista">${v.artista || ''}</div>
+                <div class="cambio-fecha">${v.fecha || ''}</div>
+              </div>
+              <div class="cambio-obra">
+                <span class="badge vendida">🔴 Sold</span>${v.url ? `<a href="${v.url}" target="_blank" rel="noreferrer noopener" style="color:inherit;text-decoration:none;border-bottom:1px solid var(--border);">${v.obra}</a>` : v.obra}
+              </div>
+              ${v.precio_num ? `<div class="cambio-precio">${formatNum(v.precio_num)}</div>` : ''}
+            </div>`;
+          });
+          document.getElementById('vendidasList').innerHTML = vendidasHTML;
+        }
+
+        // Últimos cambios
+        _historialPlano = [];
+        historial.forEach(entrada => {
+          (entrada.cambios_obras || []).forEach(c => {
+            _historialPlano.push({
+              fecha:          entrada.fecha || entrada.hora || '',
+              artista:        c.artista || entrada.artista?.nombre || '',
+              obra:           c.titulo || '',
+              tipo:           c.tipo,
+              precio:         c.precio,
+              precio_num:     c.precio_num,
+              precio_anterior: c.precio_anterior,
+              url:            c.url,
+            });
+          });
+        });
+        _historialPlano.reverse();
+        _cambiosMostrados = 0;
+
+        if (_historialPlano.length === 0) {
+          document.getElementById('cambiosList').innerHTML = '<div class="empty">No changes recorded yet</div>';
+        } else {
+          const htmlInicial = renderCambios(0, 20);
+          const restantes = _historialPlano.length - _cambiosMostrados;
+          const botonHTML = restantes > 0
+            ? `<button id="verMasBtn" onclick="verMasCambios()" style="width:100%;margin-top:12px;padding:10px;background:none;border:1px solid var(--border);color:var(--text-dim);font-family:'Space Mono',monospace;font-size:10px;letter-spacing:2px;text-transform:uppercase;cursor:pointer;">Load more (${restantes} remaining)</button>` : '';
+          document.getElementById('cambiosList').innerHTML = htmlInicial + botonHTML;
+        }
+
+        document.getElementById('statusDot').className = 'status-dot';
+        document.getElementById('statusText').textContent = `Data updated · ${_historialPlano.length} changes recorded`;
+        document.getElementById('lastUpdate').textContent = `Local update: ${new Date().toLocaleString('en-GB')}`;
+
+      } catch(e) {
+        document.getElementById('statusDot').className = 'status-dot error';
+        document.getElementById('statusText').textContent = 'Error loading data';
+        console.error(e);
+      }
+    }
+
+    async function despertarServicio() {
+      const btn = document.getElementById('wakeBtn');
+      const hook = DEPLOY_HOOK;
+      if (!hook) {
+        showToast('⚡ Deploy hook not configured');
+        return;
+      }
+      btn.disabled = true;
+      document.getElementById('statusDot').className = 'status-dot loading';
+      try {
+        await fetch(hook, { method: 'POST', mode: 'no-cors' });
+        showToast('✅ Service woken. Updating in ~16 min.');
+        let restantes = 16 * 60;
+        const intervalo = setInterval(() => {
+          restantes--;
+          const min = Math.floor(restantes / 60);
+          const seg = restantes % 60;
+          btn.textContent = `⏳ ${min}:${String(seg).padStart(2,'0')}`;
+          if (restantes <= 0) {
+            clearInterval(intervalo);
+            btn.textContent = '🔄 Refreshing...';
+            cargarDatos().then(() => {
+              btn.disabled = false;
+              btn.textContent = '⚡ Wake service';
+              document.getElementById('statusDot').className = 'status-dot';
+            });
+          }
+        }, 1000);
+      } catch(e) {
+        showToast('❌ Error waking service');
+        btn.disabled = false;
+        btn.textContent = '⚡ Wake service';
+        document.getElementById('statusDot').className = 'status-dot error';
+      }
+    }
+
+    function toggleSection(id) {
+      const content = document.getElementById(id + 'List');
+      const arrow = document.getElementById(id + 'Arrow');
+      const isOpen = content.style.display !== 'none';
+      content.style.display = isOpen ? 'none' : 'block';
+      arrow.textContent = isOpen ? '▸' : '▾';
+    }
+
+    cargarDatos();
+  </script>
+</body>
+</html>
