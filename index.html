@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="robots" content="noindex, nofollow">
-  <meta name="referrer" content="no-referrer">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Monitor Artquemy</title>
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=DM+Mono:wght@300;400;500&display=swap" rel="stylesheet">
@@ -286,7 +285,6 @@
     <header>
       <div class="logo">Art<span>quemy</span> Monitor</div>
       <div class="subtitle">Panel de control · artquemy.com</div>
-      <a href="ventas.html" style="display:block;text-align:right;margin-top:8px;font-size:11px;color:var(--accent);text-decoration:none;letter-spacing:1px;">Ventas totales por artista →</a>
       <div class="status-bar">
         <div class="status-dot loading" id="statusDot"></div>
         <span class="status-text" id="statusText">Cargando datos...</span>
@@ -377,7 +375,7 @@
             <span class="badge ${claseItem}">${tipoLabel}</span>
             ${c.url ? `<a href="${c.url}" target="_blank" rel="noreferrer noopener" style="color:inherit;text-decoration:none;border-bottom:1px solid var(--border);">${c.obra}</a>` : c.obra}
           </div>
-          ${c.precio && c.precio !== 'Precio no disponible' ? `<div class="cambio-precio">${precioAnterior}${c.precio}</div>` : ''}
+          ${c.precio && c.precio !== 'Precio no disponible' ? `<div class="cambio-precio">${precioAnterior}${c.precio}${c.precio_estimado ? '<span style="font-size:10px;color:var(--text-dim);margin-left:6px;letter-spacing:1px;">est.</span>' : ''}</div>` : ''}
         </div>`;
       }
       _cambiosMostrados = ultimoIndice;
@@ -513,7 +511,7 @@
               <div class="cambio-obra">
                 <span class="badge vendida">🔴 Vendida</span>${v.url ? `<a href="${v.url}" target="_blank" rel="noreferrer noopener" style="color:inherit;text-decoration:none;border-bottom:1px solid var(--border);">${v.obra}</a>` : v.obra}
               </div>
-              ${v.precio_num ? `<div class="cambio-precio">${formatNum(v.precio_num)}</div>` : ''}
+              ${v.precio_num ? `<div class="cambio-precio">${formatNum(v.precio_num)}${v.precio_estimado ? '<span style="font-size:10px;color:var(--text-dim);margin-left:6px;letter-spacing:1px;">est.</span>' : ''}</div>` : ''}
             </div>`;
           });
           document.getElementById('vendidasList').innerHTML = vendidasHTML;
