@@ -1461,7 +1461,6 @@ def be_comprobar_todos() -> None:
 
         be_guardar_estado()
         be_guardar_meta()
-        be_recuperar_precios_sin_precio()
 
         if be_cambios_del_dia:
             be_guardar_ventas_mensuales(be_cambios_del_dia)
