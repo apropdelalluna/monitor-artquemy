@@ -1,0 +1,5312 @@
+[
+  {
+    "fecha": "29/05/2026 06:43",
+    "artista": "Curated Limited Editions",
+    "cambios_obras": [
+      {
+        "tipo": "nueva",
+        "titulo": "60 x 45 cm (Julian Lorenzo LE-3)",
+        "artista": "Curated Limited Editions",
+        "precio": "€110",
+        "precio_num": 110.0,
+        "url": "https://www.baseelements.net/shop/julian-lorenzo/limited-editions/60-x-45-cm-julian-lorenzo-le-2/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "60 x 45 cm (Julian Lorenzo LE-2)",
+        "artista": "Curated Limited Editions",
+        "precio": "€110",
+        "precio_num": 110.0,
+        "url": "https://www.baseelements.net/shop/julian-lorenzo/limited-editions/60-x-45-cm-julian-lorenzo-le-03/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "45 X 45 cm (Julian Lorenzo LE-1)",
+        "artista": "Curated Limited Editions",
+        "precio": "€110",
+        "precio_num": 110.0,
+        "url": "https://www.baseelements.net/shop/julian-lorenzo/limited-editions/45-x-45-cm-julian-lorenzo-le-1/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "78 x 65 cm (Ivana Flores LE-18)",
+        "artista": "Curated Limited Editions",
+        "precio": "€420",
+        "precio_num": 420.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/78-x-65-cm-ivana-flores-le-17/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "54,3 x 78 cm (Ivana Flores LE-17)",
+        "artista": "Curated Limited Editions",
+        "precio": "€350",
+        "precio_num": 350.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/543-x-78-cm-ivana-flores-le-18/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "108 x 70,5 (Ivana Flores LE-16)",
+        "artista": "Curated Limited Editions",
+        "precio": "€500",
+        "precio_num": 500.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/108-x-705-ivana-flores-le-16/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "46 x 46 cm (Ivana Flores LE-15)",
+        "artista": "Curated Limited Editions",
+        "precio": "€225",
+        "precio_num": 225.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/46-x-46-cm-ivana-flores-le-15/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "50,4 x 68 cm (Ivana Flores LE-13)",
+        "artista": "Curated Limited Editions",
+        "precio": "€350",
+        "precio_num": 350.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/504-x-68-cm-ivana-flores-le-13/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "108 x 62,6 cm (Ivana Flores LE-11)",
+        "artista": "Curated Limited Editions",
+        "precio": "€500",
+        "precio_num": 500.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/108-x-626-cm-ivana-flores-le-11/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "108 x 62,6 cm (Ivana Flores LE-10)",
+        "artista": "Curated Limited Editions",
+        "precio": "€500",
+        "precio_num": 500.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/108-x-626-cm-ivana-flores-le-10/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "70 x 50 cm (Joan Tarragó LE-4)",
+        "artista": "Curated Limited Editions",
+        "precio": "€190",
+        "precio_num": 190.0,
+        "url": "https://www.baseelements.net/shop/joan-tarrago/limited-editions-joan-tarrago/70-x-50-cm-joan-tarrago-le-3-2/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "60,5 x 40 cm (Joan Tarragó LE-2)",
+        "artista": "Curated Limited Editions",
+        "precio": "€190",
+        "precio_num": 190.0,
+        "url": "https://www.baseelements.net/shop/joan-tarrago/limited-editions-joan-tarrago/605-x-40-cm-joan-tarrago-le-2/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "34 x 34 cm (Ivana Flores LE-7)",
+        "artista": "Curated Limited Editions",
+        "precio": "€90",
+        "precio_num": 90.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/34-x-34-cm-ivana-flores-le-7/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "34 × 34 cm (Ivana Flores LE-6)",
+        "artista": "Curated Limited Editions",
+        "precio": "€90",
+        "precio_num": 90.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/34-x-34-cm-ivana-flores-le-6/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "42 x 42 cm (Ivana Flores LE-5)",
+        "artista": "Curated Limited Editions",
+        "precio": "€150",
+        "precio_num": 150.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/42-x-42-cm-ivana-flores-le-5/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "34 × 34 cm (Ivana Flores LE-3)",
+        "artista": "Curated Limited Editions",
+        "precio": "€90",
+        "precio_num": 90.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/23-x-23-cm-ivana-flores-le-3/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "34 x 34 cm (Ivana Flores LE-2)",
+        "artista": "Curated Limited Editions",
+        "precio": "€90",
+        "precio_num": 90.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/34-x-34-cm-ivana-flores-le-2/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "34 x 34 cm (Ivana Flores LE-1)",
+        "artista": "Curated Limited Editions",
+        "precio": "€90",
+        "precio_num": 90.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/34-x-34-cm-ivana-flores-le-1/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "40 x 50 Cm Btoy P5",
+        "artista": "Curated Limited Editions",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/btoy/paper-btoy/40-x-50-cm-btoy-p5/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "40 x 50 (BTOY-P4)",
+        "artista": "Curated Limited Editions",
+        "precio": "€350",
+        "precio_num": 350.0,
+        "url": "https://www.baseelements.net/shop/btoy/paper-btoy/40-x-50-btoy-p4/",
+        "fecha": "29/05/2026 06:41"
+      }
+    ]
+  },
+  {
+    "fecha": "29/05/2026 06:43",
+    "artista": "Curator's Selection",
+    "cambios_obras": [
+      {
+        "tipo": "nueva",
+        "titulo": "102 x 67 cm (Ilia Mayer P-18)",
+        "artista": "Curator's Selection",
+        "precio": "€1,200",
+        "precio_num": 1.2,
+        "url": "https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/102-x-67-cm-ilia-mayer-p-18/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "70 x 50 cm (Gastón Sanmiguel-P7)",
+        "artista": "Curator's Selection",
+        "precio": "€375",
+        "precio_num": 375.0,
+        "url": "https://www.baseelements.net/shop/gaston-sanmiguel/paintings-gaston-sanmiguel/70-x-50-cm-gaston-sanmiguel-p7/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "84 x 60 Cm Konair P15",
+        "artista": "Curator's Selection",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/konair/paper-konair/84-x-60-cm-konair-p15/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "94 x 94 cm (Soem-18)",
+        "artista": "Curator's Selection",
+        "precio": "€2,400",
+        "precio_num": 2.4,
+        "url": "https://www.baseelements.net/shop/soem/canvas-soem/94-x-94-cm-soem-18/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "93 x 22 Cm Vic 36",
+        "artista": "Curator's Selection",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/curator-selection/93-x-22-cm-vic-36/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "70 x 50 cm (Zosen P-2)",
+        "artista": "Curator's Selection",
+        "precio": "€525",
+        "precio_num": 525.0,
+        "url": "https://www.baseelements.net/shop/zosen/zosen-paper/70-x-50-cm-zosen-p-2-2/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "70 x 50 cm (Joan Tarragó P-10)",
+        "artista": "Curator's Selection",
+        "precio": "€350",
+        "precio_num": 350.0,
+        "url": "https://www.baseelements.net/shop/joan-tarrago/paper/70-x-50-cm-joan-tarrago-p-10/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "70 x 50 cm (El Pez-P27)",
+        "artista": "Curator's Selection",
+        "precio": "€900",
+        "precio_num": 900.0,
+        "url": "https://www.baseelements.net/shop/el-pez/papel-el-pez/70-x-50-cm-el-pez-p27/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "70 x 50 cm (Julián Lorenzo-P4)",
+        "artista": "Curator's Selection",
+        "precio": "€590",
+        "precio_num": 590.0,
+        "url": "https://www.baseelements.net/shop/julian-lorenzo/paper-julian-lorenzo/70-x-50-cm-julian-lorenzo-p4/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "90 x 71 cm (Sam Grant-3)",
+        "artista": "Curator's Selection",
+        "precio": "€2,900",
+        "precio_num": 2.9,
+        "url": "https://www.baseelements.net/shop/guest-artists/sam-grant/90-x-71-cm-sam-grant-3/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "130 x 97 cm (Collaboration El Pez & Chicadania)",
+        "artista": "Curator's Selection",
+        "precio": "€6,500",
+        "precio_num": 6.5,
+        "url": "https://www.baseelements.net/shop/guest-artists/chicadania/130-x-97-cm-collaboration-el-pez-chicadania/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "70 x 50 cm (J.Loca-P18)",
+        "artista": "Curator's Selection",
+        "precio": "€525",
+        "precio_num": 525.0,
+        "url": "https://www.baseelements.net/shop/j-loca/paper-j-loca/70-x-50-cm-j-loca-p18/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "60 x 39 cm (Konair-11)",
+        "artista": "Curator's Selection",
+        "precio": "€550",
+        "precio_num": 550.0,
+        "url": "https://www.baseelements.net/shop/konair/canvas-konair/60-x-39-cm-konair-11/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "104 x 65 cm (Chicadania -5)",
+        "artista": "Curator's Selection",
+        "precio": "€2,200",
+        "precio_num": 2.2,
+        "url": "https://www.baseelements.net/shop/guest-artists/chicadania/104-x-65-cm-chicadania-5/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "100 x 81 Cm Julian Lorenzo 10",
+        "artista": "Curator's Selection",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/julian-lorenzo/canvas-julian-lorenzo/100-x-81-cm-julian-lorenzo-10/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "180 x 180 cm (Tarragó-12)",
+        "artista": "Curator's Selection",
+        "precio": "€4,500",
+        "precio_num": 4.5,
+        "url": "https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/180-x-180-cm-tarrago-12/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "150 x 100 cm (Morcky-8)",
+        "artista": "Curator's Selection",
+        "precio": "€2,800",
+        "precio_num": 2.8,
+        "url": "https://www.baseelements.net/shop/morcky/canvas-morcky/150-x-100-cm-morcky-8/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "106 x 82 cm (Sam Grant-1)",
+        "artista": "Curator's Selection",
+        "precio": "€3,300",
+        "precio_num": 3.3,
+        "url": "https://www.baseelements.net/shop/guest-artists/sam-grant/110-x-88-cm-sam-grant-1/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "90 x 66 Cm Ilia Mayer P 1",
+        "artista": "Curator's Selection",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/90-x-66-cm-ilia-mayer-p-1/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "95 x 95 Cm Ivana Flores 26",
+        "artista": "Curator's Selection",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/95-x-95-cm-ivana-flores-26/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "(Justin Case-32)",
+        "artista": "Curator's Selection",
+        "precio": "€40",
+        "precio_num": 40.0,
+        "url": "https://www.baseelements.net/shop/curator-selection/75-x-56-cm-justin-case-32/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "69 x 56 cm (Btoy-P19)",
+        "artista": "Curator's Selection",
+        "precio": "€220",
+        "precio_num": 220.0,
+        "url": "https://www.baseelements.net/shop/btoy/paper-btoy/69-x-56-cm-btoy-p19/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "100 x 73 cm (Slomo-2)",
+        "artista": "Curator's Selection",
+        "precio": "€2,100",
+        "precio_num": 2.1,
+        "url": "https://www.baseelements.net/shop/guest-artists/slomo/canvas-slomo/100-x-73-cm-slomo-2/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "19 x 15 cm (Nevenkart-5)",
+        "artista": "Curator's Selection",
+        "precio": "€290",
+        "precio_num": 290.0,
+        "url": "https://www.baseelements.net/shop/guest-artists/nevenkart/19-x-15-cm-nevenkart-5/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "30 x 30 Cm Ivana Flores 17",
+        "artista": "Curator's Selection",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/30-x-30-cm-ivana-flores-17/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "97 x 130 Cm J Loca 9",
+        "artista": "Curator's Selection",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/j-loca/canvas-j-loca/97-x-130-cm-j-loca-9/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "90 x 73 cm (Zosen-5)",
+        "artista": "Curator's Selection",
+        "precio": "€2,500",
+        "precio_num": 2.5,
+        "url": "https://www.baseelements.net/shop/zosen/canvas-zosen/90-x-73-cm-zosen-5/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "(Justin Case-18)",
+        "artista": "Curator's Selection",
+        "precio": "€40",
+        "precio_num": 40.0,
+        "url": "https://www.baseelements.net/shop/curator-selection/justin-case-18/",
+        "fecha": "29/05/2026 06:41"
+      }
+    ]
+  },
+  {
+    "fecha": "29/05/2026 06:43",
+    "artista": "Urban Object Art",
+    "cambios_obras": [
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "79 x 21 Cm Gaston Sanmiguel P5",
+        "artista": "Urban Object Art",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/gaston-sanmiguel/paintings-gaston-sanmiguel/79-x-21-cm-gaston-sanmiguel-p5/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "79 x 21 cm (Gastón Sanmiguel-P3)",
+        "artista": "Urban Object Art",
+        "precio": "€490",
+        "precio_num": 490.0,
+        "url": "https://www.baseelements.net/shop/gaston-sanmiguel/paintings-gaston-sanmiguel/79-x-21-cm-gaston-sanmiguel-p3/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "93 x 22 Cm Vic 36",
+        "artista": "Urban Object Art",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/curator-selection/93-x-22-cm-vic-36/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "20 x 34 x 7 cm (El Pez- red)",
+        "artista": "Urban Object Art",
+        "precio": "€950",
+        "precio_num": 950.0,
+        "url": "https://www.baseelements.net/shop/el-pez/sculpture-el-pez/20-x-34-x-7-cm-el-pez-red/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "74 x 20 Cm Vic 34",
+        "artista": "Urban Object Art",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/all/74-x-20-cm-vic-34/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "74 x 20 Cm Vic 33",
+        "artista": "Urban Object Art",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/all/74-x-20-cm-vic-33/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "80 x 20 cm (J.Loca SK8-4)",
+        "artista": "Urban Object Art",
+        "precio": "€690",
+        "precio_num": 690.0,
+        "url": "https://www.baseelements.net/shop/j-loca/canvas-j-loca/80-x-20-cm-j-loca-sk8-4/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "80 x 22 cm (J.Loca SK8-3)",
+        "artista": "Urban Object Art",
+        "precio": "€690",
+        "precio_num": 690.0,
+        "url": "https://www.baseelements.net/shop/j-loca/canvas-j-loca/80-x-22-cm-j-loca-sk8-3/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "82 x 22 cm (J.Loca SK8-2)",
+        "artista": "Urban Object Art",
+        "precio": "€690",
+        "precio_num": 690.0,
+        "url": "https://www.baseelements.net/shop/j-loca/canvas-j-loca/82-x-22-cm-j-loca-sk8-2/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "49 x 20 X 20 Cm Collaboration El Pez Pichiavo",
+        "artista": "Urban Object Art",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/el-pez/49-x-20-x-20-cm-collaboration-el-pez-pichiavo/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "91 x 23 Cm Vic 26",
+        "artista": "Urban Object Art",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/all/91-x-23-cm-vic-26/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "91 x 23 Cm Vic 25",
+        "artista": "Urban Object Art",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/all/91-x-23-cm-vic-25/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "83 X 22 cm (Tarragó SK8-1)",
+        "artista": "Urban Object Art",
+        "precio": "€290",
+        "precio_num": 290.0,
+        "url": "https://www.baseelements.net/shop/joan-tarrago/limited-editions-joan-tarrago/83-x-22-cm-tarrago-sk8-1/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "106 x 23 Cm Vic 24",
+        "artista": "Urban Object Art",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/all/106-x-23-cm-vic-24/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "82 x 22 Cm Vic 22",
+        "artista": "Urban Object Art",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/all/82-x-22-cm-vic-22/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "80 x 20 Cm Vic 21",
+        "artista": "Urban Object Art",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/all/80-x-20-cm-vic-21/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "38 x 12 Cm Vic 16",
+        "artista": "Urban Object Art",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/all/38-x-12-cm-vic-16/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "38 x 12 cm (Vic-15)",
+        "artista": "Urban Object Art",
+        "precio": "€490",
+        "precio_num": 490.0,
+        "url": "https://www.baseelements.net/shop/all/38-x-12-cm-vic-15/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "38 x 12 cm (Vic-14)",
+        "artista": "Urban Object Art",
+        "precio": "€490",
+        "precio_num": 490.0,
+        "url": "https://www.baseelements.net/shop/all/38-x-12-cm-vic-14/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "38 x 12 cm (Vic-13)",
+        "artista": "Urban Object Art",
+        "precio": "€490",
+        "precio_num": 490.0,
+        "url": "https://www.baseelements.net/shop/all/72-x-20-cm-vic-13/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "79 x 20 Cm Vic 12",
+        "artista": "Urban Object Art",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/all/79-x-20-cm-vic-12/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "79 x 21 Cm Vic 10",
+        "artista": "Urban Object Art",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/all/79-x-21-cm-vic-10/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "78 x 20 Cm Vic 9",
+        "artista": "Urban Object Art",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/all/78-x-20-cm-vic-9/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "60 x 30 X 24 Cm Sara Leon 2",
+        "artista": "Urban Object Art",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/all/60-x-30-x-24-cm-sara-leon-2/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "80 x 20 Cm Olaftone Sk8 1",
+        "artista": "Urban Object Art",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/guest-artists/olaftone/80-x-20-cm-olaftone-sk8-1/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "78 x 205 Cm Vic Sk8 8",
+        "artista": "Urban Object Art",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/all/78-x-205-cm-vic-sk8-8/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "76 x 21 Cm Vic Sk8 7",
+        "artista": "Urban Object Art",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/all/76-x-21-cm-vic-sk8-7/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "79 x 215 Cm Vic Sk8 6",
+        "artista": "Urban Object Art",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/all/79-x-215-cm-vic-sk8-6/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "78 x 195 Cm Vic Sk8 5",
+        "artista": "Urban Object Art",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/all/78-x-195-cm-vic-sk8-5/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "78 x 21 Cm Vic Sk8 4",
+        "artista": "Urban Object Art",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/all/78-x-21-cm-vic-sk8-4/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "75 x 18 Cm Vic Sk8 3",
+        "artista": "Urban Object Art",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/all/75-x-18-cm-vic-sk8-3/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "77 x 205 Cm Vic Sk8 2",
+        "artista": "Urban Object Art",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/all/77-x-205-cm-vic-sk8-2/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "80 x 205 Cm Vic Sk8 1",
+        "artista": "Urban Object Art",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/all/80-x-205-cm-vic-sk8-1/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "80 x 21 Cm J Loca Sk8 1",
+        "artista": "Urban Object Art",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/all/80-x-21-cm-j-loca-sk8-1/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "79 x 20 Cm Julian Lorenzo Sk8 1",
+        "artista": "Urban Object Art",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/all/79-x-20-cm-julian-lorenzo-sk8-1/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "79 x 20 Cm Ivana Flores Sk8 2",
+        "artista": "Urban Object Art",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/all/79-x-20-cm-ivana-flores-sk8-2/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "80 x 20 cm (Ivana Flores SK8-1)",
+        "artista": "Urban Object Art",
+        "precio": "€850",
+        "precio_num": 850.0,
+        "url": "https://www.baseelements.net/shop/all/80-x-20-cm-ivana-flores-sk8-1/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "80 x 21 cm (Soem SK8-3)",
+        "artista": "Urban Object Art",
+        "precio": "€425",
+        "precio_num": 425.0,
+        "url": "https://www.baseelements.net/shop/soem/80-x-21-cm-soem-sk8-3/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "Soem Sk8",
+        "artista": "Urban Object Art",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/all/soem-sk8/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "79 x 58 Cm Soem Sk8 1",
+        "artista": "Urban Object Art",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/soem/canvas-soem/79-x-58-cm-soem-sk8-1/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "78 x 19 Cm Dat 2",
+        "artista": "Urban Object Art",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/all/78-x-19-cm-dat-2/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "70 x 18 Cm Dat 1",
+        "artista": "Urban Object Art",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/all/70-x-18-cm-dat-1/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "81 x 215 Cm Magone 1",
+        "artista": "Urban Object Art",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/all/81-x-215-cm-magone-1/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "77 x 20 cm (Gastón SK8-1)",
+        "artista": "Urban Object Art",
+        "precio": "€225",
+        "precio_num": 225.0,
+        "url": "https://www.baseelements.net/shop/all/77-x-20-cm-gaston-1/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "78 x 19 Cm Cane 1",
+        "artista": "Urban Object Art",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/all/78-x-19-cm-cane-1/",
+        "fecha": "29/05/2026 06:41"
+      }
+    ]
+  },
+  {
+    "fecha": "29/05/2026 06:43",
+    "artista": "El Pez",
+    "cambios_obras": [
+      {
+        "tipo": "nueva",
+        "titulo": "70 x 50 cm (El Pez-P29)",
+        "artista": "El Pez",
+        "precio": "€900",
+        "precio_num": 900.0,
+        "url": "https://www.baseelements.net/shop/el-pez/papel-el-pez/70-x-50-cm-el-pez-p29/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "70 x 50 cm (El Pez-P28)",
+        "artista": "El Pez",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/el-pez/papel-el-pez/70-x-50-cm-el-pez-p28/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "70 x 50 cm (El Pez-P27)",
+        "artista": "El Pez",
+        "precio": "€900",
+        "precio_num": 900.0,
+        "url": "https://www.baseelements.net/shop/el-pez/papel-el-pez/70-x-50-cm-el-pez-p27/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "70 x 50 cm (El Pez-P26)",
+        "artista": "El Pez",
+        "precio": "€900",
+        "precio_num": 900.0,
+        "url": "https://www.baseelements.net/shop/el-pez/papel-el-pez/70-x-50-cm-el-pez-p26/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "50 x 70 cm (El Pez-P23)",
+        "artista": "El Pez",
+        "precio": "€900",
+        "precio_num": 900.0,
+        "url": "https://www.baseelements.net/shop/el-pez/papel-el-pez/70-x-50-cm-el-pez-p23/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "50 x 70 Cm El Pez P22",
+        "artista": "El Pez",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/el-pez/papel-el-pez/50-x-70-cm-el-pez-p22/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "100 x 149 Cm El Pez 23",
+        "artista": "El Pez",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/el-pez/canvas-el-pez/100-x-149-cm-el-pez-23/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "84 x 84 Cm El Pez 22",
+        "artista": "El Pez",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/el-pez/canvas-el-pez/84-x-84-cm-el-pez-22/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "130 x 97 cm (Collaboration El Pez & Chicadania)",
+        "artista": "El Pez",
+        "precio": "€6,500",
+        "precio_num": 6.5,
+        "url": "https://www.baseelements.net/shop/guest-artists/chicadania/130-x-97-cm-collaboration-el-pez-chicadania/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "81 x 100 cm (Collaboration El Pez & Chanoir-2)",
+        "artista": "El Pez",
+        "precio": "€4,500",
+        "precio_num": 4.5,
+        "url": "https://www.baseelements.net/shop/el-pez/canvas-el-pez/81-x-100-cm-collaboration-el-pez-chanoir-2/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "20 x 34 x 7 cm (El Pez- red)",
+        "artista": "El Pez",
+        "precio": "€950",
+        "precio_num": 950.0,
+        "url": "https://www.baseelements.net/shop/el-pez/sculpture-el-pez/20-x-34-x-7-cm-el-pez-red/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "82 x 65 cm (El Pez-21)",
+        "artista": "El Pez",
+        "precio": "€2,600",
+        "precio_num": 2.6,
+        "url": "https://www.baseelements.net/shop/el-pez/canvas-el-pez/82-x-65-cm-el-pez-21/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "82 x 65 cm (El Pez-20)",
+        "artista": "El Pez",
+        "precio": "€2,600",
+        "precio_num": 2.6,
+        "url": "https://www.baseelements.net/shop/el-pez/canvas-el-pez/82-x-65-cm-el-pez-20/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "130 x 97 cm (El Pez-19)",
+        "artista": "El Pez",
+        "precio": "€6,500",
+        "precio_num": 6.5,
+        "url": "https://www.baseelements.net/shop/el-pez/canvas-el-pez/130-x-97-cm-el-pez-19/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "130 x 97 cm (El Pez-18)",
+        "artista": "El Pez",
+        "precio": "€6,500",
+        "precio_num": 6.5,
+        "url": "https://www.baseelements.net/shop/el-pez/canvas-el-pez/130-x-97-cm-el-pez-18/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "130 x 97 cm (El Pez-17)",
+        "artista": "El Pez",
+        "precio": "€6,500",
+        "precio_num": 6.5,
+        "url": "https://www.baseelements.net/shop/el-pez/canvas-el-pez/130-x-97-cm-el-pez-17/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "108 x 80 cm (Collaboration El Pez & Chanoir)",
+        "artista": "El Pez",
+        "precio": "€8,500",
+        "precio_num": 8.5,
+        "url": "https://www.baseelements.net/shop/el-pez/canvas-el-pez/108-x-80-cm-collaboration-el-pez-chanoir/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "130 x 130 Cm El Pez 16",
+        "artista": "El Pez",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/el-pez/canvas-el-pez/130-x-130-cm-el-pez-16/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "49 x 20 X 20 Cm Collaboration El Pez Pichiavo",
+        "artista": "El Pez",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/el-pez/49-x-20-x-20-cm-collaboration-el-pez-pichiavo/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "60 x 60 Cm El Pez 15",
+        "artista": "El Pez",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/el-pez/canvas-el-pez/60-x-60-cm-el-pez-15/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "99 x 78 Cm Collaboration El Pez Buff Monster",
+        "artista": "El Pez",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/el-pez/canvas-el-pez/99-x-78-cm-collaboration-el-pez-buff-monster/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "116 x 84 Cm Collaboration El Pez Fanakapan",
+        "artista": "El Pez",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/el-pez/canvas-el-pez/116-x-84-cm-collaboration-el-pez-fanakapan/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "159 x 125 Cm El Pez 13",
+        "artista": "El Pez",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/el-pez/canvas-el-pez/159-x-125-cm-el-pez-13/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "128 x 95 cm (Collaboration El Pez & Jaune)",
+        "artista": "El Pez",
+        "precio": "€8,500",
+        "precio_num": 8.5,
+        "url": "https://www.baseelements.net/shop/el-pez/canvas-el-pez/128-x-95-cm-collaboration-pez-jaune/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "50 x 92 Cm Collaboration Chicadania Pez 2",
+        "artista": "El Pez",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/guest-artists/chicadania/50-x-92-cm-collaboration-chicadania-pez-2/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "50 x 92 Cm Collaboration Chicadania Pez 1",
+        "artista": "El Pez",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/guest-artists/chicadania/50-x-92-cm-collaboration-chicadania-pez-1/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "87 x 184 Cm El Pez 12",
+        "artista": "El Pez",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/el-pez/canvas-el-pez/87-x-184-cm-el-pez-12/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "81 x 100 Cm El Pez 11",
+        "artista": "El Pez",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/el-pez/canvas-el-pez/81-x-100-cm-el-pez-11/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "65 x 82 Cm El Pez 10",
+        "artista": "El Pez",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/el-pez/canvas-el-pez/65-x-82-cm-el-pez-10/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "40 x 30 Cm Pez P18",
+        "artista": "El Pez",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/el-pez/papel-el-pez/40-x-30-cm-pez-p18/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "Sold 8",
+        "artista": "El Pez",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/el-pez/papel-el-pez/sold-8/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "43 x 585 Cm Pez P17",
+        "artista": "El Pez",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/el-pez/papel-el-pez/43-x-585-cm-pez-p17/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "50 x 705 Cm Pez P16",
+        "artista": "El Pez",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/el-pez/papel-el-pez/50-x-705-cm-pez-p16/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "60 x 120 Cm Pez 9",
+        "artista": "El Pez",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/el-pez/canvas-el-pez/60-x-120-cm-pez-9/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "Pez 26",
+        "artista": "El Pez",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/el-pez/canvas-el-pez/pez-26/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "70 x 50 Cm Pez P3",
+        "artista": "El Pez",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/el-pez/papel-el-pez/70-x-50-cm-pez-p3/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "70 x 50 Cm Pez P2",
+        "artista": "El Pez",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/el-pez/papel-el-pez/70-x-50-cm-pez-p2/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "Sold 9",
+        "artista": "El Pez",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/el-pez/canvas-el-pez/sold-9/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "Pez 023",
+        "artista": "El Pez",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/el-pez/canvas-el-pez/pez-023/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "Pez 022",
+        "artista": "El Pez",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/el-pez/canvas-el-pez/pez-022/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "55 x 37,5 cm (El Pez-P14)",
+        "artista": "El Pez",
+        "precio": "€425",
+        "precio_num": 425.0,
+        "url": "https://www.baseelements.net/shop/el-pez/papel-el-pez/55-x-375-cm-pez-p14/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "55 x 37,5 cm (El Pez-P13)",
+        "artista": "El Pez",
+        "precio": "€425",
+        "precio_num": 425.0,
+        "url": "https://www.baseelements.net/shop/el-pez/papel-el-pez/55-x-375-cm-pez-p13/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "50 x 70 Cm Pez P12",
+        "artista": "El Pez",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/el-pez/papel-el-pez/50-x-70-cm-pez-p12/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "50 x 70 Cm Pez P11",
+        "artista": "El Pez",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/el-pez/papel-el-pez/50-x-70-cm-pez-p11/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "50 x 70 Cm Pez P10",
+        "artista": "El Pez",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/el-pez/papel-el-pez/50-x-70-cm-pez-p10/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "56 x 76 Cm Pez P9",
+        "artista": "El Pez",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/el-pez/papel-el-pez/56-x-76-cm-pez-p9/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "Sold 7",
+        "artista": "El Pez",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/el-pez/papel-el-pez/sold-7/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "66 x 48,5 cm (El Pez-P8)",
+        "artista": "El Pez",
+        "precio": "€600",
+        "precio_num": 600.0,
+        "url": "https://www.baseelements.net/shop/el-pez/papel-el-pez/66-x-485-cm-pez-p8/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "66 x 48,5 cm (El Pez-P7)",
+        "artista": "El Pez",
+        "precio": "€600",
+        "precio_num": 600.0,
+        "url": "https://www.baseelements.net/shop/el-pez/papel-el-pez/66-x-485-cm-pez-p7/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "56 x 76 Cm Pez P6",
+        "artista": "El Pez",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/el-pez/papel-el-pez/56-x-76-cm-pez-p6/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "71 x 101 Cm Collaboration El Pez Zosen",
+        "artista": "El Pez",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/zosen/canvas-zosen/71-x-101-cm-collaboration-el-pez-zosen/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "120 x 80 cm (PEZ-3)",
+        "artista": "El Pez",
+        "precio": "€2,200",
+        "precio_num": 2.2,
+        "url": "https://www.baseelements.net/shop/el-pez/canvas-el-pez/120-x-80-x-3-5-cm-pez-3/",
+        "fecha": "29/05/2026 06:41"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "81 x 100 cm (PEZ-2)",
+        "artista": "El Pez",
+        "precio": "€2,200",
+        "precio_num": 2.2,
+        "url": "https://www.baseelements.net/shop/el-pez/canvas-el-pez/81-x-100-cm-pez-2/",
+        "fecha": "29/05/2026 06:41"
+      }
+    ]
+  },
+  {
+    "fecha": "29/05/2026 06:43",
+    "artista": "Uriginal",
+    "cambios_obras": [
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "Sold 2",
+        "artista": "Uriginal",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/uriginal/canvas-uriginal/sold-2/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "162 x 114 cm (Uriginal -03)",
+        "artista": "Uriginal",
+        "precio": "€10,000",
+        "precio_num": 10.0,
+        "url": "https://www.baseelements.net/shop/uriginal/canvas-uriginal/114-x-162-cm-uriginal-03/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "162 x 114 cm (Uriginal-02)",
+        "artista": "Uriginal",
+        "precio": "€10,000",
+        "precio_num": 10.0,
+        "url": "https://www.baseelements.net/shop/uriginal/canvas-uriginal/114-x-162-cm-uriginal-02/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "130 x 97 cm (Uriginal-01)",
+        "artista": "Uriginal",
+        "precio": "€6,900",
+        "precio_num": 6.9,
+        "url": "https://www.baseelements.net/shop/uriginal/canvas-uriginal/97-x-130-cm-uriginal-01-2/",
+        "fecha": "29/05/2026 06:42"
+      }
+    ]
+  },
+  {
+    "fecha": "29/05/2026 06:43",
+    "artista": "Btoy",
+    "cambios_obras": [
+      {
+        "tipo": "nueva",
+        "titulo": "69 x 56 cm (Btoy-P19)",
+        "artista": "Btoy",
+        "precio": "€220",
+        "precio_num": 220.0,
+        "url": "https://www.baseelements.net/shop/btoy/paper-btoy/69-x-56-cm-btoy-p19/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "70 x 50 Cm Btoy P18",
+        "artista": "Btoy",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/btoy/paper-btoy/70-x-50-cm-btoy-p18/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "70 x 50 Cm Btoy P16",
+        "artista": "Btoy",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/btoy/paper-btoy/70-x-50-cm-btoy-p16/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "100 x 70 Cm Btoy P15",
+        "artista": "Btoy",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/btoy/paper-btoy/100-x-70-cm-btoy-p15/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "100 x 70 Cm Btoy P14",
+        "artista": "Btoy",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/btoy/paper-btoy/100-x-70-cm-btoy-p14/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "40 x 50 Cm Btoy 4",
+        "artista": "Btoy",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/btoy/canvas-btoy/40-x-50-cm-btoy-4/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "40 x 50 cm (BTOY-P13)",
+        "artista": "Btoy",
+        "precio": "€375",
+        "precio_num": 375.0,
+        "url": "https://www.baseelements.net/shop/btoy/paper-btoy/40-x-50-cm-btoy-p13/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "40 x 50 cm (BTOY-P10)",
+        "artista": "Btoy",
+        "precio": "€375",
+        "precio_num": 375.0,
+        "url": "https://www.baseelements.net/shop/btoy/paper-btoy/40-x-50-cm-btoy-p10/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "50 x 65 cm (BTOY-P9)",
+        "artista": "Btoy",
+        "precio": "€550",
+        "precio_num": 550.0,
+        "url": "https://www.baseelements.net/shop/btoy/paper-btoy/50-x-65-cm-btoy-p9/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "71 x 100 cm (BTOY-P8)",
+        "artista": "Btoy",
+        "precio": "€1,000",
+        "precio_num": 1.0,
+        "url": "https://www.baseelements.net/shop/btoy/paper-btoy/71-x-100-cm-btoy-p8/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "76 x 56 cm (BTOY-P7)",
+        "artista": "Btoy",
+        "precio": "€1,200",
+        "precio_num": 1.2,
+        "url": "https://www.baseelements.net/shop/btoy/paper-btoy/76-x-56-cm-btoy-p7/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "76,5 x 57 cm (BTOY-P6)",
+        "artista": "Btoy",
+        "precio": "€1,200",
+        "precio_num": 1.2,
+        "url": "https://www.baseelements.net/shop/btoy/paper-btoy/765-x-57-cm-btoy-p6/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "95 x 130 cm (Btoy-3)",
+        "artista": "Btoy",
+        "precio": "€2,500",
+        "precio_num": 2.5,
+        "url": "https://www.baseelements.net/shop/btoy/canvas-btoy/95-x-130-cm-btoy-3/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "40 x 50 Cm Btoy P5",
+        "artista": "Btoy",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/btoy/paper-btoy/40-x-50-cm-btoy-p5/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "40 x 50 (BTOY-P4)",
+        "artista": "Btoy",
+        "precio": "€350",
+        "precio_num": 350.0,
+        "url": "https://www.baseelements.net/shop/btoy/paper-btoy/40-x-50-btoy-p4/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "40 x 50 cm (BTOY-P1)",
+        "artista": "Btoy",
+        "precio": "€350",
+        "precio_num": 350.0,
+        "url": "https://www.baseelements.net/shop/btoy/paper-btoy/40-x-50-cm-btoy-p1/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "100 x 100 cm (Btoy-2)",
+        "artista": "Btoy",
+        "precio": "€2,200",
+        "precio_num": 2.2,
+        "url": "https://www.baseelements.net/shop/btoy/canvas-btoy/100-x-100-cm-btoy-2/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "146 x 114 Cm Btoy 1",
+        "artista": "Btoy",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/btoy/canvas-btoy/146-x-114-cm-btoy-1/",
+        "fecha": "29/05/2026 06:42"
+      }
+    ]
+  },
+  {
+    "fecha": "29/05/2026 06:43",
+    "artista": "Kram",
+    "cambios_obras": [
+      {
+        "tipo": "nueva",
+        "titulo": "130 x 97 cm (Kram -04)",
+        "artista": "Kram",
+        "precio": "€4,700",
+        "precio_num": 4.7,
+        "url": "https://www.baseelements.net/shop/kram/canvas-kram/97-x-130-cm-kram-04/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "100 x 100 cm (Kram -03)",
+        "artista": "Kram",
+        "precio": "€4,000",
+        "precio_num": 4.0,
+        "url": "https://www.baseelements.net/shop/kram/canvas-kram/100-x-100-cm-kram-03/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "107 x 70 cm (Kram -02)",
+        "artista": "Kram",
+        "precio": "€3,000",
+        "precio_num": 3.0,
+        "url": "https://www.baseelements.net/shop/kram/canvas-kram/70-x-107-cm-kram-02/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "110 x 97 cm (Kram -01)",
+        "artista": "Kram",
+        "precio": "€4,000",
+        "precio_num": 4.0,
+        "url": "https://www.baseelements.net/shop/kram/canvas-kram/97-x-110-cm-kram-01/",
+        "fecha": "29/05/2026 06:42"
+      }
+    ]
+  },
+  {
+    "fecha": "29/05/2026 06:43",
+    "artista": "Ivana Flores",
+    "cambios_obras": [
+      {
+        "tipo": "nueva",
+        "titulo": "30 x 21 cm (Ivana Flores P-8)",
+        "artista": "Ivana Flores",
+        "precio": "€490",
+        "precio_num": 490.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/paper-ivana-flores/30-x-21-cm-ivana-flores-p-8/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "30 x 21 cm (Ivana Flores P-7)",
+        "artista": "Ivana Flores",
+        "precio": "€490",
+        "precio_num": 490.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/paper-ivana-flores/30-x-21-cm-ivana-flores-p-7/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "30 x 21 cm (Ivana Flores P-6)",
+        "artista": "Ivana Flores",
+        "precio": "€490",
+        "precio_num": 490.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/paper-ivana-flores/30-x-21-cm-ivana-flores-p-6/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "60 x 60 Cm Ivana Flores 27",
+        "artista": "Ivana Flores",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/60-x-60-cm-ivana-flores-27/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "78 x 65 cm (Ivana Flores LE-18)",
+        "artista": "Ivana Flores",
+        "precio": "€420",
+        "precio_num": 420.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/78-x-65-cm-ivana-flores-le-17/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "54,3 x 78 cm (Ivana Flores LE-17)",
+        "artista": "Ivana Flores",
+        "precio": "€350",
+        "precio_num": 350.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/543-x-78-cm-ivana-flores-le-18/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "108 x 70,5 (Ivana Flores LE-16)",
+        "artista": "Ivana Flores",
+        "precio": "€500",
+        "precio_num": 500.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/108-x-705-ivana-flores-le-16/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "46 x 46 cm (Ivana Flores LE-15)",
+        "artista": "Ivana Flores",
+        "precio": "€225",
+        "precio_num": 225.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/46-x-46-cm-ivana-flores-le-15/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "50,4 x 68 cm (Ivana Flores LE-13)",
+        "artista": "Ivana Flores",
+        "precio": "€350",
+        "precio_num": 350.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/504-x-68-cm-ivana-flores-le-13/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "108 x 62,6 cm (Ivana Flores LE-11)",
+        "artista": "Ivana Flores",
+        "precio": "€500",
+        "precio_num": 500.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/108-x-626-cm-ivana-flores-le-11/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "108 x 62,6 cm (Ivana Flores LE-10)",
+        "artista": "Ivana Flores",
+        "precio": "€500",
+        "precio_num": 500.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/108-x-626-cm-ivana-flores-le-10/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "95 x 95 Cm Ivana Flores 26",
+        "artista": "Ivana Flores",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/95-x-95-cm-ivana-flores-26/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "Sold 11",
+        "artista": "Ivana Flores",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/sold-11/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "59 x 40 Cm Ivana Flores 24",
+        "artista": "Ivana Flores",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/59-x-40-cm-ivana-flores-24/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "Sold",
+        "artista": "Ivana Flores",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/sold/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "20 x 81 Cm Ivana Flores 22",
+        "artista": "Ivana Flores",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/20-x-81-cm-ivana-flores-22/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "81 x 100 Cm Ivana Flores 21",
+        "artista": "Ivana Flores",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/81-x-100-cm-ivana-flores-21/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "72 x 102 Cm Ivana Flores 20",
+        "artista": "Ivana Flores",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/72-x-102-cm-ivana-flores-20/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "44 x 62 Cm Ivana Flores 18",
+        "artista": "Ivana Flores",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/44-x-62-cm-ivana-flores-18/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "30 x 30 Cm Ivana Flores 17",
+        "artista": "Ivana Flores",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/30-x-30-cm-ivana-flores-17/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "111 x 178 Cm Ivana Flores 19",
+        "artista": "Ivana Flores",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/111-x-178-cm-ivana-flores-19/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "27 x 32 Cm Ivana Flores 16",
+        "artista": "Ivana Flores",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/27-x-32-cm-ivana-flores-16/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "27 x 32 Cm Ivana Flores 15",
+        "artista": "Ivana Flores",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/27-x-32-cm-ivana-flores-15/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "20 x 25 cm (Ivana Flores P-5)",
+        "artista": "Ivana Flores",
+        "precio": "€390",
+        "precio_num": 390.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/paper-ivana-flores/20-x-25-cm-ivana-flores-p-5/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "30 x 42 cm (Ivana Flores P-4)",
+        "artista": "Ivana Flores",
+        "precio": "€510",
+        "precio_num": 510.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/paper-ivana-flores/30-x-42-cm-ivana-flores-p-4/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "43 x 43 Cm Ivana Flores 14",
+        "artista": "Ivana Flores",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/43-x-43-cm-ivana-flores-14/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "27 x 41 Cm Ivana Flores 13",
+        "artista": "Ivana Flores",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/27-x-41-cm-ivana-flores-13/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "200 x 200 cm (Ivana Flores-12)",
+        "artista": "Ivana Flores",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/200-x-200-cm-ivana-flores-12/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "200 x 200 cm (Ivana Flores-11)",
+        "artista": "Ivana Flores",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/200-x-200-cm-ivana-flores-11/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "20 x 81 cm (Ivana Flores-10)",
+        "artista": "Ivana Flores",
+        "precio": "€950",
+        "precio_num": 950.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/20-x-81-cm-ivana-flores-10/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "If 024",
+        "artista": "Ivana Flores",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/if-024/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "20 x 26 cm (Ivana Flores-8)",
+        "artista": "Ivana Flores",
+        "precio": "€350",
+        "precio_num": 350.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/20-x-26-cm-ivana-flores-8/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "20 x 26 Cm Ivana Flores 7",
+        "artista": "Ivana Flores",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/20-x-26-cm-ivana-flores-7/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "25 × 25 cm (Ivana Flores P-3)",
+        "artista": "Ivana Flores",
+        "precio": "€290",
+        "precio_num": 290.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/paper-ivana-flores/25-x-25-cm-ivana-flores-p-3/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "34 x 34 cm (Ivana Flores LE-7)",
+        "artista": "Ivana Flores",
+        "precio": "€90",
+        "precio_num": 90.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/34-x-34-cm-ivana-flores-le-7/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "34 × 34 cm (Ivana Flores LE-6)",
+        "artista": "Ivana Flores",
+        "precio": "€90",
+        "precio_num": 90.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/34-x-34-cm-ivana-flores-le-6/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "42 x 42 cm (Ivana Flores LE-5)",
+        "artista": "Ivana Flores",
+        "precio": "€150",
+        "precio_num": 150.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/42-x-42-cm-ivana-flores-le-5/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "30 × 30 cm (Ivana Flores LE-4)",
+        "artista": "Ivana Flores",
+        "precio": "€90",
+        "precio_num": 90.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/if-p29/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "34 × 34 cm (Ivana Flores LE-3)",
+        "artista": "Ivana Flores",
+        "precio": "€90",
+        "precio_num": 90.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/23-x-23-cm-ivana-flores-le-3/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "54 x 44 Cm Ivana Flores P 2",
+        "artista": "Ivana Flores",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/paper-ivana-flores/54-x-44-cm-ivana-flores-p-2/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "44 x 54 Cm Ivana Flores P 1",
+        "artista": "Ivana Flores",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/paper-ivana-flores/44-x-54-cm-ivana-flores-p-1/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "60 x 60 Cm Ivana Flores 6",
+        "artista": "Ivana Flores",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/60-x-60-cm-ivana-flores-6/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "200 x 200 cm (Ivana Flores-5)",
+        "artista": "Ivana Flores",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/if-015/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "If 013",
+        "artista": "Ivana Flores",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/if-013/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "If 011",
+        "artista": "Ivana Flores",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/if-011/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "90 x 90 Cm Ivana Flores 2",
+        "artista": "Ivana Flores",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/90-x-90-cm-ivana-flores-2/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "34 x 34 cm (Ivana Flores LE-2)",
+        "artista": "Ivana Flores",
+        "precio": "€90",
+        "precio_num": 90.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/34-x-34-cm-ivana-flores-le-2/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "34 x 34 cm (Ivana Flores LE-1)",
+        "artista": "Ivana Flores",
+        "precio": "€90",
+        "precio_num": 90.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/34-x-34-cm-ivana-flores-le-1/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "Ivana Flores 9",
+        "artista": "Ivana Flores",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/ivana-flores-9/",
+        "fecha": "29/05/2026 06:42"
+      }
+    ]
+  },
+  {
+    "fecha": "29/05/2026 06:43",
+    "artista": "J Loca",
+    "cambios_obras": [
+      {
+        "tipo": "nueva",
+        "titulo": "70 x 50 cm (J.Loca-P25)",
+        "artista": "J Loca",
+        "precio": "€525",
+        "precio_num": 525.0,
+        "url": "https://www.baseelements.net/shop/j-loca/paper-j-loca/70-x-50-cm-j-loca-p25/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "70 x 50 cm (J.Loca-P24)",
+        "artista": "J Loca",
+        "precio": "€525",
+        "precio_num": 525.0,
+        "url": "https://www.baseelements.net/shop/j-loca/paper-j-loca/30-x-42-cm-j-loca-p24/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "42 x 30 Cm J Loca P21",
+        "artista": "J Loca",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/j-loca/paper-j-loca/42-x-30-cm-j-loca-p21/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "42 x 30 Cm J Loca P20",
+        "artista": "J Loca",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/j-loca/paper-j-loca/42-x-30-cm-j-loca-p20/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "70 x 50 cm (J.Loca-P19)",
+        "artista": "J Loca",
+        "precio": "€525",
+        "precio_num": 525.0,
+        "url": "https://www.baseelements.net/shop/j-loca/paper-j-loca/70-x-50-cm-j-loca-p19/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "70 x 50 cm (J.Loca-P18)",
+        "artista": "J Loca",
+        "precio": "€525",
+        "precio_num": 525.0,
+        "url": "https://www.baseelements.net/shop/j-loca/paper-j-loca/70-x-50-cm-j-loca-p18/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "40 x 30 cm (J.Loca-15)",
+        "artista": "J Loca",
+        "precio": "€300",
+        "precio_num": 300.0,
+        "url": "https://www.baseelements.net/shop/j-loca/canvas-j-loca/40-x-30-cm-j-loca-15/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "40 x 30 cm (J.Loca-14)",
+        "artista": "J Loca",
+        "precio": "€300",
+        "precio_num": 300.0,
+        "url": "https://www.baseelements.net/shop/j-loca/canvas-j-loca/40-x-30-cm-j-loca-14/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "80 x 20 cm (J.Loca SK8-4)",
+        "artista": "J Loca",
+        "precio": "€690",
+        "precio_num": 690.0,
+        "url": "https://www.baseelements.net/shop/j-loca/canvas-j-loca/80-x-20-cm-j-loca-sk8-4/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "80 x 22 cm (J.Loca SK8-3)",
+        "artista": "J Loca",
+        "precio": "€690",
+        "precio_num": 690.0,
+        "url": "https://www.baseelements.net/shop/j-loca/canvas-j-loca/80-x-22-cm-j-loca-sk8-3/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "82 x 22 cm (J.Loca SK8-2)",
+        "artista": "J Loca",
+        "precio": "€690",
+        "precio_num": 690.0,
+        "url": "https://www.baseelements.net/shop/j-loca/canvas-j-loca/82-x-22-cm-j-loca-sk8-2/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "42 x 30 cm (J.Loca-P17)",
+        "artista": "J Loca",
+        "precio": "€300",
+        "precio_num": 300.0,
+        "url": "https://www.baseelements.net/shop/j-loca/paper-j-loca/42-x-30-cm-j-loca-p17/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "58 x 42 Cm J Loca P16",
+        "artista": "J Loca",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/j-loca/paper-j-loca/58-x-42-cm-j-loca-p16/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "42 x 30 cm (J.Loca-P15)",
+        "artista": "J Loca",
+        "precio": "€300",
+        "precio_num": 300.0,
+        "url": "https://www.baseelements.net/shop/j-loca/paper-j-loca/42-x-30-cm-j-loca-p15/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "58 x 42 Cm J Loca P14",
+        "artista": "J Loca",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/j-loca/paper-j-loca/58-x-42-cm-j-loca-p14/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "58 x 42 Cm J Loca P13",
+        "artista": "J Loca",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/j-loca/paper-j-loca/58-x-42-cm-j-loca-p13/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "58 x 42 Cm J Loca P12",
+        "artista": "J Loca",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/j-loca/paper-j-loca/58-x-42-cm-j-loca-p12/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "42 x 30 cm (J.Loca-P11)",
+        "artista": "J Loca",
+        "precio": "€300",
+        "precio_num": 300.0,
+        "url": "https://www.baseelements.net/shop/j-loca/paper-j-loca/42-x-30-cm-j-loca-p11/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "42 x 30 cm (J.Loca-P10)",
+        "artista": "J Loca",
+        "precio": "€300",
+        "precio_num": 300.0,
+        "url": "https://www.baseelements.net/shop/j-loca/paper-j-loca/42-x-30-cm-j-loca-p10/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "58 x 42 Cm J Loca P9",
+        "artista": "J Loca",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/j-loca/paper-j-loca/58-x-42-cm-j-loca-p9/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "42 x 30 cm (J.Loca-P8)",
+        "artista": "J Loca",
+        "precio": "€300",
+        "precio_num": 300.0,
+        "url": "https://www.baseelements.net/shop/j-loca/paper-j-loca/58-x-42-cm-j-loca-p8/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "J Loca 13",
+        "artista": "J Loca",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/j-loca/canvas-j-loca/j-loca-13/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "140 x 140 cm (J.Loca-12)",
+        "artista": "J Loca",
+        "precio": "€3,800",
+        "precio_num": 3.8,
+        "url": "https://www.baseelements.net/shop/j-loca/canvas-j-loca/j-loca-12/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "140 x 140 Cm J Loca 11",
+        "artista": "J Loca",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/j-loca/canvas-j-loca/140-x-140-cm-j-loca-11/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "97 x 130 Cm J Loca 10",
+        "artista": "J Loca",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/j-loca/canvas-j-loca/97-x-130-cm-j-loca-10/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "97 x 130 Cm J Loca 9",
+        "artista": "J Loca",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/j-loca/canvas-j-loca/97-x-130-cm-j-loca-9/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "97 x 130 Cm J Loca 8",
+        "artista": "J Loca",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/j-loca/canvas-j-loca/97-x-130-cm-j-loca-8/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "30 x 40 Cm J Loca 7",
+        "artista": "J Loca",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/j-loca/canvas-j-loca/30-x-40-cm-j-loca-7/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "60 x 130 cm (J.Loca-6)",
+        "artista": "J Loca",
+        "precio": "€950",
+        "precio_num": 950.0,
+        "url": "https://www.baseelements.net/shop/j-loca/canvas-j-loca/60-x-130-cm-j-loca-6/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "40 x 29,5 cm (J.Loca-P7)",
+        "artista": "J Loca",
+        "precio": "€300",
+        "precio_num": 300.0,
+        "url": "https://www.baseelements.net/shop/j-loca/paper-j-loca/40-x-295-cm-j-loca-p7/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "40 x 29,5 cm (J.Loca-P6)",
+        "artista": "J Loca",
+        "precio": "€300",
+        "precio_num": 300.0,
+        "url": "https://www.baseelements.net/shop/j-loca/paper-j-loca/40-x-295-cm-j-loca-p6/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "90 x 90 cm (J.Loca-5)",
+        "artista": "J Loca",
+        "precio": "€1,250",
+        "precio_num": 1.25,
+        "url": "https://www.baseelements.net/shop/j-loca/canvas-j-loca/90-x-90-cm-j-loca-5/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "Jl 021",
+        "artista": "J Loca",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/j-loca/canvas-j-loca/jl-021/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "50 x 70 cm (J.Loca-P5)",
+        "artista": "J Loca",
+        "precio": "€390",
+        "precio_num": 390.0,
+        "url": "https://www.baseelements.net/shop/j-loca/paper-j-loca/50-x-70-cm-j-loca-p5/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "59 x 42 cm (J.Loca-P4)",
+        "artista": "J Loca",
+        "precio": "€290",
+        "precio_num": 290.0,
+        "url": "https://www.baseelements.net/shop/j-loca/paper-j-loca/59-x-42-cm-j-loca-p4/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "59 x 42 cm (J.Loca-P3)",
+        "artista": "J Loca",
+        "precio": "€290",
+        "precio_num": 290.0,
+        "url": "https://www.baseelements.net/shop/j-loca/paper-j-loca/59-x-42-cm-j-loca-p3/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "50 x 70 Cm J Loca P2",
+        "artista": "J Loca",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/j-loca/paper-j-loca/50-x-70-cm-j-loca-p2/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "15 x 60 Cm J Loca 2",
+        "artista": "J Loca",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/j-loca/canvas-j-loca/15-x-60-cm-j-loca-2/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "15 x 60 cm (J.Loca-1)",
+        "artista": "J Loca",
+        "precio": "€325",
+        "precio_num": 325.0,
+        "url": "https://www.baseelements.net/shop/j-loca/canvas-j-loca/jloca-11/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "50 x 70 cm (J.Loca-P1)",
+        "artista": "J Loca",
+        "precio": "€390",
+        "precio_num": 390.0,
+        "url": "https://www.baseelements.net/shop/j-loca/paper-j-loca/50-x-70-cm-j-loca-p1/",
+        "fecha": "29/05/2026 06:42"
+      }
+    ]
+  },
+  {
+    "fecha": "29/05/2026 06:43",
+    "artista": "Soem",
+    "cambios_obras": [
+      {
+        "tipo": "nueva",
+        "titulo": "60 x 42 cm (SOEM-P18)",
+        "artista": "Soem",
+        "precio": "€200",
+        "precio_num": 200.0,
+        "url": "https://www.baseelements.net/shop/soem/paper-soem/60-x-42-cm-soem-p18/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "60 x 42 cm (Colaboration SOEM & Jaen )",
+        "artista": "Soem",
+        "precio": "€400",
+        "precio_num": 400.0,
+        "url": "https://www.baseelements.net/shop/soem/paper-soem/60-x-42-cm-colaboration-soem-jaen/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "42 x 42 cm (SOEM-P15)",
+        "artista": "Soem",
+        "precio": "€200",
+        "precio_num": 200.0,
+        "url": "https://www.baseelements.net/shop/soem/paper-soem/42-x-60-cm-soem-p15/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "42 x 60 cm (SOEM-P14)",
+        "artista": "Soem",
+        "precio": "€200",
+        "precio_num": 200.0,
+        "url": "https://www.baseelements.net/shop/soem/paper-soem/42-x-60-cm-soem-p14/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "70 x 51 cm (SOEM-P9)",
+        "artista": "Soem",
+        "precio": "€400",
+        "precio_num": 400.0,
+        "url": "https://www.baseelements.net/shop/soem/paper-soem/70-x-51-cm-soem-p9/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "51 x 70 cm (SOEM-P8)",
+        "artista": "Soem",
+        "precio": "€400",
+        "precio_num": 400.0,
+        "url": "https://www.baseelements.net/shop/soem/paper-soem/51-x-70-cm-soem-p8/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "38 x 46 cm (SOEM-19)",
+        "artista": "Soem",
+        "precio": "€190",
+        "precio_num": 190.0,
+        "url": "https://www.baseelements.net/shop/soem/canvas-soem/38-x-46-cm-soem-19/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "94 x 94 cm (Soem-18)",
+        "artista": "Soem",
+        "precio": "€2,400",
+        "precio_num": 2.4,
+        "url": "https://www.baseelements.net/shop/soem/canvas-soem/94-x-94-cm-soem-18/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "Collaboration Soem Tarrago 3",
+        "artista": "Soem",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/collaboration-soem-tarrago-3/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "Collaboration Soem Tarrago 2",
+        "artista": "Soem",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/collaboration-soem-tarrago-2/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "Collaboration Soem Tarrago 1",
+        "artista": "Soem",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/collaboration-soem-tarrago-1/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "115 x 90 Cm Soem 14",
+        "artista": "Soem",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/soem/canvas-soem/115-x-90-cm-soem-14/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "97 x 97 Cm Soem 12",
+        "artista": "Soem",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/soem/canvas-soem/97-x-97-cm-soem-12/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "80 x 21 cm (Soem SK8-3)",
+        "artista": "Soem",
+        "precio": "€425",
+        "precio_num": 425.0,
+        "url": "https://www.baseelements.net/shop/soem/80-x-21-cm-soem-sk8-3/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "79 x 58 Cm Soem Sk8 1",
+        "artista": "Soem",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/soem/canvas-soem/79-x-58-cm-soem-sk8-1/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "45 x 45 Cm Soem 11",
+        "artista": "Soem",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/soem/canvas-soem/45-x-45-cm-soem-11/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "50 x 50 Cm Soem 10",
+        "artista": "Soem",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/soem/canvas-soem/50-x-50-cm-soem-10/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "70 x 100 cm (Soem-9)",
+        "artista": "Soem",
+        "precio": "€1,400",
+        "precio_num": 1.4,
+        "url": "https://www.baseelements.net/shop/soem/canvas-soem/70-x-100-cm-soem-9/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "70 x 100 cm (Soem-8)",
+        "artista": "Soem",
+        "precio": "€1,800",
+        "precio_num": 1.8,
+        "url": "https://www.baseelements.net/shop/soem/canvas-soem/70-x-100-cm-soem-8/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "150 x 150 Cm Soem 7",
+        "artista": "Soem",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/soem/canvas-soem/150-x-150-cm-soem-7/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "130 x 195 Cm Soem 6",
+        "artista": "Soem",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/soem/canvas-soem/130-x-195-cm-soem-6/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "130 x 100 cm (Soem-5)",
+        "artista": "Soem",
+        "precio": "€2,500",
+        "precio_num": 2.5,
+        "url": "https://www.baseelements.net/shop/soem/canvas-soem/130-x-100-cm-soem-5/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "Soem 3",
+        "artista": "Soem",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/soem/canvas-soem/soem-3/",
+        "fecha": "29/05/2026 06:42"
+      }
+    ]
+  },
+  {
+    "fecha": "29/05/2026 06:43",
+    "artista": "Julián Lorenzo",
+    "cambios_obras": [
+      {
+        "tipo": "nueva",
+        "titulo": "70 x 50 cm (Julián Lorenzo-P4)",
+        "artista": "Julián Lorenzo",
+        "precio": "€590",
+        "precio_num": 590.0,
+        "url": "https://www.baseelements.net/shop/julian-lorenzo/paper-julian-lorenzo/70-x-50-cm-julian-lorenzo-p4/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "150 x 150 Cm Julian Lorenzo 11",
+        "artista": "Julián Lorenzo",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/julian-lorenzo/canvas-julian-lorenzo/150-x-150-cm-julian-lorenzo-11/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "100 x 81 Cm Julian Lorenzo 10",
+        "artista": "Julián Lorenzo",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/julian-lorenzo/canvas-julian-lorenzo/100-x-81-cm-julian-lorenzo-10/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "100 x 100 Cm Julian Lorenzo 9",
+        "artista": "Julián Lorenzo",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/julian-lorenzo/canvas-julian-lorenzo/100-x-100-cm-julian-lorenzo-9/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "70 x 50 Cm Julian Lorenzo 3",
+        "artista": "Julián Lorenzo",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/julian-lorenzo/paper-julian-lorenzo/70-x-50-cm-julian-lorenzo-3/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "100 x 81 Cm Julian Lorenzo 8",
+        "artista": "Julián Lorenzo",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/julian-lorenzo/canvas-julian-lorenzo/100-x-81-cm-julian-lorenzo-8/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "60 x 45 cm (Julian Lorenzo LE-3)",
+        "artista": "Julián Lorenzo",
+        "precio": "€110",
+        "precio_num": 110.0,
+        "url": "https://www.baseelements.net/shop/julian-lorenzo/limited-editions/60-x-45-cm-julian-lorenzo-le-2/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "60 x 45 cm (Julian Lorenzo LE-2)",
+        "artista": "Julián Lorenzo",
+        "precio": "€110",
+        "precio_num": 110.0,
+        "url": "https://www.baseelements.net/shop/julian-lorenzo/limited-editions/60-x-45-cm-julian-lorenzo-le-03/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "45 X 45 cm (Julian Lorenzo LE-1)",
+        "artista": "Julián Lorenzo",
+        "precio": "€110",
+        "precio_num": 110.0,
+        "url": "https://www.baseelements.net/shop/julian-lorenzo/limited-editions/45-x-45-cm-julian-lorenzo-le-1/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "Julian Lorenzo 7",
+        "artista": "Julián Lorenzo",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/julian-lorenzo/canvas-julian-lorenzo/julian-lorenzo-7/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "130 x 97 Cm Julian Lorenzo 6",
+        "artista": "Julián Lorenzo",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/julian-lorenzo/canvas-julian-lorenzo/130-x-97-cm-julian-lorenzo-6/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "110 x 110 Cm Julian Lorenzo 5",
+        "artista": "Julián Lorenzo",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/julian-lorenzo/canvas-julian-lorenzo/110-x-110-cm-julian-lorenzo-5/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "130 x 97 Cm Julian Lorenzo 4",
+        "artista": "Julián Lorenzo",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/julian-lorenzo/canvas-julian-lorenzo/130-x-97-cm-julian-lorenzo-4/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "200 x 200 Cm Julian Lorenzo 3",
+        "artista": "Julián Lorenzo",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/julian-lorenzo/canvas-julian-lorenzo/200-x-200-cm-julian-lorenzo-3/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "90 x 110 Cm Julian Lorenzo 2",
+        "artista": "Julián Lorenzo",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/julian-lorenzo/canvas-julian-lorenzo/90-x-110-cm-julian-lorenzo-2/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "50 x 70 Cm Julian Lorenzo P 2",
+        "artista": "Julián Lorenzo",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/julian-lorenzo/paper-julian-lorenzo/50-x-70-cm-julian-lorenzo-p-2/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "50 x 70 Cm Julian Lorenzo P 1",
+        "artista": "Julián Lorenzo",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/julian-lorenzo/paper-julian-lorenzo/50-x-70-cm-julian-lorenzo-p-1/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "89 x 116 Cm Julian Lorenzo 1",
+        "artista": "Julián Lorenzo",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/julian-lorenzo/canvas-julian-lorenzo/89-x-116-cm-julian-lorenzo-1/",
+        "fecha": "29/05/2026 06:42"
+      }
+    ]
+  },
+  {
+    "fecha": "29/05/2026 06:43",
+    "artista": "Joan Tarragó",
+    "cambios_obras": [
+      {
+        "tipo": "nueva",
+        "titulo": "50 x 70 cm (Joan Tarragó P-13)",
+        "artista": "Joan Tarragó",
+        "precio": "€350",
+        "precio_num": 350.0,
+        "url": "https://www.baseelements.net/shop/joan-tarrago/paper/50-x-70-cm-joan-tarrago-p-13/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "50 x 70 Cm Joan Tarrago P 12",
+        "artista": "Joan Tarragó",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/joan-tarrago/paper/50-x-70-cm-joan-tarrago-p-12/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "50 x 70 Cm Joan Tarrago P 11",
+        "artista": "Joan Tarragó",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/joan-tarrago/paper/50-x-70-cm-joan-tarrago-p-11/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "70 x 50 cm (Joan Tarragó P-10)",
+        "artista": "Joan Tarragó",
+        "precio": "€350",
+        "precio_num": 350.0,
+        "url": "https://www.baseelements.net/shop/joan-tarrago/paper/70-x-50-cm-joan-tarrago-p-10/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "50 x 70 cm (Joan Tarragó P-9)",
+        "artista": "Joan Tarragó",
+        "precio": "€350",
+        "precio_num": 350.0,
+        "url": "https://www.baseelements.net/shop/joan-tarrago/paper/50-x-70-cm-joan-tarrago-p-9/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "180 x 180 cm (Tarragó-12)",
+        "artista": "Joan Tarragó",
+        "precio": "€4,500",
+        "precio_num": 4.5,
+        "url": "https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/180-x-180-cm-tarrago-12/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "70 X 70 cm (Tarragó-11)",
+        "artista": "Joan Tarragó",
+        "precio": "€1,400",
+        "precio_num": 1.4,
+        "url": "https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/70-x-70-cm-tarrago-11/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "70 X 70 cm (Tarragó-10)",
+        "artista": "Joan Tarragó",
+        "precio": "€1,400",
+        "precio_num": 1.4,
+        "url": "https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/70-x-70-cm-tarrago-10-2/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "83 X 22 cm (Tarragó SK8-1)",
+        "artista": "Joan Tarragó",
+        "precio": "€290",
+        "precio_num": 290.0,
+        "url": "https://www.baseelements.net/shop/joan-tarrago/limited-editions-joan-tarrago/83-x-22-cm-tarrago-sk8-1/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "70 X 70 cm (Tarragó-12)",
+        "artista": "Joan Tarragó",
+        "precio": "€1,400",
+        "precio_num": 1.4,
+        "url": "https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/70-x-70-cm-tarrago-10/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "70 x 50 cm (Joan Tarragó P-8)",
+        "artista": "Joan Tarragó",
+        "precio": "€390",
+        "precio_num": 390.0,
+        "url": "https://www.baseelements.net/shop/joan-tarrago/paper/70-x-50-cm-joan-tarrago-p-8/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "70 x 50 cm (Joan Tarragó P-7)",
+        "artista": "Joan Tarragó",
+        "precio": "€390",
+        "precio_num": 390.0,
+        "url": "https://www.baseelements.net/shop/joan-tarrago/paper/70-x-50-cm-joan-tarrago-p-7/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "70 x 50 cm (Joan Tarragó P-6)",
+        "artista": "Joan Tarragó",
+        "precio": "€390",
+        "precio_num": 390.0,
+        "url": "https://www.baseelements.net/shop/joan-tarrago/paper/70-x-50-cm-joan-tarrago-p-6/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "70 x 50 cm (Joan Tarragó P-5)",
+        "artista": "Joan Tarragó",
+        "precio": "€390",
+        "precio_num": 390.0,
+        "url": "https://www.baseelements.net/shop/joan-tarrago/paper/70-x-50-cm-joan-tarrago-p-5/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "70 x 50 cm (Joan Tarragó P-4)",
+        "artista": "Joan Tarragó",
+        "precio": "€390",
+        "precio_num": 390.0,
+        "url": "https://www.baseelements.net/shop/joan-tarrago/paper/50-x-70-cm-joan-tarrago-p-4/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "100 x 70 cm (Joan Tarragó P-3)",
+        "artista": "Joan Tarragó",
+        "precio": "€400",
+        "precio_num": 400.0,
+        "url": "https://www.baseelements.net/shop/joan-tarrago/paper/100-x-70-cm-joan-tarrago-le-9/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "55 x 40 cm (Joan Tarragó LE-7)",
+        "artista": "Joan Tarragó",
+        "precio": "€190",
+        "precio_num": 190.0,
+        "url": "https://www.baseelements.net/shop/joan-tarrago/limited-editions-joan-tarrago/55-x-40-cm-joan-tarrago-p-3/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "65 x 50 cm (Joan Tarragó P-2)",
+        "artista": "Joan Tarragó",
+        "precio": "€390",
+        "precio_num": 390.0,
+        "url": "https://www.baseelements.net/shop/joan-tarrago/paper/65-x-50-cm-joan-tarrago-p-2/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "65 x 50 cm (Joan Tarragó P-1)",
+        "artista": "Joan Tarragó",
+        "precio": "€390",
+        "precio_num": 390.0,
+        "url": "https://www.baseelements.net/shop/joan-tarrago/paper/65-x-50-cm-joan-tarrago-p-1/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "Collaboration Soem Tarrago 3",
+        "artista": "Joan Tarragó",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/collaboration-soem-tarrago-3/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "Collaboration Soem Tarrago 2",
+        "artista": "Joan Tarragó",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/collaboration-soem-tarrago-2/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "Collaboration Soem Tarrago 1",
+        "artista": "Joan Tarragó",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/collaboration-soem-tarrago-1/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "Sold 10",
+        "artista": "Joan Tarragó",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/sold-10/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "150 X 150 cm (Tarragó-9)",
+        "artista": "Joan Tarragó",
+        "precio": "€3,800",
+        "precio_num": 3.8,
+        "url": "https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/150-x-150-cm-tarrago-9/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "70 x 50 cm (Joan Tarragó LE-4)",
+        "artista": "Joan Tarragó",
+        "precio": "€190",
+        "precio_num": 190.0,
+        "url": "https://www.baseelements.net/shop/joan-tarrago/limited-editions-joan-tarrago/70-x-50-cm-joan-tarrago-le-3-2/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "60,5 x 40 cm (Joan Tarragó LE-2)",
+        "artista": "Joan Tarragó",
+        "precio": "€190",
+        "precio_num": 190.0,
+        "url": "https://www.baseelements.net/shop/joan-tarrago/limited-editions-joan-tarrago/605-x-40-cm-joan-tarrago-le-2/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "100 x 100 cm (Tarragó-8)",
+        "artista": "Joan Tarragó",
+        "precio": "€2,500",
+        "precio_num": 2.5,
+        "url": "https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/100-x-100-cm-tarrago-8/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "100 x 100 Cm Tarrago 3",
+        "artista": "Joan Tarragó",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/100-x-100-cm-tarrago-3/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "97 cm  (Tarragó-2)",
+        "artista": "Joan Tarragó",
+        "precio": "€2,500",
+        "precio_num": 2.5,
+        "url": "https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/97-cm-diameter-tarrago-2/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "90 X90 Cm Tarrago 1",
+        "artista": "Joan Tarragó",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/90-x90-cm-tarrago-1/",
+        "fecha": "29/05/2026 06:42"
+      }
+    ]
+  },
+  {
+    "fecha": "29/05/2026 06:43",
+    "artista": "Zosen",
+    "cambios_obras": [
+      {
+        "tipo": "nueva",
+        "titulo": "70 x 50 cm (Zosen P-4)",
+        "artista": "Zosen",
+        "precio": "€525",
+        "precio_num": 525.0,
+        "url": "https://www.baseelements.net/shop/zosen/zosen-paper/70-x-50-cm-zosen-p-4/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "70 x 50 cm (Zosen P-3)",
+        "artista": "Zosen",
+        "precio": "€525",
+        "precio_num": 525.0,
+        "url": "https://www.baseelements.net/shop/zosen/zosen-paper/70-x-50-cm-zosen-p-3/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "70 x 50 cm (Zosen P-2)",
+        "artista": "Zosen",
+        "precio": "€525",
+        "precio_num": 525.0,
+        "url": "https://www.baseelements.net/shop/zosen/zosen-paper/70-x-50-cm-zosen-p-2-2/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "50 x 70 cm (Zosen P-1)",
+        "artista": "Zosen",
+        "precio": "€525",
+        "precio_num": 525.0,
+        "url": "https://www.baseelements.net/shop/zosen/zosen-paper/70-x-50-cm-zosen-le-4/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "70 x 50 cm (Zosen LE-3)",
+        "artista": "Zosen",
+        "precio": "€160",
+        "precio_num": 160.0,
+        "url": "https://www.baseelements.net/shop/zosen/limited-editions-zosen/70-x-50-cm-zosen-le-3/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "70 x 50 cm (Zosen LE-2)",
+        "artista": "Zosen",
+        "precio": "€165",
+        "precio_num": 165.0,
+        "url": "https://www.baseelements.net/shop/zosen/limited-editions-zosen/70-x-50-cm-zosen-le-2/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "59 x 42 cm (Zosen & Mina Hamada LE-1)",
+        "artista": "Zosen",
+        "precio": "€165",
+        "precio_num": 165.0,
+        "url": "https://www.baseelements.net/shop/zosen/limited-editions-zosen/59-x-42-cm-zosen-mina-hamada-le-1/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "73 x 54 cm (Zosen-7)",
+        "artista": "Zosen",
+        "precio": "€1,500",
+        "precio_num": 1.5,
+        "url": "https://www.baseelements.net/shop/zosen/canvas-zosen/73-x-54-cm-zosen-7/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "73 x 92 cm (Zosen-6)",
+        "artista": "Zosen",
+        "precio": "€2,500",
+        "precio_num": 2.5,
+        "url": "https://www.baseelements.net/shop/zosen/canvas-zosen/73-x-92-cm-zosen-6/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "90 x 73 cm (Zosen-5)",
+        "artista": "Zosen",
+        "precio": "€2,500",
+        "precio_num": 2.5,
+        "url": "https://www.baseelements.net/shop/zosen/canvas-zosen/90-x-73-cm-zosen-5/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "86 x 73 cm (Zosen-4)",
+        "artista": "Zosen",
+        "precio": "€2,500",
+        "precio_num": 2.5,
+        "url": "https://www.baseelements.net/shop/zosen/canvas-zosen/86-x-73-cm-zosen-4/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "71 x 101 Cm Collaboration El Pez Zosen",
+        "artista": "Zosen",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/zosen/canvas-zosen/71-x-101-cm-collaboration-el-pez-zosen/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "70 x 70 Cm Zosen 3",
+        "artista": "Zosen",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/zosen/canvas-zosen/70-x-70-cm-zosen-3/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "60 x 73 cm (Zosen-2)",
+        "artista": "Zosen",
+        "precio": "€1,400",
+        "precio_num": 1.4,
+        "url": "https://www.baseelements.net/shop/zosen/canvas-zosen/zsn-008/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "60 x 70 cm (Zosen-1)",
+        "artista": "Zosen",
+        "precio": "€1,400",
+        "precio_num": 1.4,
+        "url": "https://www.baseelements.net/shop/zosen/canvas-zosen/60-x-70-cm-zsn-007/",
+        "fecha": "29/05/2026 06:42"
+      }
+    ]
+  },
+  {
+    "fecha": "29/05/2026 06:43",
+    "artista": "BNS",
+    "cambios_obras": [
+      {
+        "tipo": "nueva",
+        "titulo": "111 x 75 cm (Bns -04)",
+        "artista": "BNS",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/bns/canvas-bns/111-x-75-cm-bns-04/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "60 x 45 cm (Bns -03)",
+        "artista": "BNS",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/bns/canvas-bns/60-x-45-cm-bns-03/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "60 x 45 cm (Bns -02)",
+        "artista": "BNS",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/bns/canvas-bns/60-x-45-cm-bns-02/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "111 x 75 cm (Bns -01)",
+        "artista": "BNS",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/bns/canvas-bns/75-x-111-cm-bns-01/",
+        "fecha": "29/05/2026 06:42"
+      }
+    ]
+  },
+  {
+    "fecha": "29/05/2026 06:43",
+    "artista": "Morcky",
+    "cambios_obras": [
+      {
+        "tipo": "nueva",
+        "titulo": "50 x 38 cm (Morcky LE-6)",
+        "artista": "Morcky",
+        "precio": "€100",
+        "precio_num": 100.0,
+        "url": "https://www.baseelements.net/shop/morcky/paper-morcky/50-x-38-cm-morcky-le-6/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "70 x 50 cm (Morcky LE-5)",
+        "artista": "Morcky",
+        "precio": "€250",
+        "precio_num": 250.0,
+        "url": "https://www.baseelements.net/shop/morcky/paper-morcky/70-x-50-cm-morcky-le-5/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "70 x 50 cm (Morcky P-4)",
+        "artista": "Morcky",
+        "precio": "€450",
+        "precio_num": 450.0,
+        "url": "https://www.baseelements.net/shop/morcky/paper-morcky/70-x-50-cm-morcky-p-4/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "70 x 50 cm (Morcky P-3)",
+        "artista": "Morcky",
+        "precio": "€450",
+        "precio_num": 450.0,
+        "url": "https://www.baseelements.net/shop/morcky/paper-morcky/70-x-50-cm-morcky-p-3/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "70 x 50 cm (Morcky P-2)",
+        "artista": "Morcky",
+        "precio": "€450",
+        "precio_num": 450.0,
+        "url": "https://www.baseelements.net/shop/morcky/paper-morcky/70-x-50-cm-morcky-p-2/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "70 x 50 cm (Morcky P-1)",
+        "artista": "Morcky",
+        "precio": "€450",
+        "precio_num": 450.0,
+        "url": "https://www.baseelements.net/shop/morcky/paper-morcky/70-x-50-cm-morcky-p-1/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "150 x 100 cm (Morcky-8)",
+        "artista": "Morcky",
+        "precio": "€2,800",
+        "precio_num": 2.8,
+        "url": "https://www.baseelements.net/shop/morcky/canvas-morcky/150-x-100-cm-morcky-8/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "150 x 100 Cm Morcky 5",
+        "artista": "Morcky",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/morcky/canvas-morcky/150-x-100-cm-morcky-5/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "200 x 150 Cm Morcky 6",
+        "artista": "Morcky",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/morcky/canvas-morcky/200-x-150-cm-morcky-6/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "200 x 100 Cm Morcky 5",
+        "artista": "Morcky",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/morcky/canvas-morcky/200-x-100-cm-morcky-5/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "80 x 80 cm (Morcky-3)",
+        "artista": "Morcky",
+        "precio": "€1,600",
+        "precio_num": 1.6,
+        "url": "https://www.baseelements.net/shop/morcky/canvas-morcky/80-x-80-cm-morcky-3/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "200 x 150 cm (Morcky-2)",
+        "artista": "Morcky",
+        "precio": "€4,700",
+        "precio_num": 4.7,
+        "url": "https://www.baseelements.net/shop/morcky/canvas-morcky/200-x-150-cm-morcky-2/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "110 x 110 cm (Morcky-1)",
+        "artista": "Morcky",
+        "precio": "€2,200",
+        "precio_num": 2.2,
+        "url": "https://www.baseelements.net/shop/morcky/canvas-morcky/110-x-110-cm-morcky-1/",
+        "fecha": "29/05/2026 06:42"
+      }
+    ]
+  },
+  {
+    "fecha": "29/05/2026 06:43",
+    "artista": "Konair",
+    "cambios_obras": [
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "84 x 60 Cm Konair P15",
+        "artista": "Konair",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/konair/paper-konair/84-x-60-cm-konair-p15/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "60 x 84 Cm Konair P14",
+        "artista": "Konair",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/konair/paper-konair/60-x-84-cm-konair-p14/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "60 x 84 cm (Konair-P13)",
+        "artista": "Konair",
+        "precio": "€390",
+        "precio_num": 390.0,
+        "url": "https://www.baseelements.net/shop/konair/paper-konair/60-x-84-cm-konair-p13/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "84 x 60 cm (Konair-P12)",
+        "artista": "Konair",
+        "precio": "€390",
+        "precio_num": 390.0,
+        "url": "https://www.baseelements.net/shop/konair/paper-konair/84-x-60-cm-konair-p12/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "84 x 60 cm (Konair-P9)",
+        "artista": "Konair",
+        "precio": "€390",
+        "precio_num": 390.0,
+        "url": "https://www.baseelements.net/shop/konair/paper-konair/84-x-60-cm-konair-p9/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "84 x 69 cm (Konair-P8)",
+        "artista": "Konair",
+        "precio": "€390",
+        "precio_num": 390.0,
+        "url": "https://www.baseelements.net/shop/konair/paper-konair/84-x-69-cm-konair-p8/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "60 x 39 cm (Konair-11)",
+        "artista": "Konair",
+        "precio": "€550",
+        "precio_num": 550.0,
+        "url": "https://www.baseelements.net/shop/konair/canvas-konair/60-x-39-cm-konair-11/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "69 x 50 cm (Konair-10)",
+        "artista": "Konair",
+        "precio": "€300",
+        "precio_num": 300.0,
+        "url": "https://www.baseelements.net/shop/konair/canvas-konair/69-x-50-cm-konair-10/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "69 x 50 Cm Konair 9",
+        "artista": "Konair",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/konair/canvas-konair/69-x-50-cm-konair-9/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "50 x 50 Cm Konair 8",
+        "artista": "Konair",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/konair/canvas-konair/50-x-50-cm-konair-8/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "100 x 80 cm (Konair-6)",
+        "artista": "Konair",
+        "precio": "€2,800",
+        "precio_num": 2.8,
+        "url": "https://www.baseelements.net/shop/konair/canvas-konair/100-x-80-cm-konair-6/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "65 x 54 Cm Konair 5",
+        "artista": "Konair",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/konair/canvas-konair/65-x-54-cm-konair-5/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "114 x 53 Cm Konair 4",
+        "artista": "Konair",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/konair/canvas-konair/114-x-53-cm-konair-4/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "60 x 50 Cm Konair 3",
+        "artista": "Konair",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/konair/canvas-konair/60-x-50-cm-konair-3/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "84 x 60 Cm Konair P7",
+        "artista": "Konair",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/konair/paper-konair/84-x-60-cm-konair-p7/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "84 x 60 cm (Konair-P5)",
+        "artista": "Konair",
+        "precio": "€390",
+        "precio_num": 390.0,
+        "url": "https://www.baseelements.net/shop/konair/paper-konair/84-x-60-cm-konair-p5/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "84 x 60 Cm Konair P4",
+        "artista": "Konair",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/konair/paper-konair/84-x-60-cm-konair-p4/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "84 x 60 cm (Konair-P2)",
+        "artista": "Konair",
+        "precio": "€390",
+        "precio_num": 390.0,
+        "url": "https://www.baseelements.net/shop/konair/paper-konair/84-x-60-cm-konair-p2/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "84 x 60 Cm Konair P1",
+        "artista": "Konair",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/konair/paper-konair/84-x-60-cm-konair-p1/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "100 x 73 Cm Konair 1",
+        "artista": "Konair",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/konair/canvas-konair/100-x-73-cm-konair-1/",
+        "fecha": "29/05/2026 06:42"
+      }
+    ]
+  },
+  {
+    "fecha": "29/05/2026 06:43",
+    "artista": "Ilia Mayer",
+    "cambios_obras": [
+      {
+        "tipo": "nueva",
+        "titulo": "102 x 67 cm (Ilia Mayer P-18)",
+        "artista": "Ilia Mayer",
+        "precio": "€1,200",
+        "precio_num": 1.2,
+        "url": "https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/102-x-67-cm-ilia-mayer-p-18/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "76 x 57 cm (Ilia Mayer P-17)",
+        "artista": "Ilia Mayer",
+        "precio": "€1,200",
+        "precio_num": 1.2,
+        "url": "https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/102-x-67-cm-ilia-mayer-p-17/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "70 x 100 cm (Ilia Mayer P-16)",
+        "artista": "Ilia Mayer",
+        "precio": "€1,200",
+        "precio_num": 1.2,
+        "url": "https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/70-x-100-cm-ilia-mayer-p-16/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "166 x 100 cm (Ilia Mayer P-15)",
+        "artista": "Ilia Mayer",
+        "precio": "€1,800",
+        "precio_num": 1.8,
+        "url": "https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/166-x-100-cm-ilia-mayer-p-15/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "55 x 39 Cm Ilia Mayer P 14",
+        "artista": "Ilia Mayer",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/55-x-39-cm-ilia-mayer-p-14/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "70 x 50 cm (Ilia Mayer P-12)",
+        "artista": "Ilia Mayer",
+        "precio": "€850",
+        "precio_num": 850.0,
+        "url": "https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/70-x-50-cm-ilia-mayer-p-12/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "30 x 30 cm (Ilia Mayer P-10)",
+        "artista": "Ilia Mayer",
+        "precio": "€250",
+        "precio_num": 250.0,
+        "url": "https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/30-x-30-cm-ilia-mayer-p-10/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "51 x 36Cm Ilia Mayer P 9",
+        "artista": "Ilia Mayer",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/51-x-36cm-ilia-mayer-p-9/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "41 x 31 cm (Ilia Mayer P-8)",
+        "artista": "Ilia Mayer",
+        "precio": "€400",
+        "precio_num": 400.0,
+        "url": "https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/41-x-31-cm-ilia-mayer-p-8/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "76 x 57 cm (Ilia Mayer P-5)",
+        "artista": "Ilia Mayer",
+        "precio": "€850",
+        "precio_num": 850.0,
+        "url": "https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/76-x-57-cm-ilia-mayer-p-5/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "76 x 57 Cm Ilia Mayer P 4",
+        "artista": "Ilia Mayer",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/76-x-57-cm-ilia-mayer-p-4/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "76 x 57 cm (Ilia Mayer P-3)",
+        "artista": "Ilia Mayer",
+        "precio": "€850",
+        "precio_num": 850.0,
+        "url": "https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/76-x-57-cm-ilia-mayer-p-3/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "76 x 57 Cm Ilia Mayer P 2",
+        "artista": "Ilia Mayer",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/76-x-57-cm-ilia-mayer-p-2/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "90 x 66 Cm Ilia Mayer P 1",
+        "artista": "Ilia Mayer",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/90-x-66-cm-ilia-mayer-p-1/",
+        "fecha": "29/05/2026 06:42"
+      }
+    ]
+  },
+  {
+    "fecha": "29/05/2026 06:43",
+    "artista": "Vic",
+    "cambios_obras": [
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "93 x 22 Cm Vic 36",
+        "artista": "Vic",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/curator-selection/93-x-22-cm-vic-36/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "74 x 20 Cm Vic 34",
+        "artista": "Vic",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/all/74-x-20-cm-vic-34/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "74 x 20 Cm Vic 33",
+        "artista": "Vic",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/all/74-x-20-cm-vic-33/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "91 x 23 Cm Vic 26",
+        "artista": "Vic",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/all/91-x-23-cm-vic-26/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "91 x 23 Cm Vic 25",
+        "artista": "Vic",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/all/91-x-23-cm-vic-25/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "106 x 23 Cm Vic 24",
+        "artista": "Vic",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/all/106-x-23-cm-vic-24/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "82 x 22 Cm Vic 22",
+        "artista": "Vic",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/all/82-x-22-cm-vic-22/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "80 x 20 Cm Vic 21",
+        "artista": "Vic",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/all/80-x-20-cm-vic-21/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "38 x 12 Cm Vic 16",
+        "artista": "Vic",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/all/38-x-12-cm-vic-16/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "38 x 12 cm (Vic-15)",
+        "artista": "Vic",
+        "precio": "€490",
+        "precio_num": 490.0,
+        "url": "https://www.baseelements.net/shop/all/38-x-12-cm-vic-15/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "38 x 12 cm (Vic-14)",
+        "artista": "Vic",
+        "precio": "€490",
+        "precio_num": 490.0,
+        "url": "https://www.baseelements.net/shop/all/38-x-12-cm-vic-14/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "38 x 12 cm (Vic-13)",
+        "artista": "Vic",
+        "precio": "€490",
+        "precio_num": 490.0,
+        "url": "https://www.baseelements.net/shop/all/72-x-20-cm-vic-13/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "79 x 20 Cm Vic 12",
+        "artista": "Vic",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/all/79-x-20-cm-vic-12/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "79 x 21 Cm Vic 10",
+        "artista": "Vic",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/all/79-x-21-cm-vic-10/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "78 x 20 Cm Vic 9",
+        "artista": "Vic",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/all/78-x-20-cm-vic-9/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "78 x 205 Cm Vic Sk8 8",
+        "artista": "Vic",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/all/78-x-205-cm-vic-sk8-8/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "76 x 21 Cm Vic Sk8 7",
+        "artista": "Vic",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/all/76-x-21-cm-vic-sk8-7/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "79 x 215 Cm Vic Sk8 6",
+        "artista": "Vic",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/all/79-x-215-cm-vic-sk8-6/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "78 x 195 Cm Vic Sk8 5",
+        "artista": "Vic",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/all/78-x-195-cm-vic-sk8-5/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "78 x 21 Cm Vic Sk8 4",
+        "artista": "Vic",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/all/78-x-21-cm-vic-sk8-4/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "75 x 18 Cm Vic Sk8 3",
+        "artista": "Vic",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/all/75-x-18-cm-vic-sk8-3/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "77 x 205 Cm Vic Sk8 2",
+        "artista": "Vic",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/all/77-x-205-cm-vic-sk8-2/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "80 x 205 Cm Vic Sk8 1",
+        "artista": "Vic",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/all/80-x-205-cm-vic-sk8-1/",
+        "fecha": "29/05/2026 06:42"
+      }
+    ]
+  },
+  {
+    "fecha": "29/05/2026 06:43",
+    "artista": "Gastón Sanmiguel",
+    "cambios_obras": [
+      {
+        "tipo": "nueva",
+        "titulo": "70 x 50 cm (Gastón Sanmiguel-P7)",
+        "artista": "Gastón Sanmiguel",
+        "precio": "€375",
+        "precio_num": 375.0,
+        "url": "https://www.baseelements.net/shop/gaston-sanmiguel/paintings-gaston-sanmiguel/70-x-50-cm-gaston-sanmiguel-p7/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "79 x 21 Cm Gaston Sanmiguel P5",
+        "artista": "Gastón Sanmiguel",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/gaston-sanmiguel/paintings-gaston-sanmiguel/79-x-21-cm-gaston-sanmiguel-p5/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "79 x 21 cm (Gastón Sanmiguel-P3)",
+        "artista": "Gastón Sanmiguel",
+        "precio": "€490",
+        "precio_num": 490.0,
+        "url": "https://www.baseelements.net/shop/gaston-sanmiguel/paintings-gaston-sanmiguel/79-x-21-cm-gaston-sanmiguel-p3/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "81 x 100 cm (Gastón Sanmiguel-P1)",
+        "artista": "Gastón Sanmiguel",
+        "precio": "€1,400",
+        "precio_num": 1.4,
+        "url": "https://www.baseelements.net/shop/gaston-sanmiguel/paintings-gaston-sanmiguel/81-x-100-cm-gaston-sanmiguel-p1/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "40 x 40 x 40 cm (Gastón Sanmiguel-7)",
+        "artista": "Gastón Sanmiguel",
+        "precio": "€450",
+        "precio_num": 450.0,
+        "url": "https://www.baseelements.net/shop/gaston-sanmiguel/art-object-gaston-sanmiguel/40-x-40-x-40-cm-gaston-sanmiguel-7/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "40 x 25 x 20 cm (Gastón Sanmiguel-6)",
+        "artista": "Gastón Sanmiguel",
+        "precio": "€190",
+        "precio_num": 190.0,
+        "url": "https://www.baseelements.net/shop/gaston-sanmiguel/art-object-gaston-sanmiguel/40-x-25-x-20-cm-gaston-sanmiguel-6/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "40 x 30 x 20 cm (Gastón Sanmiguel-5)",
+        "artista": "Gastón Sanmiguel",
+        "precio": "€190",
+        "precio_num": 190.0,
+        "url": "https://www.baseelements.net/shop/gaston-sanmiguel/art-object-gaston-sanmiguel/40-x-30-x-20-cm-gaston-sanmiguel-5/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "50 x 30 x 20 cm (Gastón Sanmiguel-4)",
+        "artista": "Gastón Sanmiguel",
+        "precio": "€190",
+        "precio_num": 190.0,
+        "url": "https://www.baseelements.net/shop/gaston-sanmiguel/art-object-gaston-sanmiguel/50-x-30-x-20-cm-gaston-sanmiguel-4/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "30 x 20 x 20 cm (Gastón Sanmiguel-3)",
+        "artista": "Gastón Sanmiguel",
+        "precio": "€190",
+        "precio_num": 190.0,
+        "url": "https://www.baseelements.net/shop/gaston-sanmiguel/art-object-gaston-sanmiguel/30-x-20-x-20-cm-gaston-sanmiguel-3/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "50 x 30 x 20 cm (Gastón Sanmiguel-2)",
+        "artista": "Gastón Sanmiguel",
+        "precio": "€190",
+        "precio_num": 190.0,
+        "url": "https://www.baseelements.net/shop/gaston-sanmiguel/art-object-gaston-sanmiguel/50-x-30-x-20-cm-gaston-sanmiguel-2/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "69 x 69 cm (Gastón Sanmiguel-1)",
+        "artista": "Gastón Sanmiguel",
+        "precio": "€600",
+        "precio_num": 600.0,
+        "url": "https://www.baseelements.net/shop/gaston-sanmiguel/art-object-gaston-sanmiguel/69-x-69-cm-gaston-sanmiguel-1/",
+        "fecha": "29/05/2026 06:42"
+      }
+    ]
+  },
+  {
+    "fecha": "29/05/2026 06:43",
+    "artista": "Justin Case",
+    "cambios_obras": [
+      {
+        "tipo": "nueva",
+        "titulo": "(Justin Case-32)",
+        "artista": "Justin Case",
+        "precio": "€40",
+        "precio_num": 40.0,
+        "url": "https://www.baseelements.net/shop/curator-selection/75-x-56-cm-justin-case-32/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "(Justin Case-31)",
+        "artista": "Justin Case",
+        "precio": "€40",
+        "precio_num": 40.0,
+        "url": "https://www.baseelements.net/shop/all/justin-case-31/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "(Justin Case-30)",
+        "artista": "Justin Case",
+        "precio": "€40",
+        "precio_num": 40.0,
+        "url": "https://www.baseelements.net/shop/all/justin-case-30/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "(Justin Case-29)",
+        "artista": "Justin Case",
+        "precio": "€40",
+        "precio_num": 40.0,
+        "url": "https://www.baseelements.net/shop/all/justin-case-29/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "(Justin Case-28)",
+        "artista": "Justin Case",
+        "precio": "€40",
+        "precio_num": 40.0,
+        "url": "https://www.baseelements.net/shop/all/justin-case-28/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "(Justin Case-27)",
+        "artista": "Justin Case",
+        "precio": "€40",
+        "precio_num": 40.0,
+        "url": "https://www.baseelements.net/shop/all/justin-case-27/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "(Justin Case-26)",
+        "artista": "Justin Case",
+        "precio": "€40",
+        "precio_num": 40.0,
+        "url": "https://www.baseelements.net/shop/all/justin-case-26/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "(Justin Case-25)",
+        "artista": "Justin Case",
+        "precio": "€40",
+        "precio_num": 40.0,
+        "url": "https://www.baseelements.net/shop/all/justin-case-25/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "(Justin Case-24)",
+        "artista": "Justin Case",
+        "precio": "€40",
+        "precio_num": 40.0,
+        "url": "https://www.baseelements.net/shop/all/justin-case-24/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "(Justin Case-23)",
+        "artista": "Justin Case",
+        "precio": "€40",
+        "precio_num": 40.0,
+        "url": "https://www.baseelements.net/shop/all/justin-case-23/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "(Justin Case-22)",
+        "artista": "Justin Case",
+        "precio": "€40",
+        "precio_num": 40.0,
+        "url": "https://www.baseelements.net/shop/all/justin-case-22/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "(Justin Case-21)",
+        "artista": "Justin Case",
+        "precio": "€40",
+        "precio_num": 40.0,
+        "url": "https://www.baseelements.net/shop/all/justin-case-21/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "(Justin Case-20)",
+        "artista": "Justin Case",
+        "precio": "€40",
+        "precio_num": 40.0,
+        "url": "https://www.baseelements.net/shop/all/justin-case-20/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "(Justin Case-19)",
+        "artista": "Justin Case",
+        "precio": "€40",
+        "precio_num": 40.0,
+        "url": "https://www.baseelements.net/shop/all/justin-case-19/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "(Justin Case-18)",
+        "artista": "Justin Case",
+        "precio": "€40",
+        "precio_num": 40.0,
+        "url": "https://www.baseelements.net/shop/curator-selection/justin-case-18/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "(Justin Case-17)",
+        "artista": "Justin Case",
+        "precio": "€40",
+        "precio_num": 40.0,
+        "url": "https://www.baseelements.net/shop/all/justin-case-17/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "(Justin Case-16)",
+        "artista": "Justin Case",
+        "precio": "€40",
+        "precio_num": 40.0,
+        "url": "https://www.baseelements.net/shop/all/justin-case-16/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "(Justin Case-15)",
+        "artista": "Justin Case",
+        "precio": "€40",
+        "precio_num": 40.0,
+        "url": "https://www.baseelements.net/shop/all/justin-case-15/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "(Justin Case-14)",
+        "artista": "Justin Case",
+        "precio": "€40",
+        "precio_num": 40.0,
+        "url": "https://www.baseelements.net/shop/all/justin-case-14/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "(Justin Case-13)",
+        "artista": "Justin Case",
+        "precio": "€40",
+        "precio_num": 40.0,
+        "url": "https://www.baseelements.net/shop/all/justin-case-13/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "(Justin Case-12)",
+        "artista": "Justin Case",
+        "precio": "€40",
+        "precio_num": 40.0,
+        "url": "https://www.baseelements.net/shop/all/justin-case-12/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "(Justin Case-11)",
+        "artista": "Justin Case",
+        "precio": "€40",
+        "precio_num": 40.0,
+        "url": "https://www.baseelements.net/shop/all/justin-case-11/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "(Justin Case-10)",
+        "artista": "Justin Case",
+        "precio": "€40",
+        "precio_num": 40.0,
+        "url": "https://www.baseelements.net/shop/all/justin-case-10/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "(Justin Case-9)",
+        "artista": "Justin Case",
+        "precio": "€40",
+        "precio_num": 40.0,
+        "url": "https://www.baseelements.net/shop/all/justin-case-9/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "(Justin Case-8)",
+        "artista": "Justin Case",
+        "precio": "€40",
+        "precio_num": 40.0,
+        "url": "https://www.baseelements.net/shop/all/justin-case-8/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "(Justin Case-7)",
+        "artista": "Justin Case",
+        "precio": "€40",
+        "precio_num": 40.0,
+        "url": "https://www.baseelements.net/shop/all/justin-case-7/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "(Justin Case-6)",
+        "artista": "Justin Case",
+        "precio": "€40",
+        "precio_num": 40.0,
+        "url": "https://www.baseelements.net/shop/all/justin-case-6/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "(Justin Case-5)",
+        "artista": "Justin Case",
+        "precio": "€40",
+        "precio_num": 40.0,
+        "url": "https://www.baseelements.net/shop/all/justin-case-5/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "(Justin Case-4)",
+        "artista": "Justin Case",
+        "precio": "€40",
+        "precio_num": 40.0,
+        "url": "https://www.baseelements.net/shop/all/justin-case-4/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "(Justin Case-3)",
+        "artista": "Justin Case",
+        "precio": "€40",
+        "precio_num": 40.0,
+        "url": "https://www.baseelements.net/shop/all/justin-case-3/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "(Justin Case-2)",
+        "artista": "Justin Case",
+        "precio": "€40",
+        "precio_num": 40.0,
+        "url": "https://www.baseelements.net/shop/all/justin-case-2/",
+        "fecha": "29/05/2026 06:42"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "(Justin Case-1)",
+        "artista": "Justin Case",
+        "precio": "€40",
+        "precio_num": 40.0,
+        "url": "https://www.baseelements.net/shop/all/justin-case-1/",
+        "fecha": "29/05/2026 06:42"
+      }
+    ]
+  },
+  {
+    "fecha": "29/05/2026 06:43",
+    "artista": "Sara León",
+    "cambios_obras": [
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "60 x 30 X 24 Cm Sara Leon 2",
+        "artista": "Sara León",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/all/60-x-30-x-24-cm-sara-leon-2/",
+        "fecha": "29/05/2026 06:43"
+      }
+    ]
+  },
+  {
+    "fecha": "29/05/2026 06:43",
+    "artista": "Guest Artists",
+    "cambios_obras": [
+      {
+        "tipo": "nueva",
+        "titulo": "80 x 80 cm (Slomo-4)",
+        "artista": "Guest Artists",
+        "precio": "€1,500",
+        "precio_num": 1.5,
+        "url": "https://www.baseelements.net/shop/guest-artists/slomo/canvas-slomo/80-x-80-cm-slomo-4/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "90 x 71 cm (Sam Grant-3)",
+        "artista": "Guest Artists",
+        "precio": "€2,900",
+        "precio_num": 2.9,
+        "url": "https://www.baseelements.net/shop/guest-artists/sam-grant/90-x-71-cm-sam-grant-3/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "130 x 97 cm (Collaboration El Pez & Chicadania)",
+        "artista": "Guest Artists",
+        "precio": "€6,500",
+        "precio_num": 6.5,
+        "url": "https://www.baseelements.net/shop/guest-artists/chicadania/130-x-97-cm-collaboration-el-pez-chicadania/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "50 x 50 cm (Kamiel Proost-P5)",
+        "artista": "Guest Artists",
+        "precio": "€230",
+        "precio_num": 230.0,
+        "url": "https://www.baseelements.net/shop/guest-artists/kamiel-proost/paper-kamiel-proost/50-x-50-cm-kamiel-proost-p5/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "49 x 100 cm (Kamiel Proost-P4)",
+        "artista": "Guest Artists",
+        "precio": "€490",
+        "precio_num": 490.0,
+        "url": "https://www.baseelements.net/shop/guest-artists/kamiel-proost/paper-kamiel-proost/49-x-100-cm-kamiel-proost-p4/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "50 x 100 cm (Kamiel Proost-P3)",
+        "artista": "Guest Artists",
+        "precio": "€490",
+        "precio_num": 490.0,
+        "url": "https://www.baseelements.net/shop/guest-artists/kamiel-proost/paper-kamiel-proost/50-x-100-cm-kamiel-proost-p3/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "49 x 100 cm (Kamiel Proost-P2)",
+        "artista": "Guest Artists",
+        "precio": "€230",
+        "precio_num": 230.0,
+        "url": "https://www.baseelements.net/shop/guest-artists/kamiel-proost/paper-kamiel-proost/49-x-100-cm-kamiel-proost-p2/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "49 x 100 cm (Kamiel Proost-P1)",
+        "artista": "Guest Artists",
+        "precio": "€490",
+        "precio_num": 490.0,
+        "url": "https://www.baseelements.net/shop/guest-artists/kamiel-proost/paper-kamiel-proost/49-x-100-cm-kamiel-proost-p1/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "60 x 60 cm (Kamiel Proost-4)",
+        "artista": "Guest Artists",
+        "precio": "€3,100",
+        "precio_num": 3.1,
+        "url": "https://www.baseelements.net/shop/guest-artists/kamiel-proost/canvas-kamiel-proost/60-x-60-cm-kamiel-proost-4/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "70 x 150 cm (Kamiel Proost-1)",
+        "artista": "Guest Artists",
+        "precio": "€3,700",
+        "precio_num": 3.7,
+        "url": "https://www.baseelements.net/shop/guest-artists/kamiel-proost/canvas-kamiel-proost/70-x-150-cm-kamiel-proost-1/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "50 X120 Cm Chicadania 6",
+        "artista": "Guest Artists",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/guest-artists/chicadania/50-x120-cm-chicadania-6/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "104 x 65 cm (Chicadania -5)",
+        "artista": "Guest Artists",
+        "precio": "€2,200",
+        "precio_num": 2.2,
+        "url": "https://www.baseelements.net/shop/guest-artists/chicadania/104-x-65-cm-chicadania-5/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "50 x 92 Cm Collaboration Chicadania Pez 2",
+        "artista": "Guest Artists",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/guest-artists/chicadania/50-x-92-cm-collaboration-chicadania-pez-2/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "50 x 92 Cm Collaboration Chicadania Pez 1",
+        "artista": "Guest Artists",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/guest-artists/chicadania/50-x-92-cm-collaboration-chicadania-pez-1/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "110 x 88 Cm Sam Grant 2",
+        "artista": "Guest Artists",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/guest-artists/sam-grant/110-x-88-cm-sam-grant-2/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "106 x 82 cm (Sam Grant-1)",
+        "artista": "Guest Artists",
+        "precio": "€3,300",
+        "precio_num": 3.3,
+        "url": "https://www.baseelements.net/shop/guest-artists/sam-grant/110-x-88-cm-sam-grant-1/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "36 X 51 cm (Ashwan-5)",
+        "artista": "Guest Artists",
+        "precio": "€110",
+        "precio_num": 110.0,
+        "url": "https://www.baseelements.net/shop/all/36-x-51-cm-ashwan-5/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "51 X 36 cm (Ashwan-4)",
+        "artista": "Guest Artists",
+        "precio": "€110",
+        "precio_num": 110.0,
+        "url": "https://www.baseelements.net/shop/all/51-x-36-cm-ashwan-4/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "51 X 36 cm (Ashwan-3)",
+        "artista": "Guest Artists",
+        "precio": "€110",
+        "precio_num": 110.0,
+        "url": "https://www.baseelements.net/shop/all/51-x-36-cm-ashwan-3/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "51 X 36 cm (Ashwan-2)",
+        "artista": "Guest Artists",
+        "precio": "€110",
+        "precio_num": 110.0,
+        "url": "https://www.baseelements.net/shop/all/51-x-36-cm-ashwan-2/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "51 X 36 cm (Ashwan-1)",
+        "artista": "Guest Artists",
+        "precio": "€110",
+        "precio_num": 110.0,
+        "url": "https://www.baseelements.net/shop/all/51-x-36-cm-ashwan-1/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "765 x 57 Cm Slomo Le 2",
+        "artista": "Guest Artists",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/guest-artists/slomo/limited-editions-slomo/765-x-57-cm-slomo-le-2/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "765 x 57 Cm Slomo Le 1",
+        "artista": "Guest Artists",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/guest-artists/slomo/limited-editions-slomo/765-x-57-cm-slomo-le-1/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "69 x 69 cm (Gastón Sanmiguel-1)",
+        "artista": "Guest Artists",
+        "precio": "€600",
+        "precio_num": 600.0,
+        "url": "https://www.baseelements.net/shop/gaston-sanmiguel/art-object-gaston-sanmiguel/69-x-69-cm-gaston-sanmiguel-1/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "80 x 20 Cm Olaftone Sk8 1",
+        "artista": "Guest Artists",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/guest-artists/olaftone/80-x-20-cm-olaftone-sk8-1/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "140 x 100 cm (Nevenkart-6)",
+        "artista": "Guest Artists",
+        "precio": "€6,700",
+        "precio_num": 6.7,
+        "url": "https://www.baseelements.net/shop/guest-artists/nevenkart/140-x-100-cm-nevenkart-6/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "100 x 50 Cm Slomo 4",
+        "artista": "Guest Artists",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/guest-artists/slomo/100-x-50-cm-slomo-4/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "100 x 81 cm (Slomo-3)",
+        "artista": "Guest Artists",
+        "precio": "€2,300",
+        "precio_num": 2.3,
+        "url": "https://www.baseelements.net/shop/guest-artists/slomo/canvas-slomo/100-x-81-cm-slomo-3/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "100 x 73 cm (Slomo-2)",
+        "artista": "Guest Artists",
+        "precio": "€2,100",
+        "precio_num": 2.1,
+        "url": "https://www.baseelements.net/shop/guest-artists/slomo/canvas-slomo/100-x-73-cm-slomo-2/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "100 X 73 cm (Slomo-1)",
+        "artista": "Guest Artists",
+        "precio": "€2,100",
+        "precio_num": 2.1,
+        "url": "https://www.baseelements.net/shop/guest-artists/slomo/canvas-slomo/100-x-73-cm-slomo-1/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "19 x 15 cm (Nevenkart-5)",
+        "artista": "Guest Artists",
+        "precio": "€290",
+        "precio_num": 290.0,
+        "url": "https://www.baseelements.net/shop/guest-artists/nevenkart/19-x-15-cm-nevenkart-5/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "25 x 21 cm (Nevenkart-4)",
+        "artista": "Guest Artists",
+        "precio": "€390",
+        "precio_num": 390.0,
+        "url": "https://www.baseelements.net/shop/guest-artists/nevenkart/25-x-21-cm-nevenkart-4/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "28 x 17 cm (Nevenkart-3)",
+        "artista": "Guest Artists",
+        "precio": "€390",
+        "precio_num": 390.0,
+        "url": "https://www.baseelements.net/shop/guest-artists/nevenkart/28-x-17-cm-nevenkart-3/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "22,5 x 15 cm (Nevenkart-2)",
+        "artista": "Guest Artists",
+        "precio": "€290",
+        "precio_num": 290.0,
+        "url": "https://www.baseelements.net/shop/guest-artists/nevenkart/225-x-15-cm-nevenkart-2/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "25 x 19 cm (Nevenkart-1)",
+        "artista": "Guest Artists",
+        "precio": "€390",
+        "precio_num": 390.0,
+        "url": "https://www.baseelements.net/shop/guest-artists/nevenkart/25-x-19-cm-nevenkart-1/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "79 x 120 Cm Chicadania 1",
+        "artista": "Guest Artists",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/guest-artists/chicadania/79-x-120-cm-chicadania-1/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "60 x 90 cm (Chicadania -1)",
+        "artista": "Guest Artists",
+        "precio": "€1,400",
+        "precio_num": 1.4,
+        "url": "https://www.baseelements.net/shop/guest-artists/chicadania/60-x-90-cm-chicadania-1/",
+        "fecha": "29/05/2026 06:43"
+      }
+    ]
+  },
+  {
+    "fecha": "29/05/2026 06:43",
+    "artista": "Reality Is Overrated",
+    "cambios_obras": [
+      {
+        "tipo": "nueva",
+        "titulo": "65 x 80 cm (Dadara-20)",
+        "artista": "Reality Is Overrated",
+        "precio": "€3,800",
+        "precio_num": 3.8,
+        "url": "https://www.baseelements.net/shop/all/65-x-80-cm-dadara-20/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "83 x 60 cm (Bas Kosters-7)",
+        "artista": "Reality Is Overrated",
+        "precio": "€3,750",
+        "precio_num": 3.75,
+        "url": "https://www.baseelements.net/shop/all/83-x-60-cm-bas-kosters-7/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "83 x 58 cm (Bas Kosters-6)",
+        "artista": "Reality Is Overrated",
+        "precio": "€3,750",
+        "precio_num": 3.75,
+        "url": "https://www.baseelements.net/shop/all/83-x-58-cm/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "84 x 60 cm (Bas Kosters-5)",
+        "artista": "Reality Is Overrated",
+        "precio": "€3,750",
+        "precio_num": 3.75,
+        "url": "https://www.baseelements.net/shop/all/84-x-60-cm-bas-kosters-5/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "78 x 37 cm cm (Bas Kosters-4)",
+        "artista": "Reality Is Overrated",
+        "precio": "€2,600",
+        "precio_num": 2.6,
+        "url": "https://www.baseelements.net/shop/all/78-x-37-cm-cm-bas-kosters-4/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "58 x 39 cm (Bas Kosters-3)",
+        "artista": "Reality Is Overrated",
+        "precio": "€1,800",
+        "precio_num": 1.8,
+        "url": "https://www.baseelements.net/shop/all/58-x-39-cm-bas-kosters-3/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "32 x 41 cm (Bas kosters-2)",
+        "artista": "Reality Is Overrated",
+        "precio": "€1,900",
+        "precio_num": 1.9,
+        "url": "https://www.baseelements.net/shop/all/32-x-41-cm-bas-kosters-2/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "32 x 40 cm (Bas kosters-1)",
+        "artista": "Reality Is Overrated",
+        "precio": "€1,900",
+        "precio_num": 1.9,
+        "url": "https://www.baseelements.net/shop/all/32-x-40-cm-bas-kosters-1/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "50 x 70 cm (Peim-4)",
+        "artista": "Reality Is Overrated",
+        "precio": "€1,500",
+        "precio_num": 1.5,
+        "url": "https://www.baseelements.net/shop/all/50-x-70-cm-peim-4/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "30 x 30 cm (Peim-3)",
+        "artista": "Reality Is Overrated",
+        "precio": "€500",
+        "precio_num": 500.0,
+        "url": "https://www.baseelements.net/shop/all/30-x-30-cm-peim-3/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "30 x 30 cm (Peim-2)",
+        "artista": "Reality Is Overrated",
+        "precio": "€500",
+        "precio_num": 500.0,
+        "url": "https://www.baseelements.net/shop/all/30-x-30-cm-peim-2/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "30 x 30 cm (Peim-1)",
+        "artista": "Reality Is Overrated",
+        "precio": "€500",
+        "precio_num": 500.0,
+        "url": "https://www.baseelements.net/shop/all/30-x-30-cm-peim-1/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "30 x 22 cm (Peim)",
+        "artista": "Reality Is Overrated",
+        "precio": "€500",
+        "precio_num": 500.0,
+        "url": "https://www.baseelements.net/shop/all/30-x-22-cm-peim/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "100 x 70 cm (London Police)",
+        "artista": "Reality Is Overrated",
+        "precio": "€4,444",
+        "precio_num": 4.444,
+        "url": "https://www.baseelements.net/shop/all/100-x-70-cm-london-police/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "61 x 46 cm ( Henk Schiffmacher-5)",
+        "artista": "Reality Is Overrated",
+        "precio": "€1,825",
+        "precio_num": 1.825,
+        "url": "https://www.baseelements.net/shop/all/61-x-46-cm-henk-schiffmacher-5/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "31 x 20 cm (Henk Schiffmacher-4)",
+        "artista": "Reality Is Overrated",
+        "precio": "€675",
+        "precio_num": 675.0,
+        "url": "https://www.baseelements.net/shop/all/31-x-20-cm-henk-schiffmacher-4/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "31 x 20 cm (Henk Schiffmacher-2)",
+        "artista": "Reality Is Overrated",
+        "precio": "€675",
+        "precio_num": 675.0,
+        "url": "https://www.baseelements.net/shop/all/31-x-20-cm-henk-schiffmacher-2/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "32 x 22 cm (Henk Schiffmacher-2)",
+        "artista": "Reality Is Overrated",
+        "precio": "€475",
+        "precio_num": 475.0,
+        "url": "https://www.baseelements.net/shop/all/32-x-22-cm-henk-schiffmacher-2/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "20 x 20 cm (Henk Schiffmacher-1)",
+        "artista": "Reality Is Overrated",
+        "precio": "€475",
+        "precio_num": 475.0,
+        "url": "https://www.baseelements.net/shop/all/20-x-20-cm-henk-schiffmacher-1/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "19 x 19 cm (Henk Schiffmacher)",
+        "artista": "Reality Is Overrated",
+        "precio": "€475",
+        "precio_num": 475.0,
+        "url": "https://www.baseelements.net/shop/all/19-x-19-cm-henk-schiffmacher/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "100 x 80 cm (Carmen Schabracq-1)",
+        "artista": "Reality Is Overrated",
+        "precio": "€3,000",
+        "precio_num": 3.0,
+        "url": "https://www.baseelements.net/shop/all/100-x-80-cm-carmen-schabracq-1/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "120 x 100 cm (Carmen Schabracq)",
+        "artista": "Reality Is Overrated",
+        "precio": "€3,500",
+        "precio_num": 3.5,
+        "url": "https://www.baseelements.net/shop/all/120-x-100-cm-carmen-schabracq/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "110 x 61 cm (Laser 3.14-5)",
+        "artista": "Reality Is Overrated",
+        "precio": "€950",
+        "precio_num": 950.0,
+        "url": "https://www.baseelements.net/shop/all/110-x-61-cm-laser-3-14-4/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "142 x 73 Cm Laser 3 14",
+        "artista": "Reality Is Overrated",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/all/142-x-73-cm-laser-3-14/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "107 x 78 cm (Laser 3.14-3)",
+        "artista": "Reality Is Overrated",
+        "precio": "€1,500",
+        "precio_num": 1.5,
+        "url": "https://www.baseelements.net/shop/all/107-x-78-cm-laser-3-14-3/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "68 x 95 cm (Laser 3.14-2)",
+        "artista": "Reality Is Overrated",
+        "precio": "€750",
+        "precio_num": 750.0,
+        "url": "https://www.baseelements.net/shop/all/68-x-95-cm-laser-3-14/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "140 x 37 cm (Laser 3.14- 1)",
+        "artista": "Reality Is Overrated",
+        "precio": "€950",
+        "precio_num": 950.0,
+        "url": "https://www.baseelements.net/shop/all/140-x-37-cm-laser-3-14-1/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "50 x 70 (Laser 3.14)",
+        "artista": "Reality Is Overrated",
+        "precio": "€450",
+        "precio_num": 450.0,
+        "url": "https://www.baseelements.net/shop/all/50-x-70-laser-3-14/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "200 x 150 cm (Morcky-2)",
+        "artista": "Reality Is Overrated",
+        "precio": "€4,700",
+        "precio_num": 4.7,
+        "url": "https://www.baseelements.net/shop/morcky/canvas-morcky/200-x-150-cm-morcky-2/",
+        "fecha": "29/05/2026 06:43"
+      }
+    ]
+  },
+  {
+    "fecha": "29/05/2026 06:43",
+    "artista": "Avant-Groove Collection",
+    "cambios_obras": [
+      {
+        "tipo": "nueva",
+        "titulo": "40 x 25 x 20 cm (Gastón Sanmiguel-6)",
+        "artista": "Avant-Groove Collection",
+        "precio": "€190",
+        "precio_num": 190.0,
+        "url": "https://www.baseelements.net/shop/gaston-sanmiguel/art-object-gaston-sanmiguel/40-x-25-x-20-cm-gaston-sanmiguel-6/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "30 x 20 x 20 cm (Gastón Sanmiguel-3)",
+        "artista": "Avant-Groove Collection",
+        "precio": "€190",
+        "precio_num": 190.0,
+        "url": "https://www.baseelements.net/shop/gaston-sanmiguel/art-object-gaston-sanmiguel/30-x-20-x-20-cm-gaston-sanmiguel-3/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "50 x 30 x 20 cm (Gastón Sanmiguel-2)",
+        "artista": "Avant-Groove Collection",
+        "precio": "€190",
+        "precio_num": 190.0,
+        "url": "https://www.baseelements.net/shop/gaston-sanmiguel/art-object-gaston-sanmiguel/50-x-30-x-20-cm-gaston-sanmiguel-2/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "69 x 69 cm (Gastón Sanmiguel-1)",
+        "artista": "Avant-Groove Collection",
+        "precio": "€600",
+        "precio_num": 600.0,
+        "url": "https://www.baseelements.net/shop/gaston-sanmiguel/art-object-gaston-sanmiguel/69-x-69-cm-gaston-sanmiguel-1/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "80 x 20 Cm Olaftone Sk8 1",
+        "artista": "Avant-Groove Collection",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/guest-artists/olaftone/80-x-20-cm-olaftone-sk8-1/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "95 x 95 Cm Ivana Flores 26",
+        "artista": "Avant-Groove Collection",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/95-x-95-cm-ivana-flores-26/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "Julian Lorenzo 7",
+        "artista": "Avant-Groove Collection",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/julian-lorenzo/canvas-julian-lorenzo/julian-lorenzo-7/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "J Loca 13",
+        "artista": "Avant-Groove Collection",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/j-loca/canvas-j-loca/j-loca-13/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "140 x 140 cm (J.Loca-12)",
+        "artista": "Avant-Groove Collection",
+        "precio": "€3,800",
+        "precio_num": 3.8,
+        "url": "https://www.baseelements.net/shop/j-loca/canvas-j-loca/j-loca-12/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "Collaboration Soem Tarrago 3",
+        "artista": "Avant-Groove Collection",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/collaboration-soem-tarrago-3/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "Collaboration Soem Tarrago 2",
+        "artista": "Avant-Groove Collection",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/collaboration-soem-tarrago-2/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "Collaboration Soem Tarrago 1",
+        "artista": "Avant-Groove Collection",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/collaboration-soem-tarrago-1/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "Sold 11",
+        "artista": "Avant-Groove Collection",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/sold-11/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "100 x 73 Cm Konair 1",
+        "artista": "Avant-Groove Collection",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/konair/canvas-konair/100-x-73-cm-konair-1/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "80 x 80 cm (Bubbles-1)",
+        "artista": "Avant-Groove Collection",
+        "precio": "€1,200",
+        "precio_num": 1.2,
+        "url": "https://www.baseelements.net/shop/all/80-x-80-cm-bubbles-1/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "140 x 100 cm (Nevenkart-6)",
+        "artista": "Avant-Groove Collection",
+        "precio": "€6,700",
+        "precio_num": 6.7,
+        "url": "https://www.baseelements.net/shop/guest-artists/nevenkart/140-x-100-cm-nevenkart-6/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "(Justin Case-32)",
+        "artista": "Avant-Groove Collection",
+        "precio": "€40",
+        "precio_num": 40.0,
+        "url": "https://www.baseelements.net/shop/curator-selection/75-x-56-cm-justin-case-32/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "73 x 54 cm (Zosen-7)",
+        "artista": "Avant-Groove Collection",
+        "precio": "€1,500",
+        "precio_num": 1.5,
+        "url": "https://www.baseelements.net/shop/zosen/canvas-zosen/73-x-54-cm-zosen-7/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "73 x 92 cm (Zosen-6)",
+        "artista": "Avant-Groove Collection",
+        "precio": "€2,500",
+        "precio_num": 2.5,
+        "url": "https://www.baseelements.net/shop/zosen/canvas-zosen/73-x-92-cm-zosen-6/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "140 x 140 Cm J Loca 11",
+        "artista": "Avant-Groove Collection",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/j-loca/canvas-j-loca/140-x-140-cm-j-loca-11/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "115 x 90 Cm Soem 14",
+        "artista": "Avant-Groove Collection",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/soem/canvas-soem/115-x-90-cm-soem-14/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "Sold 10",
+        "artista": "Avant-Groove Collection",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/sold-10/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "150 X 150 cm (Tarragó-9)",
+        "artista": "Avant-Groove Collection",
+        "precio": "€3,800",
+        "precio_num": 3.8,
+        "url": "https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/150-x-150-cm-tarrago-9/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "78 x 195 Cm Vic Sk8 5",
+        "artista": "Avant-Groove Collection",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/all/78-x-195-cm-vic-sk8-5/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "77 x 205 Cm Vic Sk8 2",
+        "artista": "Avant-Groove Collection",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/all/77-x-205-cm-vic-sk8-2/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "80 x 205 Cm Vic Sk8 1",
+        "artista": "Avant-Groove Collection",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/all/80-x-205-cm-vic-sk8-1/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "100 x 70 Cm Btoy P15",
+        "artista": "Avant-Groove Collection",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/btoy/paper-btoy/100-x-70-cm-btoy-p15/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "100 x 70 Cm Btoy P14",
+        "artista": "Avant-Groove Collection",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/btoy/paper-btoy/100-x-70-cm-btoy-p14/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "(Justin Case-21)",
+        "artista": "Avant-Groove Collection",
+        "precio": "€40",
+        "precio_num": 40.0,
+        "url": "https://www.baseelements.net/shop/all/justin-case-21/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "100 x 50 Cm Slomo 4",
+        "artista": "Avant-Groove Collection",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/guest-artists/slomo/100-x-50-cm-slomo-4/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "100 X 73 cm (Slomo-1)",
+        "artista": "Avant-Groove Collection",
+        "precio": "€2,100",
+        "precio_num": 2.1,
+        "url": "https://www.baseelements.net/shop/guest-artists/slomo/canvas-slomo/100-x-73-cm-slomo-1/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "19 x 15 cm (Nevenkart-5)",
+        "artista": "Avant-Groove Collection",
+        "precio": "€290",
+        "precio_num": 290.0,
+        "url": "https://www.baseelements.net/shop/guest-artists/nevenkart/19-x-15-cm-nevenkart-5/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "25 x 21 cm (Nevenkart-4)",
+        "artista": "Avant-Groove Collection",
+        "precio": "€390",
+        "precio_num": 390.0,
+        "url": "https://www.baseelements.net/shop/guest-artists/nevenkart/25-x-21-cm-nevenkart-4/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "130 x 97 Cm Julian Lorenzo 4",
+        "artista": "Avant-Groove Collection",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/julian-lorenzo/canvas-julian-lorenzo/130-x-97-cm-julian-lorenzo-4/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "111 x 178 Cm Ivana Flores 19",
+        "artista": "Avant-Groove Collection",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/111-x-178-cm-ivana-flores-19/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "87 x 184 Cm El Pez 12",
+        "artista": "Avant-Groove Collection",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/el-pez/canvas-el-pez/87-x-184-cm-el-pez-12/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "79 x 120 Cm Chicadania 1",
+        "artista": "Avant-Groove Collection",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/guest-artists/chicadania/79-x-120-cm-chicadania-1/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "60 x 90 cm (Chicadania -1)",
+        "artista": "Avant-Groove Collection",
+        "precio": "€1,400",
+        "precio_num": 1.4,
+        "url": "https://www.baseelements.net/shop/guest-artists/chicadania/60-x-90-cm-chicadania-1/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "45 x 45 Cm Soem 11",
+        "artista": "Avant-Groove Collection",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/soem/canvas-soem/45-x-45-cm-soem-11/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "50 x 50 Cm Soem 10",
+        "artista": "Avant-Groove Collection",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/soem/canvas-soem/50-x-50-cm-soem-10/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "200 x 200 Cm Julian Lorenzo 3",
+        "artista": "Avant-Groove Collection",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://www.baseelements.net/shop/julian-lorenzo/canvas-julian-lorenzo/200-x-200-cm-julian-lorenzo-3/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "(Justin Case-16)",
+        "artista": "Avant-Groove Collection",
+        "precio": "€40",
+        "precio_num": 40.0,
+        "url": "https://www.baseelements.net/shop/all/justin-case-16/",
+        "fecha": "29/05/2026 06:43"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "(Justin Case-1)",
+        "artista": "Avant-Groove Collection",
+        "precio": "€40",
+        "precio_num": 40.0,
+        "url": "https://www.baseelements.net/shop/all/justin-case-1/",
+        "fecha": "29/05/2026 06:43"
+      }
+    ]
+  }
+]
