@@ -1420,6 +1420,33 @@ def be_comprobar_categoria(categoria: dict) -> dict | None:
     return None
 
 
+def be_recuperar_precios_sin_precio() -> None:
+    """
+    Visita las URLs de obras nueva_vendida sin precio en el estado
+    e intenta recuperar el precio del HTML. Solo para Base Elements.
+    """
+    logging.info("[BE] Buscando precios de obras vendidas sin precio...")
+    actualizaciones = 0
+
+    for nombre_cat, datos_cat in be_estado.items():
+        obras = datos_cat.get("obras", {})
+        for url, info in obras.items():
+            if info.get("estado") == "vendido" and info.get("precio_num", 0.0) == 0.0:
+                precio_str, precio_num = obtener_precio_desde_producto(url)
+                if precio_num > 0:
+                    info["precio"] = precio_str
+                    info["precio_num"] = precio_num
+                    actualizaciones += 1
+                    logging.info("[BE]  💰 Precio recuperado para '%s': %s", info.get("titulo", url), precio_str)
+                time.sleep(1)
+
+    if actualizaciones > 0:
+        logging.info("[BE] %d precios recuperados — guardando estado.", actualizaciones)
+        be_guardar_estado()
+    else:
+        logging.info("[BE] No se pudieron recuperar precios adicionales.")
+
+
 def be_comprobar_todos() -> None:
     global be_cambios_del_dia
     logging.info("[BE] " + "=" * 45)
@@ -1434,6 +1461,7 @@ def be_comprobar_todos() -> None:
 
         be_guardar_estado()
         be_guardar_meta()
+        be_recuperar_precios_sin_precio()
 
         if be_cambios_del_dia:
             be_guardar_ventas_mensuales(be_cambios_del_dia)
