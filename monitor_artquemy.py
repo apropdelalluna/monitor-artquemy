@@ -1208,15 +1208,15 @@ def be_detectar_cambios(obras_nuevas: dict, obras_viejas: dict, nombre_categoria
         if info_vieja is None:
             # Obra nueva
             if info_nueva["estado"] == "vendido":
-                # Aparece directamente como SOLD — recuperar título real
-                titulo_real = be_obtener_titulo_real(url)
-                precio_str, precio_num = obtener_precio_desde_producto(url)
+                # Aparece directamente como SOLD en el primer escaneo
+                # No visitamos la URL individual para no ralentizar — usamos título del slug
+                titulo_real = be_titulo_desde_slug(url)
                 cambios.append({
                     "tipo": "nueva_vendida",
                     "titulo": titulo_real,
                     "artista": nombre_categoria,
-                    "precio": precio_str,
-                    "precio_num": precio_num,
+                    "precio": "Precio no disponible",
+                    "precio_num": 0.0,
                     "url": url,
                     "fecha": fecha,
                 })
