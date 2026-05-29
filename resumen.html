@@ -1,0 +1,520 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="referrer" content="no-referrer">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Resumen · Galerías Barcelona</title>
+  <link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@300;400;700;900&family=DM+Mono:wght@300;400&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #080808;
+      --surface: #0f0f0f;
+      --border: #1a1a1a;
+      --text: #f0ece4;
+      --text-dim: #555;
+
+      --artevistas: #c9a84c;
+      --artquemy:   #c0392b;
+      --base:       #e8e4dc;
+      --tres:       #7ec8a0;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'DM Mono', monospace;
+      min-height: 100vh;
+      padding: 48px 24px 80px;
+    }
+
+    /* ── Header ── */
+    header {
+      max-width: 1100px;
+      margin: 0 auto 56px;
+    }
+
+    .super {
+      font-size: 10px;
+      letter-spacing: 6px;
+      text-transform: uppercase;
+      color: var(--text-dim);
+      margin-bottom: 10px;
+    }
+
+    h1 {
+      font-family: 'Unbounded', sans-serif;
+      font-size: clamp(28px, 5vw, 52px);
+      font-weight: 900;
+      line-height: 1.05;
+      letter-spacing: -1px;
+    }
+
+    h1 em {
+      font-style: normal;
+      -webkit-text-stroke: 1px var(--text);
+      color: transparent;
+    }
+
+    .nav {
+      display: flex;
+      gap: 20px;
+      margin-top: 20px;
+      flex-wrap: wrap;
+    }
+
+    .nav a {
+      font-size: 10px;
+      color: var(--text-dim);
+      text-decoration: none;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      transition: color 0.2s;
+    }
+    .nav a:hover { color: var(--text); }
+
+    /* ── Legend ── */
+    .legend {
+      display: flex;
+      gap: 24px;
+      flex-wrap: wrap;
+      margin-bottom: 40px;
+    }
+
+    .legend-item {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 11px;
+      letter-spacing: 1px;
+    }
+
+    .legend-dot {
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+    }
+
+    /* ── Chart container ── */
+    .chart-wrap {
+      max-width: 1100px;
+      margin: 0 auto;
+    }
+
+    .chart-title {
+      font-family: 'Unbounded', sans-serif;
+      font-size: 11px;
+      font-weight: 400;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      color: var(--text-dim);
+      margin-bottom: 32px;
+    }
+
+    .chart {
+      position: relative;
+      width: 100%;
+      overflow-x: auto;
+    }
+
+    .chart-inner {
+      min-width: 600px;
+      position: relative;
+    }
+
+    /* Grid lines */
+    .grid-lines {
+      position: absolute;
+      top: 0; left: 0; right: 0; bottom: 40px;
+      pointer-events: none;
+    }
+
+    .grid-line {
+      position: absolute;
+      left: 0; right: 0;
+      height: 1px;
+      background: var(--border);
+    }
+
+    .grid-label {
+      position: absolute;
+      right: calc(100% + 8px);
+      font-size: 9px;
+      color: var(--text-dim);
+      transform: translateY(-50%);
+      white-space: nowrap;
+    }
+
+    /* Bars area */
+    .bars-area {
+      display: flex;
+      align-items: flex-end;
+      gap: 4px;
+      height: 320px;
+      padding-left: 56px;
+      padding-bottom: 0;
+    }
+
+    .month-group {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 0;
+    }
+
+    .bars-row {
+      display: flex;
+      align-items: flex-end;
+      gap: 3px;
+      width: 100%;
+      justify-content: center;
+      height: 280px;
+    }
+
+    .bar {
+      flex: 1;
+      min-width: 8px;
+      max-width: 28px;
+      border-radius: 2px 2px 0 0;
+      transition: opacity 0.2s;
+      cursor: pointer;
+      position: relative;
+    }
+
+    .bar:hover { opacity: 0.75; }
+
+    .bar-artevistas { background: var(--artevistas); }
+    .bar-artquemy   { background: var(--artquemy); }
+    .bar-base       { background: var(--base); }
+    .bar-tres       { background: var(--tres); }
+
+    .month-label {
+      font-size: 9px;
+      color: var(--text-dim);
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      margin-top: 8px;
+      text-align: center;
+    }
+
+    /* Tooltip */
+    .tooltip {
+      position: fixed;
+      background: #111;
+      border: 1px solid var(--border);
+      padding: 10px 14px;
+      font-size: 11px;
+      pointer-events: none;
+      z-index: 100;
+      opacity: 0;
+      transition: opacity 0.15s;
+      min-width: 160px;
+    }
+
+    .tooltip.visible { opacity: 1; }
+
+    .tooltip-mes {
+      font-family: 'Unbounded', sans-serif;
+      font-size: 10px;
+      font-weight: 700;
+      color: var(--text-dim);
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      margin-bottom: 8px;
+    }
+
+    .tooltip-row {
+      display: flex;
+      justify-content: space-between;
+      gap: 16px;
+      padding: 2px 0;
+    }
+
+    .tooltip-galeria { color: var(--text-dim); }
+    .tooltip-valor { font-weight: 500; }
+
+    .tooltip-total {
+      margin-top: 8px;
+      padding-top: 8px;
+      border-top: 1px solid var(--border);
+      display: flex;
+      justify-content: space-between;
+      font-family: 'Unbounded', sans-serif;
+      font-size: 10px;
+    }
+
+    /* ── Summary cards ── */
+    .summary {
+      max-width: 1100px;
+      margin: 56px auto 0;
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 12px;
+    }
+
+    @media (max-width: 700px) {
+      .summary { grid-template-columns: 1fr 1fr; }
+    }
+
+    .summary-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      padding: 20px;
+    }
+
+    .summary-card-label {
+      font-size: 9px;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      margin-bottom: 10px;
+    }
+
+    .summary-card-value {
+      font-family: 'Unbounded', sans-serif;
+      font-size: clamp(18px, 2.5vw, 26px);
+      font-weight: 700;
+      line-height: 1;
+    }
+
+    .summary-card-sub {
+      font-size: 10px;
+      color: var(--text-dim);
+      margin-top: 6px;
+    }
+
+    .loading-text {
+      color: var(--text-dim);
+      font-size: 11px;
+      animation: blink 1.2s infinite;
+      text-align: center;
+      padding: 80px 0;
+    }
+
+    @keyframes blink { 0%,100%{opacity:1}50%{opacity:0.3} }
+
+    .last-update {
+      max-width: 1100px;
+      margin: 40px auto 0;
+      font-size: 10px;
+      color: var(--text-dim);
+      text-align: right;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <div class="super">Monitor · Barcelona</div>
+    <h1>Ventas <em>galerías</em></h1>
+    <nav class="nav">
+      <a href="index.html">Artquemy</a>
+      <a href="baseelements.html">Base Elements</a>
+      <a href="3punts.html">3 Punts</a>
+      <a href="https://apropdelalluna.github.io/monitor-artevistas/">Artevistas</a>
+    </nav>
+  </header>
+
+  <div class="chart-wrap" id="mainContent">
+    <div class="loading-text">Cargando datos...</div>
+  </div>
+
+  <div class="tooltip" id="tooltip">
+    <div class="tooltip-mes" id="tt-mes"></div>
+    <div id="tt-rows"></div>
+    <div class="tooltip-total">
+      <span>Total</span>
+      <span id="tt-total"></span>
+    </div>
+  </div>
+
+  <script>
+    const GITHUB_USER = 'apropdelalluna';
+    const MESES_ES = {
+      '01':'Ene','02':'Feb','03':'Mar','04':'Abr','05':'May',
+      '06':'Jun','07':'Jul','08':'Ago','09':'Sep','10':'Oct','11':'Nov','12':'Dic'
+    };
+    const MESES_FULL = {
+      '01':'Enero','02':'Febrero','03':'Marzo','04':'Abril','05':'Mayo',
+      '06':'Junio','07':'Julio','08':'Agosto','09':'Septiembre','10':'Octubre','11':'Noviembre','12':'Diciembre'
+    };
+
+    const GALERIAS = [
+      { id: 'artevistas', nombre: 'Artevistas', repo: 'monitor-artevistas', archivo: 'ventas_mensuales.json',        clase: 'bar-artevistas', color: 'var(--artevistas)' },
+      { id: 'artquemy',   nombre: 'Artquemy',   repo: 'monitor-artquemy',   archivo: 'ventas_mensuales_artquemy.json', clase: 'bar-artquemy',   color: 'var(--artquemy)' },
+      { id: 'base',       nombre: 'Base Elements', repo: 'monitor-artquemy', archivo: 'ventas_mensuales_baseelements.json', clase: 'bar-base', color: 'var(--base)' },
+      { id: 'tres',       nombre: '3 Punts',    repo: 'monitor-artquemy',   archivo: 'ventas_mensuales_3punts.json',   clase: 'bar-tres',       color: 'var(--tres)' },
+    ];
+
+    function formatNum(n) {
+      if (n >= 1000) return '€' + (n/1000).toLocaleString('es-ES', {minimumFractionDigits:0,maximumFractionDigits:1}) + 'k';
+      return '€' + n.toLocaleString('es-ES');
+    }
+
+    function formatNumFull(n) {
+      return '€' + Number(n).toLocaleString('es-ES', {minimumFractionDigits:0,maximumFractionDigits:0});
+    }
+
+    async function fetchVentas(galeria) {
+      try {
+        const url = `https://api.github.com/repos/${GITHUB_USER}/${galeria.repo}/contents/${galeria.archivo}`;
+        const r = await fetch(url, { headers: { 'Accept': 'application/vnd.github.v3.raw' } });
+        if (!r.ok) return {};
+        const data = await r.json();
+        const resultado = {};
+        Object.entries(data).forEach(([mes, obras]) => {
+          resultado[mes] = obras
+            .filter(v => (v.tipo === 'vendida' || v.tipo === 'nueva_vendida') && (v.precio_num || 0) > 0)
+            .reduce((s, v) => s + (v.precio_num || 0), 0);
+        });
+        return resultado;
+      } catch(e) { return {}; }
+    }
+
+    async function render() {
+      const resultados = await Promise.all(GALERIAS.map(g => fetchVentas(g)));
+      const dataMap = {};
+      GALERIAS.forEach((g, i) => { dataMap[g.id] = resultados[i]; });
+
+      // Collect all months
+      const allMeses = new Set();
+      Object.values(dataMap).forEach(d => Object.keys(d).forEach(m => allMeses.add(m)));
+      const meses = [...allMeses].sort();
+
+      if (meses.length === 0) {
+        document.getElementById('mainContent').innerHTML = '<div class="loading-text">Sin datos aún</div>';
+        return;
+      }
+
+      // Max value for scale
+      const maxVal = Math.max(...meses.map(mes =>
+        GALERIAS.reduce((s, g) => s + (dataMap[g.id][mes] || 0), 0)
+      ));
+      const chartMax = Math.ceil(maxVal / 1000) * 1000 || 1000;
+
+      // Totals per galeria
+      const totales = {};
+      GALERIAS.forEach(g => {
+        totales[g.id] = Object.values(dataMap[g.id]).reduce((s,v) => s+v, 0);
+      });
+
+      const mainContent = document.getElementById('mainContent');
+
+      // Legend
+      const legendHTML = `<div class="legend">
+        ${GALERIAS.map(g => `
+          <div class="legend-item">
+            <div class="legend-dot" style="background:${g.color}"></div>
+            <span>${g.nombre}</span>
+          </div>`).join('')}
+      </div>`;
+
+      // Grid lines
+      const nLines = 5;
+      let gridHTML = '';
+      for (let i = 0; i <= nLines; i++) {
+        const pct = (i / nLines) * 100;
+        const val = (chartMax / nLines) * i;
+        gridHTML += `<div class="grid-line" style="bottom:${pct}%">
+          <span class="grid-label">${formatNum(val)}</span>
+        </div>`;
+      }
+
+      // Bars
+      const barsHTML = meses.map(mes => {
+        const [y, m] = mes.split('-');
+        const barsInner = GALERIAS.map(g => {
+          const val = dataMap[g.id][mes] || 0;
+          const heightPct = val > 0 ? Math.max((val / chartMax) * 100, 1) : 0;
+          return `<div class="bar ${g.clase}"
+            style="height:${heightPct}%"
+            data-mes="${mes}"
+            data-galeria="${g.nombre}"
+            data-val="${val}"
+            onmouseenter="showTooltip(event,'${mes}')"
+            onmouseleave="hideTooltip()"
+          ></div>`;
+        }).join('');
+
+        return `<div class="month-group">
+          <div class="bars-row">${barsInner}</div>
+          <div class="month-label">${MESES_ES[m]}<br><span style="opacity:0.4">${y.slice(2)}</span></div>
+        </div>`;
+      }).join('');
+
+      // Summary cards
+      const totalGlobal = Object.values(totales).reduce((s,v) => s+v, 0);
+      const summaryHTML = `<div class="summary">
+        ${GALERIAS.map(g => `
+          <div class="summary-card">
+            <div class="summary-card-label" style="color:${g.color}">${g.nombre}</div>
+            <div class="summary-card-value">${formatNumFull(totales[g.id])}</div>
+            <div class="summary-card-sub">${Object.keys(dataMap[g.id]).length} mes${Object.keys(dataMap[g.id]).length!==1?'es':''} registrado${Object.keys(dataMap[g.id]).length!==1?'s':''}</div>
+          </div>`).join('')}
+      </div>`;
+
+      mainContent.innerHTML = `
+        ${legendHTML}
+        <div class="chart-title">Ventas mensuales por galería</div>
+        <div class="chart">
+          <div class="chart-inner">
+            <div class="grid-lines" style="left:56px">${gridHTML}</div>
+            <div class="bars-area">${barsHTML}</div>
+          </div>
+        </div>
+        ${summaryHTML}
+      `;
+
+      document.body.insertAdjacentHTML('beforeend',
+        `<div class="last-update">Actualizado: ${new Date().toLocaleString('es-ES')}</div>`);
+
+      // Store data for tooltip
+      window._chartData = { dataMap, meses };
+    }
+
+    function showTooltip(e, mes) {
+      const { dataMap } = window._chartData;
+      const [y, m] = mes.split('-');
+      const tt = document.getElementById('tooltip');
+      document.getElementById('tt-mes').textContent = `${MESES_FULL[m]} ${y}`;
+
+      let rowsHTML = '';
+      let total = 0;
+      GALERIAS.forEach(g => {
+        const val = dataMap[g.id][mes] || 0;
+        total += val;
+        rowsHTML += `<div class="tooltip-row">
+          <span class="tooltip-galeria" style="color:${g.color}">${g.nombre}</span>
+          <span class="tooltip-valor">${val > 0 ? formatNumFull(val) : '—'}</span>
+        </div>`;
+      });
+      document.getElementById('tt-rows').innerHTML = rowsHTML;
+      document.getElementById('tt-total').textContent = formatNumFull(total);
+
+      tt.classList.add('visible');
+      moveTooltip(e);
+    }
+
+    function moveTooltip(e) {
+      const tt = document.getElementById('tooltip');
+      const x = e.clientX + 16;
+      const y = e.clientY - 10;
+      tt.style.left = Math.min(x, window.innerWidth - 200) + 'px';
+      tt.style.top = Math.min(y, window.innerHeight - 160) + 'px';
+    }
+
+    function hideTooltip() {
+      document.getElementById('tooltip').classList.remove('visible');
+    }
+
+    document.addEventListener('mousemove', e => {
+      if (document.getElementById('tooltip').classList.contains('visible')) moveTooltip(e);
+    });
+
+    render();
+  </script>
+</body>
+</html>
