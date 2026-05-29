@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="referrer" content="no-referrer">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>3 Punts · Ventas totales por artista</title>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600;700&family=DM+Mono:wght@300;400;500&display=swap" rel="stylesheet">
+  <style>
+    :root { --bg:#0c0c0c; --surface:#141414; --border:#252525; --accent:#b5a08a; --text:#e8e4dc; --text-dim:#777; --sold:#c0392b; --new:#27ae60; }
+    * { box-sizing:border-box; margin:0; padding:0; }
+    body { background:var(--bg); color:var(--text); font-family:'DM Mono',monospace; min-height:100vh; padding:40px 20px; }
+    .container { max-width:860px; margin:0 auto; }
+    header { border-bottom:1px solid var(--border); padding-bottom:24px; margin-bottom:40px; }
+    .logo { font-family:'Cormorant Garamond',serif; font-size:clamp(24px,4vw,42px); font-weight:700; letter-spacing:2px; }
+    .logo span { color:var(--accent); }
+    .subtitle { font-size:10px; color:var(--text-dim); letter-spacing:4px; text-transform:uppercase; margin-top:6px; }
+    .back-link { display:inline-block; font-size:11px; color:var(--accent); text-decoration:none; letter-spacing:1px; margin-top:8px; }
+    .artist-card { background:var(--surface); border:1px solid var(--border); border-left:3px solid var(--accent); padding:20px; margin-bottom:12px; }
+    .artist-header { display:flex; justify-content:space-between; align-items:baseline; cursor:pointer; }
+    .artist-name { font-family:'Cormorant Garamond',serif; font-size:20px; font-weight:700; }
+    .artist-total { font-size:16px; font-weight:500; color:var(--accent); }
+    .obra-row { display:flex; justify-content:space-between; padding:7px 0; border-top:1px solid var(--border); font-size:11px; }
+    .loading-text { color:var(--text-dim); font-size:11px; animation:blink 1.2s infinite; }
+    @keyframes blink { 0%,100%{opacity:1}50%{opacity:0.3} }
+    .empty { text-align:center; padding:40px; color:var(--text-dim); font-size:11px; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div class="logo"><span>3</span> Punts Galería</div>
+      <div class="subtitle">Ventas totales por artista</div>
+      <a href="3punts.html" class="back-link">← Volver al panel</a>
+    </header>
+    <div id="contenido"><span class="loading-text">Cargando...</span></div>
+  </div>
+  <script>
+    async function cargar() {
+      try {
+        const r = await fetch('https://api.github.com/repos/apropdelalluna/monitor-artquemy/contents/ventas_mensuales_3punts.json', { headers: { 'Accept': 'application/vnd.github.v3.raw' } });
+        if (!r.ok) throw new Error();
+        const ventas = await r.json();
+        const porArtista = {};
+        Object.values(ventas).forEach(mes => {
+          mes.forEach(v => {
+            if (v.tipo === 'vendida' || v.tipo === 'nueva_vendida') {
+              if (!porArtista[v.artista]) porArtista[v.artista] = { total: 0, obras: [] };
+              porArtista[v.artista].total += v.precio_num || 0;
+              porArtista[v.artista].obras.push(v);
+            }
+          });
+        });
+        const ordenados = Object.entries(porArtista).sort((a,b) => b[1].total - a[1].total);
+        if (ordenados.length === 0) { document.getElementById('contenido').innerHTML = '<div class="empty">Sin ventas registradas aún</div>'; return; }
+        let html = '';
+        ordenados.forEach(([artista, datos], i) => {
+          const sinPrecio = datos.obras.filter(o => !o.precio_num).length;
+          const totalStr = datos.total > 0 ? '€' + datos.total.toLocaleString('es-ES') : '—';
+          html += `<div class="artist-card">
+            <div class="artist-header" onclick="toggle(${i})">
+              <div>
+                <div class="artist-name">${artista}</div>
+                <div style="font-size:10px;color:var(--text-dim);margin-top:2px;">${datos.obras.length} obra${datos.obras.length!==1?'s':''}${sinPrecio>0?' · '+sinPrecio+' s/p':''}</div>
+              </div>
+              <div style="display:flex;align-items:center;gap:12px;">
+                <div class="artist-total">${totalStr}</div>
+                <span id="arrow-${i}" style="font-size:18px;color:var(--text-dim);">▸</span>
+              </div>
+            </div>
+            <div id="obras-${i}" style="display:none;">`;
+          [...datos.obras].sort((a,b) => (b.precio_num||0)-(a.precio_num||0)).forEach(o => {
+            html += `<div class="obra-row">
+              <span style="color:var(--text-dim);">${o.url?`<a href="${o.url}" target="_blank" rel="noreferrer noopener" style="color:var(--text-dim);text-decoration:none;border-bottom:1px solid var(--border);">${o.obra}</a>`:o.obra}</span>
+              <span style="font-weight:500;">${o.precio_num>0?'€'+o.precio_num.toLocaleString('es-ES'):'<span style="color:var(--text-dim);font-style:italic;">s/p</span>'}</span>
+            </div>`;
+          });
+          html += '</div></div>';
+        });
+        document.getElementById('contenido').innerHTML = html;
+      } catch(e) {
+        document.getElementById('contenido').innerHTML = '<div class="empty">Error al cargar datos</div>';
+      }
+    }
+    function toggle(i) {
+      const obras = document.getElementById('obras-'+i);
+      const arrow = document.getElementById('arrow-'+i);
+      const isOpen = obras.style.display !== 'none';
+      obras.style.display = isOpen ? 'none' : 'block';
+      arrow.textContent = isOpen ? '▸' : '▾';
+    }
+    cargar();
+  </script>
+</body>
+</html>

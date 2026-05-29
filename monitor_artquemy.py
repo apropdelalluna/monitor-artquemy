@@ -1486,16 +1486,19 @@ def main() -> None:
     cargar_artistas_github()
     cargar_estado()
     be_cargar_estado()
+    tp_cargar_estado()
 
     # Comprobación al arrancar
     cambios_artistas = detectar_artistas_nuevos()
     comprobar_todos()
     be_comprobar_todos()
+    tp_comprobar_todos()
 
     # Comprobación automática diaria a las 17:50
     schedule.every().day.at("17:50").do(detectar_artistas_nuevos)
     schedule.every().day.at("17:50").do(comprobar_todos)
     schedule.every().day.at("17:50").do(be_comprobar_todos)
+    schedule.every().day.at("17:50").do(tp_comprobar_todos)
 
     logging.info("Scheduler activo. Comprobación automática a las 17:50 UTC.")
 
@@ -1506,3 +1509,331 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
+
+# ══════════════════════════════════════════════════════════════
+#  MONITOR 3 PUNTS
+# ══════════════════════════════════════════════════════════════
+
+TP_ARCHIVO_ESTADO    = "estado_3punts.json"
+TP_ARCHIVO_MENSUAL   = "ventas_mensuales_3punts.json"
+TP_ARCHIVO_HISTORIAL = "historial_cambios_3punts.json"
+TP_ARCHIVO_META      = "meta_3punts.json"
+TP_BASE_URL          = "https://www.3punts.com/es/shop"
+TP_MAX_PAGINAS       = 40
+
+tp_estado = {}
+tp_cambios_del_dia = []
+
+
+def tp_extraer_obras(soup: BeautifulSoup) -> dict:
+    """Extrae obras de una página del shop de 3 Punts."""
+    obras = {}
+
+    for row in soup.select("div.views-row"):
+        # URL y artista
+        enlace = row.select_one("a.shop-img-link")
+        if not enlace or not enlace.get("href"):
+            continue
+        url_obra = enlace["href"]
+        if not url_obra.startswith("http"):
+            url_obra = "https://www.3punts.com" + url_obra
+
+        # Artista
+        artista_el = row.select_one("div.field-name-field-commerce-author2")
+        artista = artista_el.get_text(strip=True) if artista_el else ""
+
+        # Título
+        titulo_el = row.select_one("div.views-field-title-1 a")
+        titulo = titulo_el.get_text(strip=True) if titulo_el else ""
+        # Limpiar la fecha del título (viene como "TÍTULO, 2024")
+        if ", " in titulo:
+            partes = titulo.rsplit(", ", 1)
+            if partes[-1].strip().isdigit():
+                titulo = partes[0].strip()
+
+        # Precio
+        precio_el = row.select_one("div.field-name-commerce-price")
+        precio_str_raw = precio_el.get_text(strip=True) if precio_el else ""
+        precio_num = precio_a_numero(precio_str_raw)
+
+        # Estado — en el listado no hay clase out-of-stock visible directamente
+        # pero el formulario tiene clase in-stock o out-of-stock
+        form_el = row.select_one("form.commerce-add-to-cart")
+        if form_el:
+            if "out-of-stock" in form_el.get("class", []):
+                estado = "vendido"
+            else:
+                estado = "disponible"
+        else:
+            # Sin formulario = consultar precio, disponible
+            estado = "disponible"
+
+        # Precio 0 = consultar precio (no vendido)
+        if precio_num == 0.0 and estado != "vendido":
+            precio_str = "Consultar precio"
+        else:
+            precio_str = precio_str_raw if precio_str_raw else "Precio no disponible"
+
+        obras[url_obra] = {
+            "titulo":     titulo,
+            "artista":    artista,
+            "precio":     precio_str,
+            "precio_num": precio_num,
+            "estado":     estado,
+            "url":        url_obra,
+        }
+
+    return obras
+
+
+def tp_obtener_todas_obras() -> dict | None:
+    """Escanea todas las páginas del shop de 3 Punts."""
+    headers = {
+        "User-Agent": (
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+            "AppleWebKit/537.36 (KHTML, like Gecko) "
+            "Chrome/124.0.0.0 Safari/537.36"
+        ),
+        "Accept-Language": "es-ES,es;q=0.9",
+    }
+    obras_totales = {}
+    textos = []
+
+    for pagina in range(TP_MAX_PAGINAS):
+        url = f"{TP_BASE_URL}?page={pagina}" if pagina > 0 else TP_BASE_URL
+        try:
+            resp = requests.get(url, headers=headers, timeout=20)
+            resp.raise_for_status()
+            soup = BeautifulSoup(resp.text, "html.parser")
+
+            obras_pagina = tp_extraer_obras(soup)
+            if not obras_pagina:
+                logging.info("[3P] Página %d vacía — fin del shop.", pagina)
+                break
+
+            obras_totales.update(obras_pagina)
+            textos.append(soup.select_one("div.view-content").get_text(separator="\n", strip=True) if soup.select_one("div.view-content") else "")
+
+            # Verificar si hay página siguiente
+            siguiente = soup.select_one("li.pager-next a")
+            if not siguiente:
+                logging.info("[3P] Última página: %d (%d obras totales).", pagina, len(obras_totales))
+                break
+
+            time.sleep(1.5)
+
+        except requests.RequestException as e:
+            logging.error("[3P] Error en página %d: %s", pagina, e)
+            break
+
+    if not obras_totales:
+        return None
+
+    texto_completo = "\n".join(textos)
+    hash_actual = hashlib.md5(texto_completo.encode()).hexdigest()
+    return {"hash": hash_actual, "texto": texto_completo, "obras": obras_totales}
+
+
+def tp_detectar_cambios(obras_nuevas: dict, obras_viejas: dict) -> list:
+    cambios = []
+    fecha = datetime.now().strftime("%d/%m/%Y %H:%M")
+
+    for url, info_nueva in obras_nuevas.items():
+        info_vieja = obras_viejas.get(url)
+
+        if info_vieja is None:
+            # Obra nueva
+            if info_nueva["estado"] == "vendido":
+                cambios.append({
+                    "tipo":       "nueva_vendida",
+                    "titulo":     info_nueva["titulo"],
+                    "artista":    info_nueva["artista"],
+                    "precio":     "Precio no disponible",
+                    "precio_num": 0.0,
+                    "url":        url,
+                    "fecha":      fecha,
+                })
+            else:
+                cambios.append({
+                    "tipo":       "nueva",
+                    "titulo":     info_nueva["titulo"],
+                    "artista":    info_nueva["artista"],
+                    "precio":     info_nueva["precio"],
+                    "precio_num": info_nueva["precio_num"],
+                    "url":        url,
+                    "fecha":      fecha,
+                })
+        else:
+            # Cambio de estado
+            if info_vieja["estado"] != info_nueva["estado"]:
+                if info_nueva["estado"] == "vendido":
+                    # Usar precio del estado anterior
+                    cambios.append({
+                        "tipo":       "vendida",
+                        "titulo":     info_vieja["titulo"] or info_nueva["titulo"],
+                        "artista":    info_vieja["artista"] or info_nueva["artista"],
+                        "precio":     info_vieja["precio"],
+                        "precio_num": info_vieja["precio_num"],
+                        "url":        url,
+                        "fecha":      fecha,
+                    })
+                elif info_vieja["estado"] == "vendido" and info_nueva["estado"] == "disponible":
+                    cambios.append({
+                        "tipo":       "nueva",
+                        "titulo":     info_nueva["titulo"],
+                        "artista":    info_nueva["artista"],
+                        "precio":     info_nueva["precio"],
+                        "precio_num": info_nueva["precio_num"],
+                        "url":        url,
+                        "fecha":      fecha,
+                    })
+            # Cambio de precio (solo disponibles)
+            elif (info_vieja["estado"] == "disponible"
+                  and info_nueva["estado"] == "disponible"
+                  and info_vieja.get("precio_num", 0) != info_nueva.get("precio_num", 0)
+                  and info_nueva.get("precio_num", 0) > 0
+                  and info_vieja.get("precio_num", 0) > 0):
+                cambios.append({
+                    "tipo":            "precio_cambiado",
+                    "titulo":          info_nueva["titulo"],
+                    "artista":         info_nueva["artista"],
+                    "precio":          info_nueva["precio"],
+                    "precio_num":      info_nueva["precio_num"],
+                    "precio_anterior": info_vieja["precio"],
+                    "url":             url,
+                    "fecha":           fecha,
+                })
+
+    # Obras desaparecidas
+    for url, info_vieja in obras_viejas.items():
+        if url not in obras_nuevas:
+            cambios.append({
+                "tipo":       "desaparecida",
+                "titulo":     info_vieja["titulo"],
+                "artista":    info_vieja["artista"],
+                "precio":     info_vieja["precio"],
+                "precio_num": info_vieja["precio_num"],
+                "url":        url,
+                "fecha":      fecha,
+            })
+
+    return cambios
+
+
+def tp_cargar_estado() -> None:
+    global tp_estado
+    contenido = github_cargar_archivo(TP_ARCHIVO_ESTADO)
+    if contenido:
+        try:
+            tp_estado = json.loads(contenido)
+            logging.info("[3P] Estado cargado: %d obras.", len(tp_estado))
+        except Exception as e:
+            logging.warning("[3P] No se pudo parsear estado: %s", e)
+    else:
+        logging.info("[3P] Sin estado previo — primer escaneo.")
+
+
+def tp_guardar_estado() -> None:
+    try:
+        with open(TP_ARCHIVO_ESTADO, "w", encoding="utf-8") as f:
+            json.dump(tp_estado, f, ensure_ascii=False, indent=2)
+        github_guardar_archivo(TP_ARCHIVO_ESTADO)
+        logging.info("[3P] ✅ %s guardado.", TP_ARCHIVO_ESTADO)
+    except Exception as e:
+        logging.error("[3P] Error guardando estado: %s", e)
+
+
+def tp_guardar_ventas_mensuales(cambios: list) -> None:
+    try:
+        contenido = github_cargar_archivo(TP_ARCHIVO_MENSUAL)
+        ventas = json.loads(contenido) if contenido else {}
+        mes_actual = datetime.now().strftime("%Y-%m")
+        if mes_actual not in ventas:
+            ventas[mes_actual] = []
+        for c in cambios:
+            if c["tipo"] in ("vendida", "nueva_vendida"):
+                ventas[mes_actual].append({
+                    "fecha":      c.get("fecha", ""),
+                    "artista":    c.get("artista", ""),
+                    "obra":       c.get("titulo", ""),
+                    "precio":     c.get("precio", ""),
+                    "precio_num": c.get("precio_num", 0.0),
+                    "tipo":       c["tipo"],
+                    "url":        c.get("url", ""),
+                })
+        with open(TP_ARCHIVO_MENSUAL, "w", encoding="utf-8") as f:
+            json.dump(ventas, f, ensure_ascii=False, indent=2)
+        github_guardar_archivo(TP_ARCHIVO_MENSUAL)
+        logging.info("[3P] ✅ %s guardado.", TP_ARCHIVO_MENSUAL)
+    except Exception as e:
+        logging.error("[3P] Error guardando ventas mensuales: %s", e)
+
+
+def tp_guardar_historial(cambios: list) -> None:
+    try:
+        contenido = github_cargar_archivo(TP_ARCHIVO_HISTORIAL)
+        historial = json.loads(contenido) if contenido else []
+        historial.extend(cambios)
+        historial = historial[-2000:]
+        with open(TP_ARCHIVO_HISTORIAL, "w", encoding="utf-8") as f:
+            json.dump(historial, f, ensure_ascii=False, indent=2)
+        github_guardar_archivo(TP_ARCHIVO_HISTORIAL)
+        logging.info("[3P] ✅ %s guardado.", TP_ARCHIVO_HISTORIAL)
+    except Exception as e:
+        logging.error("[3P] Error guardando historial: %s", e)
+
+
+def tp_guardar_meta() -> None:
+    try:
+        meta = {"ultima_comprobacion": datetime.now().strftime("%d/%m/%Y %H:%M")}
+        with open(TP_ARCHIVO_META, "w", encoding="utf-8") as f:
+            json.dump(meta, f, ensure_ascii=False, indent=2)
+        github_guardar_archivo(TP_ARCHIVO_META)
+    except Exception as e:
+        logging.error("[3P] Error guardando meta: %s", e)
+
+
+def tp_comprobar_todos() -> None:
+    global tp_estado, tp_cambios_del_dia
+    logging.info("[3P] " + "=" * 45)
+    logging.info("[3P] Inicio comprobación 3 Punts — %s", datetime.now().strftime("%d/%m/%Y %H:%M"))
+
+    tp_cambios_del_dia = []
+
+    try:
+        datos = tp_obtener_todas_obras()
+        if datos is None:
+            logging.error("[3P] No se pudieron obtener obras.")
+            return
+
+        obras_actuales = datos["obras"]
+        hash_actual = datos["hash"]
+        hash_viejo = tp_estado.get("__hash__", "")
+
+        cambios = tp_detectar_cambios(obras_actuales, tp_estado.get("obras", {}))
+
+        if cambios:
+            logging.info("[3P] %d cambios detectados:", len(cambios))
+            for c in cambios:
+                logging.info("[3P]   [%s] %s (%s) — %s", c["tipo"], c["titulo"], c["artista"], c["precio"])
+            tp_cambios_del_dia = cambios
+
+        # Actualizar estado
+        tp_estado = {
+            "__hash__": hash_actual,
+            "obras": obras_actuales,
+        }
+
+        tp_guardar_estado()
+        tp_guardar_meta()
+
+        if tp_cambios_del_dia:
+            tp_guardar_ventas_mensuales(tp_cambios_del_dia)
+            tp_guardar_historial(tp_cambios_del_dia)
+            logging.info("[3P] Comprobación finalizada — %d cambios.", len(tp_cambios_del_dia))
+        else:
+            logging.info("[3P] Comprobación finalizada — Sin cambios detectados.")
+
+    except Exception as e:
+        logging.error("[3P] Error general: %s", e)
