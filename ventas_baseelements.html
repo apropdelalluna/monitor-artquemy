@@ -66,30 +66,41 @@
         }
 
         let html = '';
-        ordenados.forEach(([artista, datos]) => {
+        ordenados.forEach(([artista, datos], i) => {
           const obrasOrdenadas = [...datos.obras].sort((a, b) => b.precio_num - a.precio_num);
           const sinPrecio = datos.obras.filter(o => !o.precio_num).length;
           const totalStr = datos.total > 0 ? '€' + datos.total.toLocaleString('es-ES') : '—';
           html += `<div class="artist-card">
-            <div class="artist-header">
+            <div class="artist-header" onclick="toggleArtista(${i})" style="cursor:pointer;">
               <div>
                 <div class="artist-name">${artista}</div>
                 <div style="font-size:10px;color:var(--text-dim);margin-top:2px;">${datos.obras.length} obra${datos.obras.length !== 1 ? 's' : ''}${sinPrecio > 0 ? ' · ' + sinPrecio + ' s/p' : ''}</div>
               </div>
-              <div class="artist-total">${totalStr}</div>
-            </div>`;
+              <div style="display:flex;align-items:center;gap:12px;">
+                <div class="artist-total">${totalStr}</div>
+                <span id="arrow-${i}" style="font-size:18px;color:var(--text-dim);">▸</span>
+              </div>
+            </div>
+            <div id="obras-${i}" style="display:none;">`;
           obrasOrdenadas.forEach(o => {
             html += `<div class="obra-row">
               <span style="color:var(--text-dim);">${o.url ? `<a href="${o.url}" target="_blank" rel="noreferrer noopener" style="color:var(--text-dim);text-decoration:none;border-bottom:1px solid var(--border);">${o.obra}</a>` : o.obra}</span>
               <span style="color:var(--text);font-weight:700;">${o.precio_num > 0 ? '€' + o.precio_num.toLocaleString('es-ES') : '<span style="color:var(--text-dim);font-style:italic;">s/p</span>'}</span>
             </div>`;
           });
-          html += '</div>';
+          html += '</div></div>';
         });
         document.getElementById('contenido').innerHTML = html;
       } catch(e) {
         document.getElementById('contenido').innerHTML = '<div class="empty">Error loading data</div>';
       }
+    }
+    function toggleArtista(i) {
+      const obras = document.getElementById('obras-' + i);
+      const arrow = document.getElementById('arrow-' + i);
+      const isOpen = obras.style.display !== 'none';
+      obras.style.display = isOpen ? 'none' : 'block';
+      arrow.textContent = isOpen ? '▸' : '▾';
     }
     cargar();
   </script>
