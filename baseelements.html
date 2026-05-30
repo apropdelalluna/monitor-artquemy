@@ -541,8 +541,8 @@
       document.getElementById('statusDot').className = 'status-dot loading';
       try {
         await fetch(hook, { method: 'POST', mode: 'no-cors' });
-        showToast('✅ Service woken. Updating in ~5 min.');
-        let restantes = 5 * 60;
+        showToast('✅ Service woken. Updating in ~7 min.');
+        let restantes = 7 * 60;
         const intervalo = setInterval(() => {
           restantes--;
           const min = Math.floor(restantes / 60);

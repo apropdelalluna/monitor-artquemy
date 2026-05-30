@@ -574,9 +574,9 @@
 
       try {
         await fetch(DEPLOY_HOOK, { method: 'POST', mode: 'no-cors' });
-        showToast('✅ Servicio despertado. Actualizando datos en ~5 min.');
+        showToast('✅ Servicio despertado. Actualizando datos en ~7 min.');
 
-        const totalSegundos = 5 * 60;
+        const totalSegundos = 7 * 60;
         let restantes = totalSegundos;
 
         const intervalo = setInterval(() => {
