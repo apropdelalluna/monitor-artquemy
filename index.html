@@ -12,8 +12,8 @@
       --bg: #0e0e0e;
       --surface: #161616;
       --border: #2a2a2a;
-      --accent: #c9a84c;
-      --accent-dim: #8a6f2e;
+      --accent: #c0392b;
+      --accent-dim: #8a2a1e;
       --text: #e8e4dc;
       --text-dim: #888;
       --sold: #e05252;
@@ -358,7 +358,7 @@
         <div class="card-sub" id="obrasMes">Cargando...</div>
       </div>
       <div class="card">
-        <div class="card-label">En reserva</div>
+        <div class="card-label">Obras vendidas este mes</div>
         <div class="card-value" style="font-size:36px;" id="ultimoCambio">—</div>
         <div class="card-sub" id="ultimoCambioSub">Cargando...</div>
       </div>
@@ -477,38 +477,15 @@
         const mesActual = `${ahora.getFullYear()}-${String(ahora.getMonth()+1).padStart(2,'0')}`;
         const ventasMes = ventas[mesActual] || [];
 
-        // Calcular obras actualmente RESERVED desde el historial
-        // Una obra está en reserva si aparece como RESERVED y no tiene una entrada posterior como vendida/desaparecida
-        let totalReserved = 0;
-        let numReserved = 0;
-        const obrasReserved = {};
-
-        historial.forEach(c => {
-          const esReserved = c.obra.toLowerCase().includes('reserved');
-          const obraBase = c.obra.replace(/\s*\(RESERVED\)/i, '').trim();
-          
-          if (esReserved && c.tipo === 'nueva') {
-            obrasReserved[obraBase] = { precio_num: c.precio_num || 0, artista: c.artista };
-          } else if (!esReserved && (c.tipo === 'vendida' || c.tipo === 'desaparecida' || c.tipo === 'nueva_vendida')) {
-            // Si la obra base aparece como vendida/desaparecida, ya no está en reserva
-            delete obrasReserved[obraBase];
-          }
-        });
-
-        Object.values(obrasReserved).forEach(obra => {
-          totalReserved += obra.precio_num;
-          numReserved++;
-        });
-
-        // Vendidas del mes (sin desaparecidas ni nuevas-reserved)
-        const ventasReales = ventasMes.filter(v => v.tipo !== 'desaparecida' && !(v.obra.includes('RESERVED') && v.tipo === 'nueva'));
+        // Vendidas del mes con precio conocido
+        const ventasReales = ventasMes.filter(v => (v.tipo === 'vendida' || v.tipo === 'nueva_vendida') && (v.precio_num || 0) > 0);
         const totalMes = ventasReales.reduce((s, v) => s + (v.precio_num || 0), 0);
         const numObras = ventasReales.length;
 
         document.getElementById('totalMes').textContent = formatNum(totalMes);
-        document.getElementById('obrasMes').innerHTML = `
-          ${numObras} obra${numObras !== 1 ? 's' : ''} vendida${numObras !== 1 ? 's' : ''} en ${formatMes(mesActual)}
-        `;
+        document.getElementById('obrasMes').innerHTML = `${numObras} obra${numObras !== 1 ? 's' : ''} vendida${numObras !== 1 ? 's' : ''} en ${formatMes(mesActual)}`;
+        document.getElementById('ultimoCambio').textContent = numObras;
+        document.getElementById('ultimoCambioSub').textContent = formatMes(mesActual);
 
         // Historial mensual con obras por mes
         // Añadir mes actual si no tiene datos
