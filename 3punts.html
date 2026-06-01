@@ -400,7 +400,7 @@
         const tipo = c.tipo || 'desaparecida';
         ultimoIndice = i + 1;
         const tipoLabel = {'vendida':'🔴 Vendida','nueva':'🟢 Nueva','nueva_vendida':'🔴🟢 Nueva vendida'}[tipo] || tipo;
-        const esReserved = c.obra.includes('RESERVED') && tipo !== 'vendida' && tipo !== 'nueva_vendida';
+        const esReserved = (c.obra || '').includes('RESERVED') && tipo !== 'vendida' && tipo !== 'nueva_vendida';
         const claseItem = esReserved ? 'reserved' : (tipo === 'artista_desaparecido' ? 'desaparecida' : tipo);
         cambiosHTML += `<div class="cambio-item ${claseItem}">
           <div class="cambio-header">
