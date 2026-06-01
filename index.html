@@ -3,6 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="robots" content="noindex, nofollow">
+  <meta name="referrer" content="no-referrer">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Monitor Artquemy</title>
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=DM+Mono:wght@300;400;500&display=swap" rel="stylesheet">
@@ -11,15 +12,14 @@
       --bg: #0e0e0e;
       --surface: #161616;
       --border: #2a2a2a;
-      --accent: #c0392b;
-      --accent-dim: #8a2a1e;
+      --accent: #c9a84c;
+      --accent-dim: #8a6f2e;
       --text: #e8e4dc;
       --text-dim: #888;
       --sold: #e05252;
       --new: #52a870;
-      --retired: #e09352;
+      --reserved: #e09352;
       --disappeared: #e09352;
-      --eliminated: #7f8c8d;
     }
 
     * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -62,7 +62,9 @@
       color: var(--text);
     }
 
-    .logo span { color: var(--accent); }
+    .logo span {
+      color: var(--accent);
+    }
 
     .subtitle {
       font-size: 11px;
@@ -88,20 +90,29 @@
       animation: pulse 2s infinite;
     }
 
-    .status-dot.loading { background: var(--accent); }
-    .status-dot.error { background: var(--sold); animation: none; }
+    .status-dot.loading {
+      background: var(--accent);
+    }
+
+    .status-dot.error {
+      background: var(--sold);
+      animation: none;
+    }
 
     @keyframes pulse {
       0%, 100% { opacity: 1; }
       50% { opacity: 0.4; }
     }
 
-    .status-text { font-size: 12px; color: var(--text-dim); }
+    .status-text {
+      font-size: 12px;
+      color: var(--text-dim);
+    }
 
     .wake-btn {
       margin-left: auto;
       background: var(--accent);
-      color: #fff;
+      color: #000;
       border: none;
       padding: 10px 20px;
       font-family: 'DM Mono', monospace;
@@ -113,8 +124,14 @@
       transition: all 0.2s;
     }
 
-    .wake-btn:hover { background: #fff; color: #000; }
-    .wake-btn:disabled { opacity: 0.4; cursor: not-allowed; }
+    .wake-btn:hover {
+      background: #fff;
+    }
+
+    .wake-btn:disabled {
+      opacity: 0.4;
+      cursor: not-allowed;
+    }
 
     .grid {
       display: grid;
@@ -164,7 +181,45 @@
       border-bottom: 1px solid var(--border);
     }
 
-    .section { margin-bottom: 40px; }
+    .section {
+      margin-bottom: 40px;
+    }
+
+    .historial-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 13px;
+    }
+
+    .historial-table th {
+      text-align: left;
+      font-size: 10px;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      color: var(--text-dim);
+      padding: 8px 12px;
+      border-bottom: 1px solid var(--border);
+      font-weight: 400;
+    }
+
+    .historial-table td {
+      padding: 12px;
+      border-bottom: 1px solid var(--border);
+      color: var(--text);
+    }
+
+    .historial-table tr:last-child td {
+      border-bottom: none;
+    }
+
+    .historial-table .mes-actual td {
+      color: var(--accent);
+    }
+
+    .amount {
+      text-align: right;
+      font-weight: 500;
+    }
 
     .cambios-list {
       display: flex;
@@ -181,10 +236,8 @@
 
     .cambio-item.vendida { border-left-color: var(--sold); }
     .cambio-item.nueva { border-left-color: var(--new); }
-    .cambio-item.retirada { border-left-color: var(--retired); }
-    .cambio-item.eliminada { border-left-color: var(--eliminated); }
+    .cambio-item.reserved { border-left-color: var(--reserved); }
     .cambio-item.desaparecida { border-left-color: var(--disappeared); }
-    .cambio-item.precio_cambiado { border-left-color: var(--retired); }
 
     .cambio-header {
       display: flex;
@@ -222,10 +275,8 @@
 
     .badge.vendida { background: rgba(224,82,82,0.15); color: var(--sold); }
     .badge.nueva { background: rgba(82,168,112,0.15); color: var(--new); }
-    .badge.retirada { background: rgba(224,147,82,0.15); color: var(--retired); }
-    .badge.eliminada { background: rgba(127,140,141,0.15); color: var(--eliminated); }
+    .badge.reserved { background: rgba(224,147,82,0.15); color: var(--reserved); }
     .badge.desaparecida { background: rgba(224,147,82,0.15); color: var(--disappeared); }
-    .badge.precio_cambiado { background: rgba(224,147,82,0.15); color: var(--retired); }
 
     .cambio-precio {
       font-size: 13px;
@@ -265,7 +316,7 @@
       bottom: 24px;
       right: 24px;
       background: var(--accent);
-      color: #fff;
+      color: #000;
       padding: 12px 20px;
       font-size: 12px;
       font-family: 'DM Mono', monospace;
@@ -275,7 +326,10 @@
       z-index: 100;
     }
 
-    .toast.show { opacity: 1; transform: translateY(0); }
+    .toast.show {
+      opacity: 1;
+      transform: translateY(0);
+    }
   </style>
 </head>
 <body>
@@ -285,15 +339,15 @@
     <header>
       <div class="logo">Art<span>quemy</span> Monitor</div>
       <div class="subtitle">Panel de control · artquemy.com</div>
+      <a href="resumen.html" style="display:block;text-align:right;margin-top:8px;font-size:11px;color:var(--accent);text-decoration:none;letter-spacing:1px;">📊 Resumen galerías →</a>
+      <a href="ventas.html" style="display:block;text-align:right;margin-top:4px;font-size:11px;color:var(--accent);text-decoration:none;letter-spacing:1px;">Ventas totales por artista →</a>
+      <a href="baseelements.html" style="display:block;text-align:right;margin-top:4px;font-size:11px;color:var(--accent);text-decoration:none;letter-spacing:1px;">Monitor Base Elements →</a>
+      <a href="3punts.html" style="display:block;text-align:right;margin-top:4px;font-size:11px;color:var(--accent);text-decoration:none;letter-spacing:1px;">Monitor 3 Punts →</a>
       <div class="status-bar">
         <div class="status-dot loading" id="statusDot"></div>
         <span class="status-text" id="statusText">Cargando datos...</span>
         <button class="wake-btn" id="wakeBtn" onclick="despertarServicio()">⚡ Despertar servicio</button>
       </div>
-      <a href="resumen.html" style="display:block;text-align:right;margin-top:8px;font-size:11px;color:var(--accent);text-decoration:none;letter-spacing:1px;">📊 Resumen galerías →</a>
-      <a href="ventas.html" style="display:block;text-align:right;margin-top:4px;font-size:11px;color:var(--accent);text-decoration:none;letter-spacing:1px;">Ventas totales por artista →</a>
-      <a href="baseelements.html" style="display:block;text-align:right;margin-top:4px;font-size:11px;color:var(--accent);text-decoration:none;letter-spacing:1px;">Monitor Base Elements →</a>
-      <a href="3punts.html" style="display:block;text-align:right;margin-top:4px;font-size:11px;color:var(--accent);text-decoration:none;letter-spacing:1px;">Monitor 3 Punts →</a>
       <div style="text-align:right; font-size:11px; color:var(--text-dim); margin-top:6px;" id="lastUpdateHeader">—</div>
     </header>
 
@@ -304,26 +358,15 @@
         <div class="card-sub" id="obrasMes">Cargando...</div>
       </div>
       <div class="card">
-        <div class="card-label">Obras vendidas este mes</div>
-        <div class="card-value" style="font-size:36px;" id="numObrasCard">—</div>
-        <div class="card-sub" id="numObrasSub">Cargando...</div>
+        <div class="card-label">En reserva</div>
+        <div class="card-value" style="font-size:36px;" id="ultimoCambio">—</div>
+        <div class="card-sub" id="ultimoCambioSub">Cargando...</div>
       </div>
     </div>
 
     <div class="section">
       <div class="section-title">Historial mensual</div>
       <div id="historialContainer"><span class="loading-text">Cargando...</span></div>
-    </div>
-
-    <div class="section">
-      <div style="display:flex;justify-content:space-between;align-items:center;padding-bottom:8px;border-bottom:1px solid var(--border);cursor:pointer;" onclick="toggleSection('vendidas')">
-        <div class="section-title" style="border:none;padding:0;margin:0;" id="vendidasTitle">Obras vendidas</div>
-        <div style="display:flex;align-items:center;gap:10px;">
-          <span style="font-size:11px;color:var(--text-dim);" id="vendidasMeta"></span>
-          <span style="font-size:20px;color:var(--text-dim);" id="vendidasArrow">▸</span>
-        </div>
-      </div>
-      <div class="cambios-list" id="vendidasList" style="margin-top:12px;display:none;"><span class="loading-text">Cargando...</span></div>
     </div>
 
     <div class="section">
@@ -350,16 +393,6 @@
     let _historialInvertido = [];
     let _cambiosMostrados = 0;
 
-    const TIPO_LABEL = {
-      'vendida':         '🔴 Vendida',
-      'nueva':           '🟢 Nueva',
-      'nueva_vendida':   '🔴🟢 Nueva vendida',
-      'retirada':        '⚠️ Retirada',
-      'eliminada':       '🗑️ Eliminada',
-      'precio_cambiado': '💰 Precio cambiado',
-      'desaparecida':    '🟠 Desaparecida',
-    };
-
     function renderCambios(desde, hasta) {
       let cambiosHTML = '';
       let ultimoIndice = desde;
@@ -367,19 +400,19 @@
         const c = _historialInvertido[i];
         const tipo = c.tipo || 'desaparecida';
         ultimoIndice = i + 1;
-        const tipoLabel = TIPO_LABEL[tipo] || tipo;
-        const claseItem = tipo;
-        const precioAnterior = c.precio_anterior ? `<span style="color:var(--text-dim);text-decoration:line-through;margin-right:6px;">${c.precio_anterior}</span>` : '';
+        const tipoLabel = {'vendida':'🔴 Vendida','nueva':'🟢 Nueva','nueva_vendida':'🔴🟢 Nueva vendida'}[tipo] || tipo;
+        const esReserved = c.obra.includes('RESERVED') && tipo !== 'vendida' && tipo !== 'nueva_vendida';
+        const claseItem = esReserved ? 'reserved' : (tipo === 'artista_desaparecido' ? 'desaparecida' : tipo);
         cambiosHTML += `<div class="cambio-item ${claseItem}">
           <div class="cambio-header">
             <div class="cambio-artista">${c.artista}</div>
             <div class="cambio-fecha">${c.fecha}</div>
           </div>
           <div class="cambio-obra">
-            <span class="badge ${claseItem}">${tipoLabel}</span>
+            <span class="badge ${claseItem}">${esReserved ? '🟡 Reserved' : tipoLabel}</span>
             ${c.url ? `<a href="${c.url}" target="_blank" rel="noreferrer noopener" style="color:inherit;text-decoration:none;border-bottom:1px solid var(--border);">${c.obra}</a>` : c.obra}
           </div>
-          ${c.precio && c.precio !== 'Precio no disponible' ? `<div class="cambio-precio">${precioAnterior}${c.precio}${c.precio_estimado ? '<span style="font-size:10px;color:var(--text-dim);margin-left:6px;letter-spacing:1px;">est.</span>' : ''}</div>` : ''}
+          ${c.precio ? `<div class="cambio-precio">${c.precio}</div>` : ''}
         </div>`;
       }
       _cambiosMostrados = ultimoIndice;
@@ -395,6 +428,11 @@
       else boton.textContent = `Ver más (${restantes} restantes)`;
     }
 
+    function mesEnEspanol(str) {
+      return str.replace(/January|February|March|April|May|June|July|August|September|October|November|December/g,
+        m => MESES_ES[m] || m);
+    }
+
     function formatMes(yyyymm) {
       const [y, m] = yyyymm.split('-');
       const fecha = new Date(y, m - 1, 1);
@@ -403,7 +441,7 @@
     }
 
     function formatNum(n) {
-      return Number(n).toLocaleString('es-ES', { minimumFractionDigits: 0, maximumFractionDigits: 0 }) + ' €';
+      return n.toLocaleString('es-ES', { minimumFractionDigits: 0, maximumFractionDigits: 0 }) + ' €';
     }
 
     function showToast(msg) {
@@ -415,8 +453,10 @@
 
     async function fetchGitHub(file) {
       const url = `https://api.github.com/repos/${GITHUB_USER}/${GITHUB_REPO}/contents/${file}`;
-      const r = await fetch(url, { headers: { 'Accept': 'application/vnd.github.v3.raw' } });
-      if (!r.ok) throw new Error('No encontrado: ' + file);
+      const r = await fetch(url, {
+        headers: { 'Accept': 'application/vnd.github.v3.raw' }
+      });
+      if (!r.ok) throw new Error('No encontrado');
       return r.json();
     }
 
@@ -428,7 +468,7 @@
           fetchGitHub('meta_artquemy.json')
         ]);
 
-        // Última comprobación
+        // Última comprobación en Artevistas
         const ultimaComp = meta?.ultima_comprobacion || '—';
         document.getElementById('lastUpdateHeader').textContent = `Última visita a Artquemy: ${ultimaComp}`;
 
@@ -437,42 +477,60 @@
         const mesActual = `${ahora.getFullYear()}-${String(ahora.getMonth()+1).padStart(2,'0')}`;
         const ventasMes = ventas[mesActual] || [];
 
-        // Vendidas del mes con precio conocido (excluye nueva_vendida sin precio del primer escaneo)
-        const ventasReales = ventasMes.filter(v => (v.tipo === 'vendida' || v.tipo === 'nueva_vendida') && (v.precio_num || 0) > 0);
+        // Calcular obras actualmente RESERVED desde el historial
+        // Una obra está en reserva si aparece como RESERVED y no tiene una entrada posterior como vendida/desaparecida
+        let totalReserved = 0;
+        let numReserved = 0;
+        const obrasReserved = {};
+
+        historial.forEach(c => {
+          const esReserved = c.obra.toLowerCase().includes('reserved');
+          const obraBase = c.obra.replace(/\s*\(RESERVED\)/i, '').trim();
+          
+          if (esReserved && c.tipo === 'nueva') {
+            obrasReserved[obraBase] = { precio_num: c.precio_num || 0, artista: c.artista };
+          } else if (!esReserved && (c.tipo === 'vendida' || c.tipo === 'desaparecida' || c.tipo === 'nueva_vendida')) {
+            // Si la obra base aparece como vendida/desaparecida, ya no está en reserva
+            delete obrasReserved[obraBase];
+          }
+        });
+
+        Object.values(obrasReserved).forEach(obra => {
+          totalReserved += obra.precio_num;
+          numReserved++;
+        });
+
+        // Vendidas del mes (sin desaparecidas ni nuevas-reserved)
+        const ventasReales = ventasMes.filter(v => v.tipo !== 'desaparecida' && !(v.obra.includes('RESERVED') && v.tipo === 'nueva'));
         const totalMes = ventasReales.reduce((s, v) => s + (v.precio_num || 0), 0);
         const numObras = ventasReales.length;
 
         document.getElementById('totalMes').textContent = formatNum(totalMes);
-        document.getElementById('obrasMes').textContent = `${numObras} obra${numObras !== 1 ? 's' : ''} vendida${numObras !== 1 ? 's' : ''} en ${formatMes(mesActual)}`;
-        document.getElementById('numObrasCard').textContent = numObras;
-        document.getElementById('numObrasSub').textContent = formatMes(mesActual);
+        document.getElementById('obrasMes').innerHTML = `
+          ${numObras} obra${numObras !== 1 ? 's' : ''} vendida${numObras !== 1 ? 's' : ''} en ${formatMes(mesActual)}
+        `;
 
-        // Historial mensual
+        // Historial mensual con obras por mes
+        // Añadir mes actual si no tiene datos
+        if (!ventas[mesActual]) ventas[mesActual] = [];
+
         const meses = Object.keys(ventas).sort().reverse();
         let historialHTML = '';
-        meses.forEach(mes => {
+
+        function buildMesHTML(mes, idx) {
           const vs = ventas[mes].filter(v => (v.tipo === 'vendida' || v.tipo === 'nueva_vendida') && (v.precio_num || 0) > 0);
           const total = vs.reduce((s, v) => s + (v.precio_num || 0), 0);
           const esMesActual = mes === mesActual;
           const nombreMes = formatMes(mes);
 
-          historialHTML += `<div style="margin-bottom:16px;">
-            <div style="display:flex;justify-content:space-between;align-items:baseline;padding:10px 0;border-bottom:1px solid var(--border);">
-              <div>
-                <span style="font-family:'Playfair Display',serif;font-size:15px;font-weight:700;${esMesActual ? 'color:var(--new)' : ''}">${nombreMes}${esMesActual ? ' ·' : ''}</span>
-                <span style="font-size:11px;color:var(--text-dim);margin-left:8px;">${vs.length} obra${vs.length !== 1 ? 's' : ''}</span>
-              </div>
-              <span style="font-size:14px;font-weight:500;">${formatNum(total)}</span>
-            </div>`;
-
+          let obrasHTML = '';
           [...vs].reverse().forEach(v => {
-            historialHTML += `<div style="display:flex;justify-content:space-between;padding:8px 0 8px 16px;border-bottom:1px solid var(--border);font-size:13px;">
+            obrasHTML += `<div style="display:flex;justify-content:space-between;padding:8px 0 8px 16px;border-bottom:1px solid var(--border);font-size:13px;">
               <span style="color:var(--text-dim);">${v.url ? `<a href="${v.url}" target="_blank" rel="noreferrer noopener" style="color:var(--text-dim);text-decoration:none;border-bottom:1px solid var(--border);">${v.obra}</a>` : v.obra}</span>
-              <span style="font-weight:500;">${v.precio_num ? formatNum(v.precio_num) : '—'}</span>
+              <span style="font-weight:500;">${formatNum(v.precio_num || 0)}</span>
             </div>`;
           });
 
-          // Resumen por artista
           const porArtista = {};
           vs.forEach(v => {
             if (!porArtista[v.artista]) porArtista[v.artista] = { obras: 0, total: 0 };
@@ -480,67 +538,91 @@
             porArtista[v.artista].total += v.precio_num || 0;
           });
           const artistasOrdenados = Object.entries(porArtista).sort((a, b) => b[1].total - a[1].total);
+          let artistasHTML = '';
           if (artistasOrdenados.length > 1) {
-            historialHTML += `<div style="margin-top:8px;padding:8px 0 4px 16px;border-top:2px solid var(--border);">
+            artistasHTML = `<div style="margin-top:8px;padding:8px 0 4px 16px;border-top:2px solid var(--border);">
               <div style="font-size:10px;letter-spacing:3px;text-transform:uppercase;color:var(--text-dim);margin-bottom:6px;">Por artista</div>`;
             artistasOrdenados.forEach(([artista, datos]) => {
-              historialHTML += `<div style="display:flex;justify-content:space-between;padding:4px 0;font-size:12px;">
+              artistasHTML += `<div style="display:flex;justify-content:space-between;padding:4px 0;font-size:12px;">
                 <span style="color:var(--text-dim);">${artista} <span style="font-size:10px;">(${datos.obras})</span></span>
                 <span style="color:var(--accent);font-weight:500;">${formatNum(datos.total)}</span>
               </div>`;
             });
-            historialHTML += `</div>`;
+            artistasHTML += `</div>`;
           }
 
-          historialHTML += '</div>';
+          if (idx === 0) {
+            // Primer mes (más reciente): siempre visible con obras vendidas integradas
+            const vendidasHTML2 = ventasReales.length === 0
+              ? `<div class="empty" style="padding:16px 0 8px;">Sin obras vendidas este mes</div>`
+              : [...ventasReales].reverse().map(v => `<div class="cambio-item vendida" style="margin-bottom:8px;">
+                  <div class="cambio-header">
+                    <div class="cambio-artista">${v.artista || ''}</div>
+                    <div class="cambio-fecha">${v.fecha || ''}</div>
+                  </div>
+                  <div class="cambio-obra">
+                    <span class="badge vendida">🔴 Vendida</span>${v.url ? `<a href="${v.url}" target="_blank" rel="noreferrer noopener" style="color:inherit;text-decoration:none;border-bottom:1px solid var(--border);">${v.obra}</a>` : v.obra}
+                  </div>
+                  ${v.precio_num ? `<div class="cambio-precio">${formatNum(v.precio_num)}</div>` : ''}
+                </div>`).join('');
+
+            return `<div style="margin-bottom:16px;">
+              <div style="display:flex;justify-content:space-between;align-items:baseline;padding:10px 0;border-bottom:1px solid var(--border);">
+                <div>
+                  <span style="font-family:'Playfair Display',serif;font-size:15px;font-weight:700;color:var(--new)">${nombreMes} ·</span>
+                  <span style="font-size:11px;color:var(--text-dim);margin-left:8px;">${vs.length} obra${vs.length !== 1 ? 's' : ''}</span>
+                </div>
+                <span style="font-size:14px;font-weight:500;">${formatNum(total)}</span>
+              </div>
+              ${obrasHTML}${artistasHTML}
+              <div style="margin-top:16px;padding-top:12px;border-top:2px solid var(--border);">
+                <div style="font-size:10px;letter-spacing:3px;text-transform:uppercase;color:var(--text-dim);margin-bottom:10px;">Obras vendidas · ${ventasReales.length} · ${formatNum(totalMes)}</div>
+                ${vendidasHTML2}
+              </div>
+            </div>`;
+          } else {
+            // Meses anteriores: desplegable
+            return `<div style="margin-bottom:8px;border:1px solid var(--border);">
+              <div onclick="toggleMes(${idx})" style="display:flex;justify-content:space-between;align-items:center;padding:12px 16px;cursor:pointer;background:var(--surface);">
+                <div>
+                  <span style="font-family:'Playfair Display',serif;font-size:15px;font-weight:700;">${nombreMes}</span>
+                  <span style="font-size:11px;color:var(--text-dim);margin-left:8px;">${vs.length} obra${vs.length !== 1 ? 's' : ''}</span>
+                </div>
+                <div style="display:flex;align-items:center;gap:12px;">
+                  <span style="font-size:14px;font-weight:500;">${formatNum(total)}</span>
+                  <span id="mes-arrow-${idx}" style="font-size:18px;color:var(--text-dim);">▸</span>
+                </div>
+              </div>
+              <div id="mes-content-${idx}" style="display:none;">
+                ${obrasHTML}${artistasHTML}
+              </div>
+            </div>`;
+          }
+        }
+
+        meses.forEach((mes, idx) => {
+          historialHTML += buildMesHTML(mes, idx);
         });
 
         document.getElementById('historialContainer').innerHTML = historialHTML || '<div class="empty">Sin datos</div>';
 
-        // Obras vendidas del mes actual
-        const nombreMesActual = formatMes(mesActual);
-        document.getElementById('vendidasTitle').textContent = `Obras vendidas en ${nombreMesActual}`;
-        document.getElementById('vendidasMeta').textContent = `${ventasReales.length} obra${ventasReales.length !== 1 ? 's' : ''} · ${formatNum(totalMes)}`;
-
-        if (ventasReales.length === 0) {
-          document.getElementById('vendidasList').innerHTML = '<div class="empty">Sin obras vendidas este mes</div>';
-        } else {
-          let vendidasHTML = '';
-          [...ventasReales].reverse().forEach(v => {
-            vendidasHTML += `<div class="cambio-item vendida">
-              <div class="cambio-header">
-                <div class="cambio-artista">${v.artista || ''}</div>
-                <div class="cambio-fecha">${v.fecha || ''}</div>
-              </div>
-              <div class="cambio-obra">
-                <span class="badge vendida">🔴 Vendida</span>${v.url ? `<a href="${v.url}" target="_blank" rel="noreferrer noopener" style="color:inherit;text-decoration:none;border-bottom:1px solid var(--border);">${v.obra}</a>` : v.obra}
-              </div>
-              ${v.precio_num ? `<div class="cambio-precio">${formatNum(v.precio_num)}${v.precio_estimado ? '<span style="font-size:10px;color:var(--text-dim);margin-left:6px;letter-spacing:1px;">est.</span>' : ''}</div>` : ''}
-            </div>`;
-          });
-          document.getElementById('vendidasList').innerHTML = vendidasHTML;
-        }
-
-        // Últimos cambios del historial
-        // El historial de Artquemy tiene estructura diferente a Artevistas:
-        // cada entrada tiene { fecha, artista, cambios_obras: [{tipo, titulo, precio, precio_num, url}] }
-        // Aplanamos para mostrar como Artevistas
+        // Últimos cambios — Artquemy tiene estructura { fecha, artista, cambios_obras: [...] }
         const historialPlano = [];
         historial.forEach(entrada => {
           (entrada.cambios_obras || []).forEach(c => {
             historialPlano.push({
-              fecha:    entrada.fecha,
-              artista:  entrada.artista,
-              tipo:     c.tipo,
-              obra:     c.titulo,
-              precio:   c.precio,
-              precio_num: c.precio_num,
-              url:      c.url,
+              fecha:           entrada.fecha,
+              artista:         entrada.artista,
+              tipo:            c.tipo,
+              obra:            c.titulo,
+              precio:          c.precio,
+              precio_num:      c.precio_num,
+              url:             c.url,
               precio_anterior: c.precio_anterior,
+              precio_estimado: c.precio_estimado,
             });
           });
         });
-
         _historialInvertido = historialPlano.reverse();
         _cambiosMostrados = 0;
 
@@ -549,16 +631,15 @@
         } else {
           const htmlInicial = renderCambios(0, 20);
           const restantes = _historialInvertido.length - _cambiosMostrados;
-          const botonHTML = restantes > 0
-            ? `<button id="verMasBtn" onclick="verMasCambios()" style="width:100%;margin-top:12px;padding:10px;background:none;border:1px solid var(--border);color:var(--text-dim);font-family:'DM Mono',monospace;font-size:11px;letter-spacing:2px;text-transform:uppercase;cursor:pointer;">Ver más (${restantes} restantes)</button>`
-            : '';
+          const botonHTML = restantes > 0 ? `<button id="verMasBtn" onclick="verMasCambios()" style="width:100%;margin-top:12px;padding:10px;background:none;border:1px solid var(--border);color:var(--text-dim);font-family:'DM Mono',monospace;font-size:11px;letter-spacing:2px;text-transform:uppercase;cursor:pointer;">Ver más (${restantes} restantes)</button>` : '';
           document.getElementById('cambiosList').innerHTML = htmlInicial + botonHTML;
         }
 
         // Status
         document.getElementById('statusDot').className = 'status-dot';
         document.getElementById('statusText').textContent = `Datos actualizados · ${historialPlano.length} cambios registrados`;
-        document.getElementById('lastUpdate').textContent = `Última actualización local: ${new Date().toLocaleString('es-ES')}`;
+        const ahora_str = new Date().toLocaleString('es-ES');
+        document.getElementById('lastUpdate').textContent = `Última actualización local: ${ahora_str}`;
 
       } catch (e) {
         document.getElementById('statusDot').className = 'status-dot error';
@@ -607,6 +688,14 @@
     function toggleSection(id) {
       const content = document.getElementById(id + 'List');
       const arrow = document.getElementById(id + 'Arrow');
+      const isOpen = content.style.display !== 'none';
+      content.style.display = isOpen ? 'none' : 'block';
+      arrow.textContent = isOpen ? '▸' : '▾';
+    }
+
+    function toggleMes(idx) {
+      const content = document.getElementById('mes-content-' + idx);
+      const arrow = document.getElementById('mes-arrow-' + idx);
       const isOpen = content.style.display !== 'none';
       content.style.display = isOpen ? 'none' : 'block';
       arrow.textContent = isOpen ? '▸' : '▾';
