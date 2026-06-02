@@ -6453,5 +6453,16 @@
       "tipo": "vendida",
       "url": "https://artquemy.com/producto/memento-mori/"
     }
+  ],
+  "2026-06": [
+    {
+      "fecha": "02/06/2026 17:57",
+      "artista": "Juncosa",
+      "obra": "Panot Gaudí – Rosa",
+      "precio": "€290,00",
+      "precio_num": 290.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/panot-gaudi-rosa/"
+    }
   ]
 }
