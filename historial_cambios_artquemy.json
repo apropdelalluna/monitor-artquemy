@@ -10558,5 +10558,18 @@
         "url": "https://artquemy.com/producto/ups-te-falta-magenta/"
       }
     ]
+  },
+  {
+    "fecha": "02/06/2026 17:57",
+    "artista": "Juncosa",
+    "cambios_obras": [
+      {
+        "tipo": "vendida",
+        "titulo": "Panot Gaudí – Rosa",
+        "precio": "€290,00",
+        "precio_num": 290.0,
+        "url": "https://artquemy.com/producto/panot-gaudi-rosa/"
+      }
+    ]
   }
 ]
