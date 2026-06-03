@@ -357,7 +357,7 @@
         <div class="card-sub" id="obrasMes">Cargando...</div>
       </div>
       <div class="card">
-        <div class="card-label">Obras vendidas este mes</div>
+        <div class="card-label">En reserva</div>
         <div class="card-value" style="font-size:36px;" id="ultimoCambio">—</div>
         <div class="card-sub" id="ultimoCambioSub">Cargando...</div>
       </div>
@@ -400,7 +400,7 @@
         const tipo = c.tipo || 'desaparecida';
         ultimoIndice = i + 1;
         const tipoLabel = {'vendida':'🔴 Vendida','nueva':'🟢 Nueva','nueva_vendida':'🔴🟢 Nueva vendida'}[tipo] || tipo;
-        const esReserved = (c.obra || '').includes('RESERVED') && tipo !== 'vendida' && tipo !== 'nueva_vendida';
+        const esReserved = c.obra.includes('RESERVED') && tipo !== 'vendida' && tipo !== 'nueva_vendida';
         const claseItem = esReserved ? 'reserved' : (tipo === 'artista_desaparecido' ? 'desaparecida' : tipo);
         cambiosHTML += `<div class="cambio-item ${claseItem}">
           <div class="cambio-header">
@@ -461,7 +461,7 @@
 
     async function cargarDatos() {
       try {
-        const [ventas, historial, meta] = await Promise.all([
+        const [ventas, historial, meta, estado] = await Promise.all([
           fetchGitHub('ventas_mensuales_3punts.json'),
           fetchGitHub('historial_cambios_3punts.json'),
           fetchGitHub('meta_3punts.json')
@@ -476,15 +476,15 @@
         const mesActual = `${ahora.getFullYear()}-${String(ahora.getMonth()+1).padStart(2,'0')}`;
         const ventasMes = ventas[mesActual] || [];
 
-        // Vendidas del mes con precio conocido
+        // Vendidas del mes (sin desaparecidas ni nuevas-reserved)
         const ventasReales = ventasMes.filter(v => (v.tipo === 'vendida' || v.tipo === 'nueva_vendida') && (v.precio_num || 0) > 0);
         const totalMes = ventasReales.reduce((s, v) => s + (v.precio_num || 0), 0);
         const numObras = ventasReales.length;
 
         document.getElementById('totalMes').textContent = formatNum(totalMes);
-        document.getElementById('obrasMes').innerHTML = `${numObras} obra${numObras !== 1 ? 's' : ''} vendida${numObras !== 1 ? 's' : ''} en ${formatMes(mesActual)}`;
-        document.getElementById('ultimoCambio').textContent = numObras;
-        document.getElementById('ultimoCambioSub').textContent = formatMes(mesActual);
+        document.getElementById('obrasMes').innerHTML = `
+          ${numObras} obra${numObras !== 1 ? 's' : ''} vendida${numObras !== 1 ? 's' : ''} en ${formatMes(mesActual)}
+        `;
 
         // Historial mensual con obras por mes
         // Añadir mes actual si no tiene datos
@@ -582,18 +582,8 @@
 
         document.getElementById('historialContainer').innerHTML = historialHTML || '<div class="empty">Sin datos</div>';
 
-        // Últimos cambios — 3 Punts tiene estructura plana
-        const historialPlano = historial.map(c => ({
-          fecha:           c.fecha,
-          artista:         c.artista,
-          tipo:            c.tipo,
-          obra:            c.titulo || c.obra,
-          precio:          c.precio,
-          precio_num:      c.precio_num,
-          url:             c.url,
-          precio_anterior: c.precio_anterior,
-        }));
-        _historialInvertido = historialPlano.reverse();
+        // Últimos cambios
+        _historialInvertido = [...historial].reverse();
         _cambiosMostrados = 0;
 
         if (_historialInvertido.length === 0) {

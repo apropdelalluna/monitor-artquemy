@@ -358,7 +358,7 @@
         <div class="card-sub" id="obrasMes">Cargando...</div>
       </div>
       <div class="card">
-        <div class="card-label">Obras vendidas este mes</div>
+        <div class="card-label">En reserva</div>
         <div class="card-value" style="font-size:36px;" id="ultimoCambio">—</div>
         <div class="card-sub" id="ultimoCambioSub">Cargando...</div>
       </div>
@@ -401,7 +401,7 @@
         const tipo = c.tipo || 'desaparecida';
         ultimoIndice = i + 1;
         const tipoLabel = {'vendida':'🔴 Vendida','nueva':'🟢 Nueva','nueva_vendida':'🔴🟢 Nueva vendida'}[tipo] || tipo;
-        const esReserved = (c.obra || '').includes('RESERVED') && tipo !== 'vendida' && tipo !== 'nueva_vendida';
+        const esReserved = c.obra.includes('RESERVED') && tipo !== 'vendida' && tipo !== 'nueva_vendida';
         const claseItem = esReserved ? 'reserved' : (tipo === 'artista_desaparecido' ? 'desaparecida' : tipo);
         cambiosHTML += `<div class="cambio-item ${claseItem}">
           <div class="cambio-header">
@@ -462,7 +462,7 @@
 
     async function cargarDatos() {
       try {
-        const [ventas, historial, meta] = await Promise.all([
+        const [ventas, historial, meta, estado] = await Promise.all([
           fetchGitHub('ventas_mensuales_artquemy.json'),
           fetchGitHub('historial_cambios_artquemy.json'),
           fetchGitHub('meta_artquemy.json')
@@ -477,15 +477,15 @@
         const mesActual = `${ahora.getFullYear()}-${String(ahora.getMonth()+1).padStart(2,'0')}`;
         const ventasMes = ventas[mesActual] || [];
 
-        // Vendidas del mes con precio conocido
+        // Vendidas del mes (sin desaparecidas ni nuevas-reserved)
         const ventasReales = ventasMes.filter(v => (v.tipo === 'vendida' || v.tipo === 'nueva_vendida') && (v.precio_num || 0) > 0);
         const totalMes = ventasReales.reduce((s, v) => s + (v.precio_num || 0), 0);
         const numObras = ventasReales.length;
 
         document.getElementById('totalMes').textContent = formatNum(totalMes);
-        document.getElementById('obrasMes').innerHTML = `${numObras} obra${numObras !== 1 ? 's' : ''} vendida${numObras !== 1 ? 's' : ''} en ${formatMes(mesActual)}`;
-        document.getElementById('ultimoCambio').textContent = numObras;
-        document.getElementById('ultimoCambioSub').textContent = formatMes(mesActual);
+        document.getElementById('obrasMes').innerHTML = `
+          ${numObras} obra${numObras !== 1 ? 's' : ''} vendida${numObras !== 1 ? 's' : ''} en ${formatMes(mesActual)}
+        `;
 
         // Historial mensual con obras por mes
         // Añadir mes actual si no tiene datos
@@ -583,20 +583,20 @@
 
         document.getElementById('historialContainer').innerHTML = historialHTML || '<div class="empty">Sin datos</div>';
 
-        // Últimos cambios — Artquemy tiene estructura { fecha, artista, cambios_obras: [...] }
+        // Últimos cambios — estructura anidada
         const historialPlano = [];
         historial.forEach(entrada => {
-          (entrada.cambios_obras || []).forEach(c => {
+          (entrada.cambios_obras || []).forEach(cam => {
             historialPlano.push({
-              fecha:           entrada.fecha,
-              artista:         entrada.artista,
-              tipo:            c.tipo,
-              obra:            c.titulo,
-              precio:          c.precio,
-              precio_num:      c.precio_num,
-              url:             c.url,
-              precio_anterior: c.precio_anterior,
-              precio_estimado: c.precio_estimado,
+              fecha:    entrada.fecha || cam.fecha || '',
+              artista:  cam.artista || entrada.artista?.nombre || entrada.artista || '',
+              tipo:     cam.tipo,
+              obra:     cam.titulo || '',
+              precio:   cam.precio,
+              precio_num: cam.precio_num,
+              url:      cam.url,
+              precio_anterior: cam.precio_anterior,
+              precio_estimado: cam.precio_estimado,
             });
           });
         });
