@@ -5,15 +5,15 @@
   <meta name="robots" content="noindex, nofollow">
   <meta name="referrer" content="no-referrer">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Monitor Artquemy</title>
+  <title>Monitor Artevistas</title>
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=DM+Mono:wght@300;400;500&display=swap" rel="stylesheet">
   <style>
     :root {
       --bg: #0e0e0e;
       --surface: #161616;
       --border: #2a2a2a;
-      --accent: #c0392b;
-      --accent-dim: #8a2a1e;
+      --accent: #c9a84c;
+      --accent-dim: #8a6f2e;
       --text: #e8e4dc;
       --text-dim: #888;
       --sold: #e05252;
@@ -337,12 +337,15 @@
   <div class="container">
 
     <header>
-      <div class="logo">Art<span>quemy</span> Monitor</div>
-      <div class="subtitle">Panel de control · artquemy.com</div>
-      <a href="resumen.html" style="display:block;text-align:right;margin-top:8px;font-size:11px;color:var(--accent);text-decoration:none;letter-spacing:1px;">📊 Resumen galerías →</a>
-      <a href="ventas.html" style="display:block;text-align:right;margin-top:4px;font-size:11px;color:var(--accent);text-decoration:none;letter-spacing:1px;">Ventas totales por artista →</a>
-      <a href="baseelements.html" style="display:block;text-align:right;margin-top:4px;font-size:11px;color:var(--accent);text-decoration:none;letter-spacing:1px;">Monitor Base Elements →</a>
-      <a href="3punts.html" style="display:block;text-align:right;margin-top:4px;font-size:11px;color:var(--accent);text-decoration:none;letter-spacing:1px;">Monitor 3 Punts →</a>
+      <div style="display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:wrap;gap:12px;">
+        <div>
+          <div class="logo">Arte<span>vistas</span> Monitor</div>
+          <div class="subtitle">Panel de control · artevistas.eu</div>
+        </div>
+        <div style="display:flex;flex-direction:column;align-items:flex-end;gap:6px;margin-top:4px;">
+          <a href="ventas.html" style="font-size:11px;color:var(--accent);text-decoration:none;letter-spacing:1px;">Ventas por artista →</a>
+        </div>
+      </div>
       <div class="status-bar">
         <div class="status-dot loading" id="statusDot"></div>
         <span class="status-text" id="statusText">Cargando datos...</span>
@@ -370,6 +373,17 @@
     </div>
 
     <div class="section">
+      <div style="display:flex;justify-content:space-between;align-items:center;padding-bottom:8px;border-bottom:1px solid var(--border);cursor:pointer;" onclick="toggleSection('reservas')">
+        <div class="section-title" style="border:none;padding:0;margin:0;">Obras en reserva</div>
+        <div style="display:flex;align-items:center;gap:10px;">
+          <span style="font-size:11px;color:var(--text-dim);" id="reservasMeta"></span>
+          <span style="font-size:20px;color:var(--text-dim);" id="reservasArrow">▸</span>
+        </div>
+      </div>
+      <div id="reservasList" style="margin-top:12px;display:none;"><span class="loading-text">Cargando...</span></div>
+    </div>
+
+    <div class="section">
       <div class="section-title">Últimos cambios detectados</div>
       <div class="cambios-list" id="cambiosList"><span class="loading-text">Cargando...</span></div>
     </div>
@@ -381,8 +395,8 @@
 
   <script>
     const GITHUB_USER = 'apropdelalluna';
-    const GITHUB_REPO = 'monitor-artquemy';
-    const DEPLOY_HOOK = 'https://api.render.com/deploy/srv-d8a9ouml51nc73cit26g?key=rf4fW3ImMcw';
+    const GITHUB_REPO = 'monitor-artevistas';
+    const DEPLOY_HOOK = 'https://api.render.com/deploy/srv-d7nlgg4vikkc73bbl4a0?key=2VdRzr0fB5A';
 
     const MESES_ES = {
       'January':'Enero','February':'Febrero','March':'Marzo','April':'Abril',
@@ -463,22 +477,45 @@
     async function cargarDatos() {
       try {
         const [ventas, historial, meta, estado] = await Promise.all([
-          fetchGitHub('ventas_mensuales_artquemy.json'),
-          fetchGitHub('historial_cambios_artquemy.json'),
-          fetchGitHub('meta_artquemy.json')
+          fetchGitHub('ventas_mensuales.json'),
+          fetchGitHub('historial_cambios.json'),
+          fetchGitHub('meta.json'),
+          fetchGitHub('estado_artevistas.json')
         ]);
 
         // Última comprobación en Artevistas
         const ultimaComp = meta?.ultima_comprobacion || '—';
-        document.getElementById('lastUpdateHeader').textContent = `Última visita a Artquemy: ${ultimaComp}`;
+        document.getElementById('lastUpdateHeader').textContent = `Última visita a Artevistas: ${ultimaComp}`;
 
         // Mes actual
         const ahora = new Date();
         const mesActual = `${ahora.getFullYear()}-${String(ahora.getMonth()+1).padStart(2,'0')}`;
         const ventasMes = ventas[mesActual] || [];
 
+        // Calcular obras en reserva desde estado_artevistas.json
+        let totalReserved = 0;
+        let numReserved = 0;
+        const obrasReserved = {};
+
+        Object.values(estado).forEach(artista => {
+          Object.values(artista.obras || {}).forEach(obra => {
+            if (obra.titulo && obra.titulo.toLowerCase().includes('reserved') && obra.estado !== 'vendido') {
+              const tituloBase = obra.titulo.replace(/\s*\(RESERVED\)/i, '').trim();
+              obrasReserved[tituloBase] = {
+                precio_num: obra.precio_num || 0,
+                precio: obra.precio || '',
+                artista: obra.titulo.split(' – ')[0] || '',
+                url: obra.url || '',
+                titulo: tituloBase,
+              };
+              totalReserved += obra.precio_num || 0;
+              numReserved++;
+            }
+          });
+        });
+
         // Vendidas del mes (sin desaparecidas ni nuevas-reserved)
-        const ventasReales = ventasMes.filter(v => (v.tipo === 'vendida' || v.tipo === 'nueva_vendida') && (v.precio_num || 0) > 0);
+        const ventasReales = ventasMes.filter(v => v.tipo !== 'desaparecida' && !(v.obra.includes('RESERVED') && v.tipo === 'nueva'));
         const totalMes = ventasReales.reduce((s, v) => s + (v.precio_num || 0), 0);
         const numObras = ventasReales.length;
 
@@ -486,6 +523,32 @@
         document.getElementById('obrasMes').innerHTML = `
           ${numObras} obra${numObras !== 1 ? 's' : ''} vendida${numObras !== 1 ? 's' : ''} en ${formatMes(mesActual)}
         `;
+
+        // Tarjeta "En reserva"
+        document.getElementById('ultimoCambio').textContent = formatNum(totalReserved);
+        document.getElementById('ultimoCambioSub').textContent = `${numReserved} obra${numReserved !== 1 ? 's' : ''} en reserva`;
+
+        // Obras en reserva detalladas
+        document.getElementById('reservasMeta').textContent = `${numReserved} obra${numReserved !== 1 ? 's' : ''} · ${formatNum(totalReserved)}`;
+        if (Object.keys(obrasReserved).length === 0) {
+          document.getElementById('reservasList').innerHTML = '<div class="empty">Sin obras en reserva actualmente</div>';
+        } else {
+          const reservasOrdenadas = Object.entries(obrasReserved).sort((a, b) => (b[1].precio_num || 0) - (a[1].precio_num || 0));
+          let reservasHTML = '';
+          reservasOrdenadas.forEach(([tituloBase, datos]) => {
+            reservasHTML += `<div class="cambio-item reserved">
+              <div class="cambio-header">
+                <div class="cambio-artista">${datos.artista}</div>
+              </div>
+              <div class="cambio-obra">
+                <span class="badge reserved">🟡 Reserved</span>
+                ${datos.url ? `<a href="${datos.url}" target="_blank" rel="noreferrer noopener" style="color:inherit;text-decoration:none;border-bottom:1px solid var(--border);">${tituloBase}</a>` : tituloBase}
+              </div>
+              ${datos.precio_num ? `<div class="cambio-precio">${formatNum(datos.precio_num)}</div>` : ''}
+            </div>`;
+          });
+          document.getElementById('reservasList').innerHTML = reservasHTML;
+        }
 
         // Historial mensual con obras por mes
         // Añadir mes actual si no tiene datos
@@ -495,7 +558,7 @@
         let historialHTML = '';
 
         function buildMesHTML(mes, idx) {
-          const vs = ventas[mes].filter(v => (v.tipo === 'vendida' || v.tipo === 'nueva_vendida') && (v.precio_num || 0) > 0);
+          const vs = ventas[mes].filter(v => v.tipo !== 'desaparecida' && !(v.obra.includes('RESERVED') && v.tipo === 'nueva'));
           const total = vs.reduce((s, v) => s + (v.precio_num || 0), 0);
           const esMesActual = mes === mesActual;
           const nombreMes = formatMes(mes);
@@ -583,24 +646,8 @@
 
         document.getElementById('historialContainer').innerHTML = historialHTML || '<div class="empty">Sin datos</div>';
 
-        // Últimos cambios — estructura anidada
-        const historialPlano = [];
-        historial.forEach(entrada => {
-          (entrada.cambios_obras || []).forEach(cam => {
-            historialPlano.push({
-              fecha:    entrada.fecha || cam.fecha || '',
-              artista:  cam.artista || entrada.artista?.nombre || entrada.artista || '',
-              tipo:     cam.tipo,
-              obra:     cam.titulo || '',
-              precio:   cam.precio,
-              precio_num: cam.precio_num,
-              url:      cam.url,
-              precio_anterior: cam.precio_anterior,
-              precio_estimado: cam.precio_estimado,
-            });
-          });
-        });
-        _historialInvertido = historialPlano.reverse();
+        // Últimos cambios
+        _historialInvertido = [...historial].reverse();
         _cambiosMostrados = 0;
 
         if (_historialInvertido.length === 0) {
@@ -614,7 +661,7 @@
 
         // Status
         document.getElementById('statusDot').className = 'status-dot';
-        document.getElementById('statusText').textContent = `Datos actualizados · ${historialPlano.length} cambios registrados`;
+        document.getElementById('statusText').textContent = `Datos actualizados · ${historial.length} cambios registrados`;
         const ahora_str = new Date().toLocaleString('es-ES');
         document.getElementById('lastUpdate').textContent = `Última actualización local: ${ahora_str}`;
 
@@ -632,9 +679,9 @@
 
       try {
         await fetch(DEPLOY_HOOK, { method: 'POST', mode: 'no-cors' });
-        showToast('✅ Servicio despertado. Actualizando datos en ~7 min.');
+        showToast('✅ Servicio despertado. Actualizando datos en ~4 min.');
 
-        const totalSegundos = 7 * 60;
+        const totalSegundos = 4 * 60;
         let restantes = totalSegundos;
 
         const intervalo = setInterval(() => {

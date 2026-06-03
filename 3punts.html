@@ -337,11 +337,16 @@
   <div class="container">
 
     <header>
-      <div class="logo"><span>3</span> Punts Monitor</div>
-      <div class="subtitle">Panel de control · 3punts.com</div>
-      <a href="ventas_3punts.html" style="display:block;text-align:right;margin-top:8px;font-size:11px;color:var(--accent);text-decoration:none;letter-spacing:1px;">Ventas totales por artista →</a>
-      <a href="index.html" style="display:block;text-align:right;margin-top:4px;font-size:11px;color:var(--accent);text-decoration:none;letter-spacing:1px;">← Artquemy</a>
-      <a href="baseelements.html" style="display:block;text-align:right;margin-top:4px;font-size:11px;color:var(--accent);text-decoration:none;letter-spacing:1px;">← Base Elements</a>
+      <div style="display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:wrap;gap:12px;">
+        <div>
+          <div class="logo"><span>3</span> Punts Monitor</div>
+          <div class="subtitle">Panel de control · 3punts.com</div>
+        </div>
+        <div style="display:flex;flex-direction:column;align-items:flex-end;gap:6px;margin-top:4px;">
+          
+<a href="ventas_3punts.html" style="font-size:11px;color:var(--accent);text-decoration:none;letter-spacing:1px;">Ventas por artista →</a>          <a href="index.html" style="font-size:11px;color:var(--accent);text-decoration:none;letter-spacing:1px;">Artquemy →</a>          <a href="baseelements.html" style="font-size:11px;color:var(--accent);text-decoration:none;letter-spacing:1px;">Base Elements →</a>
+        </div>
+      </div>
       <div class="status-bar">
         <div class="status-dot loading" id="statusDot"></div>
         <span class="status-text" id="statusText">Cargando datos...</span>
