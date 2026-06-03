@@ -357,7 +357,7 @@
         <div class="card-sub" id="obrasMes">Cargando...</div>
       </div>
       <div class="card">
-        <div class="card-label">En reserva</div>
+        <div class="card-label">Obras vendidas este mes</div>
         <div class="card-value" style="font-size:36px;" id="ultimoCambio">—</div>
         <div class="card-sub" id="ultimoCambioSub">Cargando...</div>
       </div>
@@ -582,8 +582,18 @@
 
         document.getElementById('historialContainer').innerHTML = historialHTML || '<div class="empty">Sin datos</div>';
 
-        // Últimos cambios
-        _historialInvertido = [...historial].reverse();
+        // Últimos cambios — 3 Punts tiene estructura plana
+        const historialPlano = historial.map(c => ({
+          fecha:           c.fecha,
+          artista:         c.artista,
+          tipo:            c.tipo,
+          obra:            c.titulo || c.obra || '',
+          precio:          c.precio,
+          precio_num:      c.precio_num,
+          url:             c.url,
+          precio_anterior: c.precio_anterior,
+        }));
+        _historialInvertido = historialPlano.reverse();
         _cambiosMostrados = 0;
 
         if (_historialInvertido.length === 0) {
