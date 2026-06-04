@@ -337,14 +337,22 @@
   <div class="container">
 
     <header>
-      <div style="display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:wrap;gap:12px;">
+            <div style="display:flex;justify-content:space-between;align-items:flex-start;">
         <div>
           <div class="logo">Base<span>Elements</span></div>
           <div class="subtitle">Sales Monitor · baseelements.net</div>
         </div>
-        <div style="display:flex;flex-direction:column;align-items:flex-end;gap:6px;margin-top:4px;">
-          
-<a href="ventas_baseelements.html" style="font-size:11px;color:var(--accent);text-decoration:none;letter-spacing:1px;">Ventas por artista →</a>          <a href="index.html" style="font-size:11px;color:var(--accent);text-decoration:none;letter-spacing:1px;">Artquemy →</a>          <a href="3punts.html" style="font-size:11px;color:var(--accent);text-decoration:none;letter-spacing:1px;">3 Punts →</a>
+        <div style="display:flex;flex-direction:column;align-items:flex-end;gap:6px;">
+          <div style="position:relative;">
+            <button onclick="toggleNav()" style="background:none;border:1px solid var(--border);color:var(--text-dim);font-family:'DM Mono',monospace;font-size:11px;letter-spacing:2px;padding:6px 12px;cursor:pointer;text-transform:uppercase;">≡ Monitores</button>
+            <div id="navMenu" style="display:none;position:absolute;right:0;top:100%;margin-top:4px;background:var(--surface);border:1px solid var(--border);min-width:180px;z-index:50;">
+              <a href="https://apropdelalluna.github.io/monitor-artevistas/" style="display:block;padding:10px 16px;font-size:11px;color:var(--text-dim);text-decoration:none;letter-spacing:1px;text-transform:uppercase;border-bottom:1px solid var(--border);">Artevistas</a>
+              <a href="https://apropdelalluna.github.io/monitor-artquemy/" style="display:block;padding:10px 16px;font-size:11px;color:var(--text-dim);text-decoration:none;letter-spacing:1px;text-transform:uppercase;border-bottom:1px solid var(--border);">Artquemy</a>
+              <a href="https://apropdelalluna.github.io/monitor-artquemy/3punts.html" style="display:block;padding:10px 16px;font-size:11px;color:var(--text-dim);text-decoration:none;letter-spacing:1px;text-transform:uppercase;border-bottom:1px solid var(--border);">3 Punts</a>
+              <a href="https://apropdelalluna.github.io/monitor-artquemy/resumen.html" style="display:block;padding:10px 16px;font-size:11px;color:var(--text-dim);text-decoration:none;letter-spacing:1px;text-transform:uppercase;">📊 Resumen</a>
+            </div>
+          </div>
+          <a href="ventas_baseelements.html" style="font-size:11px;color:var(--text-dim);text-decoration:none;letter-spacing:2px;text-transform:uppercase;">Ventas totales →</a>
         </div>
       </div>
       <div class="status-bar">
