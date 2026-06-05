@@ -10743,5 +10743,51 @@
         "url": "https://artquemy.com/producto/tiger-warrior/"
       }
     ]
+  },
+  {
+    "fecha": "05/06/2026 19:13",
+    "artista": "Juncosa",
+    "cambios_obras": [
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "Pasion",
+        "precio": "€110,00",
+        "precio_num": 110.0,
+        "precio_anterior": "€80,00",
+        "url": "https://artquemy.com/producto/pasion/"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "Escalera",
+        "precio": "€110,00",
+        "precio_num": 110.0,
+        "precio_anterior": "€80,00",
+        "url": "https://artquemy.com/producto/escalera/"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "Tejado",
+        "precio": "€110,00",
+        "precio_num": 110.0,
+        "precio_anterior": "€80,00",
+        "url": "https://artquemy.com/producto/tejado/"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "Templo",
+        "precio": "€110,00",
+        "precio_num": 110.0,
+        "precio_anterior": "€80,00",
+        "url": "https://artquemy.com/producto/templo/"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "Interior",
+        "precio": "€110,00",
+        "precio_num": 110.0,
+        "precio_anterior": "€80,00",
+        "url": "https://artquemy.com/producto/interior/"
+      }
+    ]
   }
 ]
