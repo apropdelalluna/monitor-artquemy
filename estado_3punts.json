@@ -1,5 +1,5 @@
 {
-  "__hash__": "bbf50e20235dfa0d34cd4fad949c94ac",
+  "__hash__": "e40c13beb05e776fa747718ff1f21cb0",
   "obras": {
     "https://www.3punts.com/es/shop/artwork/untitled-alberto-fernandez-hurtado": {
       "titulo": "UNTITLED,2026",
@@ -57,14 +57,6 @@
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/transhumanism-30"
     },
-    "https://www.3punts.com/es/shop/artwork/last-nomad-alejandro-monge": {
-      "titulo": "THE LAST NOMAD,2025",
-      "artista": "Alejandro Monge",
-      "precio": "Consultar precio",
-      "precio_num": 0.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/last-nomad-alejandro-monge"
-    },
     "https://www.3punts.com/es/shop/artwork/shell-alejandro-monge": {
       "titulo": "THE SHELL,2025",
       "artista": "Alejandro Monge",
@@ -72,22 +64,6 @@
       "precio_num": 0.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/shell-alejandro-monge"
-    },
-    "https://www.3punts.com/es/shop/artwork/horizon-alejandro-monge": {
-      "titulo": "HORIZON,2025",
-      "artista": "Alejandro Monge",
-      "precio": "Consultar precio",
-      "precio_num": 0.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/horizon-alejandro-monge"
-    },
-    "https://www.3punts.com/es/shop/artwork/grey-orchid-alejandro-monge": {
-      "titulo": "THE GREY ORCHID,2025",
-      "artista": "Alejandro Monge",
-      "precio": "Consultar precio",
-      "precio_num": 0.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/grey-orchid-alejandro-monge"
     },
     "https://www.3punts.com/es/shop/artwork/core-time-01-alejandro-monge": {
       "titulo": "CORE OF TIME 01,2025",
