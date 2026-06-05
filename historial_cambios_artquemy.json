@@ -10617,5 +10617,131 @@
         "url": "https://artquemy.com/producto/interior/"
       }
     ]
+  },
+  {
+    "fecha": "05/06/2026 14:30",
+    "artista": "Jor Ros",
+    "cambios_obras": [
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "Her lll",
+        "precio": "€120,00",
+        "precio_num": 120.0,
+        "precio_anterior": "€95,00",
+        "url": "https://artquemy.com/producto/her-lll-2/"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "Him II",
+        "precio": "€120,00",
+        "precio_num": 120.0,
+        "precio_anterior": "€95,00",
+        "url": "https://artquemy.com/producto/him-ii/"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "Asagiri",
+        "precio": "€120,00",
+        "precio_num": 120.0,
+        "precio_anterior": "€95,00",
+        "url": "https://artquemy.com/producto/asagiri-2/"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "Saruyama",
+        "precio": "€120,00",
+        "precio_num": 120.0,
+        "precio_anterior": "€95,00",
+        "url": "https://artquemy.com/producto/saruyama-2/"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "Osuushi",
+        "precio": "€120,00",
+        "precio_num": 120.0,
+        "precio_anterior": "€95,00",
+        "url": "https://artquemy.com/producto/osuushi/"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "Tora",
+        "precio": "€120,00",
+        "precio_num": 120.0,
+        "precio_anterior": "€95,00",
+        "url": "https://artquemy.com/producto/tora-2/"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "Her",
+        "precio": "€120,00",
+        "precio_num": 120.0,
+        "precio_anterior": "€95,00",
+        "url": "https://artquemy.com/producto/her-2/"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "Smoker Hound",
+        "precio": "€120,00",
+        "precio_num": 120.0,
+        "precio_anterior": "€95,00",
+        "url": "https://artquemy.com/producto/smoker-hound-2/"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "Sacred Masks",
+        "precio": "€120,00",
+        "precio_num": 120.0,
+        "precio_anterior": "€95,00",
+        "url": "https://artquemy.com/producto/sacred-masks-2/"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "Poster lll",
+        "precio": "€120,00",
+        "precio_num": 120.0,
+        "precio_anterior": "€95,00",
+        "url": "https://artquemy.com/producto/poster-lll/"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "Poster ll",
+        "precio": "€120,00",
+        "precio_num": 120.0,
+        "precio_anterior": "€95,00",
+        "url": "https://artquemy.com/producto/poster-ll-2/"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "Poster",
+        "precio": "€120,00",
+        "precio_num": 120.0,
+        "precio_anterior": "€95,00",
+        "url": "https://artquemy.com/producto/poster/"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "Her ll",
+        "precio": "€120,00",
+        "precio_num": 120.0,
+        "precio_anterior": "€95,00",
+        "url": "https://artquemy.com/producto/her-ll/"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "Him",
+        "precio": "€120,00",
+        "precio_num": 120.0,
+        "precio_anterior": "€95,00",
+        "url": "https://artquemy.com/producto/him-2/"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "Tiger Warrior",
+        "precio": "€120,00",
+        "precio_num": 120.0,
+        "precio_anterior": "€95,00",
+        "url": "https://artquemy.com/producto/tiger-warrior/"
+      }
+    ]
   }
 ]
