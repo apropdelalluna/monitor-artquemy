@@ -6127,5 +6127,32 @@
     "precio_num": 1200.0,
     "url": "https://www.3punts.com/es/shop/artwork/welcome-wonderful-world-genetics-yves-decamps",
     "fecha": "29/05/2026 16:47"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "THE LAST NOMAD,2025",
+    "artista": "Alejandro Monge",
+    "precio": "Consultar precio",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/last-nomad-alejandro-monge",
+    "fecha": "05/06/2026 19:16"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "HORIZON,2025",
+    "artista": "Alejandro Monge",
+    "precio": "Consultar precio",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/horizon-alejandro-monge",
+    "fecha": "05/06/2026 19:16"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "THE GREY ORCHID,2025",
+    "artista": "Alejandro Monge",
+    "precio": "Consultar precio",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/grey-orchid-alejandro-monge",
+    "fecha": "05/06/2026 19:16"
   }
 ]
