@@ -6154,5 +6154,14 @@
     "precio_num": 0.0,
     "url": "https://www.3punts.com/es/shop/artwork/grey-orchid-alejandro-monge",
     "fecha": "05/06/2026 19:16"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "LOST,2025",
+    "artista": "Xavi Noble",
+    "precio": "2 700,00 €",
+    "precio_num": 2700.0,
+    "url": "https://www.3punts.com/es/shop/artwork/lost-xavi-noble",
+    "fecha": "06/06/2026 18:41"
   }
 ]
