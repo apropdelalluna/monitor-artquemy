@@ -6463,6 +6463,33 @@
       "precio_num": 290.0,
       "tipo": "vendida",
       "url": "https://artquemy.com/producto/panot-gaudi-rosa/"
+    },
+    {
+      "fecha": "06/06/2026 18:37",
+      "artista": "El Xupet Negre",
+      "obra": "San Cristóbal",
+      "precio": "€1.500,00",
+      "precio_num": 1500.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/san-cristobal/"
+    },
+    {
+      "fecha": "06/06/2026 18:37",
+      "artista": "KST",
+      "obra": "En compañía",
+      "precio": "€280,00",
+      "precio_num": 280.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/en-compania/"
+    },
+    {
+      "fecha": "06/06/2026 18:37",
+      "artista": "Món Mort",
+      "obra": "Las Mónmortinas",
+      "precio": "€900,00",
+      "precio_num": 900.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/las-monmortinas/"
     }
   ]
 }
