@@ -1,5 +1,5 @@
 {
-  "__hash__": "e40c13beb05e776fa747718ff1f21cb0",
+  "__hash__": "94d7e2e31fa4c0e6dd124200afc72ad8",
   "obras": {
     "https://www.3punts.com/es/shop/artwork/untitled-alberto-fernandez-hurtado": {
       "titulo": "UNTITLED,2026",
@@ -5028,9 +5028,9 @@
     "https://www.3punts.com/es/shop/artwork/lost-xavi-noble": {
       "titulo": "LOST,2025",
       "artista": "Xavi Noble",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
+      "precio": "2 700,00 €",
+      "precio_num": 2700.0,
+      "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/lost-xavi-noble"
     },
     "https://www.3punts.com/es/shop/artwork/rise-xavi-noble": {
