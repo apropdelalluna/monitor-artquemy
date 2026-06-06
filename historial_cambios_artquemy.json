@@ -10789,5 +10789,44 @@
         "url": "https://artquemy.com/producto/interior/"
       }
     ]
+  },
+  {
+    "fecha": "06/06/2026 18:37",
+    "artista": "El Xupet Negre",
+    "cambios_obras": [
+      {
+        "tipo": "vendida",
+        "titulo": "San Cristóbal",
+        "precio": "€1.500,00",
+        "precio_num": 1500.0,
+        "url": "https://artquemy.com/producto/san-cristobal/"
+      }
+    ]
+  },
+  {
+    "fecha": "06/06/2026 18:37",
+    "artista": "KST",
+    "cambios_obras": [
+      {
+        "tipo": "vendida",
+        "titulo": "En compañía",
+        "precio": "€280,00",
+        "precio_num": 280.0,
+        "url": "https://artquemy.com/producto/en-compania/"
+      }
+    ]
+  },
+  {
+    "fecha": "06/06/2026 18:37",
+    "artista": "Món Mort",
+    "cambios_obras": [
+      {
+        "tipo": "vendida",
+        "titulo": "Las Mónmortinas",
+        "precio": "€900,00",
+        "precio_num": 900.0,
+        "url": "https://artquemy.com/producto/las-monmortinas/"
+      }
+    ]
   }
 ]
