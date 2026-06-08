@@ -1801,6 +1801,9 @@ def tp_comprobar_todos() -> None:
         logging.error("[3P] Error general: %s", e)
 
 
+
+
+
 def main() -> None:
     logging.info("=" * 55)
     logging.info("Monitor Artquemy iniciado")
@@ -1815,18 +1818,21 @@ def main() -> None:
     cargar_estado()
     be_cargar_estado()
     tp_cargar_estado()
+    ld_cargar_estado()
 
     # Comprobación al arrancar
     cambios_artistas = detectar_artistas_nuevos()
     comprobar_todos()
     be_comprobar_todos()
     tp_comprobar_todos()
+    ld_comprobar_todos()
 
     # Comprobación automática diaria a las 17:50
     schedule.every().day.at("17:50").do(detectar_artistas_nuevos)
     schedule.every().day.at("17:50").do(comprobar_todos)
     schedule.every().day.at("17:50").do(be_comprobar_todos)
     schedule.every().day.at("17:50").do(tp_comprobar_todos)
+    schedule.every().day.at("17:50").do(ld_comprobar_todos)
 
     logging.info("Scheduler activo. Comprobación automática a las 17:50 UTC.")
 
