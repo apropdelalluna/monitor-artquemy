@@ -1869,44 +1869,89 @@ def ld_precio_a_numero(precio_str: str) -> float:
 
 def ld_extraer_obras(soup: BeautifulSoup, nombre_artista: str) -> dict:
     obras = {}
+    # Buscar todos los enlaces a productos pero solo los que NO son botones Voir l'oeuvre
+    # La estructura es: [enlace_imagen -> produit/] [artista] Titulo [categorías] precio [Voir l'oeuvre -> produit/]
+    # Usamos el primer enlace a cada producto (el de la imagen)
+    vistas = set()
     for item in soup.select("a[href*='/produit/']"):
         url_obra = item.get("href", "")
         if not url_obra or url_obra == "#":
             continue
         if not url_obra.startswith("http"):
             url_obra = "https://www.ladistillerie66.fr" + url_obra
-        if url_obra in obras:
+        # Solo procesar la primera aparición de cada URL (enlace imagen, no botón)
+        if url_obra in vistas:
             continue
-        parent = item.find_parent(class_=lambda c: c and ("woocommerce" in c or "product" in c or "elementor" in c))
-        if not parent:
-            parent = item.parent
-        titulo_el = parent.select_one("h2, h3, .woocommerce-loop-product__title, .product-title")
-        if not titulo_el:
-            titulo_el = item
-        titulo = titulo_el.get_text(strip=True) if titulo_el else ""
-        if not titulo or len(titulo) < 2:
-            continue
-        vendu = parent.select_one("a[href='#']")
-        vendu_text = vendu.get_text(strip=True).upper() if vendu else ""
-        es_vendido = "VENDU" in vendu_text
-        precio_els = parent.select(".price, .woocommerce-Price-amount, bdi")
-        precio_str_raw = ""
-        for pel in precio_els:
-            t = pel.get_text(strip=True)
-            if t and t not in ("-€", ""):
-                precio_str_raw = t
+        vistas.add(url_obra)
+
+        # El título y precio están como hermanos del enlace, no dentro de él
+        # Buscar el contenedor padre que tenga tanto el título como el precio
+        # Subir varios niveles hasta encontrar el bloque completo
+        bloque = item.parent
+        sep = "\n"
+        for _ in range(5):
+            texto = bloque.get_text(separator=sep, strip=True)
+            if nombre_artista.lower() in texto.lower() or "vendu" in texto.lower() or "€" in texto:
                 break
+            bloque = bloque.parent
+            if bloque is None:
+                break
+
+        if bloque is None:
+            continue
+
+        lineas = [l.strip() for l in bloque.get_text(separator=sep).split(sep) if l.strip()]
+
+        # El título es la línea después del nombre del artista y antes de las categorías/precio
+        titulo = ""
+        for i, linea in enumerate(lineas):
+            # Saltar el nombre del artista y textos del menú
+            if linea.lower() in (nombre_artista.lower(), "voir l'œuvre", "vendu", ""):
+                continue
+            # Saltar si contiene € como precio o es una categoría conocida
+            if "€" in linea or linea.lower().startswith(("recycl", "dessins", "tableau", "sculpture", "concept", "aquarel", "print", "petits", "a vente")):
+                continue
+            # Saltar líneas muy cortas o que sean el precio
+            if len(linea) < 2:
+                continue
+            # El título es el texto más relevante
+            titulo = linea
+            break
+
+        if not titulo or titulo.lower() in ("voir l'œuvre", "vendu"):
+            continue
+
+        # Estado vendido
+        texto_bloque = bloque.get_text().upper()
+        es_vendido = "VENDU" in texto_bloque and "-€" in bloque.get_text()
+
+        # Precio — buscar texto con € que no sea -€
+        precio_str_raw = ""
+        for linea in lineas:
+            if "€" in linea and linea.strip() not in ("-€", "-") and "prix sur demande" not in linea.lower():
+                # Limpiar el precio
+                import re
+                match = re.search(r"[\d][\d\s\.,']*€", linea.replace(" ", " "))
+                if match:
+                    precio_str_raw = match.group(0).strip()
+                    break
+            if "prix sur demande" in linea.lower():
+                precio_str_raw = "Prix sur demande"
+                break
+
         precio_num = ld_precio_a_numero(precio_str_raw)
-        if es_vendido or precio_str_raw in ("-€", "-"):
+
+        if es_vendido:
             estado = "vendido"
             precio_str = "Precio no disponible"
             precio_num = 0.0
-        elif precio_num == 0.0:
+        elif not precio_str_raw or precio_str_raw == "Prix sur demande":
             estado = "disponible"
             precio_str = "Prix sur demande"
         else:
             estado = "disponible"
             precio_str = precio_str_raw
+
         obras[url_obra] = {
             "titulo": titulo, "artista": nombre_artista,
             "precio": precio_str, "precio_num": precio_num,
