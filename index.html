@@ -495,6 +495,8 @@
         const numObras = ventasReales.length;
 
         document.getElementById('totalMes').textContent = formatNum(totalMes);
+        document.getElementById('ultimoCambio').textContent = numObras;
+        document.getElementById('ultimoCambioSub').textContent = formatMes(mesActual);
         document.getElementById('obrasMes').innerHTML = `
           ${numObras} obra${numObras !== 1 ? 's' : ''} vendida${numObras !== 1 ? 's' : ''} en ${formatMes(mesActual)}
         `;
