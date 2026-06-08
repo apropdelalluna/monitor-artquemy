@@ -1804,6 +1804,262 @@ def tp_comprobar_todos() -> None:
 
 
 
+
+# ══════════════════════════════════════════════════════════════
+#  MONITOR LA DISTILLERIE 66
+# ══════════════════════════════════════════════════════════════
+
+LD_ARCHIVO_ESTADO    = "estado_distillerie.json"
+LD_ARCHIVO_MENSUAL   = "ventas_mensuales_distillerie.json"
+LD_ARCHIVO_HISTORIAL = "historial_cambios_distillerie.json"
+LD_ARCHIVO_META      = "meta_distillerie.json"
+LD_BASE_URL          = "https://www.ladistillerie66.fr/artistes/"
+
+LD_ARTISTAS = [
+    {"nombre": "ALX Slice Art", "slug": "alx-slice-art"},
+    {"nombre": "Arcanis", "slug": "arcanis"},
+    {"nombre": "Arykp", "slug": "arykp"},
+    {"nombre": "Beus", "slug": "beus"},
+    {"nombre": "BL2A", "slug": "bl2a"},
+    {"nombre": "Daddy Graph", "slug": "daddy-graph"},
+    {"nombre": "David Cabrefigue", "slug": "david-cabrefigue"},
+    {"nombre": "Disco", "slug": "disco"},
+    {"nombre": "Eric Montaux", "slug": "eric-montaux"},
+    {"nombre": "Faki", "slug": "faki"},
+    {"nombre": "Frederic Haro", "slug": "frederic-haro"},
+    {"nombre": "Hayat", "slug": "hayat"},
+    {"nombre": "Henri Iglesis", "slug": "henri-iglesis"},
+    {"nombre": "Idan Zareski", "slug": "idan-zareski"},
+    {"nombre": "Jalhu6Ne", "slug": "jalhu6ne"},
+    {"nombre": "Jerome Salas", "slug": "jerome-salas"},
+    {"nombre": "Killian Iglesis", "slug": "killian-iglesis"},
+    {"nombre": "Kœurélé", "slug": "koeurele"},
+    {"nombre": "Ludo Lassalle", "slug": "ludo-lasalle"},
+    {"nombre": "Martine Diotalevi", "slug": "martine-diotalevi"},
+    {"nombre": "Maxime Andriot", "slug": "maxime-andriot"},
+    {"nombre": "Mendo", "slug": "mendo-2"},
+    {"nombre": "Méta", "slug": "meta"},
+    {"nombre": "Mr Yerro", "slug": "mr-yerro"},
+    {"nombre": "One Siker", "slug": "one-siker"},
+    {"nombre": "Pablito Mourer", "slug": "pablito-mourer"},
+    {"nombre": "ROKO", "slug": "roko"},
+    {"nombre": "SanckOBlack", "slug": "sanckoblack-2"},
+    {"nombre": "Steve Pitocco", "slug": "steve-pitocco-11"},
+    {"nombre": "Thierry Clamens", "slug": "thierry-clamens"},
+    {"nombre": "Thomas Vinas", "slug": "thomas-vinas"},
+    {"nombre": "Tiguéné", "slug": "tiguene"},
+    {"nombre": "Toncé", "slug": "tonce"},
+    {"nombre": "VILE", "slug": "vile"},
+    {"nombre": "Zed", "slug": "zed"},
+]
+
+ld_estado = {}
+ld_cambios_del_dia = []
+
+
+def ld_precio_a_numero(precio_str: str) -> float:
+    if not precio_str or precio_str in ("-€", "-", "Prix sur demande", ""):
+        return 0.0
+    try:
+        s = precio_str.replace("\xa0", "").replace(" ", "").replace("€", "").replace(",", ".")
+        return float(s)
+    except Exception:
+        return 0.0
+
+
+def ld_extraer_obras(soup: BeautifulSoup, nombre_artista: str) -> dict:
+    obras = {}
+    for item in soup.select("a[href*='/produit/']"):
+        url_obra = item.get("href", "")
+        if not url_obra or url_obra == "#":
+            continue
+        if not url_obra.startswith("http"):
+            url_obra = "https://www.ladistillerie66.fr" + url_obra
+        if url_obra in obras:
+            continue
+        parent = item.find_parent(class_=lambda c: c and ("woocommerce" in c or "product" in c or "elementor" in c))
+        if not parent:
+            parent = item.parent
+        titulo_el = parent.select_one("h2, h3, .woocommerce-loop-product__title, .product-title")
+        if not titulo_el:
+            titulo_el = item
+        titulo = titulo_el.get_text(strip=True) if titulo_el else ""
+        if not titulo or len(titulo) < 2:
+            continue
+        vendu = parent.select_one("a[href='#']")
+        vendu_text = vendu.get_text(strip=True).upper() if vendu else ""
+        es_vendido = "VENDU" in vendu_text
+        precio_els = parent.select(".price, .woocommerce-Price-amount, bdi")
+        precio_str_raw = ""
+        for pel in precio_els:
+            t = pel.get_text(strip=True)
+            if t and t not in ("-€", ""):
+                precio_str_raw = t
+                break
+        precio_num = ld_precio_a_numero(precio_str_raw)
+        if es_vendido or precio_str_raw in ("-€", "-"):
+            estado = "vendido"
+            precio_str = "Precio no disponible"
+            precio_num = 0.0
+        elif precio_num == 0.0:
+            estado = "disponible"
+            precio_str = "Prix sur demande"
+        else:
+            estado = "disponible"
+            precio_str = precio_str_raw
+        obras[url_obra] = {
+            "titulo": titulo, "artista": nombre_artista,
+            "precio": precio_str, "precio_num": precio_num,
+            "estado": estado, "url": url_obra,
+        }
+    return obras
+
+
+def ld_obtener_artista(artista: dict) -> dict | None:
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+        "Accept-Language": "fr-FR,fr;q=0.9",
+    }
+    try:
+        url = f"{LD_BASE_URL}{artista['slug']}/"
+        resp = requests.get(url, headers=headers, timeout=20)
+        if resp.status_code != 200:
+            logging.warning("[LD] %s: HTTP %d", artista["nombre"], resp.status_code)
+            return None
+        soup = BeautifulSoup(resp.text, "html.parser")
+        texto = soup.get_text(separator="\n", strip=True)
+        hash_actual = hashlib.md5(texto.encode()).hexdigest()
+        obras = ld_extraer_obras(soup, artista["nombre"])
+        return {"hash": hash_actual, "obras": obras}
+    except requests.RequestException as e:
+        logging.error("[LD] Error con %s: %s", artista["nombre"], e)
+        return None
+
+
+def ld_detectar_cambios(obras_nuevas: dict, obras_viejas: dict) -> list:
+    cambios = []
+    fecha = datetime.now().strftime("%d/%m/%Y %H:%M")
+    for url, info_nueva in obras_nuevas.items():
+        info_vieja = obras_viejas.get(url)
+        if info_vieja is None:
+            if info_nueva["estado"] == "vendido":
+                cambios.append({"tipo": "nueva_vendida", "titulo": info_nueva["titulo"], "artista": info_nueva["artista"], "precio": "Precio no disponible", "precio_num": 0.0, "url": url, "fecha": fecha})
+            else:
+                cambios.append({"tipo": "nueva", "titulo": info_nueva["titulo"], "artista": info_nueva["artista"], "precio": info_nueva["precio"], "precio_num": info_nueva["precio_num"], "url": url, "fecha": fecha})
+        else:
+            if info_vieja["estado"] != info_nueva["estado"]:
+                if info_nueva["estado"] == "vendido":
+                    cambios.append({"tipo": "vendida", "titulo": info_vieja["titulo"], "artista": info_vieja["artista"], "precio": info_vieja["precio"], "precio_num": info_vieja["precio_num"], "url": url, "fecha": fecha})
+                elif info_vieja["estado"] == "vendido" and info_nueva["estado"] == "disponible":
+                    cambios.append({"tipo": "nueva", "titulo": info_nueva["titulo"], "artista": info_nueva["artista"], "precio": info_nueva["precio"], "precio_num": info_nueva["precio_num"], "url": url, "fecha": fecha})
+            elif (info_vieja["estado"] == "disponible" and info_nueva["estado"] == "disponible"
+                  and info_vieja.get("precio_num", 0) != info_nueva.get("precio_num", 0)
+                  and info_nueva.get("precio_num", 0) > 0 and info_vieja.get("precio_num", 0) > 0):
+                cambios.append({"tipo": "precio_cambiado", "titulo": info_nueva["titulo"], "artista": info_nueva["artista"], "precio": info_nueva["precio"], "precio_num": info_nueva["precio_num"], "precio_anterior": info_vieja["precio"], "url": url, "fecha": fecha})
+    for url, info_vieja in obras_viejas.items():
+        if url not in obras_nuevas:
+            cambios.append({"tipo": "desaparecida", "titulo": info_vieja["titulo"], "artista": info_vieja["artista"], "precio": info_vieja["precio"], "precio_num": info_vieja["precio_num"], "url": url, "fecha": fecha})
+    return cambios
+
+
+def ld_cargar_estado() -> None:
+    global ld_estado
+    contenido = github_cargar_archivo(LD_ARCHIVO_ESTADO)
+    if contenido:
+        try:
+            ld_estado = json.loads(contenido)
+            logging.info("[LD] Estado cargado: %d obras.", len(ld_estado))
+        except Exception as e:
+            logging.warning("[LD] No se pudo parsear estado: %s", e)
+    else:
+        logging.info("[LD] Sin estado previo — primer escaneo.")
+
+
+def ld_guardar_estado() -> None:
+    try:
+        with open(LD_ARCHIVO_ESTADO, "w", encoding="utf-8") as f:
+            json.dump(ld_estado, f, ensure_ascii=False, indent=2)
+        github_guardar_archivo(LD_ARCHIVO_ESTADO)
+        logging.info("[LD] ✅ %s guardado.", LD_ARCHIVO_ESTADO)
+    except Exception as e:
+        logging.error("[LD] Error guardando estado: %s", e)
+
+
+def ld_guardar_ventas_mensuales(cambios: list) -> None:
+    try:
+        contenido = github_cargar_archivo(LD_ARCHIVO_MENSUAL)
+        ventas = json.loads(contenido) if contenido else {}
+        mes_actual = datetime.now().strftime("%Y-%m")
+        if mes_actual not in ventas:
+            ventas[mes_actual] = []
+        for c in cambios:
+            if c["tipo"] in ("vendida", "nueva_vendida"):
+                ventas[mes_actual].append({"fecha": c.get("fecha", ""), "artista": c.get("artista", ""), "obra": c.get("titulo", ""), "precio": c.get("precio", ""), "precio_num": c.get("precio_num", 0.0), "tipo": c["tipo"], "url": c.get("url", "")})
+        with open(LD_ARCHIVO_MENSUAL, "w", encoding="utf-8") as f:
+            json.dump(ventas, f, ensure_ascii=False, indent=2)
+        github_guardar_archivo(LD_ARCHIVO_MENSUAL)
+        logging.info("[LD] ✅ %s guardado.", LD_ARCHIVO_MENSUAL)
+    except Exception as e:
+        logging.error("[LD] Error guardando ventas mensuales: %s", e)
+
+
+def ld_guardar_historial(cambios: list) -> None:
+    try:
+        contenido = github_cargar_archivo(LD_ARCHIVO_HISTORIAL)
+        historial = json.loads(contenido) if contenido else []
+        historial.extend(cambios)
+        historial = historial[-2000:]
+        with open(LD_ARCHIVO_HISTORIAL, "w", encoding="utf-8") as f:
+            json.dump(historial, f, ensure_ascii=False, indent=2)
+        github_guardar_archivo(LD_ARCHIVO_HISTORIAL)
+        logging.info("[LD] ✅ %s guardado.", LD_ARCHIVO_HISTORIAL)
+    except Exception as e:
+        logging.error("[LD] Error guardando historial: %s", e)
+
+
+def ld_guardar_meta() -> None:
+    try:
+        meta = {"ultima_comprobacion": datetime.now().strftime("%d/%m/%Y %H:%M")}
+        with open(LD_ARCHIVO_META, "w", encoding="utf-8") as f:
+            json.dump(meta, f, ensure_ascii=False, indent=2)
+        github_guardar_archivo(LD_ARCHIVO_META)
+    except Exception as e:
+        logging.error("[LD] Error guardando meta: %s", e)
+
+
+def ld_comprobar_todos() -> None:
+    global ld_estado, ld_cambios_del_dia
+    logging.info("[LD] " + "=" * 45)
+    logging.info("[LD] Inicio comprobación La Distillerie 66 — %s", datetime.now().strftime("%d/%m/%Y %H:%M"))
+    ld_cambios_del_dia = []
+    try:
+        obras_totales_nuevas = {}
+        for artista in LD_ARTISTAS:
+            logging.info("[LD] Comprobando: %s", artista["nombre"])
+            datos = ld_obtener_artista(artista)
+            if datos is None:
+                continue
+            obras_totales_nuevas.update(datos["obras"])
+            time.sleep(1.5)
+        cambios = ld_detectar_cambios(obras_totales_nuevas, ld_estado)
+        if cambios:
+            logging.info("[LD] %d cambios detectados:", len(cambios))
+            for c in cambios:
+                logging.info("[LD]   [%s] %s (%s) — %s", c["tipo"], c["titulo"], c["artista"], c["precio"])
+            ld_cambios_del_dia = cambios
+        ld_estado = obras_totales_nuevas
+        ld_guardar_estado()
+        ld_guardar_meta()
+        if ld_cambios_del_dia:
+            ld_guardar_ventas_mensuales(ld_cambios_del_dia)
+            ld_guardar_historial(ld_cambios_del_dia)
+            logging.info("[LD] Comprobación finalizada — %d cambios.", len(ld_cambios_del_dia))
+        else:
+            logging.info("[LD] Comprobación finalizada — Sin cambios detectados.")
+    except Exception as e:
+        logging.error("[LD] Error general: %s", e)
+
+
 def main() -> None:
     logging.info("=" * 55)
     logging.info("Monitor Artquemy iniciado")
