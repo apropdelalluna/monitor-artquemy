@@ -26,6 +26,96 @@
       "precio_num": 2800.0,
       "tipo": "vendida",
       "url": "https://www.ladistillerie66.fr/produit/poesie-urbaine/"
+    },
+    {
+      "fecha": "09/06/2026 11:44",
+      "artista": "ALX Slice Art",
+      "obra": "Skull Colors",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.ladistillerie66.fr/produit/skull-colors/"
+    },
+    {
+      "fecha": "09/06/2026 11:44",
+      "artista": "Arcanis",
+      "obra": "Cronos Hermès 40",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.ladistillerie66.fr/produit/cronos-hermes-40/"
+    },
+    {
+      "fecha": "09/06/2026 11:44",
+      "artista": "Arcanis",
+      "obra": "Le Bateau Vuitton 40",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.ladistillerie66.fr/produit/le-bateau-vuitton-40/"
+    },
+    {
+      "fecha": "09/06/2026 11:44",
+      "artista": "Arcanis",
+      "obra": "Le Celeste Hermes 70",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.ladistillerie66.fr/produit/le-celeste-hermes-70/"
+    },
+    {
+      "fecha": "09/06/2026 11:44",
+      "artista": "Arcanis",
+      "obra": "Bateau Vuitton 40",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.ladistillerie66.fr/produit/le-bateau-louis-vuitton-40/"
+    },
+    {
+      "fecha": "09/06/2026 11:44",
+      "artista": "Arcanis",
+      "obra": "Le Bateau 70",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.ladistillerie66.fr/produit/le-bateau-hermes-70/"
+    },
+    {
+      "fecha": "09/06/2026 11:44",
+      "artista": "Arcanis",
+      "obra": "Le Bateau 40",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.ladistillerie66.fr/produit/le-bateau-hermes-40/"
+    },
+    {
+      "fecha": "09/06/2026 11:44",
+      "artista": "Arcanis",
+      "obra": "Le Bateau 55",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.ladistillerie66.fr/produit/le-bateau-hermes-55/"
+    },
+    {
+      "fecha": "09/06/2026 11:44",
+      "artista": "Arcanis",
+      "obra": "Le Bateau 40",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.ladistillerie66.fr/produit/arcanis-le-bateau-hermes-40/"
+    },
+    {
+      "fecha": "09/06/2026 11:44",
+      "artista": "Arykp",
+      "obra": "Les P'tites Bestioles",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.ladistillerie66.fr/produit/arykp-les-ptites-bestioles/"
     }
   ]
 }
