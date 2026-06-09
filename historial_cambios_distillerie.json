@@ -250,5 +250,149 @@
     "precio_num": 900.0,
     "url": "https://www.ladistillerie66.fr/produit/autotrain/",
     "fecha": "09/06/2026 11:03"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "All You Need Is",
+    "artista": "ALX Slice Art",
+    "precio": "7,500€",
+    "precio_num": 7.5,
+    "url": "https://www.ladistillerie66.fr/produit/all-you-need-is/",
+    "fecha": "09/06/2026 11:44"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Skull Colors",
+    "artista": "ALX Slice Art",
+    "precio": "Precio no disponible",
+    "precio_num": 0.0,
+    "url": "https://www.ladistillerie66.fr/produit/skull-colors/",
+    "fecha": "09/06/2026 11:44"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "CRONOS 120 Alligator",
+    "artista": "Arcanis",
+    "precio": "Prix sur demande",
+    "precio_num": 0.0,
+    "url": "https://www.ladistillerie66.fr/produit/cronos-120-alligator-2/",
+    "fecha": "09/06/2026 11:44"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Cronos Hermès 40",
+    "artista": "Arcanis",
+    "precio": "Precio no disponible",
+    "precio_num": 0.0,
+    "url": "https://www.ladistillerie66.fr/produit/cronos-hermes-40/",
+    "fecha": "09/06/2026 11:44"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Le Bateau Vuitton 40",
+    "artista": "Arcanis",
+    "precio": "Precio no disponible",
+    "precio_num": 0.0,
+    "url": "https://www.ladistillerie66.fr/produit/le-bateau-vuitton-40/",
+    "fecha": "09/06/2026 11:44"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "CRONOS 70 cuir marron",
+    "artista": "Arcanis",
+    "precio": "2,600€",
+    "precio_num": 2.6,
+    "url": "https://www.ladistillerie66.fr/produit/cronos-70-alligator-orange/",
+    "fecha": "09/06/2026 11:44"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Le Celeste Hermes 70",
+    "artista": "Arcanis",
+    "precio": "Precio no disponible",
+    "precio_num": 0.0,
+    "url": "https://www.ladistillerie66.fr/produit/le-celeste-hermes-70/",
+    "fecha": "09/06/2026 11:44"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Bateau Vuitton 40",
+    "artista": "Arcanis",
+    "precio": "Precio no disponible",
+    "precio_num": 0.0,
+    "url": "https://www.ladistillerie66.fr/produit/le-bateau-louis-vuitton-40/",
+    "fecha": "09/06/2026 11:44"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Le Bateau 70",
+    "artista": "Arcanis",
+    "precio": "Precio no disponible",
+    "precio_num": 0.0,
+    "url": "https://www.ladistillerie66.fr/produit/le-bateau-hermes-70/",
+    "fecha": "09/06/2026 11:44"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Le Bateau 40",
+    "artista": "Arcanis",
+    "precio": "Precio no disponible",
+    "precio_num": 0.0,
+    "url": "https://www.ladistillerie66.fr/produit/le-bateau-hermes-40/",
+    "fecha": "09/06/2026 11:44"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Le Bateau 55",
+    "artista": "Arcanis",
+    "precio": "Precio no disponible",
+    "precio_num": 0.0,
+    "url": "https://www.ladistillerie66.fr/produit/le-bateau-hermes-55/",
+    "fecha": "09/06/2026 11:44"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Le Bateau 40",
+    "artista": "Arcanis",
+    "precio": "Precio no disponible",
+    "precio_num": 0.0,
+    "url": "https://www.ladistillerie66.fr/produit/arcanis-le-bateau-hermes-40/",
+    "fecha": "09/06/2026 11:44"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Les P'tites Bestioles",
+    "artista": "Arykp",
+    "precio": "Precio no disponible",
+    "precio_num": 0.0,
+    "url": "https://www.ladistillerie66.fr/produit/arykp-les-ptites-bestioles/",
+    "fecha": "09/06/2026 11:44"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Kœurélé Crew",
+    "artista": "Kœurélé",
+    "precio": "700€",
+    "precio_num": 700.0,
+    "url": "https://www.ladistillerie66.fr/produit/koeurele-crew/",
+    "fecha": "09/06/2026 11:44"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Le Kœurélé",
+    "artista": "Kœurélé",
+    "precio": "2,100€",
+    "precio_num": 2.1,
+    "url": "https://www.ladistillerie66.fr/produit/le-koeurele/",
+    "fecha": "09/06/2026 11:44"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Graffiti Paris",
+    "artista": "Kœurélé",
+    "precio": "350€",
+    "precio_num": 350.0,
+    "url": "https://www.ladistillerie66.fr/produit/graffiti-paris/",
+    "fecha": "09/06/2026 11:44"
   }
 ]
