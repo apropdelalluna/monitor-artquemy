@@ -10842,5 +10842,31 @@
         "url": "https://artquemy.com/producto/set-somnis-de-gaudi/"
       }
     ]
+  },
+  {
+    "fecha": "09/06/2026 15:56",
+    "artista": "Luciana Zamarbide",
+    "cambios_obras": [
+      {
+        "tipo": "vendida",
+        "titulo": "The Still Center",
+        "precio": "€900,00",
+        "precio_num": 900.0,
+        "url": "https://artquemy.com/producto/the-still-center/"
+      }
+    ]
+  },
+  {
+    "fecha": "09/06/2026 15:56",
+    "artista": "Urban Flowers",
+    "cambios_obras": [
+      {
+        "tipo": "vendida",
+        "titulo": "Flower bouquet",
+        "precio": "€480,00",
+        "precio_num": 480.0,
+        "url": "https://artquemy.com/producto/flower-bouquet/"
+      }
+    ]
   }
 ]
