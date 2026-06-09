@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="referrer" content="no-referrer">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ventas Totales · La Distillerie 66</title>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=DM+Mono:wght@300;400;500&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #0e0e0e;
+      --surface: #161616;
+      --border: #2a2a2a;
+      --accent: #8b6f47;
+      --text: #e8e4dc;
+      --text-dim: #888;
+      --new: #52a870;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'DM Mono', monospace;
+      min-height: 100vh;
+      padding: 40px 20px;
+    }
+
+    .grain {
+      position: fixed;
+      inset: 0;
+      opacity: 0.03;
+      background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E");
+      pointer-events: none;
+      z-index: 0;
+    }
+
+    .container { max-width: 860px; margin: 0 auto; position: relative; z-index: 1; }
+
+    header { border-bottom: 1px solid var(--border); padding-bottom: 32px; margin-bottom: 40px; }
+
+    .logo { font-family: 'Playfair Display', serif; font-size: clamp(28px, 5vw, 48px); font-weight: 900; letter-spacing: -1px; color: var(--text); }
+    .logo span { color: var(--accent); }
+
+    .subtitle { font-size: 11px; color: var(--text-dim); letter-spacing: 3px; text-transform: uppercase; margin-top: 6px; }
+
+    .nav-link { display: inline-block; margin-top: 16px; font-size: 11px; color: var(--accent); text-decoration: none; letter-spacing: 1px; }
+    .nav-link:hover { color: var(--text); }
+
+    .section-title { font-size: 10px; letter-spacing: 4px; text-transform: uppercase; color: var(--text-dim); margin-bottom: 16px; padding-bottom: 8px; border-bottom: 1px solid var(--border); }
+
+    .artista-item { border-bottom: 1px solid var(--border); margin-bottom: 4px; }
+
+    .artista-header { display: flex; justify-content: space-between; align-items: center; padding: 14px 0; cursor: pointer; user-select: none; gap: 12px; }
+    .artista-header:hover .artista-nombre { color: var(--accent); }
+
+    .artista-nombre { font-family: 'Playfair Display', serif; font-size: 16px; font-weight: 700; transition: color 0.2s; }
+
+    .artista-right { display: flex; align-items: center; gap: 16px; flex-shrink: 0; }
+    .artista-total { font-size: 16px; font-weight: 500; color: var(--accent); }
+    .artista-meta { font-size: 11px; color: var(--text-dim); }
+    .artista-arrow { font-size: 18px; color: var(--text-dim); transition: transform 0.2s; }
+    .artista-arrow.open { transform: rotate(180deg); }
+
+    .artista-obras { display: none; padding-bottom: 12px; }
+    .artista-obras.open { display: block; }
+
+    .obra-row { display: flex; justify-content: space-between; padding: 6px 0 6px 16px; border-bottom: 1px solid var(--border); font-size: 12px; }
+    .obra-row:last-child { border-bottom: none; }
+    .obra-titulo { color: var(--text-dim); }
+    .obra-precio { color: var(--text); font-weight: 500; }
+
+    .empty { text-align: center; padding: 60px; color: var(--text-dim); font-size: 13px; }
+
+    .loading-text { color: var(--text-dim); font-size: 12px; animation: blink 1.2s infinite; }
+
+    @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0.3; } }
+
+    .grand-total { background: var(--surface); border: 1px solid var(--border); padding: 24px; margin-bottom: 32px; display: flex; justify-content: space-between; align-items: center; }
+    .grand-total-label { font-size: 10px; letter-spacing: 3px; text-transform: uppercase; color: var(--text-dim); }
+    .grand-total-value { font-family: 'Playfair Display', serif; font-size: 36px; font-weight: 700; color: var(--accent); }
+
+    .last-update { font-size: 11px; color: var(--text-dim); text-align: right; margin-top: 40px; padding-top: 16px; border-top: 1px solid var(--border); }
+  </style>
+</head>
+<body>
+  <div class="grain"></div>
+  <div class="container">
+
+    <header>
+      <div class="logo">La Distillerie<span>66</span></div>
+      <div class="subtitle">Ventas totales por artista</div>
+      <a href="distillerie.html" class="nav-link">← Volver al panel</a>
+    </header>
+
+    <div id="grandTotalBox" class="grand-total" style="display:none;">
+      <div class="grand-total-label">Total vendido (todos los artistas)</div>
+      <div class="grand-total-value" id="grandTotal">—</div>
+    </div>
+
+    <div class="section-title">Artistas · ordenados por total vendido</div>
+    <div id="listaArtistas"><span class="loading-text">Cargando datos...</span></div>
+
+    <div class="last-update" id="lastUpdate">—</div>
+  </div>
+
+  <script>
+    const GITHUB_USER = 'apropdelalluna';
+    const GITHUB_REPO = 'monitor-artquemy';
+
+    function formatNum(n) {
+      return Number(n).toLocaleString('es-ES', { minimumFractionDigits: 0, maximumFractionDigits: 0 }) + ' €';
+    }
+
+    async function fetchGitHub(file) {
+      const url = `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/main/${file}?t=${Date.now()}`;
+      const r = await fetch(url);
+      if (!r.ok) throw new Error('No encontrado');
+      return r.json();
+    }
+
+    function toggleArtista(id) {
+      const obras = document.getElementById('obras-' + id);
+      const arrow = document.getElementById('arrow-' + id);
+      obras.classList.toggle('open');
+      arrow.classList.toggle('open');
+    }
+
+    const _ordenState = {};
+    function toggleOrden(id) {
+      _ordenState[id] = _ordenState[id] === 'nombre' ? 'precio' : 'nombre';
+      const btn = document.getElementById('btn-orden-' + id);
+      const contenedor = document.getElementById('detalle-' + id);
+      const rows = Array.from(contenedor.querySelectorAll('.obra-row'));
+      if (_ordenState[id] === 'nombre') {
+        rows.sort((a, b) => a.querySelector('.obra-titulo').textContent.trim().localeCompare(b.querySelector('.obra-titulo').textContent.trim(), 'es'));
+        btn.textContent = '↕ Por nombre';
+      } else {
+        rows.sort((a, b) => {
+          const pa = parseFloat(a.querySelector('.obra-precio').dataset.num) || 0;
+          const pb = parseFloat(b.querySelector('.obra-precio').dataset.num) || 0;
+          return pb - pa;
+        });
+        btn.textContent = '↕ Por precio';
+      }
+      rows.forEach(r => contenedor.appendChild(r));
+    }
+
+    async function cargarDatos() {
+      try {
+        const ventas = await fetchGitHub('ventas_mensuales_distillerie.json');
+
+        // Agregar todas las ventas por artista (solo con precio conocido)
+        const porArtista = {};
+        Object.values(ventas).forEach(mes => {
+          mes.forEach(v => {
+            if (v.tipo !== 'vendida' && v.tipo !== 'nueva_vendida') return;
+            if (!porArtista[v.artista]) {
+              porArtista[v.artista] = { total: 0, obras: [] };
+            }
+            porArtista[v.artista].total += v.precio_num || 0;
+            porArtista[v.artista].obras.push({
+              titulo: v.obra,
+              precio_num: v.precio_num || 0,
+              url: v.url || null,
+              fecha: v.fecha || '',
+            });
+          });
+        });
+
+        const artistas = Object.entries(porArtista).sort((a, b) => b[1].total - a[1].total);
+        const grandTotal = artistas.reduce((s, [, d]) => s + d.total, 0);
+
+        document.getElementById('grandTotal').textContent = formatNum(grandTotal);
+        document.getElementById('grandTotalBox').style.display = 'flex';
+
+        if (artistas.length === 0) {
+          document.getElementById('listaArtistas').innerHTML = '<div class="empty">Sin ventas registradas con precio conocido aún.</div>';
+          return;
+        }
+
+        let html = '';
+        artistas.forEach(([nombre, datos], i) => {
+          const obrasOrdenadas = [...datos.obras].sort((a, b) => b.precio_num - a.precio_num);
+          html += `<div class="artista-item">
+            <div class="artista-header" onclick="toggleArtista(${i})">
+              <div class="artista-nombre">${nombre}</div>
+              <div class="artista-right">
+                <span class="artista-meta">${datos.obras.length} obra${datos.obras.length !== 1 ? 's' : ''}</span>
+                <span class="artista-total">${formatNum(datos.total)}</span>
+                <span class="artista-arrow" id="arrow-${i}">▾</span>
+              </div>
+            </div>
+            <div class="artista-obras" id="obras-${i}">
+              <div style="padding:4px 0 8px 16px;">
+                <button onclick="event.stopPropagation();toggleOrden(${i})" id="btn-orden-${i}" style="font-family:'DM Mono',monospace;font-size:10px;letter-spacing:2px;text-transform:uppercase;background:none;border:1px solid var(--border);color:var(--text-dim);padding:4px 10px;cursor:pointer;">↕ Por precio</button>
+              </div>
+              <div id="detalle-${i}">`;
+
+          obrasOrdenadas.forEach(obra => {
+            const titulo = obra.url
+              ? `<a href="${obra.url}" target="_blank" rel="noreferrer noopener" referrerpolicy="no-referrer" style="color:var(--text-dim);text-decoration:none;" onmouseover="this.style.color='var(--accent)'" onmouseout="this.style.color='var(--text-dim)'">${obra.titulo}</a>`
+              : obra.titulo;
+            const precioStr = obra.precio_num > 0 ? formatNum(obra.precio_num) : '—';
+            html += `<div class="obra-row">
+              <span class="obra-titulo">${titulo}</span>
+              <span class="obra-precio" data-num="${obra.precio_num}">${precioStr}</span>
+            </div>`;
+          });
+
+          html += `</div></div></div>`;
+        });
+
+        document.getElementById('listaArtistas').innerHTML = html;
+        document.getElementById('lastUpdate').textContent = `Última actualización: ${new Date().toLocaleString('es-ES')}`;
+
+      } catch (e) {
+        document.getElementById('listaArtistas').innerHTML = '<div class="empty">No hay datos disponibles aún.</div>';
+        console.error(e);
+      }
+    }
+
+    cargarDatos();
+  </script>
+</body>
+</html>
