@@ -6490,6 +6490,24 @@
       "precio_num": 900.0,
       "tipo": "vendida",
       "url": "https://artquemy.com/producto/las-monmortinas/"
+    },
+    {
+      "fecha": "09/06/2026 15:56",
+      "artista": "Luciana Zamarbide",
+      "obra": "The Still Center",
+      "precio": "€900,00",
+      "precio_num": 900.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/the-still-center/"
+    },
+    {
+      "fecha": "09/06/2026 15:56",
+      "artista": "Urban Flowers",
+      "obra": "Flower bouquet",
+      "precio": "€480,00",
+      "precio_num": 480.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/flower-bouquet/"
     }
   ]
 }
