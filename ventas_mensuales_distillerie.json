@@ -350,6 +350,33 @@
       "precio_num": 0.0,
       "tipo": "nueva_vendida",
       "url": "https://www.ladistillerie66.fr/produit/entre-ruinas-y-sonhos/"
+    },
+    {
+      "fecha": "09/06/2026 11:03",
+      "artista": "Faki",
+      "obra": "Beus",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.ladistillerie66.fr/produit/la-conciergerie/"
+    },
+    {
+      "fecha": "09/06/2026 11:03",
+      "artista": "Ludo Lassalle",
+      "obra": "Manchester",
+      "precio": "200€",
+      "precio_num": 200.0,
+      "tipo": "vendida",
+      "url": "https://www.ladistillerie66.fr/produit/manchester/"
+    },
+    {
+      "fecha": "09/06/2026 11:03",
+      "artista": "Ludo Lassalle",
+      "obra": "Le Monde S'En Friche",
+      "precio": "2,800€",
+      "precio_num": 2.8,
+      "tipo": "vendida",
+      "url": "https://www.ladistillerie66.fr/produit/poesie-urbaine/"
     }
   ]
 }
