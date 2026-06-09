@@ -1,20 +1,4 @@
 {
-  "https://www.ladistillerie66.fr/produit/all-you-need-is/": {
-    "titulo": "All You Need Is",
-    "artista": "ALX Slice Art",
-    "precio": "7,500€",
-    "precio_num": 7.5,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/all-you-need-is/"
-  },
-  "https://www.ladistillerie66.fr/produit/skull-colors/": {
-    "titulo": "Skull Colors",
-    "artista": "ALX Slice Art",
-    "precio": "Precio no disponible",
-    "precio_num": 0.0,
-    "estado": "vendido",
-    "url": "https://www.ladistillerie66.fr/produit/skull-colors/"
-  },
   "https://www.ladistillerie66.fr/produit/49533/": {
     "titulo": "Beus",
     "artista": "Zed",
@@ -30,126 +14,6 @@
     "precio_num": 0.0,
     "estado": "vendido",
     "url": "https://www.ladistillerie66.fr/produit/la-cantatrice/"
-  },
-  "https://www.ladistillerie66.fr/produit/lion-2/": {
-    "titulo": "Méta",
-    "artista": "Zed",
-    "precio": "Precio no disponible",
-    "precio_num": 0.0,
-    "estado": "vendido",
-    "url": "https://www.ladistillerie66.fr/produit/lion-2/"
-  },
-  "https://www.ladistillerie66.fr/produit/mecanique-organique/": {
-    "titulo": "Steve Pitocco",
-    "artista": "Zed",
-    "precio": "Precio no disponible",
-    "precio_num": 0.0,
-    "estado": "vendido",
-    "url": "https://www.ladistillerie66.fr/produit/mecanique-organique/"
-  },
-  "https://www.ladistillerie66.fr/produit/nena-2/": {
-    "titulo": "Idan Zareski",
-    "artista": "Zed",
-    "precio": "Prix sur demande",
-    "precio_num": 0.0,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/nena-2/"
-  },
-  "https://www.ladistillerie66.fr/produit/babyfoot-2/": {
-    "titulo": "Idan Zareski",
-    "artista": "Zed",
-    "precio": "Prix sur demande",
-    "precio_num": 0.0,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/babyfoot-2/"
-  },
-  "https://www.ladistillerie66.fr/produit/cronos-120-alligator-2/": {
-    "titulo": "CRONOS 120 Alligator",
-    "artista": "Arcanis",
-    "precio": "Prix sur demande",
-    "precio_num": 0.0,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/cronos-120-alligator-2/"
-  },
-  "https://www.ladistillerie66.fr/produit/cronos-hermes-40/": {
-    "titulo": "Cronos Hermès 40",
-    "artista": "Arcanis",
-    "precio": "750€",
-    "precio_num": 750.0,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/cronos-hermes-40/"
-  },
-  "https://www.ladistillerie66.fr/produit/le-bateau-vuitton-40/": {
-    "titulo": "Le Bateau Vuitton 40",
-    "artista": "Arcanis",
-    "precio": "Precio no disponible",
-    "precio_num": 0.0,
-    "estado": "vendido",
-    "url": "https://www.ladistillerie66.fr/produit/le-bateau-vuitton-40/"
-  },
-  "https://www.ladistillerie66.fr/produit/cronos-70-alligator-orange/": {
-    "titulo": "CRONOS 70 cuir marron",
-    "artista": "Arcanis",
-    "precio": "2,600€",
-    "precio_num": 2.6,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/cronos-70-alligator-orange/"
-  },
-  "https://www.ladistillerie66.fr/produit/le-celeste-hermes-70/": {
-    "titulo": "Le Celeste Hermes 70",
-    "artista": "Arcanis",
-    "precio": "Precio no disponible",
-    "precio_num": 0.0,
-    "estado": "vendido",
-    "url": "https://www.ladistillerie66.fr/produit/le-celeste-hermes-70/"
-  },
-  "https://www.ladistillerie66.fr/produit/le-bateau-louis-vuitton-40/": {
-    "titulo": "Bateau Vuitton 40",
-    "artista": "Arcanis",
-    "precio": "Precio no disponible",
-    "precio_num": 0.0,
-    "estado": "vendido",
-    "url": "https://www.ladistillerie66.fr/produit/le-bateau-louis-vuitton-40/"
-  },
-  "https://www.ladistillerie66.fr/produit/le-bateau-hermes-70/": {
-    "titulo": "Le Bateau 70",
-    "artista": "Arcanis",
-    "precio": "Precio no disponible",
-    "precio_num": 0.0,
-    "estado": "vendido",
-    "url": "https://www.ladistillerie66.fr/produit/le-bateau-hermes-70/"
-  },
-  "https://www.ladistillerie66.fr/produit/le-bateau-hermes-40/": {
-    "titulo": "Le Bateau 40",
-    "artista": "Arcanis",
-    "precio": "Precio no disponible",
-    "precio_num": 0.0,
-    "estado": "vendido",
-    "url": "https://www.ladistillerie66.fr/produit/le-bateau-hermes-40/"
-  },
-  "https://www.ladistillerie66.fr/produit/le-bateau-hermes-55/": {
-    "titulo": "Le Bateau 55",
-    "artista": "Arcanis",
-    "precio": "Precio no disponible",
-    "precio_num": 0.0,
-    "estado": "vendido",
-    "url": "https://www.ladistillerie66.fr/produit/le-bateau-hermes-55/"
-  },
-  "https://www.ladistillerie66.fr/produit/arcanis-le-bateau-hermes-40/": {
-    "titulo": "Le Bateau 40",
-    "artista": "Arcanis",
-    "precio": "Precio no disponible",
-    "precio_num": 0.0,
-    "estado": "vendido",
-    "url": "https://www.ladistillerie66.fr/produit/arcanis-le-bateau-hermes-40/"
-  },
-  "https://www.ladistillerie66.fr/produit/arykp-les-ptites-bestioles/": {
-    "titulo": "Les P'tites Bestioles",
-    "artista": "Arykp",
-    "precio": "Precio no disponible",
-    "precio_num": 0.0,
-    "estado": "vendido",
-    "url": "https://www.ladistillerie66.fr/produit/arykp-les-ptites-bestioles/"
   },
   "https://www.ladistillerie66.fr/produit/lesquisse/": {
     "titulo": "L'Esquisse",
@@ -230,6 +94,38 @@
     "precio_num": 550.0,
     "estado": "disponible",
     "url": "https://www.ladistillerie66.fr/produit/ice-cream/"
+  },
+  "https://www.ladistillerie66.fr/produit/lion-2/": {
+    "titulo": "Méta",
+    "artista": "Zed",
+    "precio": "Precio no disponible",
+    "precio_num": 0.0,
+    "estado": "vendido",
+    "url": "https://www.ladistillerie66.fr/produit/lion-2/"
+  },
+  "https://www.ladistillerie66.fr/produit/mecanique-organique/": {
+    "titulo": "Steve Pitocco",
+    "artista": "Zed",
+    "precio": "Precio no disponible",
+    "precio_num": 0.0,
+    "estado": "vendido",
+    "url": "https://www.ladistillerie66.fr/produit/mecanique-organique/"
+  },
+  "https://www.ladistillerie66.fr/produit/nena-2/": {
+    "titulo": "Idan Zareski",
+    "artista": "Zed",
+    "precio": "Prix sur demande",
+    "precio_num": 0.0,
+    "estado": "disponible",
+    "url": "https://www.ladistillerie66.fr/produit/nena-2/"
+  },
+  "https://www.ladistillerie66.fr/produit/babyfoot-2/": {
+    "titulo": "Idan Zareski",
+    "artista": "Zed",
+    "precio": "Prix sur demande",
+    "precio_num": 0.0,
+    "estado": "disponible",
+    "url": "https://www.ladistillerie66.fr/produit/babyfoot-2/"
   },
   "https://www.ladistillerie66.fr/produit/sentir-que-el-tiempo-se-acaba/": {
     "titulo": "Sentir que el Tiempo se Acaba",
@@ -422,6 +318,30 @@
     "precio_num": 5.3,
     "estado": "disponible",
     "url": "https://www.ladistillerie66.fr/produit/the-gap-way/"
+  },
+  "https://www.ladistillerie66.fr/produit/la-conciergerie/": {
+    "titulo": "Beus",
+    "artista": "Faki",
+    "precio": "Precio no disponible",
+    "precio_num": 0.0,
+    "estado": "vendido",
+    "url": "https://www.ladistillerie66.fr/produit/la-conciergerie/"
+  },
+  "https://www.ladistillerie66.fr/produit/laffirmee/": {
+    "titulo": "Beus",
+    "artista": "Faki",
+    "precio": "3,700€",
+    "precio_num": 3.7,
+    "estado": "disponible",
+    "url": "https://www.ladistillerie66.fr/produit/laffirmee/"
+  },
+  "https://www.ladistillerie66.fr/produit/fantasmagorie/": {
+    "titulo": "Beus",
+    "artista": "Faki",
+    "precio": "4,800€",
+    "precio_num": 4.8,
+    "estado": "disponible",
+    "url": "https://www.ladistillerie66.fr/produit/fantasmagorie/"
   },
   "https://www.ladistillerie66.fr/produit/elisa/": {
     "titulo": "Elisa",
@@ -623,30 +543,6 @@
     "estado": "disponible",
     "url": "https://www.ladistillerie66.fr/produit/bubble-bunny-jaune-56cm/"
   },
-  "https://www.ladistillerie66.fr/produit/koeurele-crew/": {
-    "titulo": "Kœurélé Crew",
-    "artista": "Kœurélé",
-    "precio": "700€",
-    "precio_num": 700.0,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/koeurele-crew/"
-  },
-  "https://www.ladistillerie66.fr/produit/le-koeurele/": {
-    "titulo": "Le Kœurélé",
-    "artista": "Kœurélé",
-    "precio": "2,100€",
-    "precio_num": 2.1,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/le-koeurele/"
-  },
-  "https://www.ladistillerie66.fr/produit/graffiti-paris/": {
-    "titulo": "Graffiti Paris",
-    "artista": "Kœurélé",
-    "precio": "350€",
-    "precio_num": 350.0,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/graffiti-paris/"
-  },
   "https://www.ladistillerie66.fr/produit/de-fer-et-dacier/": {
     "titulo": "De fer et d'Acier",
     "artista": "Ludo Lassalle",
@@ -658,50 +554,10 @@
   "https://www.ladistillerie66.fr/produit/manchester/": {
     "titulo": "Manchester",
     "artista": "Ludo Lassalle",
-    "precio": "200€",
-    "precio_num": 200.0,
-    "estado": "disponible",
+    "precio": "Precio no disponible",
+    "precio_num": 0.0,
+    "estado": "vendido",
     "url": "https://www.ladistillerie66.fr/produit/manchester/"
-  },
-  "https://www.ladistillerie66.fr/produit/ballast/": {
-    "titulo": "Ballast",
-    "artista": "Ludo Lassalle",
-    "precio": "1,800€",
-    "precio_num": 1.8,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/ballast/"
-  },
-  "https://www.ladistillerie66.fr/produit/tribeca/": {
-    "titulo": "Tribeca",
-    "artista": "Ludo Lassalle",
-    "precio": "500€",
-    "precio_num": 500.0,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/tribeca/"
-  },
-  "https://www.ladistillerie66.fr/produit/nice-et-arman/": {
-    "titulo": "Nice et Arman",
-    "artista": "Ludo Lassalle",
-    "precio": "500€",
-    "precio_num": 500.0,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/nice-et-arman/"
-  },
-  "https://www.ladistillerie66.fr/produit/paris-calais-dover/": {
-    "titulo": "Paris Calais Dover",
-    "artista": "Ludo Lassalle",
-    "precio": "1,050€",
-    "precio_num": 1.05,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/paris-calais-dover/"
-  },
-  "https://www.ladistillerie66.fr/produit/barcelona-dover-priority/": {
-    "titulo": "Barcelona Dover Priority",
-    "artista": "Ludo Lassalle",
-    "precio": "1,050€",
-    "precio_num": 1.05,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/barcelona-dover-priority/"
   },
   "https://www.ladistillerie66.fr/produit/renaissance/": {
     "titulo": "Renaissance",
@@ -711,20 +567,12 @@
     "estado": "disponible",
     "url": "https://www.ladistillerie66.fr/produit/renaissance/"
   },
-  "https://www.ladistillerie66.fr/produit/encre-sur-toile/": {
-    "titulo": "Poésie Urbaine",
-    "artista": "Ludo Lassalle",
-    "precio": "2,800€",
-    "precio_num": 2.8,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/encre-sur-toile/"
-  },
   "https://www.ladistillerie66.fr/produit/poesie-urbaine/": {
     "titulo": "Le Monde S'En Friche",
     "artista": "Ludo Lassalle",
-    "precio": "2,800€",
-    "precio_num": 2.8,
-    "estado": "disponible",
+    "precio": "Precio no disponible",
+    "precio_num": 0.0,
+    "estado": "vendido",
     "url": "https://www.ladistillerie66.fr/produit/poesie-urbaine/"
   },
   "https://www.ladistillerie66.fr/produit/mecanique-des-souvenirs/": {
@@ -734,14 +582,6 @@
     "precio_num": 1.7,
     "estado": "disponible",
     "url": "https://www.ladistillerie66.fr/produit/mecanique-des-souvenirs/"
-  },
-  "https://www.ladistillerie66.fr/produit/autotrain/": {
-    "titulo": "AutoTrain",
-    "artista": "Ludo Lassalle",
-    "precio": "900€",
-    "precio_num": 900.0,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/autotrain/"
   },
   "https://www.ladistillerie66.fr/produit/coco-bel-oeil/": {
     "titulo": "Coco Bel Oeil",
