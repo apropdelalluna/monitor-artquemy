@@ -639,6 +639,22 @@
     "estado": "disponible",
     "url": "https://www.ladistillerie66.fr/produit/graffiti-paris/"
   },
+  "https://www.ladistillerie66.fr/produit/western-docks/": {
+    "titulo": "Western Docks",
+    "artista": "Ludo Lassalle",
+    "precio": "1,200€",
+    "precio_num": 1.2,
+    "estado": "disponible",
+    "url": "https://www.ladistillerie66.fr/produit/western-docks/"
+  },
+  "https://www.ladistillerie66.fr/produit/back-jump/": {
+    "titulo": "Back Jump",
+    "artista": "Ludo Lassalle",
+    "precio": "790€",
+    "precio_num": 790.0,
+    "estado": "disponible",
+    "url": "https://www.ladistillerie66.fr/produit/back-jump/"
+  },
   "https://www.ladistillerie66.fr/produit/de-fer-et-dacier/": {
     "titulo": "De fer et d'Acier",
     "artista": "Ludo Lassalle",
@@ -678,6 +694,14 @@
     "precio_num": 1.7,
     "estado": "disponible",
     "url": "https://www.ladistillerie66.fr/produit/mecanique-des-souvenirs/"
+  },
+  "https://www.ladistillerie66.fr/produit/autotrain/": {
+    "titulo": "AutoTrain",
+    "artista": "Ludo Lassalle",
+    "precio": "900€",
+    "precio_num": 900.0,
+    "estado": "disponible",
+    "url": "https://www.ladistillerie66.fr/produit/autotrain/"
   },
   "https://www.ladistillerie66.fr/produit/coco-bel-oeil/": {
     "titulo": "Coco Bel Oeil",
