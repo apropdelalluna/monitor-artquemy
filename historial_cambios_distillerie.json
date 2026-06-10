@@ -394,5 +394,32 @@
     "precio_num": 350.0,
     "url": "https://www.ladistillerie66.fr/produit/graffiti-paris/",
     "fecha": "09/06/2026 11:44"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Western Docks",
+    "artista": "Ludo Lassalle",
+    "precio": "1,200€",
+    "precio_num": 1.2,
+    "url": "https://www.ladistillerie66.fr/produit/western-docks/",
+    "fecha": "10/06/2026 17:47"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Back Jump",
+    "artista": "Ludo Lassalle",
+    "precio": "790€",
+    "precio_num": 790.0,
+    "url": "https://www.ladistillerie66.fr/produit/back-jump/",
+    "fecha": "10/06/2026 17:47"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "AutoTrain",
+    "artista": "Ludo Lassalle",
+    "precio": "900€",
+    "precio_num": 900.0,
+    "url": "https://www.ladistillerie66.fr/produit/autotrain/",
+    "fecha": "10/06/2026 17:47"
   }
 ]
