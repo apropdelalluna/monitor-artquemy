@@ -1,46 +1,382 @@
 {
   "2026-06": [
-    {"fecha": "09/06/2026 11:03", "artista": "ALX Slice Art", "obra": "Skull Colors", "precio": "Precio no disponible", "precio_num": 0.0, "tipo": "nueva_vendida", "url": "https://www.ladistillerie66.fr/produit/skull-colors/"},
-    {"fecha": "09/06/2026 11:03", "artista": "Beus", "obra": "L'élégante", "precio": "Precio no disponible", "precio_num": 0.0, "tipo": "nueva_vendida", "url": "https://www.ladistillerie66.fr/produit/49533/"},
-    {"fecha": "09/06/2026 11:03", "artista": "Beus", "obra": "La Cantatrice", "precio": "Precio no disponible", "precio_num": 0.0, "tipo": "nueva_vendida", "url": "https://www.ladistillerie66.fr/produit/la-cantatrice/"},
-    {"fecha": "09/06/2026 11:03", "artista": "Zed", "obra": "Lion", "precio": "Precio no disponible", "precio_num": 0.0, "tipo": "nueva_vendida", "url": "https://www.ladistillerie66.fr/produit/lion-2/"},
-    {"fecha": "09/06/2026 11:03", "artista": "Steve Pitocco", "obra": "Mécanique Organique", "precio": "Precio no disponible", "precio_num": 0.0, "tipo": "nueva_vendida", "url": "https://www.ladistillerie66.fr/produit/mecanique-organique/"},
-    {"fecha": "09/06/2026 11:03", "artista": "Arcanis", "obra": "Le Bateau Vuitton 40", "precio": "Precio no disponible", "precio_num": 0.0, "tipo": "nueva_vendida", "url": "https://www.ladistillerie66.fr/produit/le-bateau-vuitton-40/"},
-    {"fecha": "09/06/2026 11:03", "artista": "Arcanis", "obra": "Le Celeste Hermes 70", "precio": "Precio no disponible", "precio_num": 0.0, "tipo": "nueva_vendida", "url": "https://www.ladistillerie66.fr/produit/le-celeste-hermes-70/"},
-    {"fecha": "09/06/2026 11:03", "artista": "Arcanis", "obra": "Bateau Vuitton 40", "precio": "Precio no disponible", "precio_num": 0.0, "tipo": "nueva_vendida", "url": "https://www.ladistillerie66.fr/produit/le-bateau-louis-vuitton-40/"},
-    {"fecha": "09/06/2026 11:03", "artista": "Arcanis", "obra": "Le Bateau 70", "precio": "Precio no disponible", "precio_num": 0.0, "tipo": "nueva_vendida", "url": "https://www.ladistillerie66.fr/produit/le-bateau-hermes-70/"},
-    {"fecha": "09/06/2026 11:03", "artista": "Arcanis", "obra": "Le Bateau 40", "precio": "Precio no disponible", "precio_num": 0.0, "tipo": "nueva_vendida", "url": "https://www.ladistillerie66.fr/produit/le-bateau-hermes-40/"},
-    {"fecha": "09/06/2026 11:03", "artista": "Arcanis", "obra": "Le Bateau 55", "precio": "Precio no disponible", "precio_num": 0.0, "tipo": "nueva_vendida", "url": "https://www.ladistillerie66.fr/produit/le-bateau-hermes-55/"},
-    {"fecha": "09/06/2026 11:03", "artista": "Arcanis", "obra": "Le Bateau 40", "precio": "Precio no disponible", "precio_num": 0.0, "tipo": "nueva_vendida", "url": "https://www.ladistillerie66.fr/produit/arcanis-le-bateau-hermes-40/"},
-    {"fecha": "09/06/2026 11:03", "artista": "Arykp", "obra": "Les P'tites Bestioles", "precio": "Precio no disponible", "precio_num": 0.0, "tipo": "nueva_vendida", "url": "https://www.ladistillerie66.fr/produit/arykp-les-ptites-bestioles/"},
-    {"fecha": "09/06/2026 11:03", "artista": "Beus", "obra": "L'Esquisse", "precio": "Precio no disponible", "precio_num": 0.0, "tipo": "nueva_vendida", "url": "https://www.ladistillerie66.fr/produit/lesquisse/"},
-    {"fecha": "09/06/2026 11:03", "artista": "Beus", "obra": "La Décalée", "precio": "Precio no disponible", "precio_num": 0.0, "tipo": "nueva_vendida", "url": "https://www.ladistillerie66.fr/produit/la-decalee/"},
-    {"fecha": "09/06/2026 11:03", "artista": "Beus", "obra": "La Vagabonde", "precio": "Precio no disponible", "precio_num": 0.0, "tipo": "nueva_vendida", "url": "https://www.ladistillerie66.fr/produit/la-vagabonde/"},
-    {"fecha": "09/06/2026 11:03", "artista": "BL2A", "obra": "Solo en el café", "precio": "Precio no disponible", "precio_num": 0.0, "tipo": "nueva_vendida", "url": "https://www.ladistillerie66.fr/produit/solo-en-el-cafe/"},
-    {"fecha": "09/06/2026 11:03", "artista": "Daddy Graph", "obra": "DB5007", "precio": "Precio no disponible", "precio_num": 0.0, "tipo": "nueva_vendida", "url": "https://www.ladistillerie66.fr/produit/db5007/"},
-    {"fecha": "09/06/2026 11:03", "artista": "David Cabrefigue", "obra": "Spider #2", "precio": "Precio no disponible", "precio_num": 0.0, "tipo": "nueva_vendida", "url": "https://www.ladistillerie66.fr/produit/spider-2/"},
-    {"fecha": "09/06/2026 11:03", "artista": "David Cabrefigue", "obra": "Spider #1", "precio": "Precio no disponible", "precio_num": 0.0, "tipo": "nueva_vendida", "url": "https://www.ladistillerie66.fr/produit/spider-1/"},
-    {"fecha": "09/06/2026 11:03", "artista": "Henri Iglesis", "obra": "Petit Bonhomme jaune", "precio": "Precio no disponible", "precio_num": 0.0, "tipo": "nueva_vendida", "url": "https://www.ladistillerie66.fr/produit/petit-bonhomme-jaune/"},
-    {"fecha": "09/06/2026 11:03", "artista": "Ludo Lassalle", "obra": "De fer et d'Acier", "precio": "Precio no disponible", "precio_num": 0.0, "tipo": "nueva_vendida", "url": "https://www.ladistillerie66.fr/produit/de-fer-et-dacier/"},
-    {"fecha": "09/06/2026 11:03", "artista": "Maxime Andriot", "obra": "Clint", "precio": "Precio no disponible", "precio_num": 0.0, "tipo": "nueva_vendida", "url": "https://www.ladistillerie66.fr/produit/clint/"},
-    {"fecha": "09/06/2026 11:03", "artista": "Maxime Andriot", "obra": "Wall Fragment Blue Fragment", "precio": "Precio no disponible", "precio_num": 0.0, "tipo": "nueva_vendida", "url": "https://www.ladistillerie66.fr/produit/wall-fragment-blue-fragment/"},
-    {"fecha": "09/06/2026 11:03", "artista": "Maxime Andriot", "obra": "Bon Marché 1890", "precio": "Precio no disponible", "precio_num": 0.0, "tipo": "nueva_vendida", "url": "https://www.ladistillerie66.fr/produit/bon-marche-1890/"},
-    {"fecha": "09/06/2026 11:03", "artista": "Maxime Andriot", "obra": "Metal Daft Punk", "precio": "Precio no disponible", "precio_num": 0.0, "tipo": "nueva_vendida", "url": "https://www.ladistillerie66.fr/produit/metal-daft-punk/"},
-    {"fecha": "09/06/2026 11:03", "artista": "Maxime Andriot", "obra": "Spider", "precio": "Precio no disponible", "precio_num": 0.0, "tipo": "nueva_vendida", "url": "https://www.ladistillerie66.fr/produit/bardot-copie/"},
-    {"fecha": "09/06/2026 11:03", "artista": "Mendo", "obra": "Power", "precio": "Precio no disponible", "precio_num": 0.0, "tipo": "nueva_vendida", "url": "https://www.ladistillerie66.fr/produit/power/"},
-    {"fecha": "09/06/2026 11:03", "artista": "Mendo", "obra": "Raid", "precio": "Precio no disponible", "precio_num": 0.0, "tipo": "nueva_vendida", "url": "https://www.ladistillerie66.fr/produit/raid/"},
-    {"fecha": "09/06/2026 11:03", "artista": "Mendo", "obra": "Zone", "precio": "Precio no disponible", "precio_num": 0.0, "tipo": "nueva_vendida", "url": "https://www.ladistillerie66.fr/produit/zone/"},
-    {"fecha": "09/06/2026 11:03", "artista": "Mendo", "obra": "Close", "precio": "Precio no disponible", "precio_num": 0.0, "tipo": "nueva_vendida", "url": "https://www.ladistillerie66.fr/produit/close/"},
-    {"fecha": "09/06/2026 11:03", "artista": "Mendo", "obra": "Sourire", "precio": "Precio no disponible", "precio_num": 0.0, "tipo": "nueva_vendida", "url": "https://www.ladistillerie66.fr/produit/sourire/"},
-    {"fecha": "09/06/2026 11:03", "artista": "Mendo", "obra": "Goss", "precio": "Precio no disponible", "precio_num": 0.0, "tipo": "nueva_vendida", "url": "https://www.ladistillerie66.fr/produit/mendo-goss/"},
-    {"fecha": "09/06/2026 11:03", "artista": "Méta", "obra": "Regard 3", "precio": "Precio no disponible", "precio_num": 0.0, "tipo": "nueva_vendida", "url": "https://www.ladistillerie66.fr/produit/regard-3/"},
-    {"fecha": "09/06/2026 11:03", "artista": "Méta", "obra": "Regard 1", "precio": "Precio no disponible", "precio_num": 0.0, "tipo": "nueva_vendida", "url": "https://www.ladistillerie66.fr/produit/regard-1/"},
-    {"fecha": "09/06/2026 11:03", "artista": "Méta", "obra": "Africaine", "precio": "Precio no disponible", "precio_num": 0.0, "tipo": "nueva_vendida", "url": "https://www.ladistillerie66.fr/produit/africaine/"},
-    {"fecha": "09/06/2026 11:03", "artista": "Mr Yerro", "obra": "Reborn", "precio": "Precio no disponible", "precio_num": 0.0, "tipo": "nueva_vendida", "url": "https://www.ladistillerie66.fr/produit/reborn/"},
-    {"fecha": "09/06/2026 11:03", "artista": "VILE", "obra": "Look at me", "precio": "Precio no disponible", "precio_num": 0.0, "tipo": "nueva_vendida", "url": "https://www.ladistillerie66.fr/produit/look-at-me/"},
-    {"fecha": "09/06/2026 11:03", "artista": "VILE", "obra": "Entre ruinas y sueños", "precio": "Precio no disponible", "precio_num": 0.0, "tipo": "nueva_vendida", "url": "https://www.ladistillerie66.fr/produit/entre-ruinas-y-sonhos/"},
-    {"fecha": "09/06/2026 11:03", "artista": "Beus", "obra": "La Conciergerie", "precio": "Precio no disponible", "precio_num": 0.0, "tipo": "nueva_vendida", "url": "https://www.ladistillerie66.fr/produit/la-conciergerie/"},
-    {"fecha": "09/06/2026 11:03", "artista": "Ludo Lassalle", "obra": "Manchester", "precio": "200€", "precio_num": 200.0, "tipo": "vendida", "url": "https://www.ladistillerie66.fr/produit/manchester/"},
-    {"fecha": "09/06/2026 11:03", "artista": "Ludo Lassalle", "obra": "Le Monde S'En Friche", "precio": "2.800€", "precio_num": 2800.0, "tipo": "vendida", "url": "https://www.ladistillerie66.fr/produit/poesie-urbaine/"}
+    {
+      "fecha": "09/06/2026 11:03",
+      "artista": "ALX Slice Art",
+      "obra": "Skull Colors",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.ladistillerie66.fr/produit/skull-colors/"
+    },
+    {
+      "fecha": "09/06/2026 11:03",
+      "artista": "Beus",
+      "obra": "L'élégante",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.ladistillerie66.fr/produit/49533/"
+    },
+    {
+      "fecha": "09/06/2026 11:03",
+      "artista": "Beus",
+      "obra": "La Cantatrice",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.ladistillerie66.fr/produit/la-cantatrice/"
+    },
+    {
+      "fecha": "09/06/2026 11:03",
+      "artista": "Zed",
+      "obra": "Lion",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.ladistillerie66.fr/produit/lion-2/"
+    },
+    {
+      "fecha": "09/06/2026 11:03",
+      "artista": "Steve Pitocco",
+      "obra": "Mécanique Organique",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.ladistillerie66.fr/produit/mecanique-organique/"
+    },
+    {
+      "fecha": "09/06/2026 11:03",
+      "artista": "Arcanis",
+      "obra": "Le Bateau Vuitton 40",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.ladistillerie66.fr/produit/le-bateau-vuitton-40/"
+    },
+    {
+      "fecha": "09/06/2026 11:03",
+      "artista": "Arcanis",
+      "obra": "Le Celeste Hermes 70",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.ladistillerie66.fr/produit/le-celeste-hermes-70/"
+    },
+    {
+      "fecha": "09/06/2026 11:03",
+      "artista": "Arcanis",
+      "obra": "Bateau Vuitton 40",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.ladistillerie66.fr/produit/le-bateau-louis-vuitton-40/"
+    },
+    {
+      "fecha": "09/06/2026 11:03",
+      "artista": "Arcanis",
+      "obra": "Le Bateau 70",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.ladistillerie66.fr/produit/le-bateau-hermes-70/"
+    },
+    {
+      "fecha": "09/06/2026 11:03",
+      "artista": "Arcanis",
+      "obra": "Le Bateau 40",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.ladistillerie66.fr/produit/le-bateau-hermes-40/"
+    },
+    {
+      "fecha": "09/06/2026 11:03",
+      "artista": "Arcanis",
+      "obra": "Le Bateau 55",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.ladistillerie66.fr/produit/le-bateau-hermes-55/"
+    },
+    {
+      "fecha": "09/06/2026 11:03",
+      "artista": "Arcanis",
+      "obra": "Le Bateau 40",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.ladistillerie66.fr/produit/arcanis-le-bateau-hermes-40/"
+    },
+    {
+      "fecha": "09/06/2026 11:03",
+      "artista": "Arykp",
+      "obra": "Les P'tites Bestioles",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.ladistillerie66.fr/produit/arykp-les-ptites-bestioles/"
+    },
+    {
+      "fecha": "09/06/2026 11:03",
+      "artista": "Beus",
+      "obra": "L'Esquisse",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.ladistillerie66.fr/produit/lesquisse/"
+    },
+    {
+      "fecha": "09/06/2026 11:03",
+      "artista": "Beus",
+      "obra": "La Décalée",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.ladistillerie66.fr/produit/la-decalee/"
+    },
+    {
+      "fecha": "09/06/2026 11:03",
+      "artista": "Beus",
+      "obra": "La Vagabonde",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.ladistillerie66.fr/produit/la-vagabonde/"
+    },
+    {
+      "fecha": "09/06/2026 11:03",
+      "artista": "BL2A",
+      "obra": "Solo en el café",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.ladistillerie66.fr/produit/solo-en-el-cafe/"
+    },
+    {
+      "fecha": "09/06/2026 11:03",
+      "artista": "Daddy Graph",
+      "obra": "DB5007",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.ladistillerie66.fr/produit/db5007/"
+    },
+    {
+      "fecha": "09/06/2026 11:03",
+      "artista": "David Cabrefigue",
+      "obra": "Spider #2",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.ladistillerie66.fr/produit/spider-2/"
+    },
+    {
+      "fecha": "09/06/2026 11:03",
+      "artista": "David Cabrefigue",
+      "obra": "Spider #1",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.ladistillerie66.fr/produit/spider-1/"
+    },
+    {
+      "fecha": "09/06/2026 11:03",
+      "artista": "Henri Iglesis",
+      "obra": "Petit Bonhomme jaune",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.ladistillerie66.fr/produit/petit-bonhomme-jaune/"
+    },
+    {
+      "fecha": "09/06/2026 11:03",
+      "artista": "Ludo Lassalle",
+      "obra": "De fer et d'Acier",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.ladistillerie66.fr/produit/de-fer-et-dacier/"
+    },
+    {
+      "fecha": "09/06/2026 11:03",
+      "artista": "Maxime Andriot",
+      "obra": "Clint",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.ladistillerie66.fr/produit/clint/"
+    },
+    {
+      "fecha": "09/06/2026 11:03",
+      "artista": "Maxime Andriot",
+      "obra": "Wall Fragment Blue Fragment",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.ladistillerie66.fr/produit/wall-fragment-blue-fragment/"
+    },
+    {
+      "fecha": "09/06/2026 11:03",
+      "artista": "Maxime Andriot",
+      "obra": "Bon Marché 1890",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.ladistillerie66.fr/produit/bon-marche-1890/"
+    },
+    {
+      "fecha": "09/06/2026 11:03",
+      "artista": "Maxime Andriot",
+      "obra": "Metal Daft Punk",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.ladistillerie66.fr/produit/metal-daft-punk/"
+    },
+    {
+      "fecha": "09/06/2026 11:03",
+      "artista": "Maxime Andriot",
+      "obra": "Spider",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.ladistillerie66.fr/produit/bardot-copie/"
+    },
+    {
+      "fecha": "09/06/2026 11:03",
+      "artista": "Mendo",
+      "obra": "Power",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.ladistillerie66.fr/produit/power/"
+    },
+    {
+      "fecha": "09/06/2026 11:03",
+      "artista": "Mendo",
+      "obra": "Raid",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.ladistillerie66.fr/produit/raid/"
+    },
+    {
+      "fecha": "09/06/2026 11:03",
+      "artista": "Mendo",
+      "obra": "Zone",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.ladistillerie66.fr/produit/zone/"
+    },
+    {
+      "fecha": "09/06/2026 11:03",
+      "artista": "Mendo",
+      "obra": "Close",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.ladistillerie66.fr/produit/close/"
+    },
+    {
+      "fecha": "09/06/2026 11:03",
+      "artista": "Mendo",
+      "obra": "Sourire",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.ladistillerie66.fr/produit/sourire/"
+    },
+    {
+      "fecha": "09/06/2026 11:03",
+      "artista": "Mendo",
+      "obra": "Goss",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.ladistillerie66.fr/produit/mendo-goss/"
+    },
+    {
+      "fecha": "09/06/2026 11:03",
+      "artista": "Méta",
+      "obra": "Regard 3",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.ladistillerie66.fr/produit/regard-3/"
+    },
+    {
+      "fecha": "09/06/2026 11:03",
+      "artista": "Méta",
+      "obra": "Regard 1",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.ladistillerie66.fr/produit/regard-1/"
+    },
+    {
+      "fecha": "09/06/2026 11:03",
+      "artista": "Méta",
+      "obra": "Africaine",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.ladistillerie66.fr/produit/africaine/"
+    },
+    {
+      "fecha": "09/06/2026 11:03",
+      "artista": "Mr Yerro",
+      "obra": "Reborn",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.ladistillerie66.fr/produit/reborn/"
+    },
+    {
+      "fecha": "09/06/2026 11:03",
+      "artista": "VILE",
+      "obra": "Look at me",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.ladistillerie66.fr/produit/look-at-me/"
+    },
+    {
+      "fecha": "09/06/2026 11:03",
+      "artista": "VILE",
+      "obra": "Entre ruinas y sueños",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.ladistillerie66.fr/produit/entre-ruinas-y-sonhos/"
+    },
+    {
+      "fecha": "09/06/2026 11:03",
+      "artista": "Beus",
+      "obra": "La Conciergerie",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.ladistillerie66.fr/produit/la-conciergerie/"
+    },
+    {
+      "fecha": "09/06/2026 11:03",
+      "artista": "Ludo Lassalle",
+      "obra": "Manchester",
+      "precio": "200€",
+      "precio_num": 200.0,
+      "tipo": "vendida",
+      "url": "https://www.ladistillerie66.fr/produit/manchester/"
+    },
+    {
+      "fecha": "09/06/2026 11:03",
+      "artista": "Ludo Lassalle",
+      "obra": "Le Monde S'En Friche",
+      "precio": "2.800€",
+      "precio_num": 2800.0,
+      "tipo": "vendida",
+      "url": "https://www.ladistillerie66.fr/produit/poesie-urbaine/"
+    }
   ]
 }
