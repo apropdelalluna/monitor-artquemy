@@ -6508,6 +6508,15 @@
       "precio_num": 480.0,
       "tipo": "vendida",
       "url": "https://artquemy.com/producto/flower-bouquet/"
+    },
+    {
+      "fecha": "11/06/2026 18:18",
+      "artista": "Ceci SN",
+      "obra": "Naked swimmers XXl",
+      "precio": "€70,00",
+      "precio_num": 70.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/naked-swimmers-xx/"
     }
   ]
 }
