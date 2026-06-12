@@ -10881,5 +10881,25 @@
         "url": "https://artquemy.com/producto/naked-swimmers-xx/"
       }
     ]
+  },
+  {
+    "fecha": "12/06/2026 19:35",
+    "artista": "Ceci SN",
+    "cambios_obras": [
+      {
+        "tipo": "vendida",
+        "titulo": "Naked swimmers XXXV",
+        "precio": "€50,00",
+        "precio_num": 50.0,
+        "url": "https://artquemy.com/producto/naked-swimmers-xxxv/"
+      },
+      {
+        "tipo": "vendida",
+        "titulo": "Naked swimmers XXXIV",
+        "precio": "€50,00",
+        "precio_num": 50.0,
+        "url": "https://artquemy.com/producto/naked-swimmers-xxxiv/"
+      }
+    ]
   }
 ]
