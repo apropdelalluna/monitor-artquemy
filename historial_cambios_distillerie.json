@@ -421,5 +421,23 @@
     "precio_num": 900.0,
     "url": "https://www.ladistillerie66.fr/produit/autotrain/",
     "fecha": "10/06/2026 17:47"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Méta",
+    "artista": "Steve Pitocco",
+    "precio": "Prix sur demande",
+    "precio_num": 0.0,
+    "url": "https://www.ladistillerie66.fr/produit/mystere-3/",
+    "fecha": "12/06/2026 19:42"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Hayat",
+    "artista": "Steve Pitocco",
+    "precio": "1,190€",
+    "precio_num": 1.19,
+    "url": "https://www.ladistillerie66.fr/produit/marilyn-la-vie-en-fleur/",
+    "fecha": "12/06/2026 19:42"
   }
 ]
