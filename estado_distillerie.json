@@ -151,6 +151,38 @@
     "estado": "vendido",
     "url": "https://www.ladistillerie66.fr/produit/arykp-les-ptites-bestioles/"
   },
+  "https://www.ladistillerie66.fr/produit/mystere-3/": {
+    "titulo": "Méta",
+    "artista": "Steve Pitocco",
+    "precio": "Prix sur demande",
+    "precio_num": 0.0,
+    "estado": "disponible",
+    "url": "https://www.ladistillerie66.fr/produit/mystere-3/"
+  },
+  "https://www.ladistillerie66.fr/produit/marilyn-la-vie-en-fleur/": {
+    "titulo": "Hayat",
+    "artista": "Steve Pitocco",
+    "precio": "1,190€",
+    "precio_num": 1.19,
+    "estado": "disponible",
+    "url": "https://www.ladistillerie66.fr/produit/marilyn-la-vie-en-fleur/"
+  },
+  "https://www.ladistillerie66.fr/produit/western-docks/": {
+    "titulo": "Ludo Lassalle",
+    "artista": "Steve Pitocco",
+    "precio": "1,200€",
+    "precio_num": 1.2,
+    "estado": "disponible",
+    "url": "https://www.ladistillerie66.fr/produit/western-docks/"
+  },
+  "https://www.ladistillerie66.fr/produit/back-jump/": {
+    "titulo": "Ludo Lassalle",
+    "artista": "Steve Pitocco",
+    "precio": "790€",
+    "precio_num": 790.0,
+    "estado": "disponible",
+    "url": "https://www.ladistillerie66.fr/produit/back-jump/"
+  },
   "https://www.ladistillerie66.fr/produit/lesquisse/": {
     "titulo": "L'Esquisse",
     "artista": "Beus",
@@ -638,22 +670,6 @@
     "precio_num": 350.0,
     "estado": "disponible",
     "url": "https://www.ladistillerie66.fr/produit/graffiti-paris/"
-  },
-  "https://www.ladistillerie66.fr/produit/western-docks/": {
-    "titulo": "Western Docks",
-    "artista": "Ludo Lassalle",
-    "precio": "1,200€",
-    "precio_num": 1.2,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/western-docks/"
-  },
-  "https://www.ladistillerie66.fr/produit/back-jump/": {
-    "titulo": "Back Jump",
-    "artista": "Ludo Lassalle",
-    "precio": "790€",
-    "precio_num": 790.0,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/back-jump/"
   },
   "https://www.ladistillerie66.fr/produit/de-fer-et-dacier/": {
     "titulo": "De fer et d'Acier",
