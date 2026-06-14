@@ -6535,6 +6535,15 @@
       "precio_num": 50.0,
       "tipo": "vendida",
       "url": "https://artquemy.com/producto/naked-swimmers-xxxiv/"
+    },
+    {
+      "fecha": "14/06/2026 18:40",
+      "artista": "Juncosa",
+      "obra": "Busto Massa",
+      "precio": "€3.900,00",
+      "precio_num": 3900.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/busto-massa/"
     }
   ]
 }
