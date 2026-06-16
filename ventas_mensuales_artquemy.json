@@ -6544,6 +6544,15 @@
       "precio_num": 3900.0,
       "tipo": "vendida",
       "url": "https://artquemy.com/producto/busto-massa/"
+    },
+    {
+      "fecha": "16/06/2026 19:15",
+      "artista": "El Xupet Negre",
+      "obra": "Walls hunter",
+      "precio": "€1.600,00",
+      "precio_num": 1600.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/walls-hunter/"
     }
   ]
 }
