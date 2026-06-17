@@ -10927,5 +10927,31 @@
         "url": "https://artquemy.com/producto/walls-hunter/"
       }
     ]
+  },
+  {
+    "fecha": "17/06/2026 21:14",
+    "artista": "Laura Plou",
+    "cambios_obras": [
+      {
+        "tipo": "vendida",
+        "titulo": "Modelo ALNU",
+        "precio": "€180,00",
+        "precio_num": 180.0,
+        "url": "https://artquemy.com/producto/modelo-alnu/"
+      }
+    ]
+  },
+  {
+    "fecha": "17/06/2026 21:14",
+    "artista": "Tiny",
+    "cambios_obras": [
+      {
+        "tipo": "vendida",
+        "titulo": "Kindly, go FUCK yourself",
+        "precio": "€190,00",
+        "precio_num": 190.0,
+        "url": "https://artquemy.com/producto/kindly-go-fuck-yourself/"
+      }
+    ]
   }
 ]
