@@ -6451,5 +6451,14 @@
     "precio_num": 150.0,
     "url": "https://www.ladistillerie66.fr/produit/flexos/",
     "fecha": "17/06/2026 21:20"
+  },
+  {
+    "tipo": "vendida",
+    "titulo": "Cronos Hermès 40",
+    "artista": "Arcanis",
+    "precio": "750€",
+    "precio_num": 750.0,
+    "url": "https://www.ladistillerie66.fr/produit/cronos-hermes-40/",
+    "fecha": "18/06/2026 18:10"
   }
 ]
