@@ -1070,6 +1070,15 @@
       "precio_num": 0.0,
       "tipo": "nueva_vendida",
       "url": "https://www.ladistillerie66.fr/produit/mecanique-organique/"
+    },
+    {
+      "fecha": "18/06/2026 18:10",
+      "artista": "Arcanis",
+      "obra": "Cronos Hermès 40",
+      "precio": "750€",
+      "precio_num": 750.0,
+      "tipo": "vendida",
+      "url": "https://www.ladistillerie66.fr/produit/cronos-hermes-40/"
     }
   ]
 }
