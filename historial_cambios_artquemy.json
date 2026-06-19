@@ -10953,5 +10953,18 @@
         "url": "https://artquemy.com/producto/kindly-go-fuck-yourself/"
       }
     ]
+  },
+  {
+    "fecha": "19/06/2026 16:36",
+    "artista": "Erwtje",
+    "cambios_obras": [
+      {
+        "tipo": "nueva",
+        "titulo": "Red",
+        "precio": "€230,00",
+        "precio_num": 230.0,
+        "url": "https://artquemy.com/producto/red-2/"
+      }
+    ]
   }
 ]
