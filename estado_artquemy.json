@@ -3508,8 +3508,8 @@
     }
   },
   "Erwtje": {
-    "hash": "41b388ade1f2744363b65ad2c226e7ef",
-    "texto": "Out of Stock\nPainting\nFrosty\nSOLD\nOut of Stock\nPainting\nWild lime blk\nSOLD\nOut of Stock\nPainting\nFrosty\nSOLD\nPainting\nOne step ahead\n€\n1.600,00\nAdd to cart\nThis product is already in your cart\nCart\nPainting\nTrain Molester\n€\n1.600,00\nAdd to cart\nThis product is already in your cart\nCart\nPainting\nChairs and ladders\n€\n1.500,00\nAdd to cart\nThis product is already in your cart\nCart\nOut of Stock\nPainting\nGoldstrike\nSOLD\nOut of Stock\nPainting\nLast minute color scheme\nSOLD\nPainting\nTren NORD\n€\n1.300,00\nAdd to cart\nThis product is already in your cart\nCart\nOut of Stock\nPainting\nVrooom\nSOLD\nOut of Stock\nDrawing\nRed\nSOLD\nOut of Stock\nDrawing, Merch\nBlacklines\nSOLD\nOut of Stock\nDrawing\nLeadder of success\nSOLD\nOut of Stock\nDrawing\nEvery day is international women’s day\nSOLD\nDrawing, Print\nResponsibility\n€\n120,00\nAdd to cart\nThis product is already in your cart\nCart\nDrawing, Print\nStadion\n€\n120,00\nAdd to cart\nThis product is already in your cart\nCart\nOut of Stock\nDrawing\nHand\nSOLD\nDrawing, Print\nKut met peren 7\n€\n90,00\nAdd to cart\nThis product is already in your cart\nCart\nDrawing, Print\nKut met peren 6\n€\n90,00\nAdd to cart\nThis product is already in your cart\nCart\nOut of Stock\nDrawing, Print\nKut met peren 5\nSOLD\nDrawing, Print\nKut met peren 4\n€\n90,00\nAdd to cart\nThis product is already in your cart\nCart\nDrawing, Print\nKut met peren 3\n€\n90,00\nAdd to cart\nThis product is already in your cart\nCart\nDrawing, Print\nKut met peren 2\n€\n90,00\nAdd to cart\nThis product is already in your cart\nCart\nDrawing, Print\nKut met peren 1\n€\n90,00\nAdd to cart\nThis product is already in your cart\nCart\nOut of Stock\nMerch\nT-Shirt\nSOLD",
+    "hash": "4dfca480aa55147c25925360e965ce50",
+    "texto": "Out of Stock\nPainting\nFrosty\nSOLD\nOut of Stock\nPainting\nWild lime blk\nSOLD\nOut of Stock\nPainting\nFrosty\nSOLD\nPainting\nOne step ahead\n€\n1.600,00\nAdd to cart\nThis product is already in your cart\nCart\nPainting\nTrain Molester\n€\n1.600,00\nAdd to cart\nThis product is already in your cart\nCart\nPainting\nChairs and ladders\n€\n1.500,00\nAdd to cart\nThis product is already in your cart\nCart\nOut of Stock\nPainting\nGoldstrike\nSOLD\nOut of Stock\nPainting\nLast minute color scheme\nSOLD\nPainting\nTren NORD\n€\n1.300,00\nAdd to cart\nThis product is already in your cart\nCart\nOut of Stock\nPainting\nVrooom\nSOLD\nDrawing\nRed\n€\n230,00\nAdd to cart\nThis product is already in your cart\nCart\nOut of Stock\nDrawing, Merch\nBlacklines\nSOLD\nOut of Stock\nDrawing\nLeadder of success\nSOLD\nOut of Stock\nDrawing\nEvery day is international women’s day\nSOLD\nDrawing, Print\nResponsibility\n€\n120,00\nAdd to cart\nThis product is already in your cart\nCart\nDrawing, Print\nStadion\n€\n120,00\nAdd to cart\nThis product is already in your cart\nCart\nOut of Stock\nDrawing\nHand\nSOLD\nDrawing, Print\nKut met peren 7\n€\n90,00\nAdd to cart\nThis product is already in your cart\nCart\nDrawing, Print\nKut met peren 6\n€\n90,00\nAdd to cart\nThis product is already in your cart\nCart\nOut of Stock\nDrawing, Print\nKut met peren 5\nSOLD\nDrawing, Print\nKut met peren 4\n€\n90,00\nAdd to cart\nThis product is already in your cart\nCart\nDrawing, Print\nKut met peren 3\n€\n90,00\nAdd to cart\nThis product is already in your cart\nCart\nDrawing, Print\nKut met peren 2\n€\n90,00\nAdd to cart\nThis product is already in your cart\nCart\nDrawing, Print\nKut met peren 1\n€\n90,00\nAdd to cart\nThis product is already in your cart\nCart\nOut of Stock\nMerch\nT-Shirt\nSOLD",
     "obras": {
       "https://artquemy.com/producto/frosty-2/": {
         "titulo": "Frosty",
@@ -3583,9 +3583,9 @@
       },
       "https://artquemy.com/producto/red-2/": {
         "titulo": "Red",
-        "precio": "Precio no disponible",
-        "precio_num": 0.0,
-        "estado": "vendido",
+        "precio": "€230,00",
+        "precio_num": 230.0,
+        "estado": "disponible",
         "url": "https://artquemy.com/producto/red-2/"
       },
       "https://artquemy.com/producto/blacklines/": {
