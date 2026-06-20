@@ -10966,5 +10966,107 @@
         "url": "https://artquemy.com/producto/red-2/"
       }
     ]
+  },
+  {
+    "fecha": "20/06/2026 12:23",
+    "artista": "Erwtje",
+    "cambios_obras": [
+      {
+        "tipo": "nueva",
+        "titulo": "Out of Service",
+        "precio": "€1.950,00",
+        "precio_num": 1950.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/out-of-service-2/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Detour",
+        "precio": "€1.950,00",
+        "precio_num": 1950.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/detour/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Lights on but nobody’s home",
+        "precio": "€1.950,00",
+        "precio_num": 1950.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/out-of-service/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Odd sounds",
+        "precio": "€1.950,00",
+        "precio_num": 1950.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/odd-sounds/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "After Party",
+        "precio": "€1.950,00",
+        "precio_num": 1950.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/after-part/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Hang in there",
+        "precio": "€1.600,00",
+        "precio_num": 1600.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/birth-of-content/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Birth of Content",
+        "precio": "€1.400,00",
+        "precio_num": 1400.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/birth-of-content-2/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Prickly Pear",
+        "precio": "€1.400,00",
+        "precio_num": 1400.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/prickly-pear/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Hanging around",
+        "precio": "€1.400,00",
+        "precio_num": 1400.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/hanging-around/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Camouflage",
+        "precio": "€1.400,00",
+        "precio_num": 1400.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/camouflage-2/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Drizzle",
+        "precio": "€1.300,00",
+        "precio_num": 1300.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/drizzle/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "The road to hell is paved with good intentions",
+        "precio": "€850,00",
+        "precio_num": 850.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/the-road-to-hell-is-paved-with-good-intentions/"
+      }
+    ]
   }
 ]
