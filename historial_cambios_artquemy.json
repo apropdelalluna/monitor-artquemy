@@ -11068,5 +11068,19 @@
         "url": "https://artquemy.com/producto/the-road-to-hell-is-paved-with-good-intentions/"
       }
     ]
+  },
+  {
+    "fecha": "23/06/2026 12:53",
+    "artista": "Erwtje",
+    "cambios_obras": [
+      {
+        "tipo": "nueva",
+        "titulo": "The flower puff girls",
+        "precio": "€1.600,00",
+        "precio_num": 1600.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/the-flower-puff-girls/"
+      }
+    ]
   }
 ]
