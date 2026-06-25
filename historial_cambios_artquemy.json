@@ -11104,5 +11104,67 @@
         "url": "https://artquemy.com/producto/lunch-atop-a-skyscraper/"
       }
     ]
+  },
+  {
+    "fecha": "25/06/2026 13:14",
+    "artista": "Erwtje",
+    "cambios_obras": [
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "The flower puff girls",
+        "precio": "€1.680,00",
+        "precio_num": 1680.0,
+        "precio_anterior": "€1.600,00",
+        "url": "https://artquemy.com/producto/the-flower-puff-girls/"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "Hang in there",
+        "precio": "€1.680,00",
+        "precio_num": 1680.0,
+        "precio_anterior": "€1.600,00",
+        "url": "https://artquemy.com/producto/birth-of-content/"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "Birth of Content",
+        "precio": "€1.460,00",
+        "precio_num": 1460.0,
+        "precio_anterior": "€1.400,00",
+        "url": "https://artquemy.com/producto/birth-of-content-2/"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "Prickly Pear",
+        "precio": "€1.460,00",
+        "precio_num": 1460.0,
+        "precio_anterior": "€1.400,00",
+        "url": "https://artquemy.com/producto/prickly-pear/"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "Hanging around",
+        "precio": "€1.440,00",
+        "precio_num": 1440.0,
+        "precio_anterior": "€1.400,00",
+        "url": "https://artquemy.com/producto/hanging-around/"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "Drizzle",
+        "precio": "€1.350,00",
+        "precio_num": 1350.0,
+        "precio_anterior": "€1.300,00",
+        "url": "https://artquemy.com/producto/drizzle/"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "The road to hell is paved with good intentions",
+        "precio": "€900,00",
+        "precio_num": 900.0,
+        "precio_anterior": "€850,00",
+        "url": "https://artquemy.com/producto/the-road-to-hell-is-paved-with-good-intentions/"
+      }
+    ]
   }
 ]
