@@ -6163,5 +6163,123 @@
     "precio_num": 2700.0,
     "url": "https://www.3punts.com/es/shop/artwork/lost-xavi-noble",
     "fecha": "06/06/2026 18:41"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Gerard Mas",
+    "precio": "4 800,00 €",
+    "precio_num": 4800.0,
+    "url": "https://www.3punts.com/es/shop/artwork/tongue-out-lady",
+    "fecha": "26/06/2026 15:28"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Gerard Mas",
+    "precio": "4 800,00 €",
+    "precio_num": 4800.0,
+    "url": "https://www.3punts.com/es/shop/artwork/bubblegum-lady-purple",
+    "fecha": "26/06/2026 15:28"
+  },
+  {
+    "tipo": "precio_cambiado",
+    "titulo": "",
+    "artista": "Gerard Mas",
+    "precio": "4 800,00 €",
+    "precio_num": 4800.0,
+    "precio_anterior": "4 500,00 €",
+    "url": "https://www.3punts.com/es/shop/artwork/gerard-masfrenchie",
+    "fecha": "26/06/2026 15:28"
+  },
+  {
+    "tipo": "vendida",
+    "titulo": "",
+    "artista": "Gerard Mas",
+    "precio": "Consultar precio",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/idol-i",
+    "fecha": "26/06/2026 15:28"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Gerard Mas",
+    "precio": "4 800,00 €",
+    "precio_num": 4800.0,
+    "url": "https://www.3punts.com/es/shop/artwork/dama-del-chicle-burdeos-gerard-mas",
+    "fecha": "26/06/2026 15:28"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Gerard Mas",
+    "precio": "Precio no disponible",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/maroon-bubblegum-lady-gerard-mas",
+    "fecha": "26/06/2026 15:28"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Gerard Mas",
+    "precio": "Precio no disponible",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/gerard-mas-lollipop-lady-green",
+    "fecha": "26/06/2026 15:28"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Gerard Mas",
+    "precio": "Precio no disponible",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/green-bubblegum-lady",
+    "fecha": "26/06/2026 15:28"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Gerard Mas",
+    "precio": "Precio no disponible",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/redhead-bubblegum-lady-gerard-mas",
+    "fecha": "26/06/2026 15:28"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Gerard Mas",
+    "precio": "Precio no disponible",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/gerard-mas-goldfish-lady",
+    "fecha": "26/06/2026 15:28"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Gerard Mas",
+    "precio": "Precio no disponible",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/gerard-mas-1",
+    "fecha": "26/06/2026 15:28"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Gerard Mas",
+    "precio": "Precio no disponible",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/gerard-mas-0",
+    "fecha": "26/06/2026 15:28"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Gerard Mas",
+    "precio": "Precio no disponible",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/gerard-masdama-del-chicle",
+    "fecha": "26/06/2026 15:28"
   }
 ]
