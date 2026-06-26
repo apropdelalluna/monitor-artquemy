@@ -17,7 +17,7 @@
   },
   "https://www.ladistillerie66.fr/produit/mystere-3/": {
     "titulo": "Méta",
-    "artista": "Zed",
+    "artista": "VILE",
     "precio": "Prix sur demande",
     "precio_num": 0.0,
     "estado": "disponible",
@@ -25,7 +25,7 @@
   },
   "https://www.ladistillerie66.fr/produit/marilyn-la-vie-en-fleur/": {
     "titulo": "Hayat",
-    "artista": "Zed",
+    "artista": "VILE",
     "precio": "1,190€",
     "precio_num": 1.19,
     "estado": "disponible",
@@ -33,7 +33,7 @@
   },
   "https://www.ladistillerie66.fr/produit/western-docks/": {
     "titulo": "Ludo Lassalle",
-    "artista": "Zed",
+    "artista": "VILE",
     "precio": "1,200€",
     "precio_num": 1.2,
     "estado": "disponible",
@@ -41,7 +41,7 @@
   },
   "https://www.ladistillerie66.fr/produit/back-jump/": {
     "titulo": "Ludo Lassalle",
-    "artista": "Zed",
+    "artista": "VILE",
     "precio": "790€",
     "precio_num": 790.0,
     "estado": "disponible",
@@ -49,7 +49,7 @@
   },
   "https://www.ladistillerie66.fr/produit/la-conciergerie/": {
     "titulo": "Beus",
-    "artista": "Zed",
+    "artista": "VILE",
     "precio": "Precio no disponible",
     "precio_num": 0.0,
     "estado": "vendido",
@@ -57,7 +57,7 @@
   },
   "https://www.ladistillerie66.fr/produit/laffirmee/": {
     "titulo": "Beus",
-    "artista": "Zed",
+    "artista": "VILE",
     "precio": "3,700€",
     "precio_num": 3.7,
     "estado": "disponible",
@@ -384,24 +384,24 @@
     "url": "https://www.ladistillerie66.fr/produit/dirty-rotten-scoundrels/"
   },
   "https://www.ladistillerie66.fr/produit/thunder/": {
-    "titulo": "Faki",
-    "artista": "One Siker",
+    "titulo": "One Siker",
+    "artista": "Faki",
     "precio": "4,000€",
     "precio_num": 4.0,
     "estado": "disponible",
     "url": "https://www.ladistillerie66.fr/produit/thunder/"
   },
   "https://www.ladistillerie66.fr/produit/throw-down/": {
-    "titulo": "Faki",
-    "artista": "One Siker",
+    "titulo": "One Siker",
+    "artista": "Faki",
     "precio": "4,000€",
     "precio_num": 4.0,
     "estado": "disponible",
     "url": "https://www.ladistillerie66.fr/produit/throw-down/"
   },
   "https://www.ladistillerie66.fr/produit/mai-box/": {
-    "titulo": "Faki",
-    "artista": "One Siker",
+    "titulo": "One Siker",
+    "artista": "Faki",
     "precio": "3,000€",
     "precio_num": 3.0,
     "estado": "disponible",
@@ -416,8 +416,8 @@
     "url": "https://www.ladistillerie66.fr/produit/open-your-eyes/"
   },
   "https://www.ladistillerie66.fr/produit/the-gap-way/": {
-    "titulo": "Faki",
-    "artista": "One Siker",
+    "titulo": "One Siker",
+    "artista": "Faki",
     "precio": "5,300€",
     "precio_num": 5.3,
     "estado": "disponible",
@@ -663,334 +663,6 @@
     "estado": "disponible",
     "url": "https://www.ladistillerie66.fr/produit/graffiti-paris/"
   },
-  "https://www.ladistillerie66.fr/produit/de-fer-et-dacier/": {
-    "titulo": "De fer et d'Acier",
-    "artista": "Ludo Lassalle",
-    "precio": "Precio no disponible",
-    "precio_num": 0.0,
-    "estado": "vendido",
-    "url": "https://www.ladistillerie66.fr/produit/de-fer-et-dacier/"
-  },
-  "https://www.ladistillerie66.fr/produit/manchester/": {
-    "titulo": "Manchester",
-    "artista": "Ludo Lassalle",
-    "precio": "Precio no disponible",
-    "precio_num": 0.0,
-    "estado": "vendido",
-    "url": "https://www.ladistillerie66.fr/produit/manchester/"
-  },
-  "https://www.ladistillerie66.fr/produit/renaissance/": {
-    "titulo": "Renaissance",
-    "artista": "Ludo Lassalle",
-    "precio": "Prix sur demande",
-    "precio_num": 0.0,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/renaissance/"
-  },
-  "https://www.ladistillerie66.fr/produit/poesie-urbaine/": {
-    "titulo": "Le Monde S'En Friche",
-    "artista": "Ludo Lassalle",
-    "precio": "Precio no disponible",
-    "precio_num": 0.0,
-    "estado": "vendido",
-    "url": "https://www.ladistillerie66.fr/produit/poesie-urbaine/"
-  },
-  "https://www.ladistillerie66.fr/produit/mecanique-des-souvenirs/": {
-    "titulo": "Mécanique des souvenirs",
-    "artista": "Ludo Lassalle",
-    "precio": "1,700€",
-    "precio_num": 1.7,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/mecanique-des-souvenirs/"
-  },
-  "https://www.ladistillerie66.fr/produit/autotrain/": {
-    "titulo": "AutoTrain",
-    "artista": "Ludo Lassalle",
-    "precio": "900€",
-    "precio_num": 900.0,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/autotrain/"
-  },
-  "https://www.ladistillerie66.fr/produit/coco-bel-oeil/": {
-    "titulo": "Coco Bel Oeil",
-    "artista": "Martine Diotalevi",
-    "precio": "755€",
-    "precio_num": 755.0,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/coco-bel-oeil/"
-  },
-  "https://www.ladistillerie66.fr/produit/just-the-two-of-us/": {
-    "titulo": "Just The Two Of Us",
-    "artista": "Martine Diotalevi",
-    "precio": "3,100€",
-    "precio_num": 3.1,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/just-the-two-of-us/"
-  },
-  "https://www.ladistillerie66.fr/produit/dancers-in-the-dark/": {
-    "titulo": "Dancers In The Dark",
-    "artista": "Martine Diotalevi",
-    "precio": "2,832€",
-    "precio_num": 2.832,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/dancers-in-the-dark/"
-  },
-  "https://www.ladistillerie66.fr/produit/dreamers/": {
-    "titulo": "Dreamers",
-    "artista": "Martine Diotalevi",
-    "precio": "2,290€",
-    "precio_num": 2.29,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/dreamers/"
-  },
-  "https://www.ladistillerie66.fr/produit/joy/": {
-    "titulo": "Joy",
-    "artista": "Martine Diotalevi",
-    "precio": "2,290€",
-    "precio_num": 2.29,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/joy/"
-  },
-  "https://www.ladistillerie66.fr/produit/be-happy/": {
-    "titulo": "Be Happy",
-    "artista": "Martine Diotalevi",
-    "precio": "670€",
-    "precio_num": 670.0,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/be-happy/"
-  },
-  "https://www.ladistillerie66.fr/produit/solo-tu/": {
-    "titulo": "Solo tu",
-    "artista": "Martine Diotalevi",
-    "precio": "670€",
-    "precio_num": 670.0,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/solo-tu/"
-  },
-  "https://www.ladistillerie66.fr/produit/mio-amore/": {
-    "titulo": "Mio Amore",
-    "artista": "Martine Diotalevi",
-    "precio": "670€",
-    "precio_num": 670.0,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/mio-amore/"
-  },
-  "https://www.ladistillerie66.fr/produit/goldorak-fragment/": {
-    "titulo": "Goldorak Fragment",
-    "artista": "Maxime Andriot",
-    "precio": "800€",
-    "precio_num": 800.0,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/goldorak-fragment/"
-  },
-  "https://www.ladistillerie66.fr/produit/clint/": {
-    "titulo": "Clint",
-    "artista": "Maxime Andriot",
-    "precio": "Precio no disponible",
-    "precio_num": 0.0,
-    "estado": "vendido",
-    "url": "https://www.ladistillerie66.fr/produit/clint/"
-  },
-  "https://www.ladistillerie66.fr/produit/wall-fragment-marianne-1/": {
-    "titulo": "Wall Fragment \"Marianne #1\"",
-    "artista": "Maxime Andriot",
-    "precio": "1,200€",
-    "precio_num": 1.2,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/wall-fragment-marianne-1/"
-  },
-  "https://www.ladistillerie66.fr/produit/wall-fragment-blue-fragment/": {
-    "titulo": "Wall Fragment \"Blue Fragment\"",
-    "artista": "Maxime Andriot",
-    "precio": "Precio no disponible",
-    "precio_num": 0.0,
-    "estado": "vendido",
-    "url": "https://www.ladistillerie66.fr/produit/wall-fragment-blue-fragment/"
-  },
-  "https://www.ladistillerie66.fr/produit/wall-fragment-marianne-2/": {
-    "titulo": "Wall Fragment \"Marianne #2\"",
-    "artista": "Maxime Andriot",
-    "precio": "850€",
-    "precio_num": 850.0,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/wall-fragment-marianne-2/"
-  },
-  "https://www.ladistillerie66.fr/produit/mini-spiderman/": {
-    "titulo": "Mini Spiderman",
-    "artista": "Maxime Andriot",
-    "precio": "450€",
-    "precio_num": 450.0,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/mini-spiderman/"
-  },
-  "https://www.ladistillerie66.fr/produit/celui-qui-croyait-au-ciel/": {
-    "titulo": "Celui qui croyait au ciel",
-    "artista": "Maxime Andriot",
-    "precio": "750€",
-    "precio_num": 750.0,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/celui-qui-croyait-au-ciel/"
-  },
-  "https://www.ladistillerie66.fr/produit/bon-marche-1890/": {
-    "titulo": "Bon Marché 1890",
-    "artista": "Maxime Andriot",
-    "precio": "Precio no disponible",
-    "precio_num": 0.0,
-    "estado": "vendido",
-    "url": "https://www.ladistillerie66.fr/produit/bon-marche-1890/"
-  },
-  "https://www.ladistillerie66.fr/produit/mini-superman/": {
-    "titulo": "Mini Superman",
-    "artista": "Maxime Andriot",
-    "precio": "750€",
-    "precio_num": 750.0,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/mini-superman/"
-  },
-  "https://www.ladistillerie66.fr/produit/real-hero-mini-batman/": {
-    "titulo": "Real Hero Mini Batman",
-    "artista": "Maxime Andriot",
-    "precio": "850€",
-    "precio_num": 850.0,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/real-hero-mini-batman/"
-  },
-  "https://www.ladistillerie66.fr/produit/metal-daft-punk/": {
-    "titulo": "Metal Daft Punk",
-    "artista": "Maxime Andriot",
-    "precio": "Precio no disponible",
-    "precio_num": 0.0,
-    "estado": "vendido",
-    "url": "https://www.ladistillerie66.fr/produit/metal-daft-punk/"
-  },
-  "https://www.ladistillerie66.fr/produit/bardot-copie/": {
-    "titulo": "Spider",
-    "artista": "Maxime Andriot",
-    "precio": "Precio no disponible",
-    "precio_num": 0.0,
-    "estado": "vendido",
-    "url": "https://www.ladistillerie66.fr/produit/bardot-copie/"
-  },
-  "https://www.ladistillerie66.fr/produit/power/": {
-    "titulo": "Power",
-    "artista": "Mendo",
-    "precio": "Precio no disponible",
-    "precio_num": 0.0,
-    "estado": "vendido",
-    "url": "https://www.ladistillerie66.fr/produit/power/"
-  },
-  "https://www.ladistillerie66.fr/produit/raid/": {
-    "titulo": "Raid",
-    "artista": "Mendo",
-    "precio": "Precio no disponible",
-    "precio_num": 0.0,
-    "estado": "vendido",
-    "url": "https://www.ladistillerie66.fr/produit/raid/"
-  },
-  "https://www.ladistillerie66.fr/produit/zone/": {
-    "titulo": "Zone",
-    "artista": "Mendo",
-    "precio": "Precio no disponible",
-    "precio_num": 0.0,
-    "estado": "vendido",
-    "url": "https://www.ladistillerie66.fr/produit/zone/"
-  },
-  "https://www.ladistillerie66.fr/produit/close/": {
-    "titulo": "Close",
-    "artista": "Mendo",
-    "precio": "Precio no disponible",
-    "precio_num": 0.0,
-    "estado": "vendido",
-    "url": "https://www.ladistillerie66.fr/produit/close/"
-  },
-  "https://www.ladistillerie66.fr/produit/sourire/": {
-    "titulo": "Sourire",
-    "artista": "Mendo",
-    "precio": "Precio no disponible",
-    "precio_num": 0.0,
-    "estado": "vendido",
-    "url": "https://www.ladistillerie66.fr/produit/sourire/"
-  },
-  "https://www.ladistillerie66.fr/produit/mendo-goss/": {
-    "titulo": "Goss",
-    "artista": "Mendo",
-    "precio": "Precio no disponible",
-    "precio_num": 0.0,
-    "estado": "vendido",
-    "url": "https://www.ladistillerie66.fr/produit/mendo-goss/"
-  },
-  "https://www.ladistillerie66.fr/produit/lion-2/": {
-    "titulo": "Lion",
-    "artista": "Méta",
-    "precio": "Precio no disponible",
-    "precio_num": 0.0,
-    "estado": "vendido",
-    "url": "https://www.ladistillerie66.fr/produit/lion-2/"
-  },
-  "https://www.ladistillerie66.fr/produit/profil-1-2/": {
-    "titulo": "Profil 1",
-    "artista": "Méta",
-    "precio": "Prix sur demande",
-    "precio_num": 0.0,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/profil-1-2/"
-  },
-  "https://www.ladistillerie66.fr/produit/meduse-2/": {
-    "titulo": "Méduse",
-    "artista": "Méta",
-    "precio": "Prix sur demande",
-    "precio_num": 0.0,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/meduse-2/"
-  },
-  "https://www.ladistillerie66.fr/produit/regard-3/": {
-    "titulo": "Regard 3",
-    "artista": "Méta",
-    "precio": "Precio no disponible",
-    "precio_num": 0.0,
-    "estado": "vendido",
-    "url": "https://www.ladistillerie66.fr/produit/regard-3/"
-  },
-  "https://www.ladistillerie66.fr/produit/regard-2/": {
-    "titulo": "Regard 2",
-    "artista": "Méta",
-    "precio": "Prix sur demande",
-    "precio_num": 0.0,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/regard-2/"
-  },
-  "https://www.ladistillerie66.fr/produit/regard-1/": {
-    "titulo": "Regard 1",
-    "artista": "Méta",
-    "precio": "Precio no disponible",
-    "precio_num": 0.0,
-    "estado": "vendido",
-    "url": "https://www.ladistillerie66.fr/produit/regard-1/"
-  },
-  "https://www.ladistillerie66.fr/produit/nue-contre-jour/": {
-    "titulo": "Nue Contre-Jour",
-    "artista": "Méta",
-    "precio": "Prix sur demande",
-    "precio_num": 0.0,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/nue-contre-jour/"
-  },
-  "https://www.ladistillerie66.fr/produit/contre-jour-1/": {
-    "titulo": "Contre-Jour 1",
-    "artista": "Méta",
-    "precio": "Prix sur demande",
-    "precio_num": 0.0,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/contre-jour-1/"
-  },
-  "https://www.ladistillerie66.fr/produit/africaine/": {
-    "titulo": "Africaine",
-    "artista": "Méta",
-    "precio": "Precio no disponible",
-    "precio_num": 0.0,
-    "estado": "vendido",
-    "url": "https://www.ladistillerie66.fr/produit/africaine/"
-  },
   "https://www.ladistillerie66.fr/produit/rock/": {
     "titulo": "Rock",
     "artista": "Mr Yerro",
@@ -1014,310 +686,6 @@
     "precio_num": 0.0,
     "estado": "vendido",
     "url": "https://www.ladistillerie66.fr/produit/reborn/"
-  },
-  "https://www.ladistillerie66.fr/produit/welcome-to-the-terrordome/": {
-    "titulo": "Welcome To The Terrordome",
-    "artista": "One Siker",
-    "precio": "5,000€",
-    "precio_num": 5.0,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/welcome-to-the-terrordome/"
-  },
-  "https://www.ladistillerie66.fr/produit/3-pablito-spray/": {
-    "titulo": "Love Pablito Spray",
-    "artista": "Pablito Mourer",
-    "precio": "179€",
-    "precio_num": 179.0,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/3-pablito-spray/"
-  },
-  "https://www.ladistillerie66.fr/produit/street-love-51/": {
-    "titulo": "Street Love #51",
-    "artista": "Pablito Mourer",
-    "precio": "250€",
-    "precio_num": 250.0,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/street-love-51/"
-  },
-  "https://www.ladistillerie66.fr/produit/cant-stop-my-flow/": {
-    "titulo": "Can't Stop My Flow",
-    "artista": "Pablito Mourer",
-    "precio": "300€",
-    "precio_num": 300.0,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/cant-stop-my-flow/"
-  },
-  "https://www.ladistillerie66.fr/produit/pedazo-of-street/": {
-    "titulo": "Pedazo Of Street",
-    "artista": "Pablito Mourer",
-    "precio": "320€",
-    "precio_num": 320.0,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/pedazo-of-street/"
-  },
-  "https://www.ladistillerie66.fr/produit/street-love-n3/": {
-    "titulo": "Street love n°3",
-    "artista": "Pablito Mourer",
-    "precio": "160€",
-    "precio_num": 160.0,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/street-love-n3/"
-  },
-  "https://www.ladistillerie66.fr/produit/femme-forte/": {
-    "titulo": "Femme forte",
-    "artista": "Pablito Mourer",
-    "precio": "2,300€",
-    "precio_num": 2.3,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/femme-forte/"
-  },
-  "https://www.ladistillerie66.fr/produit/sea-souvenir/": {
-    "titulo": "Sea Souvenir",
-    "artista": "Pablito Mourer",
-    "precio": "2,800€",
-    "precio_num": 2.8,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/sea-souvenir/"
-  },
-  "https://www.ladistillerie66.fr/produit/luz-divina/": {
-    "titulo": "Luz Divina",
-    "artista": "Pablito Mourer",
-    "precio": "700€",
-    "precio_num": 700.0,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/luz-divina/"
-  },
-  "https://www.ladistillerie66.fr/produit/sagesse/": {
-    "titulo": "Sagesse",
-    "artista": "ROKO",
-    "precio": "2,700€",
-    "precio_num": 2.7,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/sagesse/"
-  },
-  "https://www.ladistillerie66.fr/produit/furieux/": {
-    "titulo": "Furieux",
-    "artista": "ROKO",
-    "precio": "2,700€",
-    "precio_num": 2.7,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/furieux/"
-  },
-  "https://www.ladistillerie66.fr/produit/silence/": {
-    "titulo": "Silence",
-    "artista": "ROKO",
-    "precio": "2,700€",
-    "precio_num": 2.7,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/silence/"
-  },
-  "https://www.ladistillerie66.fr/produit/edition_fine_art/": {
-    "titulo": "Édition Fine Art",
-    "artista": "SanckOBlack",
-    "precio": "100€",
-    "precio_num": 100.0,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/edition_fine_art/"
-  },
-  "https://www.ladistillerie66.fr/produit/mecanique-organique/": {
-    "titulo": "Mécanique Organique",
-    "artista": "Steve Pitocco",
-    "precio": "Precio no disponible",
-    "precio_num": 0.0,
-    "estado": "vendido",
-    "url": "https://www.ladistillerie66.fr/produit/mecanique-organique/"
-  },
-  "https://www.ladistillerie66.fr/produit/flux-colore-1/": {
-    "titulo": "Flux Coloré 1",
-    "artista": "Steve Pitocco",
-    "precio": "3,200€",
-    "precio_num": 3.2,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/flux-colore-1/"
-  },
-  "https://www.ladistillerie66.fr/produit/flux-colore-2/": {
-    "titulo": "Flux Coloré 2",
-    "artista": "Steve Pitocco",
-    "precio": "3,200€",
-    "precio_num": 3.2,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/flux-colore-2/"
-  },
-  "https://www.ladistillerie66.fr/produit/dragon/": {
-    "titulo": "Dragon",
-    "artista": "Steve Pitocco",
-    "precio": "6,700€",
-    "precio_num": 6.7,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/dragon/"
-  },
-  "https://www.ladistillerie66.fr/produit/les-promeneurs/": {
-    "titulo": "Les Promeneurs",
-    "artista": "Thierry Clamens",
-    "precio": "3,400€",
-    "precio_num": 3.4,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/les-promeneurs/"
-  },
-  "https://www.ladistillerie66.fr/produit/mistral-gagnant/": {
-    "titulo": "Mistral Gagnant",
-    "artista": "Thierry Clamens",
-    "precio": "3,400€",
-    "precio_num": 3.4,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/mistral-gagnant/"
-  },
-  "https://www.ladistillerie66.fr/produit/la-timide-et-la-rouge/": {
-    "titulo": "La Timide Et La Rouge",
-    "artista": "Thierry Clamens",
-    "precio": "3,000€",
-    "precio_num": 3.0,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/la-timide-et-la-rouge/"
-  },
-  "https://www.ladistillerie66.fr/produit/moulin-rouge/": {
-    "titulo": "Moulin Rouge",
-    "artista": "Thierry Clamens",
-    "precio": "3,000€",
-    "precio_num": 3.0,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/moulin-rouge/"
-  },
-  "https://www.ladistillerie66.fr/produit/ecoute-le-silence/": {
-    "titulo": "Ecoute Le Silence",
-    "artista": "Thierry Clamens",
-    "precio": "4,000€",
-    "precio_num": 4.0,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/ecoute-le-silence/"
-  },
-  "https://www.ladistillerie66.fr/produit/quatre-notes-de-musique/": {
-    "titulo": "Quatre Notes De Musique",
-    "artista": "Thierry Clamens",
-    "precio": "3,400€",
-    "precio_num": 3.4,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/quatre-notes-de-musique/"
-  },
-  "https://www.ladistillerie66.fr/produit/double-face/": {
-    "titulo": "Double Face",
-    "artista": "Thierry Clamens",
-    "precio": "3,000€",
-    "precio_num": 3.0,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/double-face/"
-  },
-  "https://www.ladistillerie66.fr/produit/reflexion/": {
-    "titulo": "Réflexion",
-    "artista": "Thierry Clamens",
-    "precio": "4,000€",
-    "precio_num": 4.0,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/reflexion/"
-  },
-  "https://www.ladistillerie66.fr/produit/liberte-2/": {
-    "titulo": "Liberté 2",
-    "artista": "Thomas Vinas",
-    "precio": "500€",
-    "precio_num": 500.0,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/liberte-2/"
-  },
-  "https://www.ladistillerie66.fr/produit/no-fight/": {
-    "titulo": "No Fight",
-    "artista": "Thomas Vinas",
-    "precio": "500€",
-    "precio_num": 500.0,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/no-fight/"
-  },
-  "https://www.ladistillerie66.fr/produit/genie/": {
-    "titulo": "Génie",
-    "artista": "Thomas Vinas",
-    "precio": "4,000€",
-    "precio_num": 4.0,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/genie/"
-  },
-  "https://www.ladistillerie66.fr/produit/symbiose/": {
-    "titulo": "Symbiose",
-    "artista": "Thomas Vinas",
-    "precio": "2,700€",
-    "precio_num": 2.7,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/symbiose/"
-  },
-  "https://www.ladistillerie66.fr/produit/au-coeur-du-jeu/": {
-    "titulo": "Au cœur du jeu",
-    "artista": "Thomas Vinas",
-    "precio": "4,500€",
-    "precio_num": 4.5,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/au-coeur-du-jeu/"
-  },
-  "https://www.ladistillerie66.fr/produit/espieglerie/": {
-    "titulo": "Espièglerie",
-    "artista": "Thomas Vinas",
-    "precio": "2,200€",
-    "precio_num": 2.2,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/espieglerie/"
-  },
-  "https://www.ladistillerie66.fr/produit/air-max-90/": {
-    "titulo": "Air Max 90",
-    "artista": "Thomas Vinas",
-    "precio": "400€",
-    "precio_num": 400.0,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/air-max-90/"
-  },
-  "https://www.ladistillerie66.fr/produit/cortez/": {
-    "titulo": "Cortez",
-    "artista": "Thomas Vinas",
-    "precio": "400€",
-    "precio_num": 400.0,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/cortez/"
-  },
-  "https://www.ladistillerie66.fr/produit/stan-smith/": {
-    "titulo": "Stan Smith",
-    "artista": "Thomas Vinas",
-    "precio": "400€",
-    "precio_num": 400.0,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/stan-smith/"
-  },
-  "https://www.ladistillerie66.fr/produit/confusion/": {
-    "titulo": "Confusion",
-    "artista": "Thomas Vinas",
-    "precio": "900€",
-    "precio_num": 900.0,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/confusion/"
-  },
-  "https://www.ladistillerie66.fr/produit/cortex/": {
-    "titulo": "Cortex",
-    "artista": "Thomas Vinas",
-    "precio": "3,000€",
-    "precio_num": 3.0,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/cortex/"
-  },
-  "https://www.ladistillerie66.fr/produit/fungi/": {
-    "titulo": "Fungi",
-    "artista": "Thomas Vinas",
-    "precio": "3,000€",
-    "precio_num": 3.0,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/fungi/"
-  },
-  "https://www.ladistillerie66.fr/produit/amour/": {
-    "titulo": "Amour",
-    "artista": "Tiguéné",
-    "precio": "900€",
-    "precio_num": 900.0,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/amour/"
   },
   "https://www.ladistillerie66.fr/produit/bwmetal/": {
     "titulo": "BWmetal",
@@ -1454,21 +822,5 @@
     "precio_num": 2.7,
     "estado": "disponible",
     "url": "https://www.ladistillerie66.fr/produit/essence-urbaine/"
-  },
-  "https://www.ladistillerie66.fr/produit/flexo-shoot-h150/": {
-    "titulo": "Flexo - Shoot H150",
-    "artista": "Zed",
-    "precio": "2,500€",
-    "precio_num": 2.5,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/flexo-shoot-h150/"
-  },
-  "https://www.ladistillerie66.fr/produit/flexos/": {
-    "titulo": "Flexos",
-    "artista": "Zed",
-    "precio": "150€",
-    "precio_num": 150.0,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/flexos/"
   }
 }
