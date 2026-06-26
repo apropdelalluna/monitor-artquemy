@@ -1531,5 +1531,15 @@
       "url": "https://www.3punts.com/es/shop/artwork/be-frustated-be-alive-yves-decamps"
     }
   ],
-  "2026-06": []
+  "2026-06": [
+    {
+      "fecha": "26/06/2026 15:28",
+      "artista": "Gerard Mas",
+      "obra": "",
+      "precio": "Consultar precio",
+      "precio_num": 0.0,
+      "tipo": "vendida",
+      "url": "https://www.3punts.com/es/shop/artwork/idol-i"
+    }
+  ]
 }
