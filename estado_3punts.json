@@ -1,5 +1,5 @@
 {
-  "__hash__": "cf3c4b6afeb2af2896ebd753680b71f3",
+  "__hash__": "7fd3b26875d4e5c7fe86f97b682d78fd",
   "obras": {
     "https://www.3punts.com/es/shop/artwork/untitled-alberto-fernandez-hurtado": {
       "titulo": "",
@@ -1172,8 +1172,8 @@
     "https://www.3punts.com/es/shop/artwork/chema-madoz-st": {
       "titulo": "",
       "artista": "Chema Madoz",
-      "precio": "12 000,00 €",
-      "precio_num": 12000.0,
+      "precio": "Consultar precio",
+      "precio_num": 0.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/chema-madoz-st"
     },
@@ -1249,21 +1249,21 @@
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/mirada-roja-dominika-berger"
     },
-    "https://www.3punts.com/es/shop/artwork/dama-del-chicle-burdeos-gerard-mas": {
+    "https://www.3punts.com/es/shop/artwork/tongue-out-lady": {
       "titulo": "",
       "artista": "Gerard Mas",
       "precio": "4 800,00 €",
       "precio_num": 4800.0,
       "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/dama-del-chicle-burdeos-gerard-mas"
+      "url": "https://www.3punts.com/es/shop/artwork/tongue-out-lady"
     },
-    "https://www.3punts.com/es/shop/artwork/lollipop-lady-toy-edition-gerard-mas": {
+    "https://www.3punts.com/es/shop/artwork/bubblegum-lady-purple": {
       "titulo": "",
       "artista": "Gerard Mas",
-      "precio": "1 500,00 €",
-      "precio_num": 1500.0,
+      "precio": "4 800,00 €",
+      "precio_num": 4800.0,
       "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/lollipop-lady-toy-edition-gerard-mas"
+      "url": "https://www.3punts.com/es/shop/artwork/bubblegum-lady-purple"
     },
     "https://www.3punts.com/es/shop/artwork/bubblegum-lady-toy-edition-gerard-mas": {
       "titulo": "",
@@ -1273,110 +1273,6 @@
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/bubblegum-lady-toy-edition-gerard-mas"
     },
-    "https://www.3punts.com/es/shop/artwork/salou-lady-toy-edition-gerard-mas": {
-      "titulo": "",
-      "artista": "Gerard Mas",
-      "precio": "1 500,00 €",
-      "precio_num": 1500.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/salou-lady-toy-edition-gerard-mas"
-    },
-    "https://www.3punts.com/es/shop/artwork/mi-primer-calder": {
-      "titulo": "",
-      "artista": "Gerard Mas",
-      "precio": "Consultar precio",
-      "precio_num": 0.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/mi-primer-calder"
-    },
-    "https://www.3punts.com/es/shop/artwork/retrat-de-caterina-darago-amb-dinosaure": {
-      "titulo": "",
-      "artista": "Gerard Mas",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/retrat-de-caterina-darago-amb-dinosaure"
-    },
-    "https://www.3punts.com/es/shop/artwork/dama-del-chihuahua": {
-      "titulo": "",
-      "artista": "Gerard Mas",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/dama-del-chihuahua"
-    },
-    "https://www.3punts.com/es/shop/artwork/chess": {
-      "titulo": "",
-      "artista": "Gerard Mas",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/chess"
-    },
-    "https://www.3punts.com/es/shop/artwork/ruff": {
-      "titulo": "",
-      "artista": "Gerard Mas",
-      "precio": "Consultar precio",
-      "precio_num": 0.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/ruff"
-    },
-    "https://www.3punts.com/es/shop/artwork/dama-del-bogavante": {
-      "titulo": "",
-      "artista": "Gerard Mas",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/dama-del-bogavante"
-    },
-    "https://www.3punts.com/es/shop/artwork/golden-jacket": {
-      "titulo": "",
-      "artista": "Gerard Mas",
-      "precio": "Consultar precio",
-      "precio_num": 0.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/golden-jacket"
-    },
-    "https://www.3punts.com/es/shop/artwork/guardian": {
-      "titulo": "",
-      "artista": "Gerard Mas",
-      "precio": "Consultar precio",
-      "precio_num": 0.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/guardian"
-    },
-    "https://www.3punts.com/es/shop/artwork/idol-i": {
-      "titulo": "",
-      "artista": "Gerard Mas",
-      "precio": "Consultar precio",
-      "precio_num": 0.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/idol-i"
-    },
-    "https://www.3punts.com/es/shop/artwork/thalassinus-i": {
-      "titulo": "",
-      "artista": "Gerard Mas",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/thalassinus-i"
-    },
-    "https://www.3punts.com/es/shop/artwork/thalassinus-ii": {
-      "titulo": "",
-      "artista": "Gerard Mas",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/thalassinus-ii"
-    },
-    "https://www.3punts.com/es/shop/artwork/oveja-homenaje-chillida": {
-      "titulo": "",
-      "artista": "Gerard Mas",
-      "precio": "Consultar precio",
-      "precio_num": 0.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/oveja-homenaje-chillida"
-    },
     "https://www.3punts.com/es/shop/artwork/redhead-goldfish-lady": {
       "titulo": "",
       "artista": "Gerard Mas",
@@ -1385,61 +1281,21 @@
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/redhead-goldfish-lady"
     },
-    "https://www.3punts.com/es/shop/artwork/idol-ii": {
+    "https://www.3punts.com/es/shop/artwork/salou-lady-toy-edition-gerard-mas": {
       "titulo": "",
       "artista": "Gerard Mas",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/idol-ii"
-    },
-    "https://www.3punts.com/es/shop/artwork/maroon-bubblegum-lady-gerard-mas": {
-      "titulo": "",
-      "artista": "Gerard Mas",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/maroon-bubblegum-lady-gerard-mas"
-    },
-    "https://www.3punts.com/es/shop/artwork/hellenistic-fantasy-gerard-mas": {
-      "titulo": "",
-      "artista": "Gerard Mas",
-      "precio": "4 800,00 €",
-      "precio_num": 4800.0,
+      "precio": "1 500,00 €",
+      "precio_num": 1500.0,
       "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/hellenistic-fantasy-gerard-mas"
+      "url": "https://www.3punts.com/es/shop/artwork/salou-lady-toy-edition-gerard-mas"
     },
-    "https://www.3punts.com/es/shop/artwork/gerard-masdama-de-baqueira": {
+    "https://www.3punts.com/es/shop/artwork/lollipop-lady-toy-edition-gerard-mas": {
       "titulo": "",
       "artista": "Gerard Mas",
-      "precio": "4 800,00 €",
-      "precio_num": 4800.0,
+      "precio": "1 500,00 €",
+      "precio_num": 1500.0,
       "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/gerard-masdama-de-baqueira"
-    },
-    "https://www.3punts.com/es/shop/artwork/gerard-masdama-del-cesto": {
-      "titulo": "",
-      "artista": "Gerard Mas",
-      "precio": "4 800,00 €",
-      "precio_num": 4800.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/gerard-masdama-del-cesto"
-    },
-    "https://www.3punts.com/es/shop/artwork/gerard-masdama-del-collarin": {
-      "titulo": "",
-      "artista": "Gerard Mas",
-      "precio": "4 800,00 €",
-      "precio_num": 4800.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/gerard-masdama-del-collarin"
-    },
-    "https://www.3punts.com/es/shop/artwork/mom-tattoo-lady-gerard-mas": {
-      "titulo": "",
-      "artista": "Gerard Mas",
-      "precio": "4 800,00 €",
-      "precio_num": 4800.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/mom-tattoo-lady-gerard-mas"
+      "url": "https://www.3punts.com/es/shop/artwork/lollipop-lady-toy-edition-gerard-mas"
     },
     "https://www.3punts.com/es/shop/artwork/dama-del-espantasuegras-gerard-mas": {
       "titulo": "",
@@ -1449,6 +1305,14 @@
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/dama-del-espantasuegras-gerard-mas"
     },
+    "https://www.3punts.com/es/shop/artwork/gerard-masdama-de-baqueira": {
+      "titulo": "",
+      "artista": "Gerard Mas",
+      "precio": "4 800,00 €",
+      "precio_num": 4800.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/gerard-masdama-de-baqueira"
+    },
     "https://www.3punts.com/es/shop/artwork/gerard-masdama-del-collar": {
       "titulo": "",
       "artista": "Gerard Mas",
@@ -1457,13 +1321,13 @@
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/gerard-masdama-del-collar"
     },
-    "https://www.3punts.com/es/shop/artwork/gerard-mashellenistic-fantasy": {
+    "https://www.3punts.com/es/shop/artwork/mom-tattoo-lady-gerard-mas": {
       "titulo": "",
       "artista": "Gerard Mas",
-      "precio": "5 500,00 €",
-      "precio_num": 5500.0,
+      "precio": "4 800,00 €",
+      "precio_num": 4800.0,
       "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/gerard-mashellenistic-fantasy"
+      "url": "https://www.3punts.com/es/shop/artwork/mom-tattoo-lady-gerard-mas"
     },
     "https://www.3punts.com/es/shop/artwork/frida-gerard-mas": {
       "titulo": "",
@@ -1472,6 +1336,78 @@
       "precio_num": 5500.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/frida-gerard-mas"
+    },
+    "https://www.3punts.com/es/shop/artwork/gerard-masdama-del-collarin": {
+      "titulo": "",
+      "artista": "Gerard Mas",
+      "precio": "4 800,00 €",
+      "precio_num": 4800.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/gerard-masdama-del-collarin"
+    },
+    "https://www.3punts.com/es/shop/artwork/gerard-masdama-del-cesto": {
+      "titulo": "",
+      "artista": "Gerard Mas",
+      "precio": "4 800,00 €",
+      "precio_num": 4800.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/gerard-masdama-del-cesto"
+    },
+    "https://www.3punts.com/es/shop/artwork/gerard-masdama-del-cactus": {
+      "titulo": "",
+      "artista": "Gerard Mas",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "estado": "vendido",
+      "url": "https://www.3punts.com/es/shop/artwork/gerard-masdama-del-cactus"
+    },
+    "https://www.3punts.com/es/shop/artwork/dama-del-bogavante": {
+      "titulo": "",
+      "artista": "Gerard Mas",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "estado": "vendido",
+      "url": "https://www.3punts.com/es/shop/artwork/dama-del-bogavante"
+    },
+    "https://www.3punts.com/es/shop/artwork/dama-del-chihuahua": {
+      "titulo": "",
+      "artista": "Gerard Mas",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "estado": "vendido",
+      "url": "https://www.3punts.com/es/shop/artwork/dama-del-chihuahua"
+    },
+    "https://www.3punts.com/es/shop/artwork/gerard-mascall-center-lady": {
+      "titulo": "",
+      "artista": "Gerard Mas",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "estado": "vendido",
+      "url": "https://www.3punts.com/es/shop/artwork/gerard-mascall-center-lady"
+    },
+    "https://www.3punts.com/es/shop/artwork/gerard-masdama-de-la-pinza": {
+      "titulo": "",
+      "artista": "Gerard Mas",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "estado": "vendido",
+      "url": "https://www.3punts.com/es/shop/artwork/gerard-masdama-de-la-pinza"
+    },
+    "https://www.3punts.com/es/shop/artwork/gerard-maslady-broccoli": {
+      "titulo": "",
+      "artista": "Gerard Mas",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "estado": "vendido",
+      "url": "https://www.3punts.com/es/shop/artwork/gerard-maslady-broccoli"
+    },
+    "https://www.3punts.com/es/shop/artwork/gerard-mas-lollipop-lady-maroon": {
+      "titulo": "",
+      "artista": "Gerard Mas",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "estado": "vendido",
+      "url": "https://www.3punts.com/es/shop/artwork/gerard-mas-lollipop-lady-maroon"
     },
     "https://www.3punts.com/es/shop/artwork/gerard-mas-canope-series-i": {
       "titulo": "",
@@ -1505,6 +1441,78 @@
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/gerard-mas-canope-series-iv"
     },
+    "https://www.3punts.com/es/shop/artwork/guardian": {
+      "titulo": "",
+      "artista": "Gerard Mas",
+      "precio": "Consultar precio",
+      "precio_num": 0.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/guardian"
+    },
+    "https://www.3punts.com/es/shop/artwork/golden-jacket": {
+      "titulo": "",
+      "artista": "Gerard Mas",
+      "precio": "Consultar precio",
+      "precio_num": 0.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/golden-jacket"
+    },
+    "https://www.3punts.com/es/shop/artwork/oveja-homenaje-chillida": {
+      "titulo": "",
+      "artista": "Gerard Mas",
+      "precio": "Consultar precio",
+      "precio_num": 0.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/oveja-homenaje-chillida"
+    },
+    "https://www.3punts.com/es/shop/artwork/ruff": {
+      "titulo": "",
+      "artista": "Gerard Mas",
+      "precio": "Consultar precio",
+      "precio_num": 0.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/ruff"
+    },
+    "https://www.3punts.com/es/shop/artwork/mi-primer-calder": {
+      "titulo": "",
+      "artista": "Gerard Mas",
+      "precio": "Consultar precio",
+      "precio_num": 0.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/mi-primer-calder"
+    },
+    "https://www.3punts.com/es/shop/artwork/gerard-masfrenchie": {
+      "titulo": "",
+      "artista": "Gerard Mas",
+      "precio": "4 800,00 €",
+      "precio_num": 4800.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/gerard-masfrenchie"
+    },
+    "https://www.3punts.com/es/shop/artwork/hellenistic-fantasy-gerard-mas": {
+      "titulo": "",
+      "artista": "Gerard Mas",
+      "precio": "4 800,00 €",
+      "precio_num": 4800.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/hellenistic-fantasy-gerard-mas"
+    },
+    "https://www.3punts.com/es/shop/artwork/gerard-mashellenistic-fantasy": {
+      "titulo": "",
+      "artista": "Gerard Mas",
+      "precio": "5 500,00 €",
+      "precio_num": 5500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/gerard-mashellenistic-fantasy"
+    },
+    "https://www.3punts.com/es/shop/artwork/gerard-masrata-deidad": {
+      "titulo": "",
+      "artista": "Gerard Mas",
+      "precio": "7 500,00 €",
+      "precio_num": 7500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/gerard-masrata-deidad"
+    },
     "https://www.3punts.com/es/shop/artwork/gerard-masornitologies-ocell-2": {
       "titulo": "",
       "artista": "Gerard Mas",
@@ -1537,141 +1545,21 @@
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/gerard-masornitologies-5"
     },
-    "https://www.3punts.com/es/shop/artwork/gerard-maslo-rei-en-jaume": {
+    "https://www.3punts.com/es/shop/artwork/gerard-massarcofag": {
       "titulo": "",
       "artista": "Gerard Mas",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
       "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/gerard-maslo-rei-en-jaume"
+      "url": "https://www.3punts.com/es/shop/artwork/gerard-massarcofag"
     },
-    "https://www.3punts.com/es/shop/artwork/gerard-masfrenchie": {
-      "titulo": "",
-      "artista": "Gerard Mas",
-      "precio": "4 500,00 €",
-      "precio_num": 4500.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/gerard-masfrenchie"
-    },
-    "https://www.3punts.com/es/shop/artwork/gerard-mas-ornitoglifo-iii": {
+    "https://www.3punts.com/es/shop/artwork/gerard-masguardian-0": {
       "titulo": "",
       "artista": "Gerard Mas",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
       "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/gerard-mas-ornitoglifo-iii"
-    },
-    "https://www.3punts.com/es/shop/artwork/gerard-mas-ornitologies-3": {
-      "titulo": "",
-      "artista": "Gerard Mas",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/gerard-mas-ornitologies-3"
-    },
-    "https://www.3punts.com/es/shop/artwork/gerard-mas-lollipop-lady-green": {
-      "titulo": "",
-      "artista": "Gerard Mas",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/gerard-mas-lollipop-lady-green"
-    },
-    "https://www.3punts.com/es/shop/artwork/gerard-mas-lollipop-lady-maroon": {
-      "titulo": "",
-      "artista": "Gerard Mas",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/gerard-mas-lollipop-lady-maroon"
-    },
-    "https://www.3punts.com/es/shop/artwork/green-bubblegum-lady": {
-      "titulo": "",
-      "artista": "Gerard Mas",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/green-bubblegum-lady"
-    },
-    "https://www.3punts.com/es/shop/artwork/redhead-bubblegum-lady-gerard-mas": {
-      "titulo": "",
-      "artista": "Gerard Mas",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/redhead-bubblegum-lady-gerard-mas"
-    },
-    "https://www.3punts.com/es/shop/artwork/gerard-masrata-deidad": {
-      "titulo": "",
-      "artista": "Gerard Mas",
-      "precio": "7 500,00 €",
-      "precio_num": 7500.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/gerard-masrata-deidad"
-    },
-    "https://www.3punts.com/es/shop/artwork/gerard-mas-goldfish-lady": {
-      "titulo": "",
-      "artista": "Gerard Mas",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/gerard-mas-goldfish-lady"
-    },
-    "https://www.3punts.com/es/shop/artwork/gerard-mas-1": {
-      "titulo": "",
-      "artista": "Gerard Mas",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/gerard-mas-1"
-    },
-    "https://www.3punts.com/es/shop/artwork/gerard-mas-0": {
-      "titulo": "",
-      "artista": "Gerard Mas",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/gerard-mas-0"
-    },
-    "https://www.3punts.com/es/shop/artwork/gerard-masantroporci-2": {
-      "titulo": "",
-      "artista": "Gerard Mas",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/gerard-masantroporci-2"
-    },
-    "https://www.3punts.com/es/shop/artwork/gerard-maslady-broccoli": {
-      "titulo": "",
-      "artista": "Gerard Mas",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/gerard-maslady-broccoli"
-    },
-    "https://www.3punts.com/es/shop/artwork/gerard-masdama-de-la-pinza": {
-      "titulo": "",
-      "artista": "Gerard Mas",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/gerard-masdama-de-la-pinza"
-    },
-    "https://www.3punts.com/es/shop/artwork/gerard-mascall-center-lady": {
-      "titulo": "",
-      "artista": "Gerard Mas",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/gerard-mascall-center-lady"
-    },
-    "https://www.3punts.com/es/shop/artwork/gerard-masdama-del-chicle": {
-      "titulo": "",
-      "artista": "Gerard Mas",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/gerard-masdama-del-chicle"
+      "url": "https://www.3punts.com/es/shop/artwork/gerard-masguardian-0"
     },
     "https://www.3punts.com/es/shop/artwork/gerard-masmadonna-del-frenchie": {
       "titulo": "",
@@ -1689,6 +1577,70 @@
       "estado": "vendido",
       "url": "https://www.3punts.com/es/shop/artwork/gerard-mas-ciris"
     },
+    "https://www.3punts.com/es/shop/artwork/idol-i": {
+      "titulo": "",
+      "artista": "Gerard Mas",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "estado": "vendido",
+      "url": "https://www.3punts.com/es/shop/artwork/idol-i"
+    },
+    "https://www.3punts.com/es/shop/artwork/gerard-mas-ornitoglifo-iii": {
+      "titulo": "",
+      "artista": "Gerard Mas",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "estado": "vendido",
+      "url": "https://www.3punts.com/es/shop/artwork/gerard-mas-ornitoglifo-iii"
+    },
+    "https://www.3punts.com/es/shop/artwork/thalassinus-i": {
+      "titulo": "",
+      "artista": "Gerard Mas",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "estado": "vendido",
+      "url": "https://www.3punts.com/es/shop/artwork/thalassinus-i"
+    },
+    "https://www.3punts.com/es/shop/artwork/thalassinus-ii": {
+      "titulo": "",
+      "artista": "Gerard Mas",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "estado": "vendido",
+      "url": "https://www.3punts.com/es/shop/artwork/thalassinus-ii"
+    },
+    "https://www.3punts.com/es/shop/artwork/chess": {
+      "titulo": "",
+      "artista": "Gerard Mas",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "estado": "vendido",
+      "url": "https://www.3punts.com/es/shop/artwork/chess"
+    },
+    "https://www.3punts.com/es/shop/artwork/retrat-de-caterina-darago-amb-dinosaure": {
+      "titulo": "",
+      "artista": "Gerard Mas",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "estado": "vendido",
+      "url": "https://www.3punts.com/es/shop/artwork/retrat-de-caterina-darago-amb-dinosaure"
+    },
+    "https://www.3punts.com/es/shop/artwork/gerard-masornitologies-6": {
+      "titulo": "",
+      "artista": "Gerard Mas",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "estado": "vendido",
+      "url": "https://www.3punts.com/es/shop/artwork/gerard-masornitologies-6"
+    },
+    "https://www.3punts.com/es/shop/artwork/gerard-mas-ornitologies-3": {
+      "titulo": "",
+      "artista": "Gerard Mas",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "estado": "vendido",
+      "url": "https://www.3punts.com/es/shop/artwork/gerard-mas-ornitologies-3"
+    },
     "https://www.3punts.com/es/shop/artwork/gerard-mas": {
       "titulo": "",
       "artista": "Gerard Mas",
@@ -1705,6 +1657,14 @@
       "estado": "vendido",
       "url": "https://www.3punts.com/es/shop/artwork/gerard-mas-4"
     },
+    "https://www.3punts.com/es/shop/artwork/gerard-maslo-rei-en-jaume": {
+      "titulo": "",
+      "artista": "Gerard Mas",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "estado": "vendido",
+      "url": "https://www.3punts.com/es/shop/artwork/gerard-maslo-rei-en-jaume"
+    },
     "https://www.3punts.com/es/shop/artwork/gerard-mas-ornitologies-2": {
       "titulo": "",
       "artista": "Gerard Mas",
@@ -1713,37 +1673,21 @@
       "estado": "vendido",
       "url": "https://www.3punts.com/es/shop/artwork/gerard-mas-ornitologies-2"
     },
-    "https://www.3punts.com/es/shop/artwork/gerard-masdama-del-cactus": {
+    "https://www.3punts.com/es/shop/artwork/gerard-masantroporci-2": {
       "titulo": "",
       "artista": "Gerard Mas",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
       "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/gerard-masdama-del-cactus"
+      "url": "https://www.3punts.com/es/shop/artwork/gerard-masantroporci-2"
     },
-    "https://www.3punts.com/es/shop/artwork/gerard-masguardian-0": {
+    "https://www.3punts.com/es/shop/artwork/idol-ii": {
       "titulo": "",
       "artista": "Gerard Mas",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
       "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/gerard-masguardian-0"
-    },
-    "https://www.3punts.com/es/shop/artwork/gerard-masornitologies-6": {
-      "titulo": "",
-      "artista": "Gerard Mas",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/gerard-masornitologies-6"
-    },
-    "https://www.3punts.com/es/shop/artwork/gerard-massarcofag": {
-      "titulo": "",
-      "artista": "Gerard Mas",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/gerard-massarcofag"
+      "url": "https://www.3punts.com/es/shop/artwork/idol-ii"
     },
     "https://www.3punts.com/es/shop/artwork/berlin-abend-am-olympiastadion-jan-schuler": {
       "titulo": "",
