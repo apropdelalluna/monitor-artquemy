@@ -11166,5 +11166,131 @@
         "url": "https://artquemy.com/producto/the-road-to-hell-is-paved-with-good-intentions/"
       }
     ]
+  },
+  {
+    "fecha": "26/06/2026 15:24",
+    "artista": "Ceci SN",
+    "cambios_obras": [
+      {
+        "tipo": "vendida",
+        "titulo": "Naked swimmers XXXVIII",
+        "precio": "€50,00",
+        "precio_num": 50.0,
+        "url": "https://artquemy.com/producto/naked-swimmers-xxxviii/"
+      },
+      {
+        "tipo": "vendida",
+        "titulo": "Naked swimmers XXXIII",
+        "precio": "€40,00",
+        "precio_num": 40.0,
+        "url": "https://artquemy.com/producto/naked-swimmers-xxxiii/"
+      },
+      {
+        "tipo": "vendida",
+        "titulo": "Naked swimmers XXXII",
+        "precio": "€40,00",
+        "precio_num": 40.0,
+        "url": "https://artquemy.com/producto/naked-swimmers-xxxii/"
+      },
+      {
+        "tipo": "vendida",
+        "titulo": "Naked Swimmers",
+        "precio": "€40,00",
+        "precio_num": 40.0,
+        "url": "https://artquemy.com/producto/naked-swimmers/"
+      },
+      {
+        "tipo": "vendida",
+        "titulo": "Naked Swimmers V",
+        "precio": "€40,00",
+        "precio_num": 40.0,
+        "url": "https://artquemy.com/producto/naked-swimmers-v-2/"
+      },
+      {
+        "tipo": "vendida",
+        "titulo": "Naked Swimmers IV",
+        "precio": "€40,00",
+        "precio_num": 40.0,
+        "url": "https://artquemy.com/producto/naked-swimmers-iv/"
+      },
+      {
+        "tipo": "vendida",
+        "titulo": "Naked Swimmers III",
+        "precio": "€40,00",
+        "precio_num": 40.0,
+        "url": "https://artquemy.com/producto/naked-swimmers-iii-2/"
+      },
+      {
+        "tipo": "vendida",
+        "titulo": "Naked Swimmers Zoom x1",
+        "precio": "€40,00",
+        "precio_num": 40.0,
+        "url": "https://artquemy.com/producto/blue-naked-swimmers-zoom-x1/"
+      },
+      {
+        "tipo": "vendida",
+        "titulo": "Naked swimmers XXIII",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "url": "https://artquemy.com/producto/naked-swimmers-xxiii/"
+      },
+      {
+        "tipo": "vendida",
+        "titulo": "Naked swimmers XXVIII",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "url": "https://artquemy.com/producto/naked-swimmers-xxviii/"
+      },
+      {
+        "tipo": "vendida",
+        "titulo": "Bikini Swimmers II",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "url": "https://artquemy.com/producto/bikini-swimmers-ii/"
+      }
+    ]
+  },
+  {
+    "fecha": "26/06/2026 15:24",
+    "artista": "Qwert",
+    "cambios_obras": [
+      {
+        "tipo": "vendida",
+        "titulo": "LiTTLe HaPPy famiLY",
+        "precio": "€2.300,00",
+        "precio_num": 2300.0,
+        "url": "https://artquemy.com/producto/little-happy-family/"
+      }
+    ]
+  },
+  {
+    "fecha": "26/06/2026 15:24",
+    "artista": "Urban Flowers",
+    "cambios_obras": [
+      {
+        "tipo": "nueva",
+        "titulo": "Flower meeting",
+        "precio": "€190,00",
+        "precio_num": 190.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/flower-meeting/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Out of the pipe",
+        "precio": "€190,00",
+        "precio_num": 190.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/out-of-the-pipe/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Wait ! The heart",
+        "precio": "€190,00",
+        "precio_num": 190.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/wait-the-heart/"
+      }
+    ]
   }
 ]
