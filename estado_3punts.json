@@ -1,5 +1,5 @@
 {
-  "__hash__": "7fd3b26875d4e5c7fe86f97b682d78fd",
+  "__hash__": "1e6b3c38f95a9bb009b34dcdca750c01",
   "obras": {
     "https://www.3punts.com/es/shop/artwork/untitled-alberto-fernandez-hurtado": {
       "titulo": "",
@@ -64,6 +64,14 @@
       "precio_num": 0.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/shell-alejandro-monge"
+    },
+    "https://www.3punts.com/es/shop/artwork/soho-alejandro-monge": {
+      "titulo": "",
+      "artista": "Alejandro Monge",
+      "precio": "Consultar precio",
+      "precio_num": 0.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/soho-alejandro-monge"
     },
     "https://www.3punts.com/es/shop/artwork/core-time-01-alejandro-monge": {
       "titulo": "",
@@ -1248,6 +1256,14 @@
       "precio_num": 4500.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/mirada-roja-dominika-berger"
+    },
+    "https://www.3punts.com/es/shop/artwork/territorios-sumergidos-dominika-berger": {
+      "titulo": "",
+      "artista": "Dominika Berger",
+      "precio": "5 200,00 €",
+      "precio_num": 5200.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/territorios-sumergidos-dominika-berger"
     },
     "https://www.3punts.com/es/shop/artwork/tongue-out-lady": {
       "titulo": "",
