@@ -6281,5 +6281,23 @@
     "precio_num": 0.0,
     "url": "https://www.3punts.com/es/shop/artwork/gerard-masdama-del-chicle",
     "fecha": "26/06/2026 15:28"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Alejandro Monge",
+    "precio": "Consultar precio",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/soho-alejandro-monge",
+    "fecha": "29/06/2026 18:19"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Dominika Berger",
+    "precio": "5 200,00 €",
+    "precio_num": 5200.0,
+    "url": "https://www.3punts.com/es/shop/artwork/territorios-sumergidos-dominika-berger",
+    "fecha": "29/06/2026 18:19"
   }
 ]
