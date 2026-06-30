@@ -6299,5 +6299,52 @@
     "precio_num": 5200.0,
     "url": "https://www.3punts.com/es/shop/artwork/territorios-sumergidos-dominika-berger",
     "fecha": "29/06/2026 18:19"
+  },
+  {
+    "tipo": "precio_cambiado",
+    "titulo": "",
+    "artista": "Costa Gorel",
+    "precio": "2 400,00 €",
+    "precio_num": 2400.0,
+    "precio_anterior": "1 800,00 €",
+    "url": "https://www.3punts.com/es/shop/artwork/venus-joplin",
+    "fecha": "30/06/2026 16:37"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Costa Gorel",
+    "precio": "3 300,00 €",
+    "precio_num": 3300.0,
+    "url": "https://www.3punts.com/es/shop/artwork/leda-hunter-costa-gorel",
+    "fecha": "30/06/2026 16:37"
+  },
+  {
+    "tipo": "precio_cambiado",
+    "titulo": "",
+    "artista": "Costa Gorel",
+    "precio": "4 200,00 €",
+    "precio_num": 4200.0,
+    "precio_anterior": "3 800,00 €",
+    "url": "https://www.3punts.com/es/shop/artwork/apocalipstick",
+    "fecha": "30/06/2026 16:37"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Costa Gorel",
+    "precio": "5 800,00 €",
+    "precio_num": 5800.0,
+    "url": "https://www.3punts.com/es/shop/artwork/dummertime-costa-gorel",
+    "fecha": "30/06/2026 16:37"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Costa Gorel",
+    "precio": "5 800,00 €",
+    "precio_num": 5800.0,
+    "url": "https://www.3punts.com/es/shop/artwork/splash-costa-gorel",
+    "fecha": "30/06/2026 16:37"
   }
 ]
