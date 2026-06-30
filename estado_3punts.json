@@ -1,5 +1,5 @@
 {
-  "__hash__": "1e6b3c38f95a9bb009b34dcdca750c01",
+  "__hash__": "d8ade6287999776a4f892d2a82198ddf",
   "obras": {
     "https://www.3punts.com/es/shop/artwork/untitled-alberto-fernandez-hurtado": {
       "titulo": "",
@@ -1188,18 +1188,42 @@
     "https://www.3punts.com/es/shop/artwork/venus-joplin": {
       "titulo": "",
       "artista": "Costa Gorel",
-      "precio": "1 800,00 €",
-      "precio_num": 1800.0,
+      "precio": "2 400,00 €",
+      "precio_num": 2400.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/venus-joplin"
+    },
+    "https://www.3punts.com/es/shop/artwork/leda-hunter-costa-gorel": {
+      "titulo": "",
+      "artista": "Costa Gorel",
+      "precio": "3 300,00 €",
+      "precio_num": 3300.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/leda-hunter-costa-gorel"
     },
     "https://www.3punts.com/es/shop/artwork/apocalipstick": {
       "titulo": "",
       "artista": "Costa Gorel",
-      "precio": "3 800,00 €",
-      "precio_num": 3800.0,
+      "precio": "4 200,00 €",
+      "precio_num": 4200.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/apocalipstick"
+    },
+    "https://www.3punts.com/es/shop/artwork/dummertime-costa-gorel": {
+      "titulo": "",
+      "artista": "Costa Gorel",
+      "precio": "5 800,00 €",
+      "precio_num": 5800.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/dummertime-costa-gorel"
+    },
+    "https://www.3punts.com/es/shop/artwork/splash-costa-gorel": {
+      "titulo": "",
+      "artista": "Costa Gorel",
+      "precio": "5 800,00 €",
+      "precio_num": 5800.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/splash-costa-gorel"
     },
     "https://www.3punts.com/es/shop/artwork/silent-ride-dface": {
       "titulo": "",
