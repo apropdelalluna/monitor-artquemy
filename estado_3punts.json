@@ -1,5 +1,5 @@
 {
-  "__hash__": "9c0d0f27916586ec70f12c6be30af3ec",
+  "__hash__": "1baabf7fbc2287fd7893f53b247ac9bd",
   "obras": {
     "https://www.3punts.com/es/shop/artwork/untitled-alberto-fernandez-hurtado": {
       "titulo": "",
@@ -3619,7 +3619,7 @@
     },
     "https://www.3punts.com/es/shop/artwork/caryatid-i-rogerio-timoteo": {
       "titulo": "",
-      "artista": "Rogério Timoteo",
+      "artista": "Rogério Timóteo",
       "precio": "4 500,00 €",
       "precio_num": 4500.0,
       "estado": "disponible",
@@ -3627,7 +3627,7 @@
     },
     "https://www.3punts.com/es/shop/artwork/cartayid-iii-rogerio-timoteo": {
       "titulo": "",
-      "artista": "Rogério Timoteo",
+      "artista": "Rogério Timóteo",
       "precio": "4 500,00 €",
       "precio_num": 4500.0,
       "estado": "disponible",
@@ -3635,7 +3635,7 @@
     },
     "https://www.3punts.com/es/shop/artwork/cartayid-ii-rogerio-timoteo": {
       "titulo": "",
-      "artista": "Rogério Timoteo",
+      "artista": "Rogério Timóteo",
       "precio": "4 500,00 €",
       "precio_num": 4500.0,
       "estado": "disponible",
@@ -3651,7 +3651,7 @@
     },
     "https://www.3punts.com/es/shop/artwork/suspended-rogerio-timoteo": {
       "titulo": "",
-      "artista": "Rogério Timoteo",
+      "artista": "Rogério Timóteo",
       "precio": "6 000,00 €",
       "precio_num": 6000.0,
       "estado": "disponible",
