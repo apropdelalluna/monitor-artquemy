@@ -11292,5 +11292,144 @@
         "url": "https://artquemy.com/producto/wait-the-heart/"
       }
     ]
+  },
+  {
+    "fecha": "01/07/2026 15:53",
+    "artista": "Erwtje",
+    "cambios_obras": [
+      {
+        "tipo": "nueva",
+        "titulo": "Patience",
+        "precio": "€220,00",
+        "precio_num": 220.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/patience/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Dont be ungrateful",
+        "precio": "€220,00",
+        "precio_num": 220.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/dont-be-ungrateful/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "The one his dead, is the other ones bread",
+        "precio": "€220,00",
+        "precio_num": 220.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/the-one-his-dead-is-the-other-ones-bread/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "When you open up your heart",
+        "precio": "€220,00",
+        "precio_num": 220.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/when-you-open-up-your-heart/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "It takes 2",
+        "precio": "€220,00",
+        "precio_num": 220.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/it-takes-2/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "The road to hell",
+        "precio": "€220,00",
+        "precio_num": 220.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/the-road-to-hell/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Smoke and mirrors",
+        "precio": "€220,00",
+        "precio_num": 220.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/smoke-and-mirrors/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Unequal friendship",
+        "precio": "€220,00",
+        "precio_num": 220.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/unequal-friendship/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Party Popper",
+        "precio": "€220,00",
+        "precio_num": 220.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/party-popper/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Equal",
+        "precio": "€220,00",
+        "precio_num": 220.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/equal/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "The night is uncertain",
+        "precio": "€220,00",
+        "precio_num": 220.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/the-night-is-uncertain/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "K.K.N.D",
+        "precio": "€220,00",
+        "precio_num": 220.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/k-k-n-d/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Uphill",
+        "precio": "€220,00",
+        "precio_num": 220.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/uphill/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Routine",
+        "precio": "€220,00",
+        "precio_num": 220.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/routine/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "The climb",
+        "precio": "€220,00",
+        "precio_num": 220.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/the-climb/"
+      }
+    ]
+  },
+  {
+    "fecha": "01/07/2026 15:53",
+    "artista": "Juncosa",
+    "cambios_obras": [
+      {
+        "tipo": "vendida",
+        "titulo": "Panot Gaudí – Lila II",
+        "precio": "€290,00",
+        "precio_num": 290.0,
+        "url": "https://artquemy.com/producto/panot-gaudi-lila-ii/"
+      }
+    ]
   }
 ]
