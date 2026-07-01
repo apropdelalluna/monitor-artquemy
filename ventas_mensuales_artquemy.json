@@ -6680,5 +6680,16 @@
       "tipo": "vendida",
       "url": "https://artquemy.com/producto/little-happy-family/"
     }
+  ],
+  "2026-07": [
+    {
+      "fecha": "01/07/2026 15:53",
+      "artista": "Juncosa",
+      "obra": "Panot Gaudí – Lila II",
+      "precio": "€290,00",
+      "precio_num": 290.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/panot-gaudi-lila-ii/"
+    }
   ]
 }
