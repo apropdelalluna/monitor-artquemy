@@ -11444,5 +11444,18 @@
         "url": "https://artquemy.com/producto/unequal-friendship/"
       }
     ]
+  },
+  {
+    "fecha": "02/07/2026 22:12",
+    "artista": "Erwtje",
+    "cambios_obras": [
+      {
+        "tipo": "vendida",
+        "titulo": "Red",
+        "precio": "€230,00",
+        "precio_num": 230.0,
+        "url": "https://artquemy.com/producto/red-2/"
+      }
+    ]
   }
 ]
