@@ -6690,6 +6690,15 @@
       "precio_num": 290.0,
       "tipo": "vendida",
       "url": "https://artquemy.com/producto/panot-gaudi-lila-ii/"
+    },
+    {
+      "fecha": "02/07/2026 22:12",
+      "artista": "Erwtje",
+      "obra": "Red",
+      "precio": "€230,00",
+      "precio_num": 230.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/red-2/"
     }
   ]
 }
