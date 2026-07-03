@@ -1,5 +1,5 @@
 {
-  "__hash__": "1baabf7fbc2287fd7893f53b247ac9bd",
+  "__hash__": "f4cf89f1eb32e19723d34921a90b4332",
   "obras": {
     "https://www.3punts.com/es/shop/artwork/untitled-alberto-fernandez-hurtado": {
       "titulo": "",
@@ -328,6 +328,14 @@
       "precio_num": 5600.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/uoap-16-alex-palli"
+    },
+    "https://www.3punts.com/es/shop/artwork/uoap-green-alex-palli-0": {
+      "titulo": "",
+      "artista": "Alex Pallí",
+      "precio": "4 600,00 €",
+      "precio_num": 4600.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/uoap-green-alex-palli-0"
     },
     "https://www.3punts.com/es/shop/artwork/black-braid-lantomo": {
       "titulo": "",
