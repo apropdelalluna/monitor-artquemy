@@ -1,5 +1,5 @@
 {
-  "__hash__": "f4cf89f1eb32e19723d34921a90b4332",
+  "__hash__": "78a9ae7682c156aca38bc1e3a1d0eb6f",
   "obras": {
     "https://www.3punts.com/es/shop/artwork/untitled-alberto-fernandez-hurtado": {
       "titulo": "",
@@ -2216,6 +2216,30 @@
       "precio_num": 9900.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/jose-cobo-child-crawling-turning-down"
+    },
+    "https://www.3punts.com/es/shop/artwork/caballo-jose-cobo": {
+      "titulo": "",
+      "artista": "José Cobo",
+      "precio": "Consultar precio",
+      "precio_num": 0.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/caballo-jose-cobo"
+    },
+    "https://www.3punts.com/es/shop/artwork/bisonte-jose-cobo": {
+      "titulo": "",
+      "artista": "José Cobo",
+      "precio": "Consultar precio",
+      "precio_num": 0.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/bisonte-jose-cobo"
+    },
+    "https://www.3punts.com/es/shop/artwork/cierva-jose-cobo": {
+      "titulo": "",
+      "artista": "José Cobo",
+      "precio": "Consultar precio",
+      "precio_num": 0.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/cierva-jose-cobo"
     },
     "https://www.3punts.com/es/shop/artwork/srsotorra": {
       "titulo": "",
