@@ -6355,5 +6355,32 @@
     "precio_num": 4600.0,
     "url": "https://www.3punts.com/es/shop/artwork/uoap-green-alex-palli-0",
     "fecha": "03/07/2026 14:34"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "José Cobo",
+    "precio": "Consultar precio",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/caballo-jose-cobo",
+    "fecha": "07/07/2026 18:12"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "José Cobo",
+    "precio": "Consultar precio",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/bisonte-jose-cobo",
+    "fecha": "07/07/2026 18:12"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "José Cobo",
+    "precio": "Consultar precio",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/cierva-jose-cobo",
+    "fecha": "07/07/2026 18:12"
   }
 ]
