@@ -11457,5 +11457,112 @@
         "url": "https://artquemy.com/producto/red-2/"
       }
     ]
+  },
+  {
+    "fecha": "09/07/2026 06:57",
+    "artista": "Alessia Innocenti",
+    "cambios_obras": [
+      {
+        "tipo": "vendida",
+        "titulo": "Floreciente",
+        "precio": "€50,00",
+        "precio_num": 50.0,
+        "url": "https://artquemy.com/producto/floreciente/"
+      }
+    ]
+  },
+  {
+    "fecha": "09/07/2026 06:57",
+    "artista": "Camil Escruela",
+    "cambios_obras": [
+      {
+        "tipo": "nueva",
+        "titulo": "Untitled IX",
+        "precio": "€200,00",
+        "precio_num": 200.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/untitled-ix-2/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Untitled XXXlll",
+        "precio": "€200,00",
+        "precio_num": 200.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/untitled-xxxlll/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Untitled XX",
+        "precio": "€200,00",
+        "precio_num": 200.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/untitled-xx/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Untitled XlX",
+        "precio": "€200,00",
+        "precio_num": 200.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/untitled-xlx/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Untitled XVlll",
+        "precio": "€200,00",
+        "precio_num": 200.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/untitled-xvlll/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Untitled XV",
+        "precio": "€200,00",
+        "precio_num": 200.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/untitled-xv/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Untitled Xl",
+        "precio": "€200,00",
+        "precio_num": 200.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/untitled-xl/"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "Untitled IX",
+        "precio": "~€200",
+        "precio_num": 200.0,
+        "precio_estimado": true,
+        "url": "https://artquemy.com/producto/untitled-ix/"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "Untitled Vll",
+        "precio": "~€200",
+        "precio_num": 200.0,
+        "precio_estimado": true,
+        "url": "https://artquemy.com/producto/untitled-vll/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Untitled V",
+        "precio": "€200,00",
+        "precio_num": 200.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/untitled-v/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Untitled Ill",
+        "precio": "€200,00",
+        "precio_num": 200.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/untitled-ill/"
+      }
+    ]
   }
 ]
