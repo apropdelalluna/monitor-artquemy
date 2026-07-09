@@ -6699,6 +6699,33 @@
       "precio_num": 230.0,
       "tipo": "vendida",
       "url": "https://artquemy.com/producto/red-2/"
+    },
+    {
+      "fecha": "09/07/2026 06:57",
+      "artista": "Alessia Innocenti",
+      "obra": "Floreciente",
+      "precio": "€50,00",
+      "precio_num": 50.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/floreciente/"
+    },
+    {
+      "fecha": "09/07/2026 06:57",
+      "artista": "Camil Escruela",
+      "obra": "Untitled IX",
+      "precio": "~€200",
+      "precio_num": 200.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/untitled-ix/"
+    },
+    {
+      "fecha": "09/07/2026 06:57",
+      "artista": "Camil Escruela",
+      "obra": "Untitled Vll",
+      "precio": "~€200",
+      "precio_num": 200.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/untitled-vll/"
     }
   ]
 }
