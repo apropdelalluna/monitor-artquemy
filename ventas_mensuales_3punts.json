@@ -1542,5 +1542,51 @@
       "url": "https://www.3punts.com/es/shop/artwork/idol-i"
     }
   ],
-  "2026-07": []
+  "2026-07": [
+    {
+      "fecha": "10/07/2026 18:25",
+      "artista": "Antonella Montes - LANTOMO",
+      "obra": "",
+      "precio": "10 500,00 €",
+      "precio_num": 10500.0,
+      "tipo": "vendida",
+      "url": "https://www.3punts.com/es/shop/artwork/expectation-lantomo"
+    },
+    {
+      "fecha": "10/07/2026 18:25",
+      "artista": "Antonella Montes - LANTOMO",
+      "obra": "",
+      "precio": "3 300,00 €",
+      "precio_num": 3300.0,
+      "tipo": "vendida",
+      "url": "https://www.3punts.com/es/shop/artwork/yellow-graffiti-lantomo"
+    },
+    {
+      "fecha": "10/07/2026 18:25",
+      "artista": "Antonella Montes - LANTOMO",
+      "obra": "",
+      "precio": "3 300,00 €",
+      "precio_num": 3300.0,
+      "tipo": "vendida",
+      "url": "https://www.3punts.com/es/shop/artwork/sprayed-l03-lantomo"
+    },
+    {
+      "fecha": "10/07/2026 18:25",
+      "artista": "Antonella Montes - LANTOMO",
+      "obra": "",
+      "precio": "1 300,00 €",
+      "precio_num": 1300.0,
+      "tipo": "vendida",
+      "url": "https://www.3punts.com/es/shop/artwork/eva-lantomo"
+    },
+    {
+      "fecha": "10/07/2026 18:25",
+      "artista": "Antonella Montes - LANTOMO",
+      "obra": "",
+      "precio": "3 300,00 €",
+      "precio_num": 3300.0,
+      "tipo": "vendida",
+      "url": "https://www.3punts.com/es/shop/artwork/black-graffiti-lantomo"
+    }
+  ]
 }
