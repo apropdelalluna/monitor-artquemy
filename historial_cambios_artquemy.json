@@ -11564,5 +11564,25 @@
         "url": "https://artquemy.com/producto/untitled-ill/"
       }
     ]
+  },
+  {
+    "fecha": "11/07/2026 18:46",
+    "artista": "Alessia Innocenti",
+    "cambios_obras": [
+      {
+        "tipo": "vendida",
+        "titulo": "Arpegios Florales Pastel III",
+        "precio": "€245,00",
+        "precio_num": 245.0,
+        "url": "https://artquemy.com/producto/arpegios-florales-pastel-iii/"
+      },
+      {
+        "tipo": "vendida",
+        "titulo": "Arpegios Pastel III",
+        "precio": "€245,00",
+        "precio_num": 245.0,
+        "url": "https://artquemy.com/producto/arpegios-pastel-iii/"
+      }
+    ]
   }
 ]
