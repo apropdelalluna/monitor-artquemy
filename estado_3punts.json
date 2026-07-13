@@ -1,5 +1,5 @@
 {
-  "__hash__": "56501411f7c45ffa57aa963ec5bf4147",
+  "__hash__": "c3963b98e0cac517177f5e9871bb2933",
   "obras": {
     "https://www.3punts.com/es/shop/artwork/untitled-alberto-fernandez-hurtado": {
       "titulo": "",
@@ -468,9 +468,9 @@
     "https://www.3punts.com/es/shop/artwork/expectation-lantomo": {
       "titulo": "",
       "artista": "Antonella Montes - LANTOMO",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
+      "precio": "10 500,00 €",
+      "precio_num": 10500.0,
+      "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/expectation-lantomo"
     },
     "https://www.3punts.com/es/shop/artwork/white-collar-2-lantomo": {
@@ -532,9 +532,9 @@
     "https://www.3punts.com/es/shop/artwork/yellow-graffiti-lantomo": {
       "titulo": "",
       "artista": "Antonella Montes - LANTOMO",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
+      "precio": "3 300,00 €",
+      "precio_num": 3300.0,
+      "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/yellow-graffiti-lantomo"
     },
     "https://www.3punts.com/es/shop/artwork/sprayed-l02-lantomo": {
@@ -548,9 +548,9 @@
     "https://www.3punts.com/es/shop/artwork/sprayed-l03-lantomo": {
       "titulo": "",
       "artista": "Antonella Montes - LANTOMO",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
+      "precio": "3 300,00 €",
+      "precio_num": 3300.0,
+      "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/sprayed-l03-lantomo"
     },
     "https://www.3punts.com/es/shop/artwork/blue-graffiti-lantomo": {
@@ -580,9 +580,9 @@
     "https://www.3punts.com/es/shop/artwork/eva-lantomo": {
       "titulo": "",
       "artista": "Antonella Montes - LANTOMO",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
+      "precio": "1 300,00 €",
+      "precio_num": 1300.0,
+      "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/eva-lantomo"
     },
     "https://www.3punts.com/es/shop/artwork/sprayed-vii-lantomo": {
@@ -612,10 +612,26 @@
     "https://www.3punts.com/es/shop/artwork/black-graffiti-lantomo": {
       "titulo": "",
       "artista": "Antonella Montes - LANTOMO",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
+      "precio": "3 300,00 €",
+      "precio_num": 3300.0,
+      "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/black-graffiti-lantomo"
+    },
+    "https://www.3punts.com/es/shop/artwork/punk-lantomo": {
+      "titulo": "",
+      "artista": "Antonella Montes - LANTOMO",
+      "precio": "3 300,00 €",
+      "precio_num": 3300.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/punk-lantomo"
+    },
+    "https://www.3punts.com/es/shop/artwork/jurji-lantomo": {
+      "titulo": "",
+      "artista": "Antonella Montes - LANTOMO",
+      "precio": "4 300,00 €",
+      "precio_num": 4300.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/jurji-lantomo"
     },
     "https://www.3punts.com/es/shop/artwork/space-buns-samurai-lantomo": {
       "titulo": "",
@@ -1516,9 +1532,9 @@
     "https://www.3punts.com/es/shop/artwork/gerard-masfrenchie": {
       "titulo": "",
       "artista": "Gerard Mas",
-      "precio": "4 800,00 €",
-      "precio_num": 4800.0,
-      "estado": "disponible",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "estado": "vendido",
       "url": "https://www.3punts.com/es/shop/artwork/gerard-masfrenchie"
     },
     "https://www.3punts.com/es/shop/artwork/hellenistic-fantasy-gerard-mas": {
