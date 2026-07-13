@@ -1587,6 +1587,15 @@
       "precio_num": 3300.0,
       "tipo": "vendida",
       "url": "https://www.3punts.com/es/shop/artwork/black-graffiti-lantomo"
+    },
+    {
+      "fecha": "13/07/2026 15:01",
+      "artista": "Gerard Mas",
+      "obra": "",
+      "precio": "4 800,00 €",
+      "precio_num": 4800.0,
+      "tipo": "vendida",
+      "url": "https://www.3punts.com/es/shop/artwork/gerard-masfrenchie"
     }
   ]
 }
