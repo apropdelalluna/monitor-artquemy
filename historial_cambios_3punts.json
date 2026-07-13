@@ -6445,5 +6445,77 @@
     "precio_num": 3300.0,
     "url": "https://www.3punts.com/es/shop/artwork/lantomo-punk",
     "fecha": "10/07/2026 18:25"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Antonella Montes - LANTOMO",
+    "precio": "10 500,00 €",
+    "precio_num": 10500.0,
+    "url": "https://www.3punts.com/es/shop/artwork/expectation-lantomo",
+    "fecha": "13/07/2026 15:01"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Antonella Montes - LANTOMO",
+    "precio": "3 300,00 €",
+    "precio_num": 3300.0,
+    "url": "https://www.3punts.com/es/shop/artwork/yellow-graffiti-lantomo",
+    "fecha": "13/07/2026 15:01"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Antonella Montes - LANTOMO",
+    "precio": "3 300,00 €",
+    "precio_num": 3300.0,
+    "url": "https://www.3punts.com/es/shop/artwork/sprayed-l03-lantomo",
+    "fecha": "13/07/2026 15:01"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Antonella Montes - LANTOMO",
+    "precio": "1 300,00 €",
+    "precio_num": 1300.0,
+    "url": "https://www.3punts.com/es/shop/artwork/eva-lantomo",
+    "fecha": "13/07/2026 15:01"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Antonella Montes - LANTOMO",
+    "precio": "3 300,00 €",
+    "precio_num": 3300.0,
+    "url": "https://www.3punts.com/es/shop/artwork/black-graffiti-lantomo",
+    "fecha": "13/07/2026 15:01"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Antonella Montes - LANTOMO",
+    "precio": "3 300,00 €",
+    "precio_num": 3300.0,
+    "url": "https://www.3punts.com/es/shop/artwork/punk-lantomo",
+    "fecha": "13/07/2026 15:01"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Antonella Montes - LANTOMO",
+    "precio": "4 300,00 €",
+    "precio_num": 4300.0,
+    "url": "https://www.3punts.com/es/shop/artwork/jurji-lantomo",
+    "fecha": "13/07/2026 15:01"
+  },
+  {
+    "tipo": "vendida",
+    "titulo": "",
+    "artista": "Gerard Mas",
+    "precio": "4 800,00 €",
+    "precio_num": 4800.0,
+    "url": "https://www.3punts.com/es/shop/artwork/gerard-masfrenchie",
+    "fecha": "13/07/2026 15:01"
   }
 ]
