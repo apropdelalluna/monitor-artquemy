@@ -6744,6 +6744,15 @@
       "precio_num": 245.0,
       "tipo": "vendida",
       "url": "https://artquemy.com/producto/arpegios-pastel-iii/"
+    },
+    {
+      "fecha": "15/07/2026 18:00",
+      "artista": "Luz Marie Iturbe",
+      "obra": "Recursos",
+      "precio": "€90,00",
+      "precio_num": 90.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/recursos/"
     }
   ]
 }
