@@ -1506,8 +1506,25 @@ def tp_extraer_obras(soup: BeautifulSoup) -> dict:
         artista = artista_el.get_text(strip=True) if artista_el else ""
 
         # Título
-        titulo_el = row.select_one("div.views-field-title-1 a")
+        # Intento 1: selector histórico (puede haber cambiado de nombre en el tema)
+        titulo_el = row.select_one("div.views-field-title-1 a") or row.select_one("[class*='views-field-title'] a")
         titulo = titulo_el.get_text(strip=True) if titulo_el else ""
+
+        # Intento 2 (fallback robusto): entre todos los <a> del row que apuntan
+        # a la URL de la obra, el título es el que tiene texto y no coincide
+        # con el nombre del artista (descarta el enlace de la imagen, que no
+        # tiene texto, y el enlace del nombre del artista).
+        if not titulo:
+            href_relativo = url_obra.replace("https://www.3punts.com", "")
+            for a in row.find_all("a", href=True):
+                href_a = a["href"]
+                if href_a not in (url_obra, href_relativo):
+                    continue
+                texto_a = a.get_text(strip=True)
+                if texto_a and texto_a != artista:
+                    titulo = texto_a
+                    break
+
         # Limpiar la fecha del título (viene como "TÍTULO, 2024")
         if ", " in titulo:
             partes = titulo.rsplit(", ", 1)
