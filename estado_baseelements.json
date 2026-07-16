@@ -1230,187 +1230,187 @@
     }
   },
   "Btoy": {
-    "hash": "a1ee6d9d4ae2cbc97c755a640511e02e",
-    "texto": "CANVAS Btoy\n(4)\nPAPER Btoy\n(14)",
+    "hash": "f0f7538aed210dccb3b04795ae5da6cb",
+    "texto": "{\"https://www.baseelements.net/shop/btoy/canvas-btoy/100-x-100-cm-btoy-2/\": {\"artista\": \"Btoy\", \"estado\": \"disponible\", \"precio\": \"22,00€\", \"precio_num\": 22.0, \"titulo\": \"100 x 100 cm (Btoy-2)\", \"url\": \"https://www.baseelements.net/shop/btoy/canvas-btoy/100-x-100-cm-btoy-2/\"}, \"https://www.baseelements.net/shop/btoy/canvas-btoy/146-x-114-cm-btoy-1/\": {\"artista\": \"Btoy\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/btoy/canvas-btoy/146-x-114-cm-btoy-1/\"}, \"https://www.baseelements.net/shop/btoy/canvas-btoy/40-x-50-cm-btoy-4/\": {\"artista\": \"Btoy\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/btoy/canvas-btoy/40-x-50-cm-btoy-4/\"}, \"https://www.baseelements.net/shop/btoy/canvas-btoy/95-x-130-cm-btoy-3/\": {\"artista\": \"Btoy\", \"estado\": \"disponible\", \"precio\": \"25,00€\", \"precio_num\": 25.0, \"titulo\": \"95 x 130 cm (Btoy-3)\", \"url\": \"https://www.baseelements.net/shop/btoy/canvas-btoy/95-x-130-cm-btoy-3/\"}, \"https://www.baseelements.net/shop/btoy/paper-btoy/100-x-70-cm-btoy-p14/\": {\"artista\": \"Btoy\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/btoy/paper-btoy/100-x-70-cm-btoy-p14/\"}, \"https://www.baseelements.net/shop/btoy/paper-btoy/100-x-70-cm-btoy-p15/\": {\"artista\": \"Btoy\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/btoy/paper-btoy/100-x-70-cm-btoy-p15/\"}, \"https://www.baseelements.net/shop/btoy/paper-btoy/40-x-50-btoy-p4/\": {\"artista\": \"Btoy\", \"estado\": \"disponible\", \"precio\": \"3,50€\", \"precio_num\": 3.5, \"titulo\": \"40 x 50 (BTOY-P4)\", \"url\": \"https://www.baseelements.net/shop/btoy/paper-btoy/40-x-50-btoy-p4/\"}, \"https://www.baseelements.net/shop/btoy/paper-btoy/40-x-50-cm-btoy-p1/\": {\"artista\": \"Btoy\", \"estado\": \"disponible\", \"precio\": \"3,50€\", \"precio_num\": 3.5, \"titulo\": \"40 x 50 cm (BTOY-P1)\", \"url\": \"https://www.baseelements.net/shop/btoy/paper-btoy/40-x-50-cm-btoy-p1/\"}, \"https://www.baseelements.net/shop/btoy/paper-btoy/40-x-50-cm-btoy-p10/\": {\"artista\": \"Btoy\", \"estado\": \"disponible\", \"precio\": \"3,75€\", \"precio_num\": 3.75, \"titulo\": \"40 x 50 cm (BTOY-P10)\", \"url\": \"https://www.baseelements.net/shop/btoy/paper-btoy/40-x-50-cm-btoy-p10/\"}, \"https://www.baseelements.net/shop/btoy/paper-btoy/40-x-50-cm-btoy-p13/\": {\"artista\": \"Btoy\", \"estado\": \"disponible\", \"precio\": \"3,75€\", \"precio_num\": 3.75, \"titulo\": \"40 x 50 cm (BTOY-P13)\", \"url\": \"https://www.baseelements.net/shop/btoy/paper-btoy/40-x-50-cm-btoy-p13/\"}, \"https://www.baseelements.net/shop/btoy/paper-btoy/40-x-50-cm-btoy-p5/\": {\"artista\": \"Btoy\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/btoy/paper-btoy/40-x-50-cm-btoy-p5/\"}, \"https://www.baseelements.net/shop/btoy/paper-btoy/50-x-65-cm-btoy-p9/\": {\"artista\": \"Btoy\", \"estado\": \"disponible\", \"precio\": \"5,50€\", \"precio_num\": 5.5, \"titulo\": \"50 x 65 cm (BTOY-P9)\", \"url\": \"https://www.baseelements.net/shop/btoy/paper-btoy/50-x-65-cm-btoy-p9/\"}, \"https://www.baseelements.net/shop/btoy/paper-btoy/69-x-56-cm-btoy-p19/\": {\"artista\": \"Btoy\", \"estado\": \"disponible\", \"precio\": \"2,20€\", \"precio_num\": 2.2, \"titulo\": \"69 x 56 cm (Btoy-P19)\", \"url\": \"https://www.baseelements.net/shop/btoy/paper-btoy/69-x-56-cm-btoy-p19/\"}, \"https://www.baseelements.net/shop/btoy/paper-btoy/70-x-50-cm-btoy-p16/\": {\"artista\": \"Btoy\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/btoy/paper-btoy/70-x-50-cm-btoy-p16/\"}, \"https://www.baseelements.net/shop/btoy/paper-btoy/70-x-50-cm-btoy-p18/\": {\"artista\": \"Btoy\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/btoy/paper-btoy/70-x-50-cm-btoy-p18/\"}, \"https://www.baseelements.net/shop/btoy/paper-btoy/71-x-100-cm-btoy-p8/\": {\"artista\": \"Btoy\", \"estado\": \"disponible\", \"precio\": \"10,00€\", \"precio_num\": 10.0, \"titulo\": \"71 x 100 cm (BTOY-P8)\", \"url\": \"https://www.baseelements.net/shop/btoy/paper-btoy/71-x-100-cm-btoy-p8/\"}, \"https://www.baseelements.net/shop/btoy/paper-btoy/76-x-56-cm-btoy-p7/\": {\"artista\": \"Btoy\", \"estado\": \"disponible\", \"precio\": \"12,00€\", \"precio_num\": 12.0, \"titulo\": \"76 x 56 cm (BTOY-P7)\", \"url\": \"https://www.baseelements.net/shop/btoy/paper-btoy/76-x-56-cm-btoy-p7/\"}, \"https://www.baseelements.net/shop/btoy/paper-btoy/765-x-57-cm-btoy-p6/\": {\"artista\": \"Btoy\", \"estado\": \"disponible\", \"precio\": \"12,00€\", \"precio_num\": 12.0, \"titulo\": \"76,5 x 57 cm (BTOY-P6)\", \"url\": \"https://www.baseelements.net/shop/btoy/paper-btoy/765-x-57-cm-btoy-p6/\"}}",
     "obras": {
       "https://www.baseelements.net/shop/btoy/paper-btoy/69-x-56-cm-btoy-p19/": {
         "titulo": "69 x 56 cm (Btoy-P19)",
-        "precio": "€220",
-        "precio_num": 220.0,
+        "precio": "2,20€",
+        "precio_num": 2.2,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/btoy/paper-btoy/69-x-56-cm-btoy-p19/",
         "artista": "Btoy"
       },
       "https://www.baseelements.net/shop/btoy/paper-btoy/70-x-50-cm-btoy-p18/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/btoy/paper-btoy/70-x-50-cm-btoy-p18/",
         "artista": "Btoy"
       },
       "https://www.baseelements.net/shop/btoy/paper-btoy/70-x-50-cm-btoy-p16/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/btoy/paper-btoy/70-x-50-cm-btoy-p16/",
         "artista": "Btoy"
       },
       "https://www.baseelements.net/shop/btoy/paper-btoy/100-x-70-cm-btoy-p15/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/btoy/paper-btoy/100-x-70-cm-btoy-p15/",
         "artista": "Btoy"
       },
       "https://www.baseelements.net/shop/btoy/paper-btoy/100-x-70-cm-btoy-p14/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/btoy/paper-btoy/100-x-70-cm-btoy-p14/",
         "artista": "Btoy"
       },
       "https://www.baseelements.net/shop/btoy/canvas-btoy/40-x-50-cm-btoy-4/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/btoy/canvas-btoy/40-x-50-cm-btoy-4/",
         "artista": "Btoy"
       },
       "https://www.baseelements.net/shop/btoy/paper-btoy/40-x-50-cm-btoy-p13/": {
         "titulo": "40 x 50 cm (BTOY-P13)",
-        "precio": "€375",
-        "precio_num": 375.0,
+        "precio": "3,75€",
+        "precio_num": 3.75,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/btoy/paper-btoy/40-x-50-cm-btoy-p13/",
         "artista": "Btoy"
       },
       "https://www.baseelements.net/shop/btoy/paper-btoy/40-x-50-cm-btoy-p10/": {
         "titulo": "40 x 50 cm (BTOY-P10)",
-        "precio": "€375",
-        "precio_num": 375.0,
+        "precio": "3,75€",
+        "precio_num": 3.75,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/btoy/paper-btoy/40-x-50-cm-btoy-p10/",
         "artista": "Btoy"
       },
       "https://www.baseelements.net/shop/btoy/paper-btoy/50-x-65-cm-btoy-p9/": {
         "titulo": "50 x 65 cm (BTOY-P9)",
-        "precio": "€550",
-        "precio_num": 550.0,
+        "precio": "5,50€",
+        "precio_num": 5.5,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/btoy/paper-btoy/50-x-65-cm-btoy-p9/",
         "artista": "Btoy"
       },
       "https://www.baseelements.net/shop/btoy/paper-btoy/71-x-100-cm-btoy-p8/": {
         "titulo": "71 x 100 cm (BTOY-P8)",
-        "precio": "€1,000",
-        "precio_num": 1.0,
+        "precio": "10,00€",
+        "precio_num": 10.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/btoy/paper-btoy/71-x-100-cm-btoy-p8/",
         "artista": "Btoy"
       },
       "https://www.baseelements.net/shop/btoy/paper-btoy/76-x-56-cm-btoy-p7/": {
         "titulo": "76 x 56 cm (BTOY-P7)",
-        "precio": "€1,200",
-        "precio_num": 1.2,
+        "precio": "12,00€",
+        "precio_num": 12.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/btoy/paper-btoy/76-x-56-cm-btoy-p7/",
         "artista": "Btoy"
       },
       "https://www.baseelements.net/shop/btoy/paper-btoy/765-x-57-cm-btoy-p6/": {
         "titulo": "76,5 x 57 cm (BTOY-P6)",
-        "precio": "€1,200",
-        "precio_num": 1.2,
+        "precio": "12,00€",
+        "precio_num": 12.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/btoy/paper-btoy/765-x-57-cm-btoy-p6/",
         "artista": "Btoy"
       },
       "https://www.baseelements.net/shop/btoy/canvas-btoy/95-x-130-cm-btoy-3/": {
         "titulo": "95 x 130 cm (Btoy-3)",
-        "precio": "€2,500",
-        "precio_num": 2.5,
+        "precio": "25,00€",
+        "precio_num": 25.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/btoy/canvas-btoy/95-x-130-cm-btoy-3/",
         "artista": "Btoy"
       },
       "https://www.baseelements.net/shop/btoy/paper-btoy/40-x-50-cm-btoy-p5/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/btoy/paper-btoy/40-x-50-cm-btoy-p5/",
         "artista": "Btoy"
       },
       "https://www.baseelements.net/shop/btoy/paper-btoy/40-x-50-btoy-p4/": {
         "titulo": "40 x 50 (BTOY-P4)",
-        "precio": "€350",
-        "precio_num": 350.0,
+        "precio": "3,50€",
+        "precio_num": 3.5,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/btoy/paper-btoy/40-x-50-btoy-p4/",
         "artista": "Btoy"
       },
       "https://www.baseelements.net/shop/btoy/paper-btoy/40-x-50-cm-btoy-p1/": {
         "titulo": "40 x 50 cm (BTOY-P1)",
-        "precio": "€350",
-        "precio_num": 350.0,
+        "precio": "3,50€",
+        "precio_num": 3.5,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/btoy/paper-btoy/40-x-50-cm-btoy-p1/",
         "artista": "Btoy"
       },
       "https://www.baseelements.net/shop/btoy/canvas-btoy/100-x-100-cm-btoy-2/": {
         "titulo": "100 x 100 cm (Btoy-2)",
-        "precio": "€2,200",
-        "precio_num": 2.2,
+        "precio": "22,00€",
+        "precio_num": 22.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/btoy/canvas-btoy/100-x-100-cm-btoy-2/",
         "artista": "Btoy"
       },
       "https://www.baseelements.net/shop/btoy/canvas-btoy/146-x-114-cm-btoy-1/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/btoy/canvas-btoy/146-x-114-cm-btoy-1/",
         "artista": "Btoy"
       }
     }
   },
   "Kram": {
-    "hash": "e3b6a86b383a407dd1f9b7413a4d0676",
-    "texto": "CANVAS Kram\n(4)",
+    "hash": "e5e6350b5b77dfbca32b87f13e7de20e",
+    "texto": "{\"https://www.baseelements.net/shop/kram/canvas-kram/100-x-100-cm-kram-03/\": {\"artista\": \"Kram\", \"estado\": \"disponible\", \"precio\": \"40,00€\", \"precio_num\": 40.0, \"titulo\": \"100 x 100 cm (Kram -03)\", \"url\": \"https://www.baseelements.net/shop/kram/canvas-kram/100-x-100-cm-kram-03/\"}, \"https://www.baseelements.net/shop/kram/canvas-kram/70-x-107-cm-kram-02/\": {\"artista\": \"Kram\", \"estado\": \"disponible\", \"precio\": \"30,00€\", \"precio_num\": 30.0, \"titulo\": \"107 x 70 cm (Kram -02)\", \"url\": \"https://www.baseelements.net/shop/kram/canvas-kram/70-x-107-cm-kram-02/\"}, \"https://www.baseelements.net/shop/kram/canvas-kram/97-x-110-cm-kram-01/\": {\"artista\": \"Kram\", \"estado\": \"disponible\", \"precio\": \"40,00€\", \"precio_num\": 40.0, \"titulo\": \"110 x 97 cm (Kram -01)\", \"url\": \"https://www.baseelements.net/shop/kram/canvas-kram/97-x-110-cm-kram-01/\"}, \"https://www.baseelements.net/shop/kram/canvas-kram/97-x-130-cm-kram-04/\": {\"artista\": \"Kram\", \"estado\": \"disponible\", \"precio\": \"47,00€\", \"precio_num\": 47.0, \"titulo\": \"130 x 97 cm (Kram -04)\", \"url\": \"https://www.baseelements.net/shop/kram/canvas-kram/97-x-130-cm-kram-04/\"}}",
     "obras": {
       "https://www.baseelements.net/shop/kram/canvas-kram/97-x-130-cm-kram-04/": {
         "titulo": "130 x 97 cm (Kram -04)",
-        "precio": "€4,700",
-        "precio_num": 4.7,
+        "precio": "47,00€",
+        "precio_num": 47.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/kram/canvas-kram/97-x-130-cm-kram-04/",
         "artista": "Kram"
       },
       "https://www.baseelements.net/shop/kram/canvas-kram/100-x-100-cm-kram-03/": {
         "titulo": "100 x 100 cm (Kram -03)",
-        "precio": "€4,000",
-        "precio_num": 4.0,
+        "precio": "40,00€",
+        "precio_num": 40.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/kram/canvas-kram/100-x-100-cm-kram-03/",
         "artista": "Kram"
       },
       "https://www.baseelements.net/shop/kram/canvas-kram/70-x-107-cm-kram-02/": {
         "titulo": "107 x 70 cm (Kram -02)",
-        "precio": "€3,000",
-        "precio_num": 3.0,
+        "precio": "30,00€",
+        "precio_num": 30.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/kram/canvas-kram/70-x-107-cm-kram-02/",
         "artista": "Kram"
       },
       "https://www.baseelements.net/shop/kram/canvas-kram/97-x-110-cm-kram-01/": {
         "titulo": "110 x 97 cm (Kram -01)",
-        "precio": "€4,000",
-        "precio_num": 4.0,
+        "precio": "40,00€",
+        "precio_num": 40.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/kram/canvas-kram/97-x-110-cm-kram-01/",
         "artista": "Kram"
@@ -1418,233 +1418,233 @@
     }
   },
   "Pres Fusion": {
-    "hash": "a9872b38354f22b520fb416bee6e398d",
-    "texto": "We ship everywhere\nHOME\nABOUT\nSHOP\nALL ARTISTS\nCURATED LIMITED EDITIONS\nCURATOR’S SELECTION\nURBAN OBJECT ART\nEL PEZ\nURIGINAL\nBTOY\nKRAM\nPRES FUSION\nIVANA FLORES\nJ LOCA\nSOEM\nJULIAN LORENZO\nJOAN TARRAGÓ\nZOSEN\nBNS\nMORCKY\nKONAIR\nILIA MAYER\nVIC\nGASTÓN SANMIGUEL\nJUSTIN CASE\nSARA LEÓN\nGUEST ARTISTS\nREALITY IS OVERRATED COLLECTION\nAVANT-GROOVE COLLECTION\nARTISTS\nBLOG\nCONTACT\n0\nHome\n/\nSHOP\n/\nPRES FUSION\nPRES FUSION\nNo products were found matching your selection.\nINFO\nCarrer d'Avinyó, 31\n08002 Barcelona\nTel. +34 931 64 47 72\nEmail:\ninfo@baseelements.net\nSTORE SCHEDULE\nMonday - Saturday\n11:00 AM - 2:00 PM\n3:30 PM -  9:00 PM\nSUBSCRIBE TO OUR NEWSLETTER\nFirst Name:\nE-mail:\nLeave this field empty if you're human:\nHOME\nABOUT\nSHOP\nALL ARTISTS\nCURATED LIMITED EDITIONS\nCURATOR’S SELECTION\nURBAN OBJECT ART\nEL PEZ\nURIGINAL\nBTOY\nKRAM\nPRES FUSION\nIVANA FLORES\nJ LOCA\nSOEM\nJULIAN LORENZO\nJOAN TARRAGÓ\nZOSEN\nBNS\nMORCKY\nKONAIR\nILIA MAYER\nVIC\nGASTÓN SANMIGUEL\nJUSTIN CASE\nSARA LEÓN\nGUEST ARTISTS\nREALITY IS OVERRATED COLLECTION\nAVANT-GROOVE COLLECTION\nARTISTS\nBLOG\nCONTACT\nARTISTS ARTWORKS\nSelect a category\nCURATED LIMITED EDITIONS\nCURATOR’S SELECTION\nURBAN OBJECT ART\nURIGINAL\nCANVAS Uriginal\nPAPER Uriginal\nLIMITED EDITIONS Dadara\nEL PEZ\nCANVAS El Pez\nPAPER El Pez\nSCULPTURE El Pez\nJOAN TARRAGÓ\nCANVAS Joan Tarragó\nPAPER Joan Tarragó\nLIMITED EDITIONS Joan Tarragó\nIVANA FLORES\nCANVAS Ivana Flores\nPAPER Ivana Flores\nLIMITED EDITIONS Ivana Flores\nBTOY\nCANVAS Btoy\nPAPER Btoy\nSOEM\nCANVAS Soem\nPAPER Soem\nJULIÁN LORENZO\nCANVAS Julián Lorenzo\nPAPER Julián Lorenzo\nLIMITED EDITIONS Julián Lorenzo\nJ.LOCA\nCANVAS J.Loca\nPAPER J.Loca\nPHEN\nCANVAS Phen\nPAPER Phen\nMORCKY\nCANVAS Morcky\nPAPER Morcky\nKONAIR\nCANVAS Konair\nPAPER Konair\nILIA MAYER\nPAPER Ilia Mayer\nVIC\nKRAM\nCANVAS Kram\nPAPER Cane\nZOSEN\nCANVAS Zosen\nPAPER Zosen\nLIMITED EDITIONS Zosen\nPRES FUSION\nBNS\nCANVAS Bns\nPAPER Deih\nGASTÓN SANMIGUEL\nART OBJECT Gastón Sanmiguel\nPAINTINGS Gastón Sanmiguel\nSARA LEÓN\nJUSTIN CASE\nGUEST ARTISTS\nSLOMO\nCANVAS Slomo\nLIMITED EDITIONS Slomo\nKAMIEL PROOST\nCANVAS Kamiel Proost\nPAPER Kamiel Proost\nSAM GRANT\nNEVENKART\nCHICADANIA\nOLAFTONE\nREALITY IS OVERRATED Collection\nTHE AVANT-GROOVE COLLECTION\nALL\nPAINTING TAGS\nart gallery barcelona\nbarcelona\nbarcelona art gallery\nbarcelona art scene\nbarcelona street art\nbarcelona urban art\nbarcelona urban art gallery\nbase elements\nbase elements art gallery barcelona\nbase elements gallery\nbase elements gallery barcelona\nbase elements urban art gallery\nbase elements urban contemporary art gallery\nbuy el pez\nbuy ivana flores painting\nbuy street art\nbuy street art barcelona\ncontemporary art\nel pez\nel pez art\nel pez painting\nfine art\nGRAFFITI\ngraffiti art\ngraffiti artist\ngraffiti artist barcelona\nivana flores\nivana flores art\nj loca\nlimited edition\npop surrealism\npop surrealism barcelona\npsychedelic art\nrave art\nrecycled art\nSTREET ART\nstreet art barcelona\nstreet art gallery\nstreet art gallery barcelona\nundergraund street art\nURBAN\nURBAN ART\nUrban Art Gallery\nurban art gallery barcelona\nurban object art\nSearch Paintings\nSearch for:\nSearch\nCart\nSearch for:\nSearch\nBase Elements",
+    "hash": "f0be5d439b87150d950d491b8cd461b4",
+    "texto": "We ship everywhere\nHOME\nABOUT\nSHOP\nALL ARTISTS\nCURATED LIMITED EDITIONS\nCURATOR’S SELECTION\nURBAN OBJECT ART\nEL PEZ\nURIGINAL\nBTOY\nKRAM\nPRES FUSION\nIVANA FLORES\nJ LOCA\nSOEM\nJULIAN LORENZO\nJOAN TARRAGÓ\nZOSEN\nBNS\nMORCKY\nKONAIR\nILIA MAYER\nVIC\nGASTÓN SANMIGUEL\nJUSTIN CASE\nSARA LEÓN\nGUEST ARTISTS\nREALITY IS OVERRATED COLLECTION\nAVANT-GROOVE COLLECTION\nARTISTS\nBLOG\nCONTACT\n0\nHome\n/\nSHOP\n/\nPRES FUSION\nPRES FUSION\nNo products were found matching your selection.\nINFO\nCarrer d'Avinyó, 31\n08002 Barcelona\nTel. +34 931 64 47 72\nEmail:\ninfo@baseelements.net\nSTORE SCHEDULE\nMonday - Saturday\n11:00 AM - 2:00 PM\n3:30 PM -  9:00 PM\nSUBSCRIBE TO OUR NEWSLETTER\nFirst Name:\nE-mail:\nLeave this field empty if you're human:\nHOME\nABOUT\nSHOP\nALL ARTISTS\nCURATED LIMITED EDITIONS\nCURATOR’S SELECTION\nURBAN OBJECT ART\nEL PEZ\nURIGINAL\nBTOY\nKRAM\nPRES FUSION\nIVANA FLORES\nJ LOCA\nSOEM\nJULIAN LORENZO\nJOAN TARRAGÓ\nZOSEN\nBNS\nMORCKY\nKONAIR\nILIA MAYER\nVIC\nGASTÓN SANMIGUEL\nJUSTIN CASE\nSARA LEÓN\nGUEST ARTISTS\nREALITY IS OVERRATED COLLECTION\nAVANT-GROOVE COLLECTION\nARTISTS\nBLOG\nCONTACT\nARTISTS ARTWORKS\nSelect a category\nCURATED LIMITED EDITIONS\nCURATOR’S SELECTION\nURBAN OBJECT ART\nURIGINAL\nCANVAS Uriginal\nPAPER Uriginal\nLIMITED EDITIONS Dadara\nEL PEZ\nCANVAS El Pez\nPAPER El Pez\nSCULPTURE El Pez\nJOAN TARRAGÓ\nCANVAS Joan Tarragó\nPAPER Joan Tarragó\nLIMITED EDITIONS Joan Tarragó\nIVANA FLORES\nCANVAS Ivana Flores\nPAPER Ivana Flores\nLIMITED EDITIONS Ivana Flores\nBTOY\nCANVAS Btoy\nPAPER Btoy\nSOEM\nCANVAS Soem\nPAPER Soem\nJULIÁN LORENZO\nCANVAS Julián Lorenzo\nPAPER Julián Lorenzo\nLIMITED EDITIONS Julián Lorenzo\nJ.LOCA\nCANVAS J.Loca\nPAPER J.Loca\nPHEN\nCANVAS Phen\nPAPER Phen\nMORCKY\nCANVAS Morcky\nPAPER Morcky\nKONAIR\nCANVAS Konair\nPAPER Konair\nILIA MAYER\nPAPER Ilia Mayer\nVIC\nKRAM\nCANVAS Kram\nPAPER Cane\nZOSEN\nCANVAS Zosen\nPAPER Zosen\nLIMITED EDITIONS Zosen\nPRES FUSION\nBNS\nCANVAS Bns\nPAPER Deih\nGASTÓN SANMIGUEL\nPAINTINGS Gastón Sanmiguel\nART OBJECT Gastón Sanmiguel\nSARA LEÓN\nJUSTIN CASE\nGUEST ARTISTS\nSLOMO\nCANVAS Slomo\nLIMITED EDITIONS Slomo\nKAMIEL PROOST\nCANVAS Kamiel Proost\nPAPER Kamiel Proost\nSAM GRANT\nNEVENKART\nCHICADANIA\nOLAFTONE\nREALITY IS OVERRATED Collection\nTHE AVANT-GROOVE COLLECTION\nALL\nPAINTING TAGS\nart gallery barcelona\nbarcelona\nbarcelona art gallery\nbarcelona art scene\nbarcelona street art\nbarcelona urban art\nbarcelona urban art gallery\nbase elements\nbase elements art gallery barcelona\nbase elements gallery\nbase elements gallery barcelona\nbase elements urban art gallery\nbase elements urban contemporary art gallery\nbuy el pez\nbuy ivana flores painting\nbuy street art\nbuy street art barcelona\ncontemporary art\nel pez\nel pez art\nel pez painting\nfine art\nGRAFFITI\ngraffiti art\ngraffiti artist\ngraffiti artist barcelona\nivana flores\nivana flores art\nj loca\nlimited edition\npop surrealism\npop surrealism barcelona\npsychedelic art\nrave art\nrecycled art\nSTREET ART\nstreet art barcelona\nstreet art gallery\nstreet art gallery barcelona\nundergraund street art\nURBAN\nURBAN ART\nUrban Art Gallery\nurban art gallery barcelona\nurban object art\nSearch Paintings\nSearch for:\nSearch\nCart\nSearch for:\nSearch\nBase Elements",
     "obras": {}
   },
   "Ivana Flores": {
-    "hash": "8d11289001ea162fddbbc5b550d7831c",
-    "texto": "CANVAS Ivana Flores\n(27)\nPAPER Ivana Flores\n(8)\nLIMITED EDITIONS Ivana Flores\n(13)\n200 x 200 cm (Ivana Flores-11)\nRead more\n20 x 81 cm (Ivana Flores-10)\n€\n950\nAdd to cart\nSOLD\nRead more\n20 x 26 cm (Ivana Flores-8)\n€\n350\nAdd to cart\nSOLD\nRead more\n25 × 25 cm (Ivana Flores P-3)\n€\n290\nAdd to cart\n34 x 34 cm (Ivana Flores LE-7)\n€\n90\nAdd to cart\n34 × 34 cm (Ivana Flores LE-6)\n€\n90\nAdd to cart\n42 x 42 cm (Ivana Flores LE-5)\n€\n150\nAdd to cart\n30 × 30 cm (Ivana Flores LE-4)\n€\n90\nAdd to cart\n34 × 34 cm (Ivana Flores LE-3)\n€\n90\nAdd to cart\nSOLD\nRead more\nSOLD\nRead more\nSOLD\nRead more\n200 x 200 cm (Ivana Flores-5)\nRead more\nSOLD\nRead more\nSOLD\nRead more\nSOLD\nRead more\n34 x 34 cm (Ivana Flores LE-2)\n€\n90\nAdd to cart\n34 x 34 cm (Ivana Flores LE-1)\n€\n90\nAdd to cart\nSOLD\nRead more",
+    "hash": "0a60252411f7b8f342b042697ccf0a53",
+    "texto": "{\"https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/111-x-178-cm-ivana-flores-19/\": {\"artista\": \"Ivana Flores\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/111-x-178-cm-ivana-flores-19/\"}, \"https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/20-x-26-cm-ivana-flores-7/\": {\"artista\": \"Ivana Flores\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/20-x-26-cm-ivana-flores-7/\"}, \"https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/20-x-26-cm-ivana-flores-8/\": {\"artista\": \"Ivana Flores\", \"estado\": \"disponible\", \"precio\": \"3,50€\", \"precio_num\": 3.5, \"titulo\": \"20 x 26 cm (Ivana Flores-8)\", \"url\": \"https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/20-x-26-cm-ivana-flores-8/\"}, \"https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/20-x-81-cm-ivana-flores-10/\": {\"artista\": \"Ivana Flores\", \"estado\": \"disponible\", \"precio\": \"9,50€\", \"precio_num\": 9.5, \"titulo\": \"20 x 81 cm (Ivana Flores-10)\", \"url\": \"https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/20-x-81-cm-ivana-flores-10/\"}, \"https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/20-x-81-cm-ivana-flores-22/\": {\"artista\": \"Ivana Flores\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/20-x-81-cm-ivana-flores-22/\"}, \"https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/200-x-200-cm-ivana-flores-11/\": {\"artista\": \"Ivana Flores\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"200 x 200 cm (Ivana Flores-11)\", \"url\": \"https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/200-x-200-cm-ivana-flores-11/\"}, \"https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/200-x-200-cm-ivana-flores-12/\": {\"artista\": \"Ivana Flores\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"200 x 200 cm (Ivana Flores-12)\", \"url\": \"https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/200-x-200-cm-ivana-flores-12/\"}, \"https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/27-x-32-cm-ivana-flores-15/\": {\"artista\": \"Ivana Flores\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/27-x-32-cm-ivana-flores-15/\"}, \"https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/27-x-32-cm-ivana-flores-16/\": {\"artista\": \"Ivana Flores\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/27-x-32-cm-ivana-flores-16/\"}, \"https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/27-x-41-cm-ivana-flores-13/\": {\"artista\": \"Ivana Flores\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/27-x-41-cm-ivana-flores-13/\"}, \"https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/30-x-30-cm-ivana-flores-17/\": {\"artista\": \"Ivana Flores\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/30-x-30-cm-ivana-flores-17/\"}, \"https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/43-x-43-cm-ivana-flores-14/\": {\"artista\": \"Ivana Flores\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/43-x-43-cm-ivana-flores-14/\"}, \"https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/44-x-62-cm-ivana-flores-18/\": {\"artista\": \"Ivana Flores\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/44-x-62-cm-ivana-flores-18/\"}, \"https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/59-x-40-cm-ivana-flores-24/\": {\"artista\": \"Ivana Flores\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/59-x-40-cm-ivana-flores-24/\"}, \"https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/60-x-60-cm-ivana-flores-27/\": {\"artista\": \"Ivana Flores\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/60-x-60-cm-ivana-flores-27/\"}, \"https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/60-x-60-cm-ivana-flores-6/\": {\"artista\": \"Ivana Flores\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/60-x-60-cm-ivana-flores-6/\"}, \"https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/72-x-102-cm-ivana-flores-20/\": {\"artista\": \"Ivana Flores\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/72-x-102-cm-ivana-flores-20/\"}, \"https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/81-x-100-cm-ivana-flores-21/\": {\"artista\": \"Ivana Flores\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/81-x-100-cm-ivana-flores-21/\"}, \"https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/90-x-90-cm-ivana-flores-2/\": {\"artista\": \"Ivana Flores\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/90-x-90-cm-ivana-flores-2/\"}, \"https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/95-x-95-cm-ivana-flores-26/\": {\"artista\": \"Ivana Flores\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/95-x-95-cm-ivana-flores-26/\"}, \"https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/if-011/\": {\"artista\": \"Ivana Flores\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/if-011/\"}, \"https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/if-013/\": {\"artista\": \"Ivana Flores\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/if-013/\"}, \"https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/if-015/\": {\"artista\": \"Ivana Flores\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"200 x 200 cm (Ivana Flores-5)\", \"url\": \"https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/if-015/\"}, \"https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/if-024/\": {\"artista\": \"Ivana Flores\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/if-024/\"}, \"https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/ivana-flores-9/\": {\"artista\": \"Ivana Flores\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/ivana-flores-9/\"}, \"https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/sold-11/\": {\"artista\": \"Ivana Flores\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/sold-11/\"}, \"https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/sold/\": {\"artista\": \"Ivana Flores\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/sold/\"}, \"https://www.baseelements.net/shop/ivana-flores/if-p29/\": {\"artista\": \"Ivana Flores\", \"estado\": \"disponible\", \"precio\": \"0,90€\", \"precio_num\": 0.9, \"titulo\": \"30 × 30 cm (Ivana Flores LE-4)\", \"url\": \"https://www.baseelements.net/shop/ivana-flores/if-p29/\"}, \"https://www.baseelements.net/shop/ivana-flores/paper-ivana-flores/20-x-25-cm-ivana-flores-p-5/\": {\"artista\": \"Ivana Flores\", \"estado\": \"disponible\", \"precio\": \"3,90€\", \"precio_num\": 3.9, \"titulo\": \"20 x 25 cm (Ivana Flores P-5)\", \"url\": \"https://www.baseelements.net/shop/ivana-flores/paper-ivana-flores/20-x-25-cm-ivana-flores-p-5/\"}, \"https://www.baseelements.net/shop/ivana-flores/paper-ivana-flores/25-x-25-cm-ivana-flores-p-3/\": {\"artista\": \"Ivana Flores\", \"estado\": \"disponible\", \"precio\": \"2,90€\", \"precio_num\": 2.9, \"titulo\": \"25 × 25 cm (Ivana Flores P-3)\", \"url\": \"https://www.baseelements.net/shop/ivana-flores/paper-ivana-flores/25-x-25-cm-ivana-flores-p-3/\"}, \"https://www.baseelements.net/shop/ivana-flores/paper-ivana-flores/30-x-21-cm-ivana-flores-p-6/\": {\"artista\": \"Ivana Flores\", \"estado\": \"disponible\", \"precio\": \"4,90€\", \"precio_num\": 4.9, \"titulo\": \"30 x 21 cm (Ivana Flores P-6)\", \"url\": \"https://www.baseelements.net/shop/ivana-flores/paper-ivana-flores/30-x-21-cm-ivana-flores-p-6/\"}, \"https://www.baseelements.net/shop/ivana-flores/paper-ivana-flores/30-x-21-cm-ivana-flores-p-7/\": {\"artista\": \"Ivana Flores\", \"estado\": \"disponible\", \"precio\": \"4,90€\", \"precio_num\": 4.9, \"titulo\": \"30 x 21 cm (Ivana Flores P-7)\", \"url\": \"https://www.baseelements.net/shop/ivana-flores/paper-ivana-flores/30-x-21-cm-ivana-flores-p-7/\"}, \"https://www.baseelements.net/shop/ivana-flores/paper-ivana-flores/30-x-21-cm-ivana-flores-p-8/\": {\"artista\": \"Ivana Flores\", \"estado\": \"disponible\", \"precio\": \"4,90€\", \"precio_num\": 4.9, \"titulo\": \"30 x 21 cm (Ivana Flores P-8)\", \"url\": \"https://www.baseelements.net/shop/ivana-flores/paper-ivana-flores/30-x-21-cm-ivana-flores-p-8/\"}, \"https://www.baseelements.net/shop/ivana-flores/paper-ivana-flores/30-x-42-cm-ivana-flores-p-4/\": {\"artista\": \"Ivana Flores\", \"estado\": \"disponible\", \"precio\": \"5,10€\", \"precio_num\": 5.1, \"titulo\": \"30 x 42 cm (Ivana Flores P-4)\", \"url\": \"https://www.baseelements.net/shop/ivana-flores/paper-ivana-flores/30-x-42-cm-ivana-flores-p-4/\"}, \"https://www.baseelements.net/shop/ivana-flores/paper-ivana-flores/44-x-54-cm-ivana-flores-p-1/\": {\"artista\": \"Ivana Flores\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/ivana-flores/paper-ivana-flores/44-x-54-cm-ivana-flores-p-1/\"}, \"https://www.baseelements.net/shop/ivana-flores/paper-ivana-flores/54-x-44-cm-ivana-flores-p-2/\": {\"artista\": \"Ivana Flores\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/ivana-flores/paper-ivana-flores/54-x-44-cm-ivana-flores-p-2/\"}, \"https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/108-x-626-cm-ivana-flores-le-10/\": {\"artista\": \"Ivana Flores\", \"estado\": \"disponible\", \"precio\": \"5,00€\", \"precio_num\": 5.0, \"titulo\": \"108 x 62,6 cm (Ivana Flores LE-10)\", \"url\": \"https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/108-x-626-cm-ivana-flores-le-10/\"}, \"https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/108-x-626-cm-ivana-flores-le-11/\": {\"artista\": \"Ivana Flores\", \"estado\": \"disponible\", \"precio\": \"5,00€\", \"precio_num\": 5.0, \"titulo\": \"108 x 62,6 cm (Ivana Flores LE-11)\", \"url\": \"https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/108-x-626-cm-ivana-flores-le-11/\"}, \"https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/108-x-705-ivana-flores-le-16/\": {\"artista\": \"Ivana Flores\", \"estado\": \"disponible\", \"precio\": \"5,00€\", \"precio_num\": 5.0, \"titulo\": \"108 x 70,5 (Ivana Flores LE-16)\", \"url\": \"https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/108-x-705-ivana-flores-le-16/\"}, \"https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/23-x-23-cm-ivana-flores-le-3/\": {\"artista\": \"Ivana Flores\", \"estado\": \"disponible\", \"precio\": \"0,90€\", \"precio_num\": 0.9, \"titulo\": \"34 × 34 cm (Ivana Flores LE-3)\", \"url\": \"https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/23-x-23-cm-ivana-flores-le-3/\"}, \"https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/34-x-34-cm-ivana-flores-le-1/\": {\"artista\": \"Ivana Flores\", \"estado\": \"disponible\", \"precio\": \"0,90€\", \"precio_num\": 0.9, \"titulo\": \"34 x 34 cm (Ivana Flores LE-1)\", \"url\": \"https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/34-x-34-cm-ivana-flores-le-1/\"}, \"https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/34-x-34-cm-ivana-flores-le-2/\": {\"artista\": \"Ivana Flores\", \"estado\": \"disponible\", \"precio\": \"0,90€\", \"precio_num\": 0.9, \"titulo\": \"34 x 34 cm (Ivana Flores LE-2)\", \"url\": \"https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/34-x-34-cm-ivana-flores-le-2/\"}, \"https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/34-x-34-cm-ivana-flores-le-6/\": {\"artista\": \"Ivana Flores\", \"estado\": \"disponible\", \"precio\": \"0,90€\", \"precio_num\": 0.9, \"titulo\": \"34 × 34 cm (Ivana Flores LE-6)\", \"url\": \"https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/34-x-34-cm-ivana-flores-le-6/\"}, \"https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/34-x-34-cm-ivana-flores-le-7/\": {\"artista\": \"Ivana Flores\", \"estado\": \"disponible\", \"precio\": \"0,90€\", \"precio_num\": 0.9, \"titulo\": \"34 x 34 cm (Ivana Flores LE-7)\", \"url\": \"https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/34-x-34-cm-ivana-flores-le-7/\"}, \"https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/42-x-42-cm-ivana-flores-le-5/\": {\"artista\": \"Ivana Flores\", \"estado\": \"disponible\", \"precio\": \"1,50€\", \"precio_num\": 1.5, \"titulo\": \"42 x 42 cm (Ivana Flores LE-5)\", \"url\": \"https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/42-x-42-cm-ivana-flores-le-5/\"}, \"https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/46-x-46-cm-ivana-flores-le-15/\": {\"artista\": \"Ivana Flores\", \"estado\": \"disponible\", \"precio\": \"2,25€\", \"precio_num\": 2.25, \"titulo\": \"46 x 46 cm (Ivana Flores LE-15)\", \"url\": \"https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/46-x-46-cm-ivana-flores-le-15/\"}, \"https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/504-x-68-cm-ivana-flores-le-13/\": {\"artista\": \"Ivana Flores\", \"estado\": \"disponible\", \"precio\": \"3,50€\", \"precio_num\": 3.5, \"titulo\": \"50,4 x 68 cm (Ivana Flores LE-13)\", \"url\": \"https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/504-x-68-cm-ivana-flores-le-13/\"}, \"https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/543-x-78-cm-ivana-flores-le-18/\": {\"artista\": \"Ivana Flores\", \"estado\": \"disponible\", \"precio\": \"3,50€\", \"precio_num\": 3.5, \"titulo\": \"54,3 x 78 cm (Ivana Flores LE-17)\", \"url\": \"https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/543-x-78-cm-ivana-flores-le-18/\"}, \"https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/78-x-65-cm-ivana-flores-le-17/\": {\"artista\": \"Ivana Flores\", \"estado\": \"disponible\", \"precio\": \"4,20€\", \"precio_num\": 4.2, \"titulo\": \"78 x 65 cm (Ivana Flores LE-18)\", \"url\": \"https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/78-x-65-cm-ivana-flores-le-17/\"}}",
     "obras": {
       "https://www.baseelements.net/shop/ivana-flores/paper-ivana-flores/30-x-21-cm-ivana-flores-p-8/": {
         "titulo": "30 x 21 cm (Ivana Flores P-8)",
-        "precio": "€490",
-        "precio_num": 490.0,
+        "precio": "4,90€",
+        "precio_num": 4.9,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/ivana-flores/paper-ivana-flores/30-x-21-cm-ivana-flores-p-8/",
         "artista": "Ivana Flores"
       },
       "https://www.baseelements.net/shop/ivana-flores/paper-ivana-flores/30-x-21-cm-ivana-flores-p-7/": {
         "titulo": "30 x 21 cm (Ivana Flores P-7)",
-        "precio": "€490",
-        "precio_num": 490.0,
+        "precio": "4,90€",
+        "precio_num": 4.9,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/ivana-flores/paper-ivana-flores/30-x-21-cm-ivana-flores-p-7/",
         "artista": "Ivana Flores"
       },
       "https://www.baseelements.net/shop/ivana-flores/paper-ivana-flores/30-x-21-cm-ivana-flores-p-6/": {
         "titulo": "30 x 21 cm (Ivana Flores P-6)",
-        "precio": "€490",
-        "precio_num": 490.0,
+        "precio": "4,90€",
+        "precio_num": 4.9,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/ivana-flores/paper-ivana-flores/30-x-21-cm-ivana-flores-p-6/",
         "artista": "Ivana Flores"
       },
       "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/60-x-60-cm-ivana-flores-27/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/60-x-60-cm-ivana-flores-27/",
         "artista": "Ivana Flores"
       },
       "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/78-x-65-cm-ivana-flores-le-17/": {
         "titulo": "78 x 65 cm (Ivana Flores LE-18)",
-        "precio": "€420",
-        "precio_num": 420.0,
+        "precio": "4,20€",
+        "precio_num": 4.2,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/78-x-65-cm-ivana-flores-le-17/",
         "artista": "Ivana Flores"
       },
       "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/543-x-78-cm-ivana-flores-le-18/": {
         "titulo": "54,3 x 78 cm (Ivana Flores LE-17)",
-        "precio": "€350",
-        "precio_num": 350.0,
+        "precio": "3,50€",
+        "precio_num": 3.5,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/543-x-78-cm-ivana-flores-le-18/",
         "artista": "Ivana Flores"
       },
       "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/108-x-705-ivana-flores-le-16/": {
         "titulo": "108 x 70,5 (Ivana Flores LE-16)",
-        "precio": "€500",
-        "precio_num": 500.0,
+        "precio": "5,00€",
+        "precio_num": 5.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/108-x-705-ivana-flores-le-16/",
         "artista": "Ivana Flores"
       },
       "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/46-x-46-cm-ivana-flores-le-15/": {
         "titulo": "46 x 46 cm (Ivana Flores LE-15)",
-        "precio": "€225",
-        "precio_num": 225.0,
+        "precio": "2,25€",
+        "precio_num": 2.25,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/46-x-46-cm-ivana-flores-le-15/",
         "artista": "Ivana Flores"
       },
       "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/504-x-68-cm-ivana-flores-le-13/": {
         "titulo": "50,4 x 68 cm (Ivana Flores LE-13)",
-        "precio": "€350",
-        "precio_num": 350.0,
+        "precio": "3,50€",
+        "precio_num": 3.5,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/504-x-68-cm-ivana-flores-le-13/",
         "artista": "Ivana Flores"
       },
       "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/108-x-626-cm-ivana-flores-le-11/": {
         "titulo": "108 x 62,6 cm (Ivana Flores LE-11)",
-        "precio": "€500",
-        "precio_num": 500.0,
+        "precio": "5,00€",
+        "precio_num": 5.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/108-x-626-cm-ivana-flores-le-11/",
         "artista": "Ivana Flores"
       },
       "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/108-x-626-cm-ivana-flores-le-10/": {
         "titulo": "108 x 62,6 cm (Ivana Flores LE-10)",
-        "precio": "€500",
-        "precio_num": 500.0,
+        "precio": "5,00€",
+        "precio_num": 5.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/108-x-626-cm-ivana-flores-le-10/",
         "artista": "Ivana Flores"
       },
       "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/95-x-95-cm-ivana-flores-26/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/95-x-95-cm-ivana-flores-26/",
         "artista": "Ivana Flores"
       },
       "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/sold-11/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/sold-11/",
         "artista": "Ivana Flores"
       },
       "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/59-x-40-cm-ivana-flores-24/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/59-x-40-cm-ivana-flores-24/",
         "artista": "Ivana Flores"
       },
       "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/sold/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/sold/",
         "artista": "Ivana Flores"
       },
       "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/20-x-81-cm-ivana-flores-22/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/20-x-81-cm-ivana-flores-22/",
         "artista": "Ivana Flores"
       },
       "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/81-x-100-cm-ivana-flores-21/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/81-x-100-cm-ivana-flores-21/",
         "artista": "Ivana Flores"
       },
       "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/72-x-102-cm-ivana-flores-20/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/72-x-102-cm-ivana-flores-20/",
         "artista": "Ivana Flores"
       },
       "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/44-x-62-cm-ivana-flores-18/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/44-x-62-cm-ivana-flores-18/",
         "artista": "Ivana Flores"
       },
       "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/30-x-30-cm-ivana-flores-17/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/30-x-30-cm-ivana-flores-17/",
         "artista": "Ivana Flores"
       },
       "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/111-x-178-cm-ivana-flores-19/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/111-x-178-cm-ivana-flores-19/",
         "artista": "Ivana Flores"
       },
       "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/27-x-32-cm-ivana-flores-16/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/27-x-32-cm-ivana-flores-16/",
         "artista": "Ivana Flores"
       },
       "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/27-x-32-cm-ivana-flores-15/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/27-x-32-cm-ivana-flores-15/",
         "artista": "Ivana Flores"
       },
       "https://www.baseelements.net/shop/ivana-flores/paper-ivana-flores/20-x-25-cm-ivana-flores-p-5/": {
         "titulo": "20 x 25 cm (Ivana Flores P-5)",
-        "precio": "€390",
-        "precio_num": 390.0,
+        "precio": "3,90€",
+        "precio_num": 3.9,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/ivana-flores/paper-ivana-flores/20-x-25-cm-ivana-flores-p-5/",
         "artista": "Ivana Flores"
       },
       "https://www.baseelements.net/shop/ivana-flores/paper-ivana-flores/30-x-42-cm-ivana-flores-p-4/": {
         "titulo": "30 x 42 cm (Ivana Flores P-4)",
-        "precio": "€510",
-        "precio_num": 510.0,
+        "precio": "5,10€",
+        "precio_num": 5.1,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/ivana-flores/paper-ivana-flores/30-x-42-cm-ivana-flores-p-4/",
         "artista": "Ivana Flores"
       },
       "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/43-x-43-cm-ivana-flores-14/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/43-x-43-cm-ivana-flores-14/",
         "artista": "Ivana Flores"
       },
       "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/27-x-41-cm-ivana-flores-13/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/27-x-41-cm-ivana-flores-13/",
         "artista": "Ivana Flores"
       },
       "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/200-x-200-cm-ivana-flores-12/": {
         "titulo": "200 x 200 cm (Ivana Flores-12)",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/200-x-200-cm-ivana-flores-12/",
@@ -1652,7 +1652,7 @@
       },
       "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/200-x-200-cm-ivana-flores-11/": {
         "titulo": "200 x 200 cm (Ivana Flores-11)",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/200-x-200-cm-ivana-flores-11/",
@@ -1660,111 +1660,111 @@
       },
       "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/20-x-81-cm-ivana-flores-10/": {
         "titulo": "20 x 81 cm (Ivana Flores-10)",
-        "precio": "€950",
-        "precio_num": 950.0,
+        "precio": "9,50€",
+        "precio_num": 9.5,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/20-x-81-cm-ivana-flores-10/",
         "artista": "Ivana Flores"
       },
       "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/if-024/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/if-024/",
         "artista": "Ivana Flores"
       },
       "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/20-x-26-cm-ivana-flores-8/": {
         "titulo": "20 x 26 cm (Ivana Flores-8)",
-        "precio": "€350",
-        "precio_num": 350.0,
+        "precio": "3,50€",
+        "precio_num": 3.5,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/20-x-26-cm-ivana-flores-8/",
         "artista": "Ivana Flores"
       },
       "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/20-x-26-cm-ivana-flores-7/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/20-x-26-cm-ivana-flores-7/",
         "artista": "Ivana Flores"
       },
       "https://www.baseelements.net/shop/ivana-flores/paper-ivana-flores/25-x-25-cm-ivana-flores-p-3/": {
         "titulo": "25 × 25 cm (Ivana Flores P-3)",
-        "precio": "€290",
-        "precio_num": 290.0,
+        "precio": "2,90€",
+        "precio_num": 2.9,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/ivana-flores/paper-ivana-flores/25-x-25-cm-ivana-flores-p-3/",
         "artista": "Ivana Flores"
       },
       "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/34-x-34-cm-ivana-flores-le-7/": {
         "titulo": "34 x 34 cm (Ivana Flores LE-7)",
-        "precio": "€90",
-        "precio_num": 90.0,
+        "precio": "0,90€",
+        "precio_num": 0.9,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/34-x-34-cm-ivana-flores-le-7/",
         "artista": "Ivana Flores"
       },
       "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/34-x-34-cm-ivana-flores-le-6/": {
         "titulo": "34 × 34 cm (Ivana Flores LE-6)",
-        "precio": "€90",
-        "precio_num": 90.0,
+        "precio": "0,90€",
+        "precio_num": 0.9,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/34-x-34-cm-ivana-flores-le-6/",
         "artista": "Ivana Flores"
       },
       "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/42-x-42-cm-ivana-flores-le-5/": {
         "titulo": "42 x 42 cm (Ivana Flores LE-5)",
-        "precio": "€150",
-        "precio_num": 150.0,
+        "precio": "1,50€",
+        "precio_num": 1.5,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/42-x-42-cm-ivana-flores-le-5/",
         "artista": "Ivana Flores"
       },
       "https://www.baseelements.net/shop/ivana-flores/if-p29/": {
         "titulo": "30 × 30 cm (Ivana Flores LE-4)",
-        "precio": "€90",
-        "precio_num": 90.0,
+        "precio": "0,90€",
+        "precio_num": 0.9,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/ivana-flores/if-p29/",
         "artista": "Ivana Flores"
       },
       "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/23-x-23-cm-ivana-flores-le-3/": {
         "titulo": "34 × 34 cm (Ivana Flores LE-3)",
-        "precio": "€90",
-        "precio_num": 90.0,
+        "precio": "0,90€",
+        "precio_num": 0.9,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/23-x-23-cm-ivana-flores-le-3/",
         "artista": "Ivana Flores"
       },
       "https://www.baseelements.net/shop/ivana-flores/paper-ivana-flores/54-x-44-cm-ivana-flores-p-2/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/ivana-flores/paper-ivana-flores/54-x-44-cm-ivana-flores-p-2/",
         "artista": "Ivana Flores"
       },
       "https://www.baseelements.net/shop/ivana-flores/paper-ivana-flores/44-x-54-cm-ivana-flores-p-1/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/ivana-flores/paper-ivana-flores/44-x-54-cm-ivana-flores-p-1/",
         "artista": "Ivana Flores"
       },
       "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/60-x-60-cm-ivana-flores-6/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/60-x-60-cm-ivana-flores-6/",
         "artista": "Ivana Flores"
       },
       "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/if-015/": {
         "titulo": "200 x 200 cm (Ivana Flores-5)",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/if-015/",
@@ -1772,374 +1772,374 @@
       },
       "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/if-013/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/if-013/",
         "artista": "Ivana Flores"
       },
       "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/if-011/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/if-011/",
         "artista": "Ivana Flores"
       },
       "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/90-x-90-cm-ivana-flores-2/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/90-x-90-cm-ivana-flores-2/",
         "artista": "Ivana Flores"
       },
       "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/34-x-34-cm-ivana-flores-le-2/": {
         "titulo": "34 x 34 cm (Ivana Flores LE-2)",
-        "precio": "€90",
-        "precio_num": 90.0,
+        "precio": "0,90€",
+        "precio_num": 0.9,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/34-x-34-cm-ivana-flores-le-2/",
         "artista": "Ivana Flores"
       },
       "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/34-x-34-cm-ivana-flores-le-1/": {
         "titulo": "34 x 34 cm (Ivana Flores LE-1)",
-        "precio": "€90",
-        "precio_num": 90.0,
+        "precio": "0,90€",
+        "precio_num": 0.9,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/34-x-34-cm-ivana-flores-le-1/",
         "artista": "Ivana Flores"
       },
       "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/ivana-flores-9/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/ivana-flores-9/",
         "artista": "Ivana Flores"
       }
     }
   },
   "J Loca": {
-    "hash": "21d8ee6af61ba3c216e1dfbc6d94866f",
-    "texto": "CANVAS J.Loca\n(17)\nPAPER J.Loca\n(23)\n60 x 130 cm (J.Loca-6)\n€\n950\nAdd to cart\n40 x 29,5 cm (J.Loca-P7)\n€\n300\nAdd to cart\n40 x 29,5 cm (J.Loca-P6)\n€\n300\nAdd to cart\n90 x 90 cm (J.Loca-5)\n€\n1,250\nAdd to cart\nSOLD\nRead more\n50 x 70 cm (J.Loca-P5)\n€\n390\nAdd to cart\n59 x 42 cm (J.Loca-P4)\n€\n290\nAdd to cart\n59 x 42 cm (J.Loca-P3)\n€\n290\nAdd to cart\nSOLD\nRead more\nSOLD\nRead more\n15 x 60 cm (J.Loca-1)\n€\n325\nAdd to cart\n50 x 70 cm (J.Loca-P1)\n€\n390\nAdd to cart",
+    "hash": "35e027a65d1c5f1ecbcd603a81662a2a",
+    "texto": "{\"https://www.baseelements.net/shop/j-loca/canvas-j-loca/140-x-140-cm-j-loca-11/\": {\"artista\": \"J Loca\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/j-loca/canvas-j-loca/140-x-140-cm-j-loca-11/\"}, \"https://www.baseelements.net/shop/j-loca/canvas-j-loca/15-x-60-cm-j-loca-2/\": {\"artista\": \"J Loca\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/j-loca/canvas-j-loca/15-x-60-cm-j-loca-2/\"}, \"https://www.baseelements.net/shop/j-loca/canvas-j-loca/30-x-40-cm-j-loca-7/\": {\"artista\": \"J Loca\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/j-loca/canvas-j-loca/30-x-40-cm-j-loca-7/\"}, \"https://www.baseelements.net/shop/j-loca/canvas-j-loca/40-x-30-cm-j-loca-14/\": {\"artista\": \"J Loca\", \"estado\": \"disponible\", \"precio\": \"3,00€\", \"precio_num\": 3.0, \"titulo\": \"40 x 30 cm (J.Loca-14)\", \"url\": \"https://www.baseelements.net/shop/j-loca/canvas-j-loca/40-x-30-cm-j-loca-14/\"}, \"https://www.baseelements.net/shop/j-loca/canvas-j-loca/40-x-30-cm-j-loca-15/\": {\"artista\": \"J Loca\", \"estado\": \"disponible\", \"precio\": \"3,00€\", \"precio_num\": 3.0, \"titulo\": \"40 x 30 cm (J.Loca-15)\", \"url\": \"https://www.baseelements.net/shop/j-loca/canvas-j-loca/40-x-30-cm-j-loca-15/\"}, \"https://www.baseelements.net/shop/j-loca/canvas-j-loca/60-x-130-cm-j-loca-6/\": {\"artista\": \"J Loca\", \"estado\": \"disponible\", \"precio\": \"9,50€\", \"precio_num\": 9.5, \"titulo\": \"60 x 130 cm (J.Loca-6)\", \"url\": \"https://www.baseelements.net/shop/j-loca/canvas-j-loca/60-x-130-cm-j-loca-6/\"}, \"https://www.baseelements.net/shop/j-loca/canvas-j-loca/80-x-20-cm-j-loca-sk8-4/\": {\"artista\": \"J Loca\", \"estado\": \"disponible\", \"precio\": \"6,90€\", \"precio_num\": 6.9, \"titulo\": \"80 x 20 cm (J.Loca SK8-4)\", \"url\": \"https://www.baseelements.net/shop/j-loca/canvas-j-loca/80-x-20-cm-j-loca-sk8-4/\"}, \"https://www.baseelements.net/shop/j-loca/canvas-j-loca/80-x-22-cm-j-loca-sk8-3/\": {\"artista\": \"J Loca\", \"estado\": \"disponible\", \"precio\": \"6,90€\", \"precio_num\": 6.9, \"titulo\": \"80 x 22 cm (J.Loca SK8-3)\", \"url\": \"https://www.baseelements.net/shop/j-loca/canvas-j-loca/80-x-22-cm-j-loca-sk8-3/\"}, \"https://www.baseelements.net/shop/j-loca/canvas-j-loca/82-x-22-cm-j-loca-sk8-2/\": {\"artista\": \"J Loca\", \"estado\": \"disponible\", \"precio\": \"6,90€\", \"precio_num\": 6.9, \"titulo\": \"82 x 22 cm (J.Loca SK8-2)\", \"url\": \"https://www.baseelements.net/shop/j-loca/canvas-j-loca/82-x-22-cm-j-loca-sk8-2/\"}, \"https://www.baseelements.net/shop/j-loca/canvas-j-loca/90-x-90-cm-j-loca-5/\": {\"artista\": \"J Loca\", \"estado\": \"disponible\", \"precio\": \"12,50€\", \"precio_num\": 12.5, \"titulo\": \"90 x 90 cm (J.Loca-5)\", \"url\": \"https://www.baseelements.net/shop/j-loca/canvas-j-loca/90-x-90-cm-j-loca-5/\"}, \"https://www.baseelements.net/shop/j-loca/canvas-j-loca/97-x-130-cm-j-loca-10/\": {\"artista\": \"J Loca\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/j-loca/canvas-j-loca/97-x-130-cm-j-loca-10/\"}, \"https://www.baseelements.net/shop/j-loca/canvas-j-loca/97-x-130-cm-j-loca-8/\": {\"artista\": \"J Loca\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/j-loca/canvas-j-loca/97-x-130-cm-j-loca-8/\"}, \"https://www.baseelements.net/shop/j-loca/canvas-j-loca/97-x-130-cm-j-loca-9/\": {\"artista\": \"J Loca\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/j-loca/canvas-j-loca/97-x-130-cm-j-loca-9/\"}, \"https://www.baseelements.net/shop/j-loca/canvas-j-loca/j-loca-12/\": {\"artista\": \"J Loca\", \"estado\": \"disponible\", \"precio\": \"38,00€\", \"precio_num\": 38.0, \"titulo\": \"140 x 140 cm (J.Loca-12)\", \"url\": \"https://www.baseelements.net/shop/j-loca/canvas-j-loca/j-loca-12/\"}, \"https://www.baseelements.net/shop/j-loca/canvas-j-loca/j-loca-13/\": {\"artista\": \"J Loca\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/j-loca/canvas-j-loca/j-loca-13/\"}, \"https://www.baseelements.net/shop/j-loca/canvas-j-loca/jl-021/\": {\"artista\": \"J Loca\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/j-loca/canvas-j-loca/jl-021/\"}, \"https://www.baseelements.net/shop/j-loca/canvas-j-loca/jloca-11/\": {\"artista\": \"J Loca\", \"estado\": \"disponible\", \"precio\": \"3,25€\", \"precio_num\": 3.25, \"titulo\": \"15 x 60 cm (J.Loca-1)\", \"url\": \"https://www.baseelements.net/shop/j-loca/canvas-j-loca/jloca-11/\"}, \"https://www.baseelements.net/shop/j-loca/paper-j-loca/30-x-42-cm-j-loca-p24/\": {\"artista\": \"J Loca\", \"estado\": \"disponible\", \"precio\": \"5,25€\", \"precio_num\": 5.25, \"titulo\": \"70 x 50 cm (J.Loca-P24)\", \"url\": \"https://www.baseelements.net/shop/j-loca/paper-j-loca/30-x-42-cm-j-loca-p24/\"}, \"https://www.baseelements.net/shop/j-loca/paper-j-loca/40-x-295-cm-j-loca-p6/\": {\"artista\": \"J Loca\", \"estado\": \"disponible\", \"precio\": \"3,00€\", \"precio_num\": 3.0, \"titulo\": \"40 x 29,5 cm (J.Loca-P6)\", \"url\": \"https://www.baseelements.net/shop/j-loca/paper-j-loca/40-x-295-cm-j-loca-p6/\"}, \"https://www.baseelements.net/shop/j-loca/paper-j-loca/40-x-295-cm-j-loca-p7/\": {\"artista\": \"J Loca\", \"estado\": \"disponible\", \"precio\": \"3,00€\", \"precio_num\": 3.0, \"titulo\": \"40 x 29,5 cm (J.Loca-P7)\", \"url\": \"https://www.baseelements.net/shop/j-loca/paper-j-loca/40-x-295-cm-j-loca-p7/\"}, \"https://www.baseelements.net/shop/j-loca/paper-j-loca/42-x-30-cm-j-loca-p10/\": {\"artista\": \"J Loca\", \"estado\": \"disponible\", \"precio\": \"3,00€\", \"precio_num\": 3.0, \"titulo\": \"42 x 30 cm (J.Loca-P10)\", \"url\": \"https://www.baseelements.net/shop/j-loca/paper-j-loca/42-x-30-cm-j-loca-p10/\"}, \"https://www.baseelements.net/shop/j-loca/paper-j-loca/42-x-30-cm-j-loca-p11/\": {\"artista\": \"J Loca\", \"estado\": \"disponible\", \"precio\": \"3,00€\", \"precio_num\": 3.0, \"titulo\": \"42 x 30 cm (J.Loca-P11)\", \"url\": \"https://www.baseelements.net/shop/j-loca/paper-j-loca/42-x-30-cm-j-loca-p11/\"}, \"https://www.baseelements.net/shop/j-loca/paper-j-loca/42-x-30-cm-j-loca-p15/\": {\"artista\": \"J Loca\", \"estado\": \"disponible\", \"precio\": \"3,00€\", \"precio_num\": 3.0, \"titulo\": \"42 x 30 cm (J.Loca-P15)\", \"url\": \"https://www.baseelements.net/shop/j-loca/paper-j-loca/42-x-30-cm-j-loca-p15/\"}, \"https://www.baseelements.net/shop/j-loca/paper-j-loca/42-x-30-cm-j-loca-p17/\": {\"artista\": \"J Loca\", \"estado\": \"disponible\", \"precio\": \"3,00€\", \"precio_num\": 3.0, \"titulo\": \"42 x 30 cm (J.Loca-P17)\", \"url\": \"https://www.baseelements.net/shop/j-loca/paper-j-loca/42-x-30-cm-j-loca-p17/\"}, \"https://www.baseelements.net/shop/j-loca/paper-j-loca/42-x-30-cm-j-loca-p20/\": {\"artista\": \"J Loca\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/j-loca/paper-j-loca/42-x-30-cm-j-loca-p20/\"}, \"https://www.baseelements.net/shop/j-loca/paper-j-loca/42-x-30-cm-j-loca-p21/\": {\"artista\": \"J Loca\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/j-loca/paper-j-loca/42-x-30-cm-j-loca-p21/\"}, \"https://www.baseelements.net/shop/j-loca/paper-j-loca/50-x-70-cm-j-loca-p1/\": {\"artista\": \"J Loca\", \"estado\": \"disponible\", \"precio\": \"3,90€\", \"precio_num\": 3.9, \"titulo\": \"50 x 70 cm (J.Loca-P1)\", \"url\": \"https://www.baseelements.net/shop/j-loca/paper-j-loca/50-x-70-cm-j-loca-p1/\"}, \"https://www.baseelements.net/shop/j-loca/paper-j-loca/50-x-70-cm-j-loca-p2/\": {\"artista\": \"J Loca\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/j-loca/paper-j-loca/50-x-70-cm-j-loca-p2/\"}, \"https://www.baseelements.net/shop/j-loca/paper-j-loca/50-x-70-cm-j-loca-p5/\": {\"artista\": \"J Loca\", \"estado\": \"disponible\", \"precio\": \"3,90€\", \"precio_num\": 3.9, \"titulo\": \"50 x 70 cm (J.Loca-P5)\", \"url\": \"https://www.baseelements.net/shop/j-loca/paper-j-loca/50-x-70-cm-j-loca-p5/\"}, \"https://www.baseelements.net/shop/j-loca/paper-j-loca/58-x-42-cm-j-loca-p12/\": {\"artista\": \"J Loca\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/j-loca/paper-j-loca/58-x-42-cm-j-loca-p12/\"}, \"https://www.baseelements.net/shop/j-loca/paper-j-loca/58-x-42-cm-j-loca-p13/\": {\"artista\": \"J Loca\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/j-loca/paper-j-loca/58-x-42-cm-j-loca-p13/\"}, \"https://www.baseelements.net/shop/j-loca/paper-j-loca/58-x-42-cm-j-loca-p14/\": {\"artista\": \"J Loca\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/j-loca/paper-j-loca/58-x-42-cm-j-loca-p14/\"}, \"https://www.baseelements.net/shop/j-loca/paper-j-loca/58-x-42-cm-j-loca-p16/\": {\"artista\": \"J Loca\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/j-loca/paper-j-loca/58-x-42-cm-j-loca-p16/\"}, \"https://www.baseelements.net/shop/j-loca/paper-j-loca/58-x-42-cm-j-loca-p8/\": {\"artista\": \"J Loca\", \"estado\": \"disponible\", \"precio\": \"3,00€\", \"precio_num\": 3.0, \"titulo\": \"42 x 30 cm (J.Loca-P8)\", \"url\": \"https://www.baseelements.net/shop/j-loca/paper-j-loca/58-x-42-cm-j-loca-p8/\"}, \"https://www.baseelements.net/shop/j-loca/paper-j-loca/58-x-42-cm-j-loca-p9/\": {\"artista\": \"J Loca\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/j-loca/paper-j-loca/58-x-42-cm-j-loca-p9/\"}, \"https://www.baseelements.net/shop/j-loca/paper-j-loca/59-x-42-cm-j-loca-p3/\": {\"artista\": \"J Loca\", \"estado\": \"disponible\", \"precio\": \"2,90€\", \"precio_num\": 2.9, \"titulo\": \"59 x 42 cm (J.Loca-P3)\", \"url\": \"https://www.baseelements.net/shop/j-loca/paper-j-loca/59-x-42-cm-j-loca-p3/\"}, \"https://www.baseelements.net/shop/j-loca/paper-j-loca/59-x-42-cm-j-loca-p4/\": {\"artista\": \"J Loca\", \"estado\": \"disponible\", \"precio\": \"2,90€\", \"precio_num\": 2.9, \"titulo\": \"59 x 42 cm (J.Loca-P4)\", \"url\": \"https://www.baseelements.net/shop/j-loca/paper-j-loca/59-x-42-cm-j-loca-p4/\"}, \"https://www.baseelements.net/shop/j-loca/paper-j-loca/70-x-50-cm-j-loca-p18/\": {\"artista\": \"J Loca\", \"estado\": \"disponible\", \"precio\": \"5,25€\", \"precio_num\": 5.25, \"titulo\": \"70 x 50 cm (J.Loca-P18)\", \"url\": \"https://www.baseelements.net/shop/j-loca/paper-j-loca/70-x-50-cm-j-loca-p18/\"}, \"https://www.baseelements.net/shop/j-loca/paper-j-loca/70-x-50-cm-j-loca-p19/\": {\"artista\": \"J Loca\", \"estado\": \"disponible\", \"precio\": \"5,25€\", \"precio_num\": 5.25, \"titulo\": \"70 x 50 cm (J.Loca-P19)\", \"url\": \"https://www.baseelements.net/shop/j-loca/paper-j-loca/70-x-50-cm-j-loca-p19/\"}, \"https://www.baseelements.net/shop/j-loca/paper-j-loca/70-x-50-cm-j-loca-p25/\": {\"artista\": \"J Loca\", \"estado\": \"disponible\", \"precio\": \"5,25€\", \"precio_num\": 5.25, \"titulo\": \"70 x 50 cm (J.Loca-P25)\", \"url\": \"https://www.baseelements.net/shop/j-loca/paper-j-loca/70-x-50-cm-j-loca-p25/\"}}",
     "obras": {
       "https://www.baseelements.net/shop/j-loca/paper-j-loca/70-x-50-cm-j-loca-p25/": {
         "titulo": "70 x 50 cm (J.Loca-P25)",
-        "precio": "€525",
-        "precio_num": 525.0,
+        "precio": "5,25€",
+        "precio_num": 5.25,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/j-loca/paper-j-loca/70-x-50-cm-j-loca-p25/",
         "artista": "J Loca"
       },
       "https://www.baseelements.net/shop/j-loca/paper-j-loca/30-x-42-cm-j-loca-p24/": {
         "titulo": "70 x 50 cm (J.Loca-P24)",
-        "precio": "€525",
-        "precio_num": 525.0,
+        "precio": "5,25€",
+        "precio_num": 5.25,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/j-loca/paper-j-loca/30-x-42-cm-j-loca-p24/",
         "artista": "J Loca"
       },
       "https://www.baseelements.net/shop/j-loca/paper-j-loca/42-x-30-cm-j-loca-p21/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/j-loca/paper-j-loca/42-x-30-cm-j-loca-p21/",
         "artista": "J Loca"
       },
       "https://www.baseelements.net/shop/j-loca/paper-j-loca/42-x-30-cm-j-loca-p20/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/j-loca/paper-j-loca/42-x-30-cm-j-loca-p20/",
         "artista": "J Loca"
       },
       "https://www.baseelements.net/shop/j-loca/paper-j-loca/70-x-50-cm-j-loca-p19/": {
         "titulo": "70 x 50 cm (J.Loca-P19)",
-        "precio": "€525",
-        "precio_num": 525.0,
+        "precio": "5,25€",
+        "precio_num": 5.25,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/j-loca/paper-j-loca/70-x-50-cm-j-loca-p19/",
         "artista": "J Loca"
       },
       "https://www.baseelements.net/shop/j-loca/paper-j-loca/70-x-50-cm-j-loca-p18/": {
         "titulo": "70 x 50 cm (J.Loca-P18)",
-        "precio": "€525",
-        "precio_num": 525.0,
+        "precio": "5,25€",
+        "precio_num": 5.25,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/j-loca/paper-j-loca/70-x-50-cm-j-loca-p18/",
         "artista": "J Loca"
       },
       "https://www.baseelements.net/shop/j-loca/canvas-j-loca/40-x-30-cm-j-loca-15/": {
         "titulo": "40 x 30 cm (J.Loca-15)",
-        "precio": "€300",
-        "precio_num": 300.0,
+        "precio": "3,00€",
+        "precio_num": 3.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/j-loca/canvas-j-loca/40-x-30-cm-j-loca-15/",
         "artista": "J Loca"
       },
       "https://www.baseelements.net/shop/j-loca/canvas-j-loca/40-x-30-cm-j-loca-14/": {
         "titulo": "40 x 30 cm (J.Loca-14)",
-        "precio": "€300",
-        "precio_num": 300.0,
+        "precio": "3,00€",
+        "precio_num": 3.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/j-loca/canvas-j-loca/40-x-30-cm-j-loca-14/",
         "artista": "J Loca"
       },
       "https://www.baseelements.net/shop/j-loca/canvas-j-loca/80-x-20-cm-j-loca-sk8-4/": {
         "titulo": "80 x 20 cm (J.Loca SK8-4)",
-        "precio": "€690",
-        "precio_num": 690.0,
+        "precio": "6,90€",
+        "precio_num": 6.9,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/j-loca/canvas-j-loca/80-x-20-cm-j-loca-sk8-4/",
         "artista": "J Loca"
       },
       "https://www.baseelements.net/shop/j-loca/canvas-j-loca/80-x-22-cm-j-loca-sk8-3/": {
         "titulo": "80 x 22 cm (J.Loca SK8-3)",
-        "precio": "€690",
-        "precio_num": 690.0,
+        "precio": "6,90€",
+        "precio_num": 6.9,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/j-loca/canvas-j-loca/80-x-22-cm-j-loca-sk8-3/",
         "artista": "J Loca"
       },
       "https://www.baseelements.net/shop/j-loca/canvas-j-loca/82-x-22-cm-j-loca-sk8-2/": {
         "titulo": "82 x 22 cm (J.Loca SK8-2)",
-        "precio": "€690",
-        "precio_num": 690.0,
+        "precio": "6,90€",
+        "precio_num": 6.9,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/j-loca/canvas-j-loca/82-x-22-cm-j-loca-sk8-2/",
         "artista": "J Loca"
       },
       "https://www.baseelements.net/shop/j-loca/paper-j-loca/42-x-30-cm-j-loca-p17/": {
         "titulo": "42 x 30 cm (J.Loca-P17)",
-        "precio": "€300",
-        "precio_num": 300.0,
+        "precio": "3,00€",
+        "precio_num": 3.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/j-loca/paper-j-loca/42-x-30-cm-j-loca-p17/",
         "artista": "J Loca"
       },
       "https://www.baseelements.net/shop/j-loca/paper-j-loca/58-x-42-cm-j-loca-p16/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/j-loca/paper-j-loca/58-x-42-cm-j-loca-p16/",
         "artista": "J Loca"
       },
       "https://www.baseelements.net/shop/j-loca/paper-j-loca/42-x-30-cm-j-loca-p15/": {
         "titulo": "42 x 30 cm (J.Loca-P15)",
-        "precio": "€300",
-        "precio_num": 300.0,
+        "precio": "3,00€",
+        "precio_num": 3.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/j-loca/paper-j-loca/42-x-30-cm-j-loca-p15/",
         "artista": "J Loca"
       },
       "https://www.baseelements.net/shop/j-loca/paper-j-loca/58-x-42-cm-j-loca-p14/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/j-loca/paper-j-loca/58-x-42-cm-j-loca-p14/",
         "artista": "J Loca"
       },
       "https://www.baseelements.net/shop/j-loca/paper-j-loca/58-x-42-cm-j-loca-p13/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/j-loca/paper-j-loca/58-x-42-cm-j-loca-p13/",
         "artista": "J Loca"
       },
       "https://www.baseelements.net/shop/j-loca/paper-j-loca/58-x-42-cm-j-loca-p12/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/j-loca/paper-j-loca/58-x-42-cm-j-loca-p12/",
         "artista": "J Loca"
       },
       "https://www.baseelements.net/shop/j-loca/paper-j-loca/42-x-30-cm-j-loca-p11/": {
         "titulo": "42 x 30 cm (J.Loca-P11)",
-        "precio": "€300",
-        "precio_num": 300.0,
+        "precio": "3,00€",
+        "precio_num": 3.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/j-loca/paper-j-loca/42-x-30-cm-j-loca-p11/",
         "artista": "J Loca"
       },
       "https://www.baseelements.net/shop/j-loca/paper-j-loca/42-x-30-cm-j-loca-p10/": {
         "titulo": "42 x 30 cm (J.Loca-P10)",
-        "precio": "€300",
-        "precio_num": 300.0,
+        "precio": "3,00€",
+        "precio_num": 3.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/j-loca/paper-j-loca/42-x-30-cm-j-loca-p10/",
         "artista": "J Loca"
       },
       "https://www.baseelements.net/shop/j-loca/paper-j-loca/58-x-42-cm-j-loca-p9/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/j-loca/paper-j-loca/58-x-42-cm-j-loca-p9/",
         "artista": "J Loca"
       },
       "https://www.baseelements.net/shop/j-loca/paper-j-loca/58-x-42-cm-j-loca-p8/": {
         "titulo": "42 x 30 cm (J.Loca-P8)",
-        "precio": "€300",
-        "precio_num": 300.0,
+        "precio": "3,00€",
+        "precio_num": 3.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/j-loca/paper-j-loca/58-x-42-cm-j-loca-p8/",
         "artista": "J Loca"
       },
       "https://www.baseelements.net/shop/j-loca/canvas-j-loca/j-loca-13/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/j-loca/canvas-j-loca/j-loca-13/",
         "artista": "J Loca"
       },
       "https://www.baseelements.net/shop/j-loca/canvas-j-loca/j-loca-12/": {
         "titulo": "140 x 140 cm (J.Loca-12)",
-        "precio": "€3,800",
-        "precio_num": 3.8,
+        "precio": "38,00€",
+        "precio_num": 38.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/j-loca/canvas-j-loca/j-loca-12/",
         "artista": "J Loca"
       },
       "https://www.baseelements.net/shop/j-loca/canvas-j-loca/140-x-140-cm-j-loca-11/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/j-loca/canvas-j-loca/140-x-140-cm-j-loca-11/",
         "artista": "J Loca"
       },
       "https://www.baseelements.net/shop/j-loca/canvas-j-loca/97-x-130-cm-j-loca-10/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/j-loca/canvas-j-loca/97-x-130-cm-j-loca-10/",
         "artista": "J Loca"
       },
       "https://www.baseelements.net/shop/j-loca/canvas-j-loca/97-x-130-cm-j-loca-9/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/j-loca/canvas-j-loca/97-x-130-cm-j-loca-9/",
         "artista": "J Loca"
       },
       "https://www.baseelements.net/shop/j-loca/canvas-j-loca/97-x-130-cm-j-loca-8/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/j-loca/canvas-j-loca/97-x-130-cm-j-loca-8/",
         "artista": "J Loca"
       },
       "https://www.baseelements.net/shop/j-loca/canvas-j-loca/30-x-40-cm-j-loca-7/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/j-loca/canvas-j-loca/30-x-40-cm-j-loca-7/",
         "artista": "J Loca"
       },
       "https://www.baseelements.net/shop/j-loca/canvas-j-loca/60-x-130-cm-j-loca-6/": {
         "titulo": "60 x 130 cm (J.Loca-6)",
-        "precio": "€950",
-        "precio_num": 950.0,
+        "precio": "9,50€",
+        "precio_num": 9.5,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/j-loca/canvas-j-loca/60-x-130-cm-j-loca-6/",
         "artista": "J Loca"
       },
       "https://www.baseelements.net/shop/j-loca/paper-j-loca/40-x-295-cm-j-loca-p7/": {
         "titulo": "40 x 29,5 cm (J.Loca-P7)",
-        "precio": "€300",
-        "precio_num": 300.0,
+        "precio": "3,00€",
+        "precio_num": 3.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/j-loca/paper-j-loca/40-x-295-cm-j-loca-p7/",
         "artista": "J Loca"
       },
       "https://www.baseelements.net/shop/j-loca/paper-j-loca/40-x-295-cm-j-loca-p6/": {
         "titulo": "40 x 29,5 cm (J.Loca-P6)",
-        "precio": "€300",
-        "precio_num": 300.0,
+        "precio": "3,00€",
+        "precio_num": 3.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/j-loca/paper-j-loca/40-x-295-cm-j-loca-p6/",
         "artista": "J Loca"
       },
       "https://www.baseelements.net/shop/j-loca/canvas-j-loca/90-x-90-cm-j-loca-5/": {
         "titulo": "90 x 90 cm (J.Loca-5)",
-        "precio": "€1,250",
-        "precio_num": 1.25,
+        "precio": "12,50€",
+        "precio_num": 12.5,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/j-loca/canvas-j-loca/90-x-90-cm-j-loca-5/",
         "artista": "J Loca"
       },
       "https://www.baseelements.net/shop/j-loca/canvas-j-loca/jl-021/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/j-loca/canvas-j-loca/jl-021/",
         "artista": "J Loca"
       },
       "https://www.baseelements.net/shop/j-loca/paper-j-loca/50-x-70-cm-j-loca-p5/": {
         "titulo": "50 x 70 cm (J.Loca-P5)",
-        "precio": "€390",
-        "precio_num": 390.0,
+        "precio": "3,90€",
+        "precio_num": 3.9,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/j-loca/paper-j-loca/50-x-70-cm-j-loca-p5/",
         "artista": "J Loca"
       },
       "https://www.baseelements.net/shop/j-loca/paper-j-loca/59-x-42-cm-j-loca-p4/": {
         "titulo": "59 x 42 cm (J.Loca-P4)",
-        "precio": "€290",
-        "precio_num": 290.0,
+        "precio": "2,90€",
+        "precio_num": 2.9,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/j-loca/paper-j-loca/59-x-42-cm-j-loca-p4/",
         "artista": "J Loca"
       },
       "https://www.baseelements.net/shop/j-loca/paper-j-loca/59-x-42-cm-j-loca-p3/": {
         "titulo": "59 x 42 cm (J.Loca-P3)",
-        "precio": "€290",
-        "precio_num": 290.0,
+        "precio": "2,90€",
+        "precio_num": 2.9,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/j-loca/paper-j-loca/59-x-42-cm-j-loca-p3/",
         "artista": "J Loca"
       },
       "https://www.baseelements.net/shop/j-loca/paper-j-loca/50-x-70-cm-j-loca-p2/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/j-loca/paper-j-loca/50-x-70-cm-j-loca-p2/",
         "artista": "J Loca"
       },
       "https://www.baseelements.net/shop/j-loca/canvas-j-loca/15-x-60-cm-j-loca-2/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/j-loca/canvas-j-loca/15-x-60-cm-j-loca-2/",
         "artista": "J Loca"
       },
       "https://www.baseelements.net/shop/j-loca/canvas-j-loca/jloca-11/": {
         "titulo": "15 x 60 cm (J.Loca-1)",
-        "precio": "€325",
-        "precio_num": 325.0,
+        "precio": "3,25€",
+        "precio_num": 3.25,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/j-loca/canvas-j-loca/jloca-11/",
         "artista": "J Loca"
       },
       "https://www.baseelements.net/shop/j-loca/paper-j-loca/50-x-70-cm-j-loca-p1/": {
         "titulo": "50 x 70 cm (J.Loca-P1)",
-        "precio": "€390",
-        "precio_num": 390.0,
+        "precio": "3,90€",
+        "precio_num": 3.9,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/j-loca/paper-j-loca/50-x-70-cm-j-loca-p1/",
         "artista": "J Loca"
