@@ -2147,69 +2147,69 @@
     }
   },
   "Soem": {
-    "hash": "5bc25f649d77a5ba36dfcb129dc4b6a6",
-    "texto": "{\"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/collaboration-soem-tarrago-1/\": {\"artista\": \"Soem\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/collaboration-soem-tarrago-1/\"}, \"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/collaboration-soem-tarrago-2/\": {\"artista\": \"Soem\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/collaboration-soem-tarrago-2/\"}, \"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/collaboration-soem-tarrago-3/\": {\"artista\": \"Soem\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/collaboration-soem-tarrago-3/\"}, \"https://www.baseelements.net/shop/soem/80-x-21-cm-soem-sk8-3/\": {\"artista\": \"Soem\", \"estado\": \"disponible\", \"precio\": \"4,25€\", \"precio_num\": 4.25, \"titulo\": \"80 x 21 cm (Soem SK8-3)\", \"url\": \"https://www.baseelements.net/shop/soem/80-x-21-cm-soem-sk8-3/\"}, \"https://www.baseelements.net/shop/soem/canvas-soem/115-x-90-cm-soem-14/\": {\"artista\": \"Soem\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/soem/canvas-soem/115-x-90-cm-soem-14/\"}, \"https://www.baseelements.net/shop/soem/canvas-soem/130-x-100-cm-soem-5/\": {\"artista\": \"Soem\", \"estado\": \"disponible\", \"precio\": \"25,00€\", \"precio_num\": 25.0, \"titulo\": \"130 x 100 cm (Soem-5)\", \"url\": \"https://www.baseelements.net/shop/soem/canvas-soem/130-x-100-cm-soem-5/\"}, \"https://www.baseelements.net/shop/soem/canvas-soem/130-x-195-cm-soem-6/\": {\"artista\": \"Soem\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/soem/canvas-soem/130-x-195-cm-soem-6/\"}, \"https://www.baseelements.net/shop/soem/canvas-soem/150-x-150-cm-soem-7/\": {\"artista\": \"Soem\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/soem/canvas-soem/150-x-150-cm-soem-7/\"}, \"https://www.baseelements.net/shop/soem/canvas-soem/38-x-46-cm-soem-19/\": {\"artista\": \"Soem\", \"estado\": \"disponible\", \"precio\": \"1,90€\", \"precio_num\": 1.9, \"titulo\": \"38 x 46 cm (SOEM-19)\", \"url\": \"https://www.baseelements.net/shop/soem/canvas-soem/38-x-46-cm-soem-19/\"}, \"https://www.baseelements.net/shop/soem/canvas-soem/45-x-45-cm-soem-11/\": {\"artista\": \"Soem\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/soem/canvas-soem/45-x-45-cm-soem-11/\"}, \"https://www.baseelements.net/shop/soem/canvas-soem/50-x-50-cm-soem-10/\": {\"artista\": \"Soem\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/soem/canvas-soem/50-x-50-cm-soem-10/\"}, \"https://www.baseelements.net/shop/soem/canvas-soem/70-x-100-cm-soem-8/\": {\"artista\": \"Soem\", \"estado\": \"disponible\", \"precio\": \"18,00€\", \"precio_num\": 18.0, \"titulo\": \"70 x 100 cm (Soem-8)\", \"url\": \"https://www.baseelements.net/shop/soem/canvas-soem/70-x-100-cm-soem-8/\"}, \"https://www.baseelements.net/shop/soem/canvas-soem/70-x-100-cm-soem-9/\": {\"artista\": \"Soem\", \"estado\": \"disponible\", \"precio\": \"14,00€\", \"precio_num\": 14.0, \"titulo\": \"70 x 100 cm (Soem-9)\", \"url\": \"https://www.baseelements.net/shop/soem/canvas-soem/70-x-100-cm-soem-9/\"}, \"https://www.baseelements.net/shop/soem/canvas-soem/79-x-58-cm-soem-sk8-1/\": {\"artista\": \"Soem\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/soem/canvas-soem/79-x-58-cm-soem-sk8-1/\"}, \"https://www.baseelements.net/shop/soem/canvas-soem/94-x-94-cm-soem-18/\": {\"artista\": \"Soem\", \"estado\": \"disponible\", \"precio\": \"24,00€\", \"precio_num\": 24.0, \"titulo\": \"94 x 94 cm (Soem-18)\", \"url\": \"https://www.baseelements.net/shop/soem/canvas-soem/94-x-94-cm-soem-18/\"}, \"https://www.baseelements.net/shop/soem/canvas-soem/97-x-97-cm-soem-12/\": {\"artista\": \"Soem\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/soem/canvas-soem/97-x-97-cm-soem-12/\"}, \"https://www.baseelements.net/shop/soem/canvas-soem/soem-3/\": {\"artista\": \"Soem\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/soem/canvas-soem/soem-3/\"}, \"https://www.baseelements.net/shop/soem/paper-soem/42-x-60-cm-soem-p14/\": {\"artista\": \"Soem\", \"estado\": \"disponible\", \"precio\": \"2,00€\", \"precio_num\": 2.0, \"titulo\": \"42 x 60 cm (SOEM-P14)\", \"url\": \"https://www.baseelements.net/shop/soem/paper-soem/42-x-60-cm-soem-p14/\"}, \"https://www.baseelements.net/shop/soem/paper-soem/42-x-60-cm-soem-p15/\": {\"artista\": \"Soem\", \"estado\": \"disponible\", \"precio\": \"2,00€\", \"precio_num\": 2.0, \"titulo\": \"42 x 42 cm (SOEM-P15)\", \"url\": \"https://www.baseelements.net/shop/soem/paper-soem/42-x-60-cm-soem-p15/\"}, \"https://www.baseelements.net/shop/soem/paper-soem/51-x-70-cm-soem-p8/\": {\"artista\": \"Soem\", \"estado\": \"disponible\", \"precio\": \"4,00€\", \"precio_num\": 4.0, \"titulo\": \"51 x 70 cm (SOEM-P8)\", \"url\": \"https://www.baseelements.net/shop/soem/paper-soem/51-x-70-cm-soem-p8/\"}, \"https://www.baseelements.net/shop/soem/paper-soem/60-x-42-cm-colaboration-soem-jaen/\": {\"artista\": \"Soem\", \"estado\": \"disponible\", \"precio\": \"4,00€\", \"precio_num\": 4.0, \"titulo\": \"60 x 42 cm (Colaboration SOEM &#038; Jaen )\", \"url\": \"https://www.baseelements.net/shop/soem/paper-soem/60-x-42-cm-colaboration-soem-jaen/\"}, \"https://www.baseelements.net/shop/soem/paper-soem/60-x-42-cm-soem-p18/\": {\"artista\": \"Soem\", \"estado\": \"disponible\", \"precio\": \"2,00€\", \"precio_num\": 2.0, \"titulo\": \"60 x 42 cm (SOEM-P18)\", \"url\": \"https://www.baseelements.net/shop/soem/paper-soem/60-x-42-cm-soem-p18/\"}, \"https://www.baseelements.net/shop/soem/paper-soem/70-x-51-cm-soem-p9/\": {\"artista\": \"Soem\", \"estado\": \"disponible\", \"precio\": \"4,00€\", \"precio_num\": 4.0, \"titulo\": \"70 x 51 cm (SOEM-P9)\", \"url\": \"https://www.baseelements.net/shop/soem/paper-soem/70-x-51-cm-soem-p9/\"}}",
+    "hash": "21b0b0aca9330d81bd00ab0550b526b6",
+    "texto": "{\"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/collaboration-soem-tarrago-1/\": {\"artista\": \"Soem\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/collaboration-soem-tarrago-1/\"}, \"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/collaboration-soem-tarrago-2/\": {\"artista\": \"Soem\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/collaboration-soem-tarrago-2/\"}, \"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/collaboration-soem-tarrago-3/\": {\"artista\": \"Soem\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/collaboration-soem-tarrago-3/\"}, \"https://www.baseelements.net/shop/soem/80-x-21-cm-soem-sk8-3/\": {\"artista\": \"Soem\", \"estado\": \"disponible\", \"precio\": \"425,00€\", \"precio_num\": 425.0, \"titulo\": \"80 x 21 cm (Soem SK8-3)\", \"url\": \"https://www.baseelements.net/shop/soem/80-x-21-cm-soem-sk8-3/\"}, \"https://www.baseelements.net/shop/soem/canvas-soem/115-x-90-cm-soem-14/\": {\"artista\": \"Soem\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/soem/canvas-soem/115-x-90-cm-soem-14/\"}, \"https://www.baseelements.net/shop/soem/canvas-soem/130-x-100-cm-soem-5/\": {\"artista\": \"Soem\", \"estado\": \"disponible\", \"precio\": \"2.500,00€\", \"precio_num\": 2500.0, \"titulo\": \"130 x 100 cm (Soem-5)\", \"url\": \"https://www.baseelements.net/shop/soem/canvas-soem/130-x-100-cm-soem-5/\"}, \"https://www.baseelements.net/shop/soem/canvas-soem/130-x-195-cm-soem-6/\": {\"artista\": \"Soem\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/soem/canvas-soem/130-x-195-cm-soem-6/\"}, \"https://www.baseelements.net/shop/soem/canvas-soem/150-x-150-cm-soem-7/\": {\"artista\": \"Soem\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/soem/canvas-soem/150-x-150-cm-soem-7/\"}, \"https://www.baseelements.net/shop/soem/canvas-soem/38-x-46-cm-soem-19/\": {\"artista\": \"Soem\", \"estado\": \"disponible\", \"precio\": \"190,00€\", \"precio_num\": 190.0, \"titulo\": \"38 x 46 cm (SOEM-19)\", \"url\": \"https://www.baseelements.net/shop/soem/canvas-soem/38-x-46-cm-soem-19/\"}, \"https://www.baseelements.net/shop/soem/canvas-soem/45-x-45-cm-soem-11/\": {\"artista\": \"Soem\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/soem/canvas-soem/45-x-45-cm-soem-11/\"}, \"https://www.baseelements.net/shop/soem/canvas-soem/50-x-50-cm-soem-10/\": {\"artista\": \"Soem\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/soem/canvas-soem/50-x-50-cm-soem-10/\"}, \"https://www.baseelements.net/shop/soem/canvas-soem/70-x-100-cm-soem-8/\": {\"artista\": \"Soem\", \"estado\": \"disponible\", \"precio\": \"1.800,00€\", \"precio_num\": 1800.0, \"titulo\": \"70 x 100 cm (Soem-8)\", \"url\": \"https://www.baseelements.net/shop/soem/canvas-soem/70-x-100-cm-soem-8/\"}, \"https://www.baseelements.net/shop/soem/canvas-soem/70-x-100-cm-soem-9/\": {\"artista\": \"Soem\", \"estado\": \"disponible\", \"precio\": \"1.400,00€\", \"precio_num\": 1400.0, \"titulo\": \"70 x 100 cm (Soem-9)\", \"url\": \"https://www.baseelements.net/shop/soem/canvas-soem/70-x-100-cm-soem-9/\"}, \"https://www.baseelements.net/shop/soem/canvas-soem/79-x-58-cm-soem-sk8-1/\": {\"artista\": \"Soem\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/soem/canvas-soem/79-x-58-cm-soem-sk8-1/\"}, \"https://www.baseelements.net/shop/soem/canvas-soem/94-x-94-cm-soem-18/\": {\"artista\": \"Soem\", \"estado\": \"disponible\", \"precio\": \"2.400,00€\", \"precio_num\": 2400.0, \"titulo\": \"94 x 94 cm (Soem-18)\", \"url\": \"https://www.baseelements.net/shop/soem/canvas-soem/94-x-94-cm-soem-18/\"}, \"https://www.baseelements.net/shop/soem/canvas-soem/97-x-97-cm-soem-12/\": {\"artista\": \"Soem\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/soem/canvas-soem/97-x-97-cm-soem-12/\"}, \"https://www.baseelements.net/shop/soem/canvas-soem/soem-3/\": {\"artista\": \"Soem\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/soem/canvas-soem/soem-3/\"}, \"https://www.baseelements.net/shop/soem/paper-soem/42-x-60-cm-soem-p14/\": {\"artista\": \"Soem\", \"estado\": \"disponible\", \"precio\": \"200,00€\", \"precio_num\": 200.0, \"titulo\": \"42 x 60 cm (SOEM-P14)\", \"url\": \"https://www.baseelements.net/shop/soem/paper-soem/42-x-60-cm-soem-p14/\"}, \"https://www.baseelements.net/shop/soem/paper-soem/42-x-60-cm-soem-p15/\": {\"artista\": \"Soem\", \"estado\": \"disponible\", \"precio\": \"200,00€\", \"precio_num\": 200.0, \"titulo\": \"42 x 42 cm (SOEM-P15)\", \"url\": \"https://www.baseelements.net/shop/soem/paper-soem/42-x-60-cm-soem-p15/\"}, \"https://www.baseelements.net/shop/soem/paper-soem/51-x-70-cm-soem-p8/\": {\"artista\": \"Soem\", \"estado\": \"disponible\", \"precio\": \"400,00€\", \"precio_num\": 400.0, \"titulo\": \"51 x 70 cm (SOEM-P8)\", \"url\": \"https://www.baseelements.net/shop/soem/paper-soem/51-x-70-cm-soem-p8/\"}, \"https://www.baseelements.net/shop/soem/paper-soem/60-x-42-cm-colaboration-soem-jaen/\": {\"artista\": \"Soem\", \"estado\": \"disponible\", \"precio\": \"400,00€\", \"precio_num\": 400.0, \"titulo\": \"60 x 42 cm (Colaboration SOEM &#038; Jaen )\", \"url\": \"https://www.baseelements.net/shop/soem/paper-soem/60-x-42-cm-colaboration-soem-jaen/\"}, \"https://www.baseelements.net/shop/soem/paper-soem/60-x-42-cm-soem-p18/\": {\"artista\": \"Soem\", \"estado\": \"disponible\", \"precio\": \"200,00€\", \"precio_num\": 200.0, \"titulo\": \"60 x 42 cm (SOEM-P18)\", \"url\": \"https://www.baseelements.net/shop/soem/paper-soem/60-x-42-cm-soem-p18/\"}, \"https://www.baseelements.net/shop/soem/paper-soem/70-x-51-cm-soem-p9/\": {\"artista\": \"Soem\", \"estado\": \"disponible\", \"precio\": \"400,00€\", \"precio_num\": 400.0, \"titulo\": \"70 x 51 cm (SOEM-P9)\", \"url\": \"https://www.baseelements.net/shop/soem/paper-soem/70-x-51-cm-soem-p9/\"}}",
     "obras": {
       "https://www.baseelements.net/shop/soem/paper-soem/60-x-42-cm-soem-p18/": {
         "titulo": "60 x 42 cm (SOEM-P18)",
-        "precio": "2,00€",
-        "precio_num": 2.0,
+        "precio": "200,00€",
+        "precio_num": 200.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/soem/paper-soem/60-x-42-cm-soem-p18/",
         "artista": "Soem"
       },
       "https://www.baseelements.net/shop/soem/paper-soem/60-x-42-cm-colaboration-soem-jaen/": {
         "titulo": "60 x 42 cm (Colaboration SOEM &#038; Jaen )",
-        "precio": "4,00€",
-        "precio_num": 4.0,
+        "precio": "400,00€",
+        "precio_num": 400.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/soem/paper-soem/60-x-42-cm-colaboration-soem-jaen/",
         "artista": "Soem"
       },
       "https://www.baseelements.net/shop/soem/paper-soem/42-x-60-cm-soem-p15/": {
         "titulo": "42 x 42 cm (SOEM-P15)",
-        "precio": "2,00€",
-        "precio_num": 2.0,
+        "precio": "200,00€",
+        "precio_num": 200.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/soem/paper-soem/42-x-60-cm-soem-p15/",
         "artista": "Soem"
       },
       "https://www.baseelements.net/shop/soem/paper-soem/42-x-60-cm-soem-p14/": {
         "titulo": "42 x 60 cm (SOEM-P14)",
-        "precio": "2,00€",
-        "precio_num": 2.0,
+        "precio": "200,00€",
+        "precio_num": 200.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/soem/paper-soem/42-x-60-cm-soem-p14/",
         "artista": "Soem"
       },
       "https://www.baseelements.net/shop/soem/paper-soem/70-x-51-cm-soem-p9/": {
         "titulo": "70 x 51 cm (SOEM-P9)",
-        "precio": "4,00€",
-        "precio_num": 4.0,
+        "precio": "400,00€",
+        "precio_num": 400.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/soem/paper-soem/70-x-51-cm-soem-p9/",
         "artista": "Soem"
       },
       "https://www.baseelements.net/shop/soem/paper-soem/51-x-70-cm-soem-p8/": {
         "titulo": "51 x 70 cm (SOEM-P8)",
-        "precio": "4,00€",
-        "precio_num": 4.0,
+        "precio": "400,00€",
+        "precio_num": 400.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/soem/paper-soem/51-x-70-cm-soem-p8/",
         "artista": "Soem"
       },
       "https://www.baseelements.net/shop/soem/canvas-soem/38-x-46-cm-soem-19/": {
         "titulo": "38 x 46 cm (SOEM-19)",
-        "precio": "1,90€",
-        "precio_num": 1.9,
+        "precio": "190,00€",
+        "precio_num": 190.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/soem/canvas-soem/38-x-46-cm-soem-19/",
         "artista": "Soem"
       },
       "https://www.baseelements.net/shop/soem/canvas-soem/94-x-94-cm-soem-18/": {
         "titulo": "94 x 94 cm (Soem-18)",
-        "precio": "24,00€",
-        "precio_num": 24.0,
+        "precio": "2.400,00€",
+        "precio_num": 2400.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/soem/canvas-soem/94-x-94-cm-soem-18/",
         "artista": "Soem"
@@ -2256,8 +2256,8 @@
       },
       "https://www.baseelements.net/shop/soem/80-x-21-cm-soem-sk8-3/": {
         "titulo": "80 x 21 cm (Soem SK8-3)",
-        "precio": "4,25€",
-        "precio_num": 4.25,
+        "precio": "425,00€",
+        "precio_num": 425.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/soem/80-x-21-cm-soem-sk8-3/",
         "artista": "Soem"
@@ -2288,16 +2288,16 @@
       },
       "https://www.baseelements.net/shop/soem/canvas-soem/70-x-100-cm-soem-9/": {
         "titulo": "70 x 100 cm (Soem-9)",
-        "precio": "14,00€",
-        "precio_num": 14.0,
+        "precio": "1.400,00€",
+        "precio_num": 1400.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/soem/canvas-soem/70-x-100-cm-soem-9/",
         "artista": "Soem"
       },
       "https://www.baseelements.net/shop/soem/canvas-soem/70-x-100-cm-soem-8/": {
         "titulo": "70 x 100 cm (Soem-8)",
-        "precio": "18,00€",
-        "precio_num": 18.0,
+        "precio": "1.800,00€",
+        "precio_num": 1800.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/soem/canvas-soem/70-x-100-cm-soem-8/",
         "artista": "Soem"
@@ -2320,8 +2320,8 @@
       },
       "https://www.baseelements.net/shop/soem/canvas-soem/130-x-100-cm-soem-5/": {
         "titulo": "130 x 100 cm (Soem-5)",
-        "precio": "25,00€",
-        "precio_num": 25.0,
+        "precio": "2.500,00€",
+        "precio_num": 2500.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/soem/canvas-soem/130-x-100-cm-soem-5/",
         "artista": "Soem"
@@ -2337,13 +2337,13 @@
     }
   },
   "Julián Lorenzo": {
-    "hash": "6a58b7c681a48c85febf4050c006e7aa",
-    "texto": "{\"https://www.baseelements.net/shop/julian-lorenzo/canvas-julian-lorenzo/100-x-100-cm-julian-lorenzo-9/\": {\"artista\": \"Julián Lorenzo\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/julian-lorenzo/canvas-julian-lorenzo/100-x-100-cm-julian-lorenzo-9/\"}, \"https://www.baseelements.net/shop/julian-lorenzo/canvas-julian-lorenzo/100-x-81-cm-julian-lorenzo-10/\": {\"artista\": \"Julián Lorenzo\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/julian-lorenzo/canvas-julian-lorenzo/100-x-81-cm-julian-lorenzo-10/\"}, \"https://www.baseelements.net/shop/julian-lorenzo/canvas-julian-lorenzo/100-x-81-cm-julian-lorenzo-8/\": {\"artista\": \"Julián Lorenzo\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/julian-lorenzo/canvas-julian-lorenzo/100-x-81-cm-julian-lorenzo-8/\"}, \"https://www.baseelements.net/shop/julian-lorenzo/canvas-julian-lorenzo/110-x-110-cm-julian-lorenzo-5/\": {\"artista\": \"Julián Lorenzo\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/julian-lorenzo/canvas-julian-lorenzo/110-x-110-cm-julian-lorenzo-5/\"}, \"https://www.baseelements.net/shop/julian-lorenzo/canvas-julian-lorenzo/130-x-97-cm-julian-lorenzo-4/\": {\"artista\": \"Julián Lorenzo\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/julian-lorenzo/canvas-julian-lorenzo/130-x-97-cm-julian-lorenzo-4/\"}, \"https://www.baseelements.net/shop/julian-lorenzo/canvas-julian-lorenzo/130-x-97-cm-julian-lorenzo-6/\": {\"artista\": \"Julián Lorenzo\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/julian-lorenzo/canvas-julian-lorenzo/130-x-97-cm-julian-lorenzo-6/\"}, \"https://www.baseelements.net/shop/julian-lorenzo/canvas-julian-lorenzo/150-x-150-cm-julian-lorenzo-11/\": {\"artista\": \"Julián Lorenzo\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/julian-lorenzo/canvas-julian-lorenzo/150-x-150-cm-julian-lorenzo-11/\"}, \"https://www.baseelements.net/shop/julian-lorenzo/canvas-julian-lorenzo/200-x-200-cm-julian-lorenzo-3/\": {\"artista\": \"Julián Lorenzo\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/julian-lorenzo/canvas-julian-lorenzo/200-x-200-cm-julian-lorenzo-3/\"}, \"https://www.baseelements.net/shop/julian-lorenzo/canvas-julian-lorenzo/89-x-116-cm-julian-lorenzo-1/\": {\"artista\": \"Julián Lorenzo\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/julian-lorenzo/canvas-julian-lorenzo/89-x-116-cm-julian-lorenzo-1/\"}, \"https://www.baseelements.net/shop/julian-lorenzo/canvas-julian-lorenzo/90-x-110-cm-julian-lorenzo-2/\": {\"artista\": \"Julián Lorenzo\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/julian-lorenzo/canvas-julian-lorenzo/90-x-110-cm-julian-lorenzo-2/\"}, \"https://www.baseelements.net/shop/julian-lorenzo/canvas-julian-lorenzo/julian-lorenzo-7/\": {\"artista\": \"Julián Lorenzo\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/julian-lorenzo/canvas-julian-lorenzo/julian-lorenzo-7/\"}, \"https://www.baseelements.net/shop/julian-lorenzo/limited-editions/45-x-45-cm-julian-lorenzo-le-1/\": {\"artista\": \"Julián Lorenzo\", \"estado\": \"disponible\", \"precio\": \"1,10€\", \"precio_num\": 1.1, \"titulo\": \"45 X 45 cm (Julian Lorenzo LE-1)\", \"url\": \"https://www.baseelements.net/shop/julian-lorenzo/limited-editions/45-x-45-cm-julian-lorenzo-le-1/\"}, \"https://www.baseelements.net/shop/julian-lorenzo/limited-editions/60-x-45-cm-julian-lorenzo-le-03/\": {\"artista\": \"Julián Lorenzo\", \"estado\": \"disponible\", \"precio\": \"1,10€\", \"precio_num\": 1.1, \"titulo\": \"60 x 45 cm (Julian Lorenzo LE-2)\", \"url\": \"https://www.baseelements.net/shop/julian-lorenzo/limited-editions/60-x-45-cm-julian-lorenzo-le-03/\"}, \"https://www.baseelements.net/shop/julian-lorenzo/limited-editions/60-x-45-cm-julian-lorenzo-le-2/\": {\"artista\": \"Julián Lorenzo\", \"estado\": \"disponible\", \"precio\": \"1,10€\", \"precio_num\": 1.1, \"titulo\": \"60 x 45 cm (Julian Lorenzo LE-3)\", \"url\": \"https://www.baseelements.net/shop/julian-lorenzo/limited-editions/60-x-45-cm-julian-lorenzo-le-2/\"}, \"https://www.baseelements.net/shop/julian-lorenzo/paper-julian-lorenzo/50-x-70-cm-julian-lorenzo-p-1/\": {\"artista\": \"Julián Lorenzo\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/julian-lorenzo/paper-julian-lorenzo/50-x-70-cm-julian-lorenzo-p-1/\"}, \"https://www.baseelements.net/shop/julian-lorenzo/paper-julian-lorenzo/50-x-70-cm-julian-lorenzo-p-2/\": {\"artista\": \"Julián Lorenzo\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/julian-lorenzo/paper-julian-lorenzo/50-x-70-cm-julian-lorenzo-p-2/\"}, \"https://www.baseelements.net/shop/julian-lorenzo/paper-julian-lorenzo/70-x-50-cm-julian-lorenzo-3/\": {\"artista\": \"Julián Lorenzo\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/julian-lorenzo/paper-julian-lorenzo/70-x-50-cm-julian-lorenzo-3/\"}, \"https://www.baseelements.net/shop/julian-lorenzo/paper-julian-lorenzo/70-x-50-cm-julian-lorenzo-p4/\": {\"artista\": \"Julián Lorenzo\", \"estado\": \"disponible\", \"precio\": \"5,90€\", \"precio_num\": 5.9, \"titulo\": \"70 x 50 cm (Julián Lorenzo-P4)\", \"url\": \"https://www.baseelements.net/shop/julian-lorenzo/paper-julian-lorenzo/70-x-50-cm-julian-lorenzo-p4/\"}}",
+    "hash": "912ba2110c6870d039b7309b88e3dd68",
+    "texto": "{\"https://www.baseelements.net/shop/julian-lorenzo/canvas-julian-lorenzo/100-x-100-cm-julian-lorenzo-9/\": {\"artista\": \"Julián Lorenzo\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/julian-lorenzo/canvas-julian-lorenzo/100-x-100-cm-julian-lorenzo-9/\"}, \"https://www.baseelements.net/shop/julian-lorenzo/canvas-julian-lorenzo/100-x-81-cm-julian-lorenzo-10/\": {\"artista\": \"Julián Lorenzo\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/julian-lorenzo/canvas-julian-lorenzo/100-x-81-cm-julian-lorenzo-10/\"}, \"https://www.baseelements.net/shop/julian-lorenzo/canvas-julian-lorenzo/100-x-81-cm-julian-lorenzo-8/\": {\"artista\": \"Julián Lorenzo\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/julian-lorenzo/canvas-julian-lorenzo/100-x-81-cm-julian-lorenzo-8/\"}, \"https://www.baseelements.net/shop/julian-lorenzo/canvas-julian-lorenzo/110-x-110-cm-julian-lorenzo-5/\": {\"artista\": \"Julián Lorenzo\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/julian-lorenzo/canvas-julian-lorenzo/110-x-110-cm-julian-lorenzo-5/\"}, \"https://www.baseelements.net/shop/julian-lorenzo/canvas-julian-lorenzo/130-x-97-cm-julian-lorenzo-4/\": {\"artista\": \"Julián Lorenzo\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/julian-lorenzo/canvas-julian-lorenzo/130-x-97-cm-julian-lorenzo-4/\"}, \"https://www.baseelements.net/shop/julian-lorenzo/canvas-julian-lorenzo/130-x-97-cm-julian-lorenzo-6/\": {\"artista\": \"Julián Lorenzo\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/julian-lorenzo/canvas-julian-lorenzo/130-x-97-cm-julian-lorenzo-6/\"}, \"https://www.baseelements.net/shop/julian-lorenzo/canvas-julian-lorenzo/150-x-150-cm-julian-lorenzo-11/\": {\"artista\": \"Julián Lorenzo\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/julian-lorenzo/canvas-julian-lorenzo/150-x-150-cm-julian-lorenzo-11/\"}, \"https://www.baseelements.net/shop/julian-lorenzo/canvas-julian-lorenzo/200-x-200-cm-julian-lorenzo-3/\": {\"artista\": \"Julián Lorenzo\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/julian-lorenzo/canvas-julian-lorenzo/200-x-200-cm-julian-lorenzo-3/\"}, \"https://www.baseelements.net/shop/julian-lorenzo/canvas-julian-lorenzo/89-x-116-cm-julian-lorenzo-1/\": {\"artista\": \"Julián Lorenzo\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/julian-lorenzo/canvas-julian-lorenzo/89-x-116-cm-julian-lorenzo-1/\"}, \"https://www.baseelements.net/shop/julian-lorenzo/canvas-julian-lorenzo/90-x-110-cm-julian-lorenzo-2/\": {\"artista\": \"Julián Lorenzo\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/julian-lorenzo/canvas-julian-lorenzo/90-x-110-cm-julian-lorenzo-2/\"}, \"https://www.baseelements.net/shop/julian-lorenzo/canvas-julian-lorenzo/julian-lorenzo-7/\": {\"artista\": \"Julián Lorenzo\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/julian-lorenzo/canvas-julian-lorenzo/julian-lorenzo-7/\"}, \"https://www.baseelements.net/shop/julian-lorenzo/limited-editions/45-x-45-cm-julian-lorenzo-le-1/\": {\"artista\": \"Julián Lorenzo\", \"estado\": \"disponible\", \"precio\": \"110,00€\", \"precio_num\": 110.0, \"titulo\": \"45 X 45 cm (Julian Lorenzo LE-1)\", \"url\": \"https://www.baseelements.net/shop/julian-lorenzo/limited-editions/45-x-45-cm-julian-lorenzo-le-1/\"}, \"https://www.baseelements.net/shop/julian-lorenzo/limited-editions/60-x-45-cm-julian-lorenzo-le-03/\": {\"artista\": \"Julián Lorenzo\", \"estado\": \"disponible\", \"precio\": \"110,00€\", \"precio_num\": 110.0, \"titulo\": \"60 x 45 cm (Julian Lorenzo LE-2)\", \"url\": \"https://www.baseelements.net/shop/julian-lorenzo/limited-editions/60-x-45-cm-julian-lorenzo-le-03/\"}, \"https://www.baseelements.net/shop/julian-lorenzo/limited-editions/60-x-45-cm-julian-lorenzo-le-2/\": {\"artista\": \"Julián Lorenzo\", \"estado\": \"disponible\", \"precio\": \"110,00€\", \"precio_num\": 110.0, \"titulo\": \"60 x 45 cm (Julian Lorenzo LE-3)\", \"url\": \"https://www.baseelements.net/shop/julian-lorenzo/limited-editions/60-x-45-cm-julian-lorenzo-le-2/\"}, \"https://www.baseelements.net/shop/julian-lorenzo/paper-julian-lorenzo/50-x-70-cm-julian-lorenzo-p-1/\": {\"artista\": \"Julián Lorenzo\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/julian-lorenzo/paper-julian-lorenzo/50-x-70-cm-julian-lorenzo-p-1/\"}, \"https://www.baseelements.net/shop/julian-lorenzo/paper-julian-lorenzo/50-x-70-cm-julian-lorenzo-p-2/\": {\"artista\": \"Julián Lorenzo\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/julian-lorenzo/paper-julian-lorenzo/50-x-70-cm-julian-lorenzo-p-2/\"}, \"https://www.baseelements.net/shop/julian-lorenzo/paper-julian-lorenzo/70-x-50-cm-julian-lorenzo-3/\": {\"artista\": \"Julián Lorenzo\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/julian-lorenzo/paper-julian-lorenzo/70-x-50-cm-julian-lorenzo-3/\"}, \"https://www.baseelements.net/shop/julian-lorenzo/paper-julian-lorenzo/70-x-50-cm-julian-lorenzo-p4/\": {\"artista\": \"Julián Lorenzo\", \"estado\": \"disponible\", \"precio\": \"590,00€\", \"precio_num\": 590.0, \"titulo\": \"70 x 50 cm (Julián Lorenzo-P4)\", \"url\": \"https://www.baseelements.net/shop/julian-lorenzo/paper-julian-lorenzo/70-x-50-cm-julian-lorenzo-p4/\"}}",
     "obras": {
       "https://www.baseelements.net/shop/julian-lorenzo/paper-julian-lorenzo/70-x-50-cm-julian-lorenzo-p4/": {
         "titulo": "70 x 50 cm (Julián Lorenzo-P4)",
-        "precio": "5,90€",
-        "precio_num": 5.9,
+        "precio": "590,00€",
+        "precio_num": 590.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/julian-lorenzo/paper-julian-lorenzo/70-x-50-cm-julian-lorenzo-p4/",
         "artista": "Julián Lorenzo"
@@ -2390,24 +2390,24 @@
       },
       "https://www.baseelements.net/shop/julian-lorenzo/limited-editions/60-x-45-cm-julian-lorenzo-le-2/": {
         "titulo": "60 x 45 cm (Julian Lorenzo LE-3)",
-        "precio": "1,10€",
-        "precio_num": 1.1,
+        "precio": "110,00€",
+        "precio_num": 110.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/julian-lorenzo/limited-editions/60-x-45-cm-julian-lorenzo-le-2/",
         "artista": "Julián Lorenzo"
       },
       "https://www.baseelements.net/shop/julian-lorenzo/limited-editions/60-x-45-cm-julian-lorenzo-le-03/": {
         "titulo": "60 x 45 cm (Julian Lorenzo LE-2)",
-        "precio": "1,10€",
-        "precio_num": 1.1,
+        "precio": "110,00€",
+        "precio_num": 110.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/julian-lorenzo/limited-editions/60-x-45-cm-julian-lorenzo-le-03/",
         "artista": "Julián Lorenzo"
       },
       "https://www.baseelements.net/shop/julian-lorenzo/limited-editions/45-x-45-cm-julian-lorenzo-le-1/": {
         "titulo": "45 X 45 cm (Julian Lorenzo LE-1)",
-        "precio": "1,10€",
-        "precio_num": 1.1,
+        "precio": "110,00€",
+        "precio_num": 110.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/julian-lorenzo/limited-editions/45-x-45-cm-julian-lorenzo-le-1/",
         "artista": "Julián Lorenzo"
@@ -2487,13 +2487,13 @@
     }
   },
   "Joan Tarragó": {
-    "hash": "5513dee09fa10b93144b59aae794bd1d",
-    "texto": "{\"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/100-x-100-cm-tarrago-3/\": {\"artista\": \"Joan Tarragó\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/100-x-100-cm-tarrago-3/\"}, \"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/100-x-100-cm-tarrago-8/\": {\"artista\": \"Joan Tarragó\", \"estado\": \"disponible\", \"precio\": \"25,00€\", \"precio_num\": 25.0, \"titulo\": \"100 x 100 cm (Tarragó-8)\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/100-x-100-cm-tarrago-8/\"}, \"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/150-x-150-cm-tarrago-9/\": {\"artista\": \"Joan Tarragó\", \"estado\": \"disponible\", \"precio\": \"38,00€\", \"precio_num\": 38.0, \"titulo\": \"150 X 150 cm (Tarragó-9)\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/150-x-150-cm-tarrago-9/\"}, \"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/180-x-180-cm-tarrago-12/\": {\"artista\": \"Joan Tarragó\", \"estado\": \"disponible\", \"precio\": \"45,00€\", \"precio_num\": 45.0, \"titulo\": \"180 x 180 cm (Tarragó-12)\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/180-x-180-cm-tarrago-12/\"}, \"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/70-x-70-cm-tarrago-10-2/\": {\"artista\": \"Joan Tarragó\", \"estado\": \"disponible\", \"precio\": \"14,00€\", \"precio_num\": 14.0, \"titulo\": \"70 X 70 cm (Tarragó-10)\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/70-x-70-cm-tarrago-10-2/\"}, \"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/70-x-70-cm-tarrago-10/\": {\"artista\": \"Joan Tarragó\", \"estado\": \"disponible\", \"precio\": \"14,00€\", \"precio_num\": 14.0, \"titulo\": \"70 X 70 cm (Tarragó-12)\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/70-x-70-cm-tarrago-10/\"}, \"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/70-x-70-cm-tarrago-11/\": {\"artista\": \"Joan Tarragó\", \"estado\": \"disponible\", \"precio\": \"14,00€\", \"precio_num\": 14.0, \"titulo\": \"70 X 70 cm (Tarragó-11)\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/70-x-70-cm-tarrago-11/\"}, \"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/90-x90-cm-tarrago-1/\": {\"artista\": \"Joan Tarragó\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/90-x90-cm-tarrago-1/\"}, \"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/97-cm-diameter-tarrago-2/\": {\"artista\": \"Joan Tarragó\", \"estado\": \"disponible\", \"precio\": \"25,00€\", \"precio_num\": 25.0, \"titulo\": \"97 cm  (Tarragó-2)\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/97-cm-diameter-tarrago-2/\"}, \"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/collaboration-soem-tarrago-1/\": {\"artista\": \"Joan Tarragó\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/collaboration-soem-tarrago-1/\"}, \"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/collaboration-soem-tarrago-2/\": {\"artista\": \"Joan Tarragó\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/collaboration-soem-tarrago-2/\"}, \"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/collaboration-soem-tarrago-3/\": {\"artista\": \"Joan Tarragó\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/collaboration-soem-tarrago-3/\"}, \"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/sold-10/\": {\"artista\": \"Joan Tarragó\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/sold-10/\"}, \"https://www.baseelements.net/shop/joan-tarrago/limited-editions-joan-tarrago/55-x-40-cm-joan-tarrago-p-3/\": {\"artista\": \"Joan Tarragó\", \"estado\": \"disponible\", \"precio\": \"1,90€\", \"precio_num\": 1.9, \"titulo\": \"55 x 40 cm (Joan Tarragó LE-7)\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/limited-editions-joan-tarrago/55-x-40-cm-joan-tarrago-p-3/\"}, \"https://www.baseelements.net/shop/joan-tarrago/limited-editions-joan-tarrago/605-x-40-cm-joan-tarrago-le-2/\": {\"artista\": \"Joan Tarragó\", \"estado\": \"disponible\", \"precio\": \"1,90€\", \"precio_num\": 1.9, \"titulo\": \"60,5 x 40 cm (Joan Tarragó LE-2)\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/limited-editions-joan-tarrago/605-x-40-cm-joan-tarrago-le-2/\"}, \"https://www.baseelements.net/shop/joan-tarrago/limited-editions-joan-tarrago/70-x-50-cm-joan-tarrago-le-3-2/\": {\"artista\": \"Joan Tarragó\", \"estado\": \"disponible\", \"precio\": \"1,90€\", \"precio_num\": 1.9, \"titulo\": \"70 x 50 cm (Joan Tarragó LE-4)\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/limited-editions-joan-tarrago/70-x-50-cm-joan-tarrago-le-3-2/\"}, \"https://www.baseelements.net/shop/joan-tarrago/limited-editions-joan-tarrago/83-x-22-cm-tarrago-sk8-1/\": {\"artista\": \"Joan Tarragó\", \"estado\": \"disponible\", \"precio\": \"2,90€\", \"precio_num\": 2.9, \"titulo\": \"83 X 22 cm (Tarragó SK8-1)\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/limited-editions-joan-tarrago/83-x-22-cm-tarrago-sk8-1/\"}, \"https://www.baseelements.net/shop/joan-tarrago/paper/100-x-70-cm-joan-tarrago-le-9/\": {\"artista\": \"Joan Tarragó\", \"estado\": \"disponible\", \"precio\": \"4,00€\", \"precio_num\": 4.0, \"titulo\": \"100 x 70 cm (Joan Tarragó P-3)\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/paper/100-x-70-cm-joan-tarrago-le-9/\"}, \"https://www.baseelements.net/shop/joan-tarrago/paper/50-x-70-cm-joan-tarrago-p-11/\": {\"artista\": \"Joan Tarragó\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/paper/50-x-70-cm-joan-tarrago-p-11/\"}, \"https://www.baseelements.net/shop/joan-tarrago/paper/50-x-70-cm-joan-tarrago-p-12/\": {\"artista\": \"Joan Tarragó\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/paper/50-x-70-cm-joan-tarrago-p-12/\"}, \"https://www.baseelements.net/shop/joan-tarrago/paper/50-x-70-cm-joan-tarrago-p-13/\": {\"artista\": \"Joan Tarragó\", \"estado\": \"disponible\", \"precio\": \"3,50€\", \"precio_num\": 3.5, \"titulo\": \"50 x 70 cm (Joan Tarragó P-13)\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/paper/50-x-70-cm-joan-tarrago-p-13/\"}, \"https://www.baseelements.net/shop/joan-tarrago/paper/50-x-70-cm-joan-tarrago-p-4/\": {\"artista\": \"Joan Tarragó\", \"estado\": \"disponible\", \"precio\": \"3,90€\", \"precio_num\": 3.9, \"titulo\": \"70 x 50 cm (Joan Tarragó P-4)\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/paper/50-x-70-cm-joan-tarrago-p-4/\"}, \"https://www.baseelements.net/shop/joan-tarrago/paper/50-x-70-cm-joan-tarrago-p-9/\": {\"artista\": \"Joan Tarragó\", \"estado\": \"disponible\", \"precio\": \"3,50€\", \"precio_num\": 3.5, \"titulo\": \"50 x 70 cm (Joan Tarragó P-9)\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/paper/50-x-70-cm-joan-tarrago-p-9/\"}, \"https://www.baseelements.net/shop/joan-tarrago/paper/65-x-50-cm-joan-tarrago-p-1/\": {\"artista\": \"Joan Tarragó\", \"estado\": \"disponible\", \"precio\": \"3,90€\", \"precio_num\": 3.9, \"titulo\": \"65 x 50 cm (Joan Tarragó P-1)\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/paper/65-x-50-cm-joan-tarrago-p-1/\"}, \"https://www.baseelements.net/shop/joan-tarrago/paper/65-x-50-cm-joan-tarrago-p-2/\": {\"artista\": \"Joan Tarragó\", \"estado\": \"disponible\", \"precio\": \"3,90€\", \"precio_num\": 3.9, \"titulo\": \"65 x 50 cm (Joan Tarragó P-2)\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/paper/65-x-50-cm-joan-tarrago-p-2/\"}, \"https://www.baseelements.net/shop/joan-tarrago/paper/70-x-50-cm-joan-tarrago-p-10/\": {\"artista\": \"Joan Tarragó\", \"estado\": \"disponible\", \"precio\": \"3,50€\", \"precio_num\": 3.5, \"titulo\": \"70 x 50 cm (Joan Tarragó P-10)\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/paper/70-x-50-cm-joan-tarrago-p-10/\"}, \"https://www.baseelements.net/shop/joan-tarrago/paper/70-x-50-cm-joan-tarrago-p-5/\": {\"artista\": \"Joan Tarragó\", \"estado\": \"disponible\", \"precio\": \"3,90€\", \"precio_num\": 3.9, \"titulo\": \"70 x 50 cm (Joan Tarragó P-5)\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/paper/70-x-50-cm-joan-tarrago-p-5/\"}, \"https://www.baseelements.net/shop/joan-tarrago/paper/70-x-50-cm-joan-tarrago-p-6/\": {\"artista\": \"Joan Tarragó\", \"estado\": \"disponible\", \"precio\": \"3,90€\", \"precio_num\": 3.9, \"titulo\": \"70 x 50 cm (Joan Tarragó P-6)\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/paper/70-x-50-cm-joan-tarrago-p-6/\"}, \"https://www.baseelements.net/shop/joan-tarrago/paper/70-x-50-cm-joan-tarrago-p-7/\": {\"artista\": \"Joan Tarragó\", \"estado\": \"disponible\", \"precio\": \"3,90€\", \"precio_num\": 3.9, \"titulo\": \"70 x 50 cm (Joan Tarragó P-7)\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/paper/70-x-50-cm-joan-tarrago-p-7/\"}, \"https://www.baseelements.net/shop/joan-tarrago/paper/70-x-50-cm-joan-tarrago-p-8/\": {\"artista\": \"Joan Tarragó\", \"estado\": \"disponible\", \"precio\": \"3,90€\", \"precio_num\": 3.9, \"titulo\": \"70 x 50 cm (Joan Tarragó P-8)\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/paper/70-x-50-cm-joan-tarrago-p-8/\"}}",
+    "hash": "331ef260be394c0a01b4ef810bc82f86",
+    "texto": "{\"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/100-x-100-cm-tarrago-3/\": {\"artista\": \"Joan Tarragó\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/100-x-100-cm-tarrago-3/\"}, \"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/100-x-100-cm-tarrago-8/\": {\"artista\": \"Joan Tarragó\", \"estado\": \"disponible\", \"precio\": \"2.500,00€\", \"precio_num\": 2500.0, \"titulo\": \"100 x 100 cm (Tarragó-8)\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/100-x-100-cm-tarrago-8/\"}, \"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/150-x-150-cm-tarrago-9/\": {\"artista\": \"Joan Tarragó\", \"estado\": \"disponible\", \"precio\": \"3.800,00€\", \"precio_num\": 3800.0, \"titulo\": \"150 X 150 cm (Tarragó-9)\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/150-x-150-cm-tarrago-9/\"}, \"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/180-x-180-cm-tarrago-12/\": {\"artista\": \"Joan Tarragó\", \"estado\": \"disponible\", \"precio\": \"4.500,00€\", \"precio_num\": 4500.0, \"titulo\": \"180 x 180 cm (Tarragó-12)\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/180-x-180-cm-tarrago-12/\"}, \"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/70-x-70-cm-tarrago-10-2/\": {\"artista\": \"Joan Tarragó\", \"estado\": \"disponible\", \"precio\": \"1.400,00€\", \"precio_num\": 1400.0, \"titulo\": \"70 X 70 cm (Tarragó-10)\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/70-x-70-cm-tarrago-10-2/\"}, \"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/70-x-70-cm-tarrago-10/\": {\"artista\": \"Joan Tarragó\", \"estado\": \"disponible\", \"precio\": \"1.400,00€\", \"precio_num\": 1400.0, \"titulo\": \"70 X 70 cm (Tarragó-12)\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/70-x-70-cm-tarrago-10/\"}, \"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/70-x-70-cm-tarrago-11/\": {\"artista\": \"Joan Tarragó\", \"estado\": \"disponible\", \"precio\": \"1.400,00€\", \"precio_num\": 1400.0, \"titulo\": \"70 X 70 cm (Tarragó-11)\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/70-x-70-cm-tarrago-11/\"}, \"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/90-x90-cm-tarrago-1/\": {\"artista\": \"Joan Tarragó\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/90-x90-cm-tarrago-1/\"}, \"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/97-cm-diameter-tarrago-2/\": {\"artista\": \"Joan Tarragó\", \"estado\": \"disponible\", \"precio\": \"2.500,00€\", \"precio_num\": 2500.0, \"titulo\": \"97 cm  (Tarragó-2)\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/97-cm-diameter-tarrago-2/\"}, \"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/collaboration-soem-tarrago-1/\": {\"artista\": \"Joan Tarragó\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/collaboration-soem-tarrago-1/\"}, \"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/collaboration-soem-tarrago-2/\": {\"artista\": \"Joan Tarragó\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/collaboration-soem-tarrago-2/\"}, \"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/collaboration-soem-tarrago-3/\": {\"artista\": \"Joan Tarragó\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/collaboration-soem-tarrago-3/\"}, \"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/sold-10/\": {\"artista\": \"Joan Tarragó\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/sold-10/\"}, \"https://www.baseelements.net/shop/joan-tarrago/limited-editions-joan-tarrago/55-x-40-cm-joan-tarrago-p-3/\": {\"artista\": \"Joan Tarragó\", \"estado\": \"disponible\", \"precio\": \"190,00€\", \"precio_num\": 190.0, \"titulo\": \"55 x 40 cm (Joan Tarragó LE-7)\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/limited-editions-joan-tarrago/55-x-40-cm-joan-tarrago-p-3/\"}, \"https://www.baseelements.net/shop/joan-tarrago/limited-editions-joan-tarrago/605-x-40-cm-joan-tarrago-le-2/\": {\"artista\": \"Joan Tarragó\", \"estado\": \"disponible\", \"precio\": \"190,00€\", \"precio_num\": 190.0, \"titulo\": \"60,5 x 40 cm (Joan Tarragó LE-2)\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/limited-editions-joan-tarrago/605-x-40-cm-joan-tarrago-le-2/\"}, \"https://www.baseelements.net/shop/joan-tarrago/limited-editions-joan-tarrago/70-x-50-cm-joan-tarrago-le-3-2/\": {\"artista\": \"Joan Tarragó\", \"estado\": \"disponible\", \"precio\": \"190,00€\", \"precio_num\": 190.0, \"titulo\": \"70 x 50 cm (Joan Tarragó LE-4)\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/limited-editions-joan-tarrago/70-x-50-cm-joan-tarrago-le-3-2/\"}, \"https://www.baseelements.net/shop/joan-tarrago/limited-editions-joan-tarrago/83-x-22-cm-tarrago-sk8-1/\": {\"artista\": \"Joan Tarragó\", \"estado\": \"disponible\", \"precio\": \"290,00€\", \"precio_num\": 290.0, \"titulo\": \"83 X 22 cm (Tarragó SK8-1)\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/limited-editions-joan-tarrago/83-x-22-cm-tarrago-sk8-1/\"}, \"https://www.baseelements.net/shop/joan-tarrago/paper/100-x-70-cm-joan-tarrago-le-9/\": {\"artista\": \"Joan Tarragó\", \"estado\": \"disponible\", \"precio\": \"400,00€\", \"precio_num\": 400.0, \"titulo\": \"100 x 70 cm (Joan Tarragó P-3)\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/paper/100-x-70-cm-joan-tarrago-le-9/\"}, \"https://www.baseelements.net/shop/joan-tarrago/paper/50-x-70-cm-joan-tarrago-p-11/\": {\"artista\": \"Joan Tarragó\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/paper/50-x-70-cm-joan-tarrago-p-11/\"}, \"https://www.baseelements.net/shop/joan-tarrago/paper/50-x-70-cm-joan-tarrago-p-12/\": {\"artista\": \"Joan Tarragó\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/paper/50-x-70-cm-joan-tarrago-p-12/\"}, \"https://www.baseelements.net/shop/joan-tarrago/paper/50-x-70-cm-joan-tarrago-p-13/\": {\"artista\": \"Joan Tarragó\", \"estado\": \"disponible\", \"precio\": \"350,00€\", \"precio_num\": 350.0, \"titulo\": \"50 x 70 cm (Joan Tarragó P-13)\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/paper/50-x-70-cm-joan-tarrago-p-13/\"}, \"https://www.baseelements.net/shop/joan-tarrago/paper/50-x-70-cm-joan-tarrago-p-4/\": {\"artista\": \"Joan Tarragó\", \"estado\": \"disponible\", \"precio\": \"390,00€\", \"precio_num\": 390.0, \"titulo\": \"70 x 50 cm (Joan Tarragó P-4)\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/paper/50-x-70-cm-joan-tarrago-p-4/\"}, \"https://www.baseelements.net/shop/joan-tarrago/paper/50-x-70-cm-joan-tarrago-p-9/\": {\"artista\": \"Joan Tarragó\", \"estado\": \"disponible\", \"precio\": \"350,00€\", \"precio_num\": 350.0, \"titulo\": \"50 x 70 cm (Joan Tarragó P-9)\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/paper/50-x-70-cm-joan-tarrago-p-9/\"}, \"https://www.baseelements.net/shop/joan-tarrago/paper/65-x-50-cm-joan-tarrago-p-1/\": {\"artista\": \"Joan Tarragó\", \"estado\": \"disponible\", \"precio\": \"390,00€\", \"precio_num\": 390.0, \"titulo\": \"65 x 50 cm (Joan Tarragó P-1)\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/paper/65-x-50-cm-joan-tarrago-p-1/\"}, \"https://www.baseelements.net/shop/joan-tarrago/paper/65-x-50-cm-joan-tarrago-p-2/\": {\"artista\": \"Joan Tarragó\", \"estado\": \"disponible\", \"precio\": \"390,00€\", \"precio_num\": 390.0, \"titulo\": \"65 x 50 cm (Joan Tarragó P-2)\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/paper/65-x-50-cm-joan-tarrago-p-2/\"}, \"https://www.baseelements.net/shop/joan-tarrago/paper/70-x-50-cm-joan-tarrago-p-10/\": {\"artista\": \"Joan Tarragó\", \"estado\": \"disponible\", \"precio\": \"350,00€\", \"precio_num\": 350.0, \"titulo\": \"70 x 50 cm (Joan Tarragó P-10)\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/paper/70-x-50-cm-joan-tarrago-p-10/\"}, \"https://www.baseelements.net/shop/joan-tarrago/paper/70-x-50-cm-joan-tarrago-p-5/\": {\"artista\": \"Joan Tarragó\", \"estado\": \"disponible\", \"precio\": \"390,00€\", \"precio_num\": 390.0, \"titulo\": \"70 x 50 cm (Joan Tarragó P-5)\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/paper/70-x-50-cm-joan-tarrago-p-5/\"}, \"https://www.baseelements.net/shop/joan-tarrago/paper/70-x-50-cm-joan-tarrago-p-6/\": {\"artista\": \"Joan Tarragó\", \"estado\": \"disponible\", \"precio\": \"390,00€\", \"precio_num\": 390.0, \"titulo\": \"70 x 50 cm (Joan Tarragó P-6)\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/paper/70-x-50-cm-joan-tarrago-p-6/\"}, \"https://www.baseelements.net/shop/joan-tarrago/paper/70-x-50-cm-joan-tarrago-p-7/\": {\"artista\": \"Joan Tarragó\", \"estado\": \"disponible\", \"precio\": \"390,00€\", \"precio_num\": 390.0, \"titulo\": \"70 x 50 cm (Joan Tarragó P-7)\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/paper/70-x-50-cm-joan-tarrago-p-7/\"}, \"https://www.baseelements.net/shop/joan-tarrago/paper/70-x-50-cm-joan-tarrago-p-8/\": {\"artista\": \"Joan Tarragó\", \"estado\": \"disponible\", \"precio\": \"390,00€\", \"precio_num\": 390.0, \"titulo\": \"70 x 50 cm (Joan Tarragó P-8)\", \"url\": \"https://www.baseelements.net/shop/joan-tarrago/paper/70-x-50-cm-joan-tarrago-p-8/\"}}",
     "obras": {
       "https://www.baseelements.net/shop/joan-tarrago/paper/50-x-70-cm-joan-tarrago-p-13/": {
         "titulo": "50 x 70 cm (Joan Tarragó P-13)",
-        "precio": "3,50€",
-        "precio_num": 3.5,
+        "precio": "350,00€",
+        "precio_num": 350.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/joan-tarrago/paper/50-x-70-cm-joan-tarrago-p-13/",
         "artista": "Joan Tarragó"
@@ -2516,128 +2516,128 @@
       },
       "https://www.baseelements.net/shop/joan-tarrago/paper/70-x-50-cm-joan-tarrago-p-10/": {
         "titulo": "70 x 50 cm (Joan Tarragó P-10)",
-        "precio": "3,50€",
-        "precio_num": 3.5,
+        "precio": "350,00€",
+        "precio_num": 350.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/joan-tarrago/paper/70-x-50-cm-joan-tarrago-p-10/",
         "artista": "Joan Tarragó"
       },
       "https://www.baseelements.net/shop/joan-tarrago/paper/50-x-70-cm-joan-tarrago-p-9/": {
         "titulo": "50 x 70 cm (Joan Tarragó P-9)",
-        "precio": "3,50€",
-        "precio_num": 3.5,
+        "precio": "350,00€",
+        "precio_num": 350.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/joan-tarrago/paper/50-x-70-cm-joan-tarrago-p-9/",
         "artista": "Joan Tarragó"
       },
       "https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/180-x-180-cm-tarrago-12/": {
         "titulo": "180 x 180 cm (Tarragó-12)",
-        "precio": "45,00€",
-        "precio_num": 45.0,
+        "precio": "4.500,00€",
+        "precio_num": 4500.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/180-x-180-cm-tarrago-12/",
         "artista": "Joan Tarragó"
       },
       "https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/70-x-70-cm-tarrago-11/": {
         "titulo": "70 X 70 cm (Tarragó-11)",
-        "precio": "14,00€",
-        "precio_num": 14.0,
+        "precio": "1.400,00€",
+        "precio_num": 1400.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/70-x-70-cm-tarrago-11/",
         "artista": "Joan Tarragó"
       },
       "https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/70-x-70-cm-tarrago-10-2/": {
         "titulo": "70 X 70 cm (Tarragó-10)",
-        "precio": "14,00€",
-        "precio_num": 14.0,
+        "precio": "1.400,00€",
+        "precio_num": 1400.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/70-x-70-cm-tarrago-10-2/",
         "artista": "Joan Tarragó"
       },
       "https://www.baseelements.net/shop/joan-tarrago/limited-editions-joan-tarrago/83-x-22-cm-tarrago-sk8-1/": {
         "titulo": "83 X 22 cm (Tarragó SK8-1)",
-        "precio": "2,90€",
-        "precio_num": 2.9,
+        "precio": "290,00€",
+        "precio_num": 290.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/joan-tarrago/limited-editions-joan-tarrago/83-x-22-cm-tarrago-sk8-1/",
         "artista": "Joan Tarragó"
       },
       "https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/70-x-70-cm-tarrago-10/": {
         "titulo": "70 X 70 cm (Tarragó-12)",
-        "precio": "14,00€",
-        "precio_num": 14.0,
+        "precio": "1.400,00€",
+        "precio_num": 1400.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/70-x-70-cm-tarrago-10/",
         "artista": "Joan Tarragó"
       },
       "https://www.baseelements.net/shop/joan-tarrago/paper/70-x-50-cm-joan-tarrago-p-8/": {
         "titulo": "70 x 50 cm (Joan Tarragó P-8)",
-        "precio": "3,90€",
-        "precio_num": 3.9,
+        "precio": "390,00€",
+        "precio_num": 390.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/joan-tarrago/paper/70-x-50-cm-joan-tarrago-p-8/",
         "artista": "Joan Tarragó"
       },
       "https://www.baseelements.net/shop/joan-tarrago/paper/70-x-50-cm-joan-tarrago-p-7/": {
         "titulo": "70 x 50 cm (Joan Tarragó P-7)",
-        "precio": "3,90€",
-        "precio_num": 3.9,
+        "precio": "390,00€",
+        "precio_num": 390.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/joan-tarrago/paper/70-x-50-cm-joan-tarrago-p-7/",
         "artista": "Joan Tarragó"
       },
       "https://www.baseelements.net/shop/joan-tarrago/paper/70-x-50-cm-joan-tarrago-p-6/": {
         "titulo": "70 x 50 cm (Joan Tarragó P-6)",
-        "precio": "3,90€",
-        "precio_num": 3.9,
+        "precio": "390,00€",
+        "precio_num": 390.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/joan-tarrago/paper/70-x-50-cm-joan-tarrago-p-6/",
         "artista": "Joan Tarragó"
       },
       "https://www.baseelements.net/shop/joan-tarrago/paper/70-x-50-cm-joan-tarrago-p-5/": {
         "titulo": "70 x 50 cm (Joan Tarragó P-5)",
-        "precio": "3,90€",
-        "precio_num": 3.9,
+        "precio": "390,00€",
+        "precio_num": 390.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/joan-tarrago/paper/70-x-50-cm-joan-tarrago-p-5/",
         "artista": "Joan Tarragó"
       },
       "https://www.baseelements.net/shop/joan-tarrago/paper/50-x-70-cm-joan-tarrago-p-4/": {
         "titulo": "70 x 50 cm (Joan Tarragó P-4)",
-        "precio": "3,90€",
-        "precio_num": 3.9,
+        "precio": "390,00€",
+        "precio_num": 390.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/joan-tarrago/paper/50-x-70-cm-joan-tarrago-p-4/",
         "artista": "Joan Tarragó"
       },
       "https://www.baseelements.net/shop/joan-tarrago/paper/100-x-70-cm-joan-tarrago-le-9/": {
         "titulo": "100 x 70 cm (Joan Tarragó P-3)",
-        "precio": "4,00€",
-        "precio_num": 4.0,
+        "precio": "400,00€",
+        "precio_num": 400.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/joan-tarrago/paper/100-x-70-cm-joan-tarrago-le-9/",
         "artista": "Joan Tarragó"
       },
       "https://www.baseelements.net/shop/joan-tarrago/limited-editions-joan-tarrago/55-x-40-cm-joan-tarrago-p-3/": {
         "titulo": "55 x 40 cm (Joan Tarragó LE-7)",
-        "precio": "1,90€",
-        "precio_num": 1.9,
+        "precio": "190,00€",
+        "precio_num": 190.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/joan-tarrago/limited-editions-joan-tarrago/55-x-40-cm-joan-tarrago-p-3/",
         "artista": "Joan Tarragó"
       },
       "https://www.baseelements.net/shop/joan-tarrago/paper/65-x-50-cm-joan-tarrago-p-2/": {
         "titulo": "65 x 50 cm (Joan Tarragó P-2)",
-        "precio": "3,90€",
-        "precio_num": 3.9,
+        "precio": "390,00€",
+        "precio_num": 390.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/joan-tarrago/paper/65-x-50-cm-joan-tarrago-p-2/",
         "artista": "Joan Tarragó"
       },
       "https://www.baseelements.net/shop/joan-tarrago/paper/65-x-50-cm-joan-tarrago-p-1/": {
         "titulo": "65 x 50 cm (Joan Tarragó P-1)",
-        "precio": "3,90€",
-        "precio_num": 3.9,
+        "precio": "390,00€",
+        "precio_num": 390.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/joan-tarrago/paper/65-x-50-cm-joan-tarrago-p-1/",
         "artista": "Joan Tarragó"
@@ -2676,32 +2676,32 @@
       },
       "https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/150-x-150-cm-tarrago-9/": {
         "titulo": "150 X 150 cm (Tarragó-9)",
-        "precio": "38,00€",
-        "precio_num": 38.0,
+        "precio": "3.800,00€",
+        "precio_num": 3800.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/150-x-150-cm-tarrago-9/",
         "artista": "Joan Tarragó"
       },
       "https://www.baseelements.net/shop/joan-tarrago/limited-editions-joan-tarrago/70-x-50-cm-joan-tarrago-le-3-2/": {
         "titulo": "70 x 50 cm (Joan Tarragó LE-4)",
-        "precio": "1,90€",
-        "precio_num": 1.9,
+        "precio": "190,00€",
+        "precio_num": 190.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/joan-tarrago/limited-editions-joan-tarrago/70-x-50-cm-joan-tarrago-le-3-2/",
         "artista": "Joan Tarragó"
       },
       "https://www.baseelements.net/shop/joan-tarrago/limited-editions-joan-tarrago/605-x-40-cm-joan-tarrago-le-2/": {
         "titulo": "60,5 x 40 cm (Joan Tarragó LE-2)",
-        "precio": "1,90€",
-        "precio_num": 1.9,
+        "precio": "190,00€",
+        "precio_num": 190.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/joan-tarrago/limited-editions-joan-tarrago/605-x-40-cm-joan-tarrago-le-2/",
         "artista": "Joan Tarragó"
       },
       "https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/100-x-100-cm-tarrago-8/": {
         "titulo": "100 x 100 cm (Tarragó-8)",
-        "precio": "25,00€",
-        "precio_num": 25.0,
+        "precio": "2.500,00€",
+        "precio_num": 2500.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/100-x-100-cm-tarrago-8/",
         "artista": "Joan Tarragó"
@@ -2716,8 +2716,8 @@
       },
       "https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/97-cm-diameter-tarrago-2/": {
         "titulo": "97 cm  (Tarragó-2)",
-        "precio": "25,00€",
-        "precio_num": 25.0,
+        "precio": "2.500,00€",
+        "precio_num": 2500.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/97-cm-diameter-tarrago-2/",
         "artista": "Joan Tarragó"
@@ -2733,93 +2733,93 @@
     }
   },
   "Zosen": {
-    "hash": "e0718c00a4af58a45246c04f6f5ee1d8",
-    "texto": "{\"https://www.baseelements.net/shop/zosen/canvas-zosen/60-x-70-cm-zsn-007/\": {\"artista\": \"Zosen\", \"estado\": \"disponible\", \"precio\": \"14,00€\", \"precio_num\": 14.0, \"titulo\": \"60 x 70 cm (Zosen-1)\", \"url\": \"https://www.baseelements.net/shop/zosen/canvas-zosen/60-x-70-cm-zsn-007/\"}, \"https://www.baseelements.net/shop/zosen/canvas-zosen/70-x-70-cm-zosen-3/\": {\"artista\": \"Zosen\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/zosen/canvas-zosen/70-x-70-cm-zosen-3/\"}, \"https://www.baseelements.net/shop/zosen/canvas-zosen/71-x-101-cm-collaboration-el-pez-zosen/\": {\"artista\": \"Zosen\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/zosen/canvas-zosen/71-x-101-cm-collaboration-el-pez-zosen/\"}, \"https://www.baseelements.net/shop/zosen/canvas-zosen/73-x-54-cm-zosen-7/\": {\"artista\": \"Zosen\", \"estado\": \"disponible\", \"precio\": \"15,00€\", \"precio_num\": 15.0, \"titulo\": \"73 x 54 cm (Zosen-7)\", \"url\": \"https://www.baseelements.net/shop/zosen/canvas-zosen/73-x-54-cm-zosen-7/\"}, \"https://www.baseelements.net/shop/zosen/canvas-zosen/73-x-92-cm-zosen-6/\": {\"artista\": \"Zosen\", \"estado\": \"disponible\", \"precio\": \"25,00€\", \"precio_num\": 25.0, \"titulo\": \"73 x 92 cm (Zosen-6)\", \"url\": \"https://www.baseelements.net/shop/zosen/canvas-zosen/73-x-92-cm-zosen-6/\"}, \"https://www.baseelements.net/shop/zosen/canvas-zosen/86-x-73-cm-zosen-4/\": {\"artista\": \"Zosen\", \"estado\": \"disponible\", \"precio\": \"25,00€\", \"precio_num\": 25.0, \"titulo\": \"86 x 73 cm (Zosen-4)\", \"url\": \"https://www.baseelements.net/shop/zosen/canvas-zosen/86-x-73-cm-zosen-4/\"}, \"https://www.baseelements.net/shop/zosen/canvas-zosen/90-x-73-cm-zosen-5/\": {\"artista\": \"Zosen\", \"estado\": \"disponible\", \"precio\": \"25,00€\", \"precio_num\": 25.0, \"titulo\": \"90 x 73 cm (Zosen-5)\", \"url\": \"https://www.baseelements.net/shop/zosen/canvas-zosen/90-x-73-cm-zosen-5/\"}, \"https://www.baseelements.net/shop/zosen/canvas-zosen/zsn-008/\": {\"artista\": \"Zosen\", \"estado\": \"disponible\", \"precio\": \"14,00€\", \"precio_num\": 14.0, \"titulo\": \"60 x 73 cm (Zosen-2)\", \"url\": \"https://www.baseelements.net/shop/zosen/canvas-zosen/zsn-008/\"}, \"https://www.baseelements.net/shop/zosen/limited-editions-zosen/59-x-42-cm-zosen-mina-hamada-le-1/\": {\"artista\": \"Zosen\", \"estado\": \"disponible\", \"precio\": \"1,65€\", \"precio_num\": 1.65, \"titulo\": \"59 x 42 cm (Zosen &#038; Mina Hamada LE-1)\", \"url\": \"https://www.baseelements.net/shop/zosen/limited-editions-zosen/59-x-42-cm-zosen-mina-hamada-le-1/\"}, \"https://www.baseelements.net/shop/zosen/limited-editions-zosen/70-x-50-cm-zosen-le-2/\": {\"artista\": \"Zosen\", \"estado\": \"disponible\", \"precio\": \"1,65€\", \"precio_num\": 1.65, \"titulo\": \"70 x 50 cm (Zosen LE-2)\", \"url\": \"https://www.baseelements.net/shop/zosen/limited-editions-zosen/70-x-50-cm-zosen-le-2/\"}, \"https://www.baseelements.net/shop/zosen/limited-editions-zosen/70-x-50-cm-zosen-le-3/\": {\"artista\": \"Zosen\", \"estado\": \"disponible\", \"precio\": \"1,60€\", \"precio_num\": 1.6, \"titulo\": \"70 x 50 cm (Zosen LE-3)\", \"url\": \"https://www.baseelements.net/shop/zosen/limited-editions-zosen/70-x-50-cm-zosen-le-3/\"}, \"https://www.baseelements.net/shop/zosen/zosen-paper/70-x-50-cm-zosen-le-4/\": {\"artista\": \"Zosen\", \"estado\": \"disponible\", \"precio\": \"5,25€\", \"precio_num\": 5.25, \"titulo\": \"50 x 70 cm (Zosen P-1)\", \"url\": \"https://www.baseelements.net/shop/zosen/zosen-paper/70-x-50-cm-zosen-le-4/\"}, \"https://www.baseelements.net/shop/zosen/zosen-paper/70-x-50-cm-zosen-p-2-2/\": {\"artista\": \"Zosen\", \"estado\": \"disponible\", \"precio\": \"5,25€\", \"precio_num\": 5.25, \"titulo\": \"70 x 50 cm (Zosen P-2)\", \"url\": \"https://www.baseelements.net/shop/zosen/zosen-paper/70-x-50-cm-zosen-p-2-2/\"}, \"https://www.baseelements.net/shop/zosen/zosen-paper/70-x-50-cm-zosen-p-3/\": {\"artista\": \"Zosen\", \"estado\": \"disponible\", \"precio\": \"5,25€\", \"precio_num\": 5.25, \"titulo\": \"70 x 50 cm (Zosen P-3)\", \"url\": \"https://www.baseelements.net/shop/zosen/zosen-paper/70-x-50-cm-zosen-p-3/\"}, \"https://www.baseelements.net/shop/zosen/zosen-paper/70-x-50-cm-zosen-p-4/\": {\"artista\": \"Zosen\", \"estado\": \"disponible\", \"precio\": \"5,25€\", \"precio_num\": 5.25, \"titulo\": \"70 x 50 cm (Zosen P-4)\", \"url\": \"https://www.baseelements.net/shop/zosen/zosen-paper/70-x-50-cm-zosen-p-4/\"}}",
+    "hash": "83f509f24d866261f2c6dc27086d9f02",
+    "texto": "{\"https://www.baseelements.net/shop/zosen/canvas-zosen/60-x-70-cm-zsn-007/\": {\"artista\": \"Zosen\", \"estado\": \"disponible\", \"precio\": \"1.400,00€\", \"precio_num\": 1400.0, \"titulo\": \"60 x 70 cm (Zosen-1)\", \"url\": \"https://www.baseelements.net/shop/zosen/canvas-zosen/60-x-70-cm-zsn-007/\"}, \"https://www.baseelements.net/shop/zosen/canvas-zosen/70-x-70-cm-zosen-3/\": {\"artista\": \"Zosen\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/zosen/canvas-zosen/70-x-70-cm-zosen-3/\"}, \"https://www.baseelements.net/shop/zosen/canvas-zosen/71-x-101-cm-collaboration-el-pez-zosen/\": {\"artista\": \"Zosen\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/zosen/canvas-zosen/71-x-101-cm-collaboration-el-pez-zosen/\"}, \"https://www.baseelements.net/shop/zosen/canvas-zosen/73-x-54-cm-zosen-7/\": {\"artista\": \"Zosen\", \"estado\": \"disponible\", \"precio\": \"1.500,00€\", \"precio_num\": 1500.0, \"titulo\": \"73 x 54 cm (Zosen-7)\", \"url\": \"https://www.baseelements.net/shop/zosen/canvas-zosen/73-x-54-cm-zosen-7/\"}, \"https://www.baseelements.net/shop/zosen/canvas-zosen/73-x-92-cm-zosen-6/\": {\"artista\": \"Zosen\", \"estado\": \"disponible\", \"precio\": \"2.500,00€\", \"precio_num\": 2500.0, \"titulo\": \"73 x 92 cm (Zosen-6)\", \"url\": \"https://www.baseelements.net/shop/zosen/canvas-zosen/73-x-92-cm-zosen-6/\"}, \"https://www.baseelements.net/shop/zosen/canvas-zosen/86-x-73-cm-zosen-4/\": {\"artista\": \"Zosen\", \"estado\": \"disponible\", \"precio\": \"2.500,00€\", \"precio_num\": 2500.0, \"titulo\": \"86 x 73 cm (Zosen-4)\", \"url\": \"https://www.baseelements.net/shop/zosen/canvas-zosen/86-x-73-cm-zosen-4/\"}, \"https://www.baseelements.net/shop/zosen/canvas-zosen/90-x-73-cm-zosen-5/\": {\"artista\": \"Zosen\", \"estado\": \"disponible\", \"precio\": \"2.500,00€\", \"precio_num\": 2500.0, \"titulo\": \"90 x 73 cm (Zosen-5)\", \"url\": \"https://www.baseelements.net/shop/zosen/canvas-zosen/90-x-73-cm-zosen-5/\"}, \"https://www.baseelements.net/shop/zosen/canvas-zosen/zsn-008/\": {\"artista\": \"Zosen\", \"estado\": \"disponible\", \"precio\": \"1.400,00€\", \"precio_num\": 1400.0, \"titulo\": \"60 x 73 cm (Zosen-2)\", \"url\": \"https://www.baseelements.net/shop/zosen/canvas-zosen/zsn-008/\"}, \"https://www.baseelements.net/shop/zosen/limited-editions-zosen/59-x-42-cm-zosen-mina-hamada-le-1/\": {\"artista\": \"Zosen\", \"estado\": \"disponible\", \"precio\": \"165,00€\", \"precio_num\": 165.0, \"titulo\": \"59 x 42 cm (Zosen &#038; Mina Hamada LE-1)\", \"url\": \"https://www.baseelements.net/shop/zosen/limited-editions-zosen/59-x-42-cm-zosen-mina-hamada-le-1/\"}, \"https://www.baseelements.net/shop/zosen/limited-editions-zosen/70-x-50-cm-zosen-le-2/\": {\"artista\": \"Zosen\", \"estado\": \"disponible\", \"precio\": \"165,00€\", \"precio_num\": 165.0, \"titulo\": \"70 x 50 cm (Zosen LE-2)\", \"url\": \"https://www.baseelements.net/shop/zosen/limited-editions-zosen/70-x-50-cm-zosen-le-2/\"}, \"https://www.baseelements.net/shop/zosen/limited-editions-zosen/70-x-50-cm-zosen-le-3/\": {\"artista\": \"Zosen\", \"estado\": \"disponible\", \"precio\": \"160,00€\", \"precio_num\": 160.0, \"titulo\": \"70 x 50 cm (Zosen LE-3)\", \"url\": \"https://www.baseelements.net/shop/zosen/limited-editions-zosen/70-x-50-cm-zosen-le-3/\"}, \"https://www.baseelements.net/shop/zosen/zosen-paper/70-x-50-cm-zosen-le-4/\": {\"artista\": \"Zosen\", \"estado\": \"disponible\", \"precio\": \"525,00€\", \"precio_num\": 525.0, \"titulo\": \"50 x 70 cm (Zosen P-1)\", \"url\": \"https://www.baseelements.net/shop/zosen/zosen-paper/70-x-50-cm-zosen-le-4/\"}, \"https://www.baseelements.net/shop/zosen/zosen-paper/70-x-50-cm-zosen-p-2-2/\": {\"artista\": \"Zosen\", \"estado\": \"disponible\", \"precio\": \"525,00€\", \"precio_num\": 525.0, \"titulo\": \"70 x 50 cm (Zosen P-2)\", \"url\": \"https://www.baseelements.net/shop/zosen/zosen-paper/70-x-50-cm-zosen-p-2-2/\"}, \"https://www.baseelements.net/shop/zosen/zosen-paper/70-x-50-cm-zosen-p-3/\": {\"artista\": \"Zosen\", \"estado\": \"disponible\", \"precio\": \"525,00€\", \"precio_num\": 525.0, \"titulo\": \"70 x 50 cm (Zosen P-3)\", \"url\": \"https://www.baseelements.net/shop/zosen/zosen-paper/70-x-50-cm-zosen-p-3/\"}, \"https://www.baseelements.net/shop/zosen/zosen-paper/70-x-50-cm-zosen-p-4/\": {\"artista\": \"Zosen\", \"estado\": \"disponible\", \"precio\": \"525,00€\", \"precio_num\": 525.0, \"titulo\": \"70 x 50 cm (Zosen P-4)\", \"url\": \"https://www.baseelements.net/shop/zosen/zosen-paper/70-x-50-cm-zosen-p-4/\"}}",
     "obras": {
       "https://www.baseelements.net/shop/zosen/zosen-paper/70-x-50-cm-zosen-p-4/": {
         "titulo": "70 x 50 cm (Zosen P-4)",
-        "precio": "5,25€",
-        "precio_num": 5.25,
+        "precio": "525,00€",
+        "precio_num": 525.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/zosen/zosen-paper/70-x-50-cm-zosen-p-4/",
         "artista": "Zosen"
       },
       "https://www.baseelements.net/shop/zosen/zosen-paper/70-x-50-cm-zosen-p-3/": {
         "titulo": "70 x 50 cm (Zosen P-3)",
-        "precio": "5,25€",
-        "precio_num": 5.25,
+        "precio": "525,00€",
+        "precio_num": 525.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/zosen/zosen-paper/70-x-50-cm-zosen-p-3/",
         "artista": "Zosen"
       },
       "https://www.baseelements.net/shop/zosen/zosen-paper/70-x-50-cm-zosen-p-2-2/": {
         "titulo": "70 x 50 cm (Zosen P-2)",
-        "precio": "5,25€",
-        "precio_num": 5.25,
+        "precio": "525,00€",
+        "precio_num": 525.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/zosen/zosen-paper/70-x-50-cm-zosen-p-2-2/",
         "artista": "Zosen"
       },
       "https://www.baseelements.net/shop/zosen/zosen-paper/70-x-50-cm-zosen-le-4/": {
         "titulo": "50 x 70 cm (Zosen P-1)",
-        "precio": "5,25€",
-        "precio_num": 5.25,
+        "precio": "525,00€",
+        "precio_num": 525.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/zosen/zosen-paper/70-x-50-cm-zosen-le-4/",
         "artista": "Zosen"
       },
       "https://www.baseelements.net/shop/zosen/limited-editions-zosen/70-x-50-cm-zosen-le-3/": {
         "titulo": "70 x 50 cm (Zosen LE-3)",
-        "precio": "1,60€",
-        "precio_num": 1.6,
+        "precio": "160,00€",
+        "precio_num": 160.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/zosen/limited-editions-zosen/70-x-50-cm-zosen-le-3/",
         "artista": "Zosen"
       },
       "https://www.baseelements.net/shop/zosen/limited-editions-zosen/70-x-50-cm-zosen-le-2/": {
         "titulo": "70 x 50 cm (Zosen LE-2)",
-        "precio": "1,65€",
-        "precio_num": 1.65,
+        "precio": "165,00€",
+        "precio_num": 165.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/zosen/limited-editions-zosen/70-x-50-cm-zosen-le-2/",
         "artista": "Zosen"
       },
       "https://www.baseelements.net/shop/zosen/limited-editions-zosen/59-x-42-cm-zosen-mina-hamada-le-1/": {
         "titulo": "59 x 42 cm (Zosen &#038; Mina Hamada LE-1)",
-        "precio": "1,65€",
-        "precio_num": 1.65,
+        "precio": "165,00€",
+        "precio_num": 165.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/zosen/limited-editions-zosen/59-x-42-cm-zosen-mina-hamada-le-1/",
         "artista": "Zosen"
       },
       "https://www.baseelements.net/shop/zosen/canvas-zosen/73-x-54-cm-zosen-7/": {
         "titulo": "73 x 54 cm (Zosen-7)",
-        "precio": "15,00€",
-        "precio_num": 15.0,
+        "precio": "1.500,00€",
+        "precio_num": 1500.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/zosen/canvas-zosen/73-x-54-cm-zosen-7/",
         "artista": "Zosen"
       },
       "https://www.baseelements.net/shop/zosen/canvas-zosen/73-x-92-cm-zosen-6/": {
         "titulo": "73 x 92 cm (Zosen-6)",
-        "precio": "25,00€",
-        "precio_num": 25.0,
+        "precio": "2.500,00€",
+        "precio_num": 2500.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/zosen/canvas-zosen/73-x-92-cm-zosen-6/",
         "artista": "Zosen"
       },
       "https://www.baseelements.net/shop/zosen/canvas-zosen/90-x-73-cm-zosen-5/": {
         "titulo": "90 x 73 cm (Zosen-5)",
-        "precio": "25,00€",
-        "precio_num": 25.0,
+        "precio": "2.500,00€",
+        "precio_num": 2500.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/zosen/canvas-zosen/90-x-73-cm-zosen-5/",
         "artista": "Zosen"
       },
       "https://www.baseelements.net/shop/zosen/canvas-zosen/86-x-73-cm-zosen-4/": {
         "titulo": "86 x 73 cm (Zosen-4)",
-        "precio": "25,00€",
-        "precio_num": 25.0,
+        "precio": "2.500,00€",
+        "precio_num": 2500.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/zosen/canvas-zosen/86-x-73-cm-zosen-4/",
         "artista": "Zosen"
@@ -2842,16 +2842,16 @@
       },
       "https://www.baseelements.net/shop/zosen/canvas-zosen/zsn-008/": {
         "titulo": "60 x 73 cm (Zosen-2)",
-        "precio": "14,00€",
-        "precio_num": 14.0,
+        "precio": "1.400,00€",
+        "precio_num": 1400.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/zosen/canvas-zosen/zsn-008/",
         "artista": "Zosen"
       },
       "https://www.baseelements.net/shop/zosen/canvas-zosen/60-x-70-cm-zsn-007/": {
         "titulo": "60 x 70 cm (Zosen-1)",
-        "precio": "14,00€",
-        "precio_num": 14.0,
+        "precio": "1.400,00€",
+        "precio_num": 1400.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/zosen/canvas-zosen/60-x-70-cm-zsn-007/",
         "artista": "Zosen"
