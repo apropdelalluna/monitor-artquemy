@@ -2309,12 +2309,18 @@ def ld_comprobar_todos() -> None:
     ld_estado_original = dict(ld_estado)  # snapshot de cómo estaba al empezar, para el diff final
     try:
         obras_totales_nuevas = {}
+        artistas_fallidos = []
         total = len(LD_ARTISTAS)
         for i, artista in enumerate(LD_ARTISTAS, start=1):
             logging.info("[LD] Comprobando: %s", artista["nombre"])
             datos = ld_obtener_artista(artista)
             if datos is not None:
                 obras_totales_nuevas.update(datos["obras"])
+            else:
+                # Fallo de red/timeout al comprobar este artista — no es que
+                # sus obras hayan desaparecido de verdad. Se anota para no
+                # confundir "no lo pude comprobar" con "ya no existe".
+                artistas_fallidos.append(artista["nombre"])
             time.sleep(1.5)
 
             # Checkpoint: guardar progreso cada N artistas para no perder
@@ -2325,7 +2331,7 @@ def ld_comprobar_todos() -> None:
             # necesita el barrido completo, así que ese cálculo se hace solo
             # una vez al final, sobre ld_estado_original.
             if i % CHECKPOINT_CADA == 0 or i == total:
-                nombres_comprobados = {a["nombre"] for a in LD_ARTISTAS[:i]}
+                nombres_comprobados = {a["nombre"] for a in LD_ARTISTAS[:i]} - set(artistas_fallidos)
                 estado_checkpoint = dict(obras_totales_nuevas)
                 for url, info in ld_estado_original.items():
                     if info.get("artista") not in nombres_comprobados:
@@ -2334,6 +2340,17 @@ def ld_comprobar_todos() -> None:
                 ld_guardar_estado()
                 ld_guardar_meta()
                 logging.info("[LD]  💾 Checkpoint guardado (%d/%d artistas)", i, total)
+
+        # Para los artistas cuyo scraping falló (timeout, error de red...),
+        # conservamos sus obras tal como estaban antes en vez de compararlas
+        # — así un fallo puntual de red nunca se confunde con obras
+        # "desaparecidas" realmente retiradas de la venta.
+        if artistas_fallidos:
+            logging.warning("[LD] %d artista(s) no se pudieron comprobar esta vez (se conserva su estado anterior): %s",
+                             len(artistas_fallidos), ", ".join(artistas_fallidos))
+            for url, info in ld_estado_original.items():
+                if info.get("artista") in artistas_fallidos:
+                    obras_totales_nuevas.setdefault(url, info)
 
         cambios = ld_detectar_cambios(obras_totales_nuevas, ld_estado_original)
         if cambios:
