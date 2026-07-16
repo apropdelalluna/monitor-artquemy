@@ -2897,109 +2897,109 @@
     }
   },
   "Morcky": {
-    "hash": "d426e94f280b96cb31503c3af6687711",
-    "texto": "CANVAS Morcky\n(7)\nPAPER Morcky\n(6)",
+    "hash": "6ba504c78fe8851bd46885464d14a730",
+    "texto": "{\"https://www.baseelements.net/shop/morcky/canvas-morcky/110-x-110-cm-morcky-1/\": {\"artista\": \"Morcky\", \"estado\": \"disponible\", \"precio\": \"22,00€\", \"precio_num\": 22.0, \"titulo\": \"110 x 110 cm (Morcky-1)\", \"url\": \"https://www.baseelements.net/shop/morcky/canvas-morcky/110-x-110-cm-morcky-1/\"}, \"https://www.baseelements.net/shop/morcky/canvas-morcky/150-x-100-cm-morcky-5/\": {\"artista\": \"Morcky\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/morcky/canvas-morcky/150-x-100-cm-morcky-5/\"}, \"https://www.baseelements.net/shop/morcky/canvas-morcky/150-x-100-cm-morcky-8/\": {\"artista\": \"Morcky\", \"estado\": \"disponible\", \"precio\": \"28,00€\", \"precio_num\": 28.0, \"titulo\": \"150 x 100 cm (Morcky-8)\", \"url\": \"https://www.baseelements.net/shop/morcky/canvas-morcky/150-x-100-cm-morcky-8/\"}, \"https://www.baseelements.net/shop/morcky/canvas-morcky/200-x-100-cm-morcky-5/\": {\"artista\": \"Morcky\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/morcky/canvas-morcky/200-x-100-cm-morcky-5/\"}, \"https://www.baseelements.net/shop/morcky/canvas-morcky/200-x-150-cm-morcky-2/\": {\"artista\": \"Morcky\", \"estado\": \"disponible\", \"precio\": \"47,00€\", \"precio_num\": 47.0, \"titulo\": \"200 x 150 cm (Morcky-2)\", \"url\": \"https://www.baseelements.net/shop/morcky/canvas-morcky/200-x-150-cm-morcky-2/\"}, \"https://www.baseelements.net/shop/morcky/canvas-morcky/200-x-150-cm-morcky-6/\": {\"artista\": \"Morcky\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/morcky/canvas-morcky/200-x-150-cm-morcky-6/\"}, \"https://www.baseelements.net/shop/morcky/canvas-morcky/80-x-80-cm-morcky-3/\": {\"artista\": \"Morcky\", \"estado\": \"disponible\", \"precio\": \"16,00€\", \"precio_num\": 16.0, \"titulo\": \"80 x 80 cm (Morcky-3)\", \"url\": \"https://www.baseelements.net/shop/morcky/canvas-morcky/80-x-80-cm-morcky-3/\"}, \"https://www.baseelements.net/shop/morcky/paper-morcky/50-x-38-cm-morcky-le-6/\": {\"artista\": \"Morcky\", \"estado\": \"disponible\", \"precio\": \"1,00€\", \"precio_num\": 1.0, \"titulo\": \"50 x 38 cm (Morcky LE-6)\", \"url\": \"https://www.baseelements.net/shop/morcky/paper-morcky/50-x-38-cm-morcky-le-6/\"}, \"https://www.baseelements.net/shop/morcky/paper-morcky/70-x-50-cm-morcky-le-5/\": {\"artista\": \"Morcky\", \"estado\": \"disponible\", \"precio\": \"2,50€\", \"precio_num\": 2.5, \"titulo\": \"70 x 50 cm (Morcky LE-5)\", \"url\": \"https://www.baseelements.net/shop/morcky/paper-morcky/70-x-50-cm-morcky-le-5/\"}, \"https://www.baseelements.net/shop/morcky/paper-morcky/70-x-50-cm-morcky-p-1/\": {\"artista\": \"Morcky\", \"estado\": \"disponible\", \"precio\": \"4,50€\", \"precio_num\": 4.5, \"titulo\": \"70 x 50 cm (Morcky P-1)\", \"url\": \"https://www.baseelements.net/shop/morcky/paper-morcky/70-x-50-cm-morcky-p-1/\"}, \"https://www.baseelements.net/shop/morcky/paper-morcky/70-x-50-cm-morcky-p-2/\": {\"artista\": \"Morcky\", \"estado\": \"disponible\", \"precio\": \"4,50€\", \"precio_num\": 4.5, \"titulo\": \"70 x 50 cm (Morcky P-2)\", \"url\": \"https://www.baseelements.net/shop/morcky/paper-morcky/70-x-50-cm-morcky-p-2/\"}, \"https://www.baseelements.net/shop/morcky/paper-morcky/70-x-50-cm-morcky-p-3/\": {\"artista\": \"Morcky\", \"estado\": \"disponible\", \"precio\": \"4,50€\", \"precio_num\": 4.5, \"titulo\": \"70 x 50 cm (Morcky P-3)\", \"url\": \"https://www.baseelements.net/shop/morcky/paper-morcky/70-x-50-cm-morcky-p-3/\"}, \"https://www.baseelements.net/shop/morcky/paper-morcky/70-x-50-cm-morcky-p-4/\": {\"artista\": \"Morcky\", \"estado\": \"disponible\", \"precio\": \"4,50€\", \"precio_num\": 4.5, \"titulo\": \"70 x 50 cm (Morcky P-4)\", \"url\": \"https://www.baseelements.net/shop/morcky/paper-morcky/70-x-50-cm-morcky-p-4/\"}}",
     "obras": {
       "https://www.baseelements.net/shop/morcky/paper-morcky/50-x-38-cm-morcky-le-6/": {
         "titulo": "50 x 38 cm (Morcky LE-6)",
-        "precio": "€100",
-        "precio_num": 100.0,
+        "precio": "1,00€",
+        "precio_num": 1.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/morcky/paper-morcky/50-x-38-cm-morcky-le-6/",
         "artista": "Morcky"
       },
       "https://www.baseelements.net/shop/morcky/paper-morcky/70-x-50-cm-morcky-le-5/": {
         "titulo": "70 x 50 cm (Morcky LE-5)",
-        "precio": "€250",
-        "precio_num": 250.0,
+        "precio": "2,50€",
+        "precio_num": 2.5,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/morcky/paper-morcky/70-x-50-cm-morcky-le-5/",
         "artista": "Morcky"
       },
       "https://www.baseelements.net/shop/morcky/paper-morcky/70-x-50-cm-morcky-p-4/": {
         "titulo": "70 x 50 cm (Morcky P-4)",
-        "precio": "€450",
-        "precio_num": 450.0,
+        "precio": "4,50€",
+        "precio_num": 4.5,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/morcky/paper-morcky/70-x-50-cm-morcky-p-4/",
         "artista": "Morcky"
       },
       "https://www.baseelements.net/shop/morcky/paper-morcky/70-x-50-cm-morcky-p-3/": {
         "titulo": "70 x 50 cm (Morcky P-3)",
-        "precio": "€450",
-        "precio_num": 450.0,
+        "precio": "4,50€",
+        "precio_num": 4.5,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/morcky/paper-morcky/70-x-50-cm-morcky-p-3/",
         "artista": "Morcky"
       },
       "https://www.baseelements.net/shop/morcky/paper-morcky/70-x-50-cm-morcky-p-2/": {
         "titulo": "70 x 50 cm (Morcky P-2)",
-        "precio": "€450",
-        "precio_num": 450.0,
+        "precio": "4,50€",
+        "precio_num": 4.5,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/morcky/paper-morcky/70-x-50-cm-morcky-p-2/",
         "artista": "Morcky"
       },
       "https://www.baseelements.net/shop/morcky/paper-morcky/70-x-50-cm-morcky-p-1/": {
         "titulo": "70 x 50 cm (Morcky P-1)",
-        "precio": "€450",
-        "precio_num": 450.0,
+        "precio": "4,50€",
+        "precio_num": 4.5,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/morcky/paper-morcky/70-x-50-cm-morcky-p-1/",
         "artista": "Morcky"
       },
       "https://www.baseelements.net/shop/morcky/canvas-morcky/150-x-100-cm-morcky-8/": {
         "titulo": "150 x 100 cm (Morcky-8)",
-        "precio": "€2,800",
-        "precio_num": 2.8,
+        "precio": "28,00€",
+        "precio_num": 28.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/morcky/canvas-morcky/150-x-100-cm-morcky-8/",
         "artista": "Morcky"
       },
       "https://www.baseelements.net/shop/morcky/canvas-morcky/150-x-100-cm-morcky-5/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/morcky/canvas-morcky/150-x-100-cm-morcky-5/",
         "artista": "Morcky"
       },
       "https://www.baseelements.net/shop/morcky/canvas-morcky/200-x-150-cm-morcky-6/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/morcky/canvas-morcky/200-x-150-cm-morcky-6/",
         "artista": "Morcky"
       },
       "https://www.baseelements.net/shop/morcky/canvas-morcky/200-x-100-cm-morcky-5/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/morcky/canvas-morcky/200-x-100-cm-morcky-5/",
         "artista": "Morcky"
       },
       "https://www.baseelements.net/shop/morcky/canvas-morcky/80-x-80-cm-morcky-3/": {
         "titulo": "80 x 80 cm (Morcky-3)",
-        "precio": "€1,600",
-        "precio_num": 1.6,
+        "precio": "16,00€",
+        "precio_num": 16.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/morcky/canvas-morcky/80-x-80-cm-morcky-3/",
         "artista": "Morcky"
       },
       "https://www.baseelements.net/shop/morcky/canvas-morcky/200-x-150-cm-morcky-2/": {
         "titulo": "200 x 150 cm (Morcky-2)",
-        "precio": "€4,700",
-        "precio_num": 4.7,
+        "precio": "47,00€",
+        "precio_num": 47.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/morcky/canvas-morcky/200-x-150-cm-morcky-2/",
         "artista": "Morcky"
       },
       "https://www.baseelements.net/shop/morcky/canvas-morcky/110-x-110-cm-morcky-1/": {
         "titulo": "110 x 110 cm (Morcky-1)",
-        "precio": "€2,200",
-        "precio_num": 2.2,
+        "precio": "22,00€",
+        "precio_num": 22.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/morcky/canvas-morcky/110-x-110-cm-morcky-1/",
         "artista": "Morcky"
@@ -3007,567 +3007,567 @@
     }
   },
   "Konair": {
-    "hash": "4cb77bf47ac1ec3c8e6dbbd8bedc9605",
-    "texto": "CANVAS Konair\n(9)\nPAPER Konair\n(11)",
+    "hash": "120046b9849334c0f0e1d7d0176bca3b",
+    "texto": "{\"https://www.baseelements.net/shop/konair/canvas-konair/100-x-73-cm-konair-1/\": {\"artista\": \"Konair\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/konair/canvas-konair/100-x-73-cm-konair-1/\"}, \"https://www.baseelements.net/shop/konair/canvas-konair/100-x-80-cm-konair-6/\": {\"artista\": \"Konair\", \"estado\": \"disponible\", \"precio\": \"28,00€\", \"precio_num\": 28.0, \"titulo\": \"100 x 80 cm (Konair-6)\", \"url\": \"https://www.baseelements.net/shop/konair/canvas-konair/100-x-80-cm-konair-6/\"}, \"https://www.baseelements.net/shop/konair/canvas-konair/114-x-53-cm-konair-4/\": {\"artista\": \"Konair\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/konair/canvas-konair/114-x-53-cm-konair-4/\"}, \"https://www.baseelements.net/shop/konair/canvas-konair/50-x-50-cm-konair-8/\": {\"artista\": \"Konair\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/konair/canvas-konair/50-x-50-cm-konair-8/\"}, \"https://www.baseelements.net/shop/konair/canvas-konair/60-x-39-cm-konair-11/\": {\"artista\": \"Konair\", \"estado\": \"disponible\", \"precio\": \"5,50€\", \"precio_num\": 5.5, \"titulo\": \"60 x 39 cm (Konair-11)\", \"url\": \"https://www.baseelements.net/shop/konair/canvas-konair/60-x-39-cm-konair-11/\"}, \"https://www.baseelements.net/shop/konair/canvas-konair/60-x-50-cm-konair-3/\": {\"artista\": \"Konair\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/konair/canvas-konair/60-x-50-cm-konair-3/\"}, \"https://www.baseelements.net/shop/konair/canvas-konair/65-x-54-cm-konair-5/\": {\"artista\": \"Konair\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/konair/canvas-konair/65-x-54-cm-konair-5/\"}, \"https://www.baseelements.net/shop/konair/canvas-konair/69-x-50-cm-konair-10/\": {\"artista\": \"Konair\", \"estado\": \"disponible\", \"precio\": \"3,00€\", \"precio_num\": 3.0, \"titulo\": \"69 x 50 cm (Konair-10)\", \"url\": \"https://www.baseelements.net/shop/konair/canvas-konair/69-x-50-cm-konair-10/\"}, \"https://www.baseelements.net/shop/konair/canvas-konair/69-x-50-cm-konair-9/\": {\"artista\": \"Konair\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/konair/canvas-konair/69-x-50-cm-konair-9/\"}, \"https://www.baseelements.net/shop/konair/paper-konair/60-x-84-cm-konair-p13/\": {\"artista\": \"Konair\", \"estado\": \"disponible\", \"precio\": \"3,90€\", \"precio_num\": 3.9, \"titulo\": \"60 x 84 cm (Konair-P13)\", \"url\": \"https://www.baseelements.net/shop/konair/paper-konair/60-x-84-cm-konair-p13/\"}, \"https://www.baseelements.net/shop/konair/paper-konair/60-x-84-cm-konair-p14/\": {\"artista\": \"Konair\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/konair/paper-konair/60-x-84-cm-konair-p14/\"}, \"https://www.baseelements.net/shop/konair/paper-konair/84-x-60-cm-konair-p1/\": {\"artista\": \"Konair\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/konair/paper-konair/84-x-60-cm-konair-p1/\"}, \"https://www.baseelements.net/shop/konair/paper-konair/84-x-60-cm-konair-p12/\": {\"artista\": \"Konair\", \"estado\": \"disponible\", \"precio\": \"3,90€\", \"precio_num\": 3.9, \"titulo\": \"84 x 60 cm (Konair-P12)\", \"url\": \"https://www.baseelements.net/shop/konair/paper-konair/84-x-60-cm-konair-p12/\"}, \"https://www.baseelements.net/shop/konair/paper-konair/84-x-60-cm-konair-p15/\": {\"artista\": \"Konair\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/konair/paper-konair/84-x-60-cm-konair-p15/\"}, \"https://www.baseelements.net/shop/konair/paper-konair/84-x-60-cm-konair-p2/\": {\"artista\": \"Konair\", \"estado\": \"disponible\", \"precio\": \"3,90€\", \"precio_num\": 3.9, \"titulo\": \"84 x 60 cm (Konair-P2)\", \"url\": \"https://www.baseelements.net/shop/konair/paper-konair/84-x-60-cm-konair-p2/\"}, \"https://www.baseelements.net/shop/konair/paper-konair/84-x-60-cm-konair-p4/\": {\"artista\": \"Konair\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/konair/paper-konair/84-x-60-cm-konair-p4/\"}, \"https://www.baseelements.net/shop/konair/paper-konair/84-x-60-cm-konair-p5/\": {\"artista\": \"Konair\", \"estado\": \"disponible\", \"precio\": \"3,90€\", \"precio_num\": 3.9, \"titulo\": \"84 x 60 cm (Konair-P5)\", \"url\": \"https://www.baseelements.net/shop/konair/paper-konair/84-x-60-cm-konair-p5/\"}, \"https://www.baseelements.net/shop/konair/paper-konair/84-x-60-cm-konair-p7/\": {\"artista\": \"Konair\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/konair/paper-konair/84-x-60-cm-konair-p7/\"}, \"https://www.baseelements.net/shop/konair/paper-konair/84-x-60-cm-konair-p9/\": {\"artista\": \"Konair\", \"estado\": \"disponible\", \"precio\": \"3,90€\", \"precio_num\": 3.9, \"titulo\": \"84 x 60 cm (Konair-P9)\", \"url\": \"https://www.baseelements.net/shop/konair/paper-konair/84-x-60-cm-konair-p9/\"}, \"https://www.baseelements.net/shop/konair/paper-konair/84-x-69-cm-konair-p8/\": {\"artista\": \"Konair\", \"estado\": \"disponible\", \"precio\": \"3,90€\", \"precio_num\": 3.9, \"titulo\": \"84 x 69 cm (Konair-P8)\", \"url\": \"https://www.baseelements.net/shop/konair/paper-konair/84-x-69-cm-konair-p8/\"}}",
     "obras": {
       "https://www.baseelements.net/shop/konair/paper-konair/84-x-60-cm-konair-p15/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/konair/paper-konair/84-x-60-cm-konair-p15/",
         "artista": "Konair"
       },
       "https://www.baseelements.net/shop/konair/paper-konair/60-x-84-cm-konair-p14/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/konair/paper-konair/60-x-84-cm-konair-p14/",
         "artista": "Konair"
       },
       "https://www.baseelements.net/shop/konair/paper-konair/60-x-84-cm-konair-p13/": {
         "titulo": "60 x 84 cm (Konair-P13)",
-        "precio": "€390",
-        "precio_num": 390.0,
+        "precio": "3,90€",
+        "precio_num": 3.9,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/konair/paper-konair/60-x-84-cm-konair-p13/",
         "artista": "Konair"
       },
       "https://www.baseelements.net/shop/konair/paper-konair/84-x-60-cm-konair-p12/": {
         "titulo": "84 x 60 cm (Konair-P12)",
-        "precio": "€390",
-        "precio_num": 390.0,
+        "precio": "3,90€",
+        "precio_num": 3.9,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/konair/paper-konair/84-x-60-cm-konair-p12/",
         "artista": "Konair"
       },
       "https://www.baseelements.net/shop/konair/paper-konair/84-x-60-cm-konair-p9/": {
         "titulo": "84 x 60 cm (Konair-P9)",
-        "precio": "€390",
-        "precio_num": 390.0,
+        "precio": "3,90€",
+        "precio_num": 3.9,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/konair/paper-konair/84-x-60-cm-konair-p9/",
         "artista": "Konair"
       },
       "https://www.baseelements.net/shop/konair/paper-konair/84-x-69-cm-konair-p8/": {
         "titulo": "84 x 69 cm (Konair-P8)",
-        "precio": "€390",
-        "precio_num": 390.0,
+        "precio": "3,90€",
+        "precio_num": 3.9,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/konair/paper-konair/84-x-69-cm-konair-p8/",
         "artista": "Konair"
       },
       "https://www.baseelements.net/shop/konair/canvas-konair/60-x-39-cm-konair-11/": {
         "titulo": "60 x 39 cm (Konair-11)",
-        "precio": "€550",
-        "precio_num": 550.0,
+        "precio": "5,50€",
+        "precio_num": 5.5,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/konair/canvas-konair/60-x-39-cm-konair-11/",
         "artista": "Konair"
       },
       "https://www.baseelements.net/shop/konair/canvas-konair/69-x-50-cm-konair-10/": {
         "titulo": "69 x 50 cm (Konair-10)",
-        "precio": "€300",
-        "precio_num": 300.0,
+        "precio": "3,00€",
+        "precio_num": 3.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/konair/canvas-konair/69-x-50-cm-konair-10/",
         "artista": "Konair"
       },
       "https://www.baseelements.net/shop/konair/canvas-konair/69-x-50-cm-konair-9/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/konair/canvas-konair/69-x-50-cm-konair-9/",
         "artista": "Konair"
       },
       "https://www.baseelements.net/shop/konair/canvas-konair/50-x-50-cm-konair-8/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/konair/canvas-konair/50-x-50-cm-konair-8/",
         "artista": "Konair"
       },
       "https://www.baseelements.net/shop/konair/canvas-konair/100-x-80-cm-konair-6/": {
         "titulo": "100 x 80 cm (Konair-6)",
-        "precio": "€2,800",
-        "precio_num": 2.8,
+        "precio": "28,00€",
+        "precio_num": 28.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/konair/canvas-konair/100-x-80-cm-konair-6/",
         "artista": "Konair"
       },
       "https://www.baseelements.net/shop/konair/canvas-konair/65-x-54-cm-konair-5/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/konair/canvas-konair/65-x-54-cm-konair-5/",
         "artista": "Konair"
       },
       "https://www.baseelements.net/shop/konair/canvas-konair/114-x-53-cm-konair-4/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/konair/canvas-konair/114-x-53-cm-konair-4/",
         "artista": "Konair"
       },
       "https://www.baseelements.net/shop/konair/canvas-konair/60-x-50-cm-konair-3/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/konair/canvas-konair/60-x-50-cm-konair-3/",
         "artista": "Konair"
       },
       "https://www.baseelements.net/shop/konair/paper-konair/84-x-60-cm-konair-p7/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/konair/paper-konair/84-x-60-cm-konair-p7/",
         "artista": "Konair"
       },
       "https://www.baseelements.net/shop/konair/paper-konair/84-x-60-cm-konair-p5/": {
         "titulo": "84 x 60 cm (Konair-P5)",
-        "precio": "€390",
-        "precio_num": 390.0,
+        "precio": "3,90€",
+        "precio_num": 3.9,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/konair/paper-konair/84-x-60-cm-konair-p5/",
         "artista": "Konair"
       },
       "https://www.baseelements.net/shop/konair/paper-konair/84-x-60-cm-konair-p4/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/konair/paper-konair/84-x-60-cm-konair-p4/",
         "artista": "Konair"
       },
       "https://www.baseelements.net/shop/konair/paper-konair/84-x-60-cm-konair-p2/": {
         "titulo": "84 x 60 cm (Konair-P2)",
-        "precio": "€390",
-        "precio_num": 390.0,
+        "precio": "3,90€",
+        "precio_num": 3.9,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/konair/paper-konair/84-x-60-cm-konair-p2/",
         "artista": "Konair"
       },
       "https://www.baseelements.net/shop/konair/paper-konair/84-x-60-cm-konair-p1/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/konair/paper-konair/84-x-60-cm-konair-p1/",
         "artista": "Konair"
       },
       "https://www.baseelements.net/shop/konair/canvas-konair/100-x-73-cm-konair-1/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/konair/canvas-konair/100-x-73-cm-konair-1/",
         "artista": "Konair"
       }
     }
   },
   "Ilia Mayer": {
-    "hash": "513fd9eb70e09004ea2da67dca367a2f",
-    "texto": "PAPER Ilia Mayer\n(14)",
+    "hash": "ee8a774879ee383f880eaa221235d40f",
+    "texto": "{\"https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/102-x-67-cm-ilia-mayer-p-17/\": {\"artista\": \"Ilia Mayer\", \"estado\": \"disponible\", \"precio\": \"12,00€\", \"precio_num\": 12.0, \"titulo\": \"76 x 57 cm (Ilia Mayer P-17)\", \"url\": \"https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/102-x-67-cm-ilia-mayer-p-17/\"}, \"https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/102-x-67-cm-ilia-mayer-p-18/\": {\"artista\": \"Ilia Mayer\", \"estado\": \"disponible\", \"precio\": \"12,00€\", \"precio_num\": 12.0, \"titulo\": \"102 x 67 cm (Ilia Mayer P-18)\", \"url\": \"https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/102-x-67-cm-ilia-mayer-p-18/\"}, \"https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/166-x-100-cm-ilia-mayer-p-15/\": {\"artista\": \"Ilia Mayer\", \"estado\": \"disponible\", \"precio\": \"18,00€\", \"precio_num\": 18.0, \"titulo\": \"166 x 100 cm (Ilia Mayer P-15)\", \"url\": \"https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/166-x-100-cm-ilia-mayer-p-15/\"}, \"https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/30-x-30-cm-ilia-mayer-p-10/\": {\"artista\": \"Ilia Mayer\", \"estado\": \"disponible\", \"precio\": \"2,50€\", \"precio_num\": 2.5, \"titulo\": \"30 x 30 cm (Ilia Mayer P-10)\", \"url\": \"https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/30-x-30-cm-ilia-mayer-p-10/\"}, \"https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/41-x-31-cm-ilia-mayer-p-8/\": {\"artista\": \"Ilia Mayer\", \"estado\": \"disponible\", \"precio\": \"4,00€\", \"precio_num\": 4.0, \"titulo\": \"41 x 31 cm (Ilia Mayer P-8)\", \"url\": \"https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/41-x-31-cm-ilia-mayer-p-8/\"}, \"https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/51-x-36cm-ilia-mayer-p-9/\": {\"artista\": \"Ilia Mayer\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/51-x-36cm-ilia-mayer-p-9/\"}, \"https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/55-x-39-cm-ilia-mayer-p-14/\": {\"artista\": \"Ilia Mayer\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/55-x-39-cm-ilia-mayer-p-14/\"}, \"https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/70-x-100-cm-ilia-mayer-p-16/\": {\"artista\": \"Ilia Mayer\", \"estado\": \"disponible\", \"precio\": \"12,00€\", \"precio_num\": 12.0, \"titulo\": \"70 x 100 cm (Ilia Mayer P-16)\", \"url\": \"https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/70-x-100-cm-ilia-mayer-p-16/\"}, \"https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/70-x-50-cm-ilia-mayer-p-12/\": {\"artista\": \"Ilia Mayer\", \"estado\": \"disponible\", \"precio\": \"8,50€\", \"precio_num\": 8.5, \"titulo\": \"70 x 50 cm (Ilia Mayer P-12)\", \"url\": \"https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/70-x-50-cm-ilia-mayer-p-12/\"}, \"https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/76-x-57-cm-ilia-mayer-p-2/\": {\"artista\": \"Ilia Mayer\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/76-x-57-cm-ilia-mayer-p-2/\"}, \"https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/76-x-57-cm-ilia-mayer-p-3/\": {\"artista\": \"Ilia Mayer\", \"estado\": \"disponible\", \"precio\": \"8,50€\", \"precio_num\": 8.5, \"titulo\": \"76 x 57 cm (Ilia Mayer P-3)\", \"url\": \"https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/76-x-57-cm-ilia-mayer-p-3/\"}, \"https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/76-x-57-cm-ilia-mayer-p-4/\": {\"artista\": \"Ilia Mayer\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/76-x-57-cm-ilia-mayer-p-4/\"}, \"https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/76-x-57-cm-ilia-mayer-p-5/\": {\"artista\": \"Ilia Mayer\", \"estado\": \"disponible\", \"precio\": \"8,50€\", \"precio_num\": 8.5, \"titulo\": \"76 x 57 cm (Ilia Mayer P-5)\", \"url\": \"https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/76-x-57-cm-ilia-mayer-p-5/\"}, \"https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/90-x-66-cm-ilia-mayer-p-1/\": {\"artista\": \"Ilia Mayer\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/90-x-66-cm-ilia-mayer-p-1/\"}}",
     "obras": {
       "https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/102-x-67-cm-ilia-mayer-p-18/": {
         "titulo": "102 x 67 cm (Ilia Mayer P-18)",
-        "precio": "€1,200",
-        "precio_num": 1.2,
+        "precio": "12,00€",
+        "precio_num": 12.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/102-x-67-cm-ilia-mayer-p-18/",
         "artista": "Ilia Mayer"
       },
       "https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/102-x-67-cm-ilia-mayer-p-17/": {
         "titulo": "76 x 57 cm (Ilia Mayer P-17)",
-        "precio": "€1,200",
-        "precio_num": 1.2,
+        "precio": "12,00€",
+        "precio_num": 12.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/102-x-67-cm-ilia-mayer-p-17/",
         "artista": "Ilia Mayer"
       },
       "https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/70-x-100-cm-ilia-mayer-p-16/": {
         "titulo": "70 x 100 cm (Ilia Mayer P-16)",
-        "precio": "€1,200",
-        "precio_num": 1.2,
+        "precio": "12,00€",
+        "precio_num": 12.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/70-x-100-cm-ilia-mayer-p-16/",
         "artista": "Ilia Mayer"
       },
       "https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/166-x-100-cm-ilia-mayer-p-15/": {
         "titulo": "166 x 100 cm (Ilia Mayer P-15)",
-        "precio": "€1,800",
-        "precio_num": 1.8,
+        "precio": "18,00€",
+        "precio_num": 18.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/166-x-100-cm-ilia-mayer-p-15/",
         "artista": "Ilia Mayer"
       },
       "https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/55-x-39-cm-ilia-mayer-p-14/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/55-x-39-cm-ilia-mayer-p-14/",
         "artista": "Ilia Mayer"
       },
       "https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/70-x-50-cm-ilia-mayer-p-12/": {
         "titulo": "70 x 50 cm (Ilia Mayer P-12)",
-        "precio": "€850",
-        "precio_num": 850.0,
+        "precio": "8,50€",
+        "precio_num": 8.5,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/70-x-50-cm-ilia-mayer-p-12/",
         "artista": "Ilia Mayer"
       },
       "https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/30-x-30-cm-ilia-mayer-p-10/": {
         "titulo": "30 x 30 cm (Ilia Mayer P-10)",
-        "precio": "€250",
-        "precio_num": 250.0,
+        "precio": "2,50€",
+        "precio_num": 2.5,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/30-x-30-cm-ilia-mayer-p-10/",
         "artista": "Ilia Mayer"
       },
       "https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/51-x-36cm-ilia-mayer-p-9/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/51-x-36cm-ilia-mayer-p-9/",
         "artista": "Ilia Mayer"
       },
       "https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/41-x-31-cm-ilia-mayer-p-8/": {
         "titulo": "41 x 31 cm (Ilia Mayer P-8)",
-        "precio": "€400",
-        "precio_num": 400.0,
+        "precio": "4,00€",
+        "precio_num": 4.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/41-x-31-cm-ilia-mayer-p-8/",
         "artista": "Ilia Mayer"
       },
       "https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/76-x-57-cm-ilia-mayer-p-5/": {
         "titulo": "76 x 57 cm (Ilia Mayer P-5)",
-        "precio": "€850",
-        "precio_num": 850.0,
+        "precio": "8,50€",
+        "precio_num": 8.5,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/76-x-57-cm-ilia-mayer-p-5/",
         "artista": "Ilia Mayer"
       },
       "https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/76-x-57-cm-ilia-mayer-p-4/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/76-x-57-cm-ilia-mayer-p-4/",
         "artista": "Ilia Mayer"
       },
       "https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/76-x-57-cm-ilia-mayer-p-3/": {
         "titulo": "76 x 57 cm (Ilia Mayer P-3)",
-        "precio": "€850",
-        "precio_num": 850.0,
+        "precio": "8,50€",
+        "precio_num": 8.5,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/76-x-57-cm-ilia-mayer-p-3/",
         "artista": "Ilia Mayer"
       },
       "https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/76-x-57-cm-ilia-mayer-p-2/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/76-x-57-cm-ilia-mayer-p-2/",
         "artista": "Ilia Mayer"
       },
       "https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/90-x-66-cm-ilia-mayer-p-1/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/ilia-mayer/paper-ilia-mayer/90-x-66-cm-ilia-mayer-p-1/",
         "artista": "Ilia Mayer"
       }
     }
   },
   "Vic": {
-    "hash": "0324b5fb3f6d4c72aa1fd7aa1b16bd4e",
-    "texto": "SOLD\nRead more\nSOLD\nRead more\nSOLD\nRead more\nSOLD\nRead more\nSOLD\nRead more\nSOLD\nRead more\nSOLD\nRead more\nSOLD\nRead more\nSOLD\nRead more\n38 x 12 cm (Vic-15)\n€\n490\nAdd to cart\n38 x 12 cm (Vic-14)\n€\n490\nAdd to cart\n38 x 12 cm (Vic-13)\n€\n490\nAdd to cart\nSOLD\nRead more\nSOLD\nRead more\nSOLD\nRead more\nSOLD\nRead more\nSOLD\nRead more\nSOLD\nRead more\nSOLD\nRead more\nSOLD\nRead more\nSOLD\nRead more\nSOLD\nRead more\nSOLD\nRead more",
+    "hash": "30fa15d32a02f47786d090263824992b",
+    "texto": "{\"https://www.baseelements.net/shop/all/106-x-23-cm-vic-24/\": {\"artista\": \"Vic\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/all/106-x-23-cm-vic-24/\"}, \"https://www.baseelements.net/shop/all/38-x-12-cm-vic-14/\": {\"artista\": \"Vic\", \"estado\": \"disponible\", \"precio\": \"4,90€\", \"precio_num\": 4.9, \"titulo\": \"38 x 12 cm (Vic-14)\", \"url\": \"https://www.baseelements.net/shop/all/38-x-12-cm-vic-14/\"}, \"https://www.baseelements.net/shop/all/38-x-12-cm-vic-15/\": {\"artista\": \"Vic\", \"estado\": \"disponible\", \"precio\": \"4,90€\", \"precio_num\": 4.9, \"titulo\": \"38 x 12 cm (Vic-15)\", \"url\": \"https://www.baseelements.net/shop/all/38-x-12-cm-vic-15/\"}, \"https://www.baseelements.net/shop/all/38-x-12-cm-vic-16/\": {\"artista\": \"Vic\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/all/38-x-12-cm-vic-16/\"}, \"https://www.baseelements.net/shop/all/72-x-20-cm-vic-13/\": {\"artista\": \"Vic\", \"estado\": \"disponible\", \"precio\": \"4,90€\", \"precio_num\": 4.9, \"titulo\": \"38 x 12 cm (Vic-13)\", \"url\": \"https://www.baseelements.net/shop/all/72-x-20-cm-vic-13/\"}, \"https://www.baseelements.net/shop/all/74-x-20-cm-vic-33/\": {\"artista\": \"Vic\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/all/74-x-20-cm-vic-33/\"}, \"https://www.baseelements.net/shop/all/74-x-20-cm-vic-34/\": {\"artista\": \"Vic\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/all/74-x-20-cm-vic-34/\"}, \"https://www.baseelements.net/shop/all/75-x-18-cm-vic-sk8-3/\": {\"artista\": \"Vic\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/all/75-x-18-cm-vic-sk8-3/\"}, \"https://www.baseelements.net/shop/all/76-x-21-cm-vic-sk8-7/\": {\"artista\": \"Vic\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/all/76-x-21-cm-vic-sk8-7/\"}, \"https://www.baseelements.net/shop/all/77-x-205-cm-vic-sk8-2/\": {\"artista\": \"Vic\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/all/77-x-205-cm-vic-sk8-2/\"}, \"https://www.baseelements.net/shop/all/78-x-195-cm-vic-sk8-5/\": {\"artista\": \"Vic\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/all/78-x-195-cm-vic-sk8-5/\"}, \"https://www.baseelements.net/shop/all/78-x-20-cm-vic-9/\": {\"artista\": \"Vic\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/all/78-x-20-cm-vic-9/\"}, \"https://www.baseelements.net/shop/all/78-x-205-cm-vic-sk8-8/\": {\"artista\": \"Vic\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/all/78-x-205-cm-vic-sk8-8/\"}, \"https://www.baseelements.net/shop/all/78-x-21-cm-vic-sk8-4/\": {\"artista\": \"Vic\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/all/78-x-21-cm-vic-sk8-4/\"}, \"https://www.baseelements.net/shop/all/79-x-20-cm-vic-12/\": {\"artista\": \"Vic\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/all/79-x-20-cm-vic-12/\"}, \"https://www.baseelements.net/shop/all/79-x-21-cm-vic-10/\": {\"artista\": \"Vic\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/all/79-x-21-cm-vic-10/\"}, \"https://www.baseelements.net/shop/all/79-x-215-cm-vic-sk8-6/\": {\"artista\": \"Vic\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/all/79-x-215-cm-vic-sk8-6/\"}, \"https://www.baseelements.net/shop/all/80-x-20-cm-vic-21/\": {\"artista\": \"Vic\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/all/80-x-20-cm-vic-21/\"}, \"https://www.baseelements.net/shop/all/80-x-205-cm-vic-sk8-1/\": {\"artista\": \"Vic\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/all/80-x-205-cm-vic-sk8-1/\"}, \"https://www.baseelements.net/shop/all/82-x-22-cm-vic-22/\": {\"artista\": \"Vic\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/all/82-x-22-cm-vic-22/\"}, \"https://www.baseelements.net/shop/all/91-x-23-cm-vic-25/\": {\"artista\": \"Vic\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/all/91-x-23-cm-vic-25/\"}, \"https://www.baseelements.net/shop/all/91-x-23-cm-vic-26/\": {\"artista\": \"Vic\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/all/91-x-23-cm-vic-26/\"}, \"https://www.baseelements.net/shop/curator-selection/93-x-22-cm-vic-36/\": {\"artista\": \"Vic\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/curator-selection/93-x-22-cm-vic-36/\"}}",
     "obras": {
       "https://www.baseelements.net/shop/curator-selection/93-x-22-cm-vic-36/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/curator-selection/93-x-22-cm-vic-36/",
         "artista": "Vic"
       },
       "https://www.baseelements.net/shop/all/74-x-20-cm-vic-34/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/all/74-x-20-cm-vic-34/",
         "artista": "Vic"
       },
       "https://www.baseelements.net/shop/all/74-x-20-cm-vic-33/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/all/74-x-20-cm-vic-33/",
         "artista": "Vic"
       },
       "https://www.baseelements.net/shop/all/91-x-23-cm-vic-26/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/all/91-x-23-cm-vic-26/",
         "artista": "Vic"
       },
       "https://www.baseelements.net/shop/all/91-x-23-cm-vic-25/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/all/91-x-23-cm-vic-25/",
         "artista": "Vic"
       },
       "https://www.baseelements.net/shop/all/106-x-23-cm-vic-24/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/all/106-x-23-cm-vic-24/",
         "artista": "Vic"
       },
       "https://www.baseelements.net/shop/all/82-x-22-cm-vic-22/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/all/82-x-22-cm-vic-22/",
         "artista": "Vic"
       },
       "https://www.baseelements.net/shop/all/80-x-20-cm-vic-21/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/all/80-x-20-cm-vic-21/",
         "artista": "Vic"
       },
       "https://www.baseelements.net/shop/all/38-x-12-cm-vic-16/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/all/38-x-12-cm-vic-16/",
         "artista": "Vic"
       },
       "https://www.baseelements.net/shop/all/38-x-12-cm-vic-15/": {
         "titulo": "38 x 12 cm (Vic-15)",
-        "precio": "€490",
-        "precio_num": 490.0,
+        "precio": "4,90€",
+        "precio_num": 4.9,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/all/38-x-12-cm-vic-15/",
         "artista": "Vic"
       },
       "https://www.baseelements.net/shop/all/38-x-12-cm-vic-14/": {
         "titulo": "38 x 12 cm (Vic-14)",
-        "precio": "€490",
-        "precio_num": 490.0,
+        "precio": "4,90€",
+        "precio_num": 4.9,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/all/38-x-12-cm-vic-14/",
         "artista": "Vic"
       },
       "https://www.baseelements.net/shop/all/72-x-20-cm-vic-13/": {
         "titulo": "38 x 12 cm (Vic-13)",
-        "precio": "€490",
-        "precio_num": 490.0,
+        "precio": "4,90€",
+        "precio_num": 4.9,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/all/72-x-20-cm-vic-13/",
         "artista": "Vic"
       },
       "https://www.baseelements.net/shop/all/79-x-20-cm-vic-12/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/all/79-x-20-cm-vic-12/",
         "artista": "Vic"
       },
       "https://www.baseelements.net/shop/all/79-x-21-cm-vic-10/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/all/79-x-21-cm-vic-10/",
         "artista": "Vic"
       },
       "https://www.baseelements.net/shop/all/78-x-20-cm-vic-9/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/all/78-x-20-cm-vic-9/",
         "artista": "Vic"
       },
       "https://www.baseelements.net/shop/all/78-x-205-cm-vic-sk8-8/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/all/78-x-205-cm-vic-sk8-8/",
         "artista": "Vic"
       },
       "https://www.baseelements.net/shop/all/76-x-21-cm-vic-sk8-7/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/all/76-x-21-cm-vic-sk8-7/",
         "artista": "Vic"
       },
       "https://www.baseelements.net/shop/all/79-x-215-cm-vic-sk8-6/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/all/79-x-215-cm-vic-sk8-6/",
         "artista": "Vic"
       },
       "https://www.baseelements.net/shop/all/78-x-195-cm-vic-sk8-5/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/all/78-x-195-cm-vic-sk8-5/",
         "artista": "Vic"
       },
       "https://www.baseelements.net/shop/all/78-x-21-cm-vic-sk8-4/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/all/78-x-21-cm-vic-sk8-4/",
         "artista": "Vic"
       },
       "https://www.baseelements.net/shop/all/75-x-18-cm-vic-sk8-3/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/all/75-x-18-cm-vic-sk8-3/",
         "artista": "Vic"
       },
       "https://www.baseelements.net/shop/all/77-x-205-cm-vic-sk8-2/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/all/77-x-205-cm-vic-sk8-2/",
         "artista": "Vic"
       },
       "https://www.baseelements.net/shop/all/80-x-205-cm-vic-sk8-1/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/all/80-x-205-cm-vic-sk8-1/",
         "artista": "Vic"
       }
     }
   },
   "Gastón Sanmiguel": {
-    "hash": "d3619e506e9bd53bc763b7352c3244d0",
-    "texto": "ART OBJECT Gastón Sanmiguel\n(7)\nPAINTINGS Gastón Sanmiguel\n(4)",
+    "hash": "6cf369b5c2cbdebc74750276403f04cc",
+    "texto": "{\"https://www.baseelements.net/shop/gaston-sanmiguel/art-object-gaston-sanmiguel/30-x-20-x-20-cm-gaston-sanmiguel-3/\": {\"artista\": \"Gastón Sanmiguel\", \"estado\": \"disponible\", \"precio\": \"1,90€\", \"precio_num\": 1.9, \"titulo\": \"30 x 20 x 20 cm (Gastón Sanmiguel-3)\", \"url\": \"https://www.baseelements.net/shop/gaston-sanmiguel/art-object-gaston-sanmiguel/30-x-20-x-20-cm-gaston-sanmiguel-3/\"}, \"https://www.baseelements.net/shop/gaston-sanmiguel/art-object-gaston-sanmiguel/40-x-25-x-20-cm-gaston-sanmiguel-6/\": {\"artista\": \"Gastón Sanmiguel\", \"estado\": \"disponible\", \"precio\": \"1,90€\", \"precio_num\": 1.9, \"titulo\": \"40 x 25 x 20 cm (Gastón Sanmiguel-6)\", \"url\": \"https://www.baseelements.net/shop/gaston-sanmiguel/art-object-gaston-sanmiguel/40-x-25-x-20-cm-gaston-sanmiguel-6/\"}, \"https://www.baseelements.net/shop/gaston-sanmiguel/art-object-gaston-sanmiguel/40-x-30-x-20-cm-gaston-sanmiguel-5/\": {\"artista\": \"Gastón Sanmiguel\", \"estado\": \"disponible\", \"precio\": \"1,90€\", \"precio_num\": 1.9, \"titulo\": \"40 x 30 x 20 cm (Gastón Sanmiguel-5)\", \"url\": \"https://www.baseelements.net/shop/gaston-sanmiguel/art-object-gaston-sanmiguel/40-x-30-x-20-cm-gaston-sanmiguel-5/\"}, \"https://www.baseelements.net/shop/gaston-sanmiguel/art-object-gaston-sanmiguel/40-x-40-x-40-cm-gaston-sanmiguel-7/\": {\"artista\": \"Gastón Sanmiguel\", \"estado\": \"disponible\", \"precio\": \"4,50€\", \"precio_num\": 4.5, \"titulo\": \"40 x 40 x 40 cm (Gastón Sanmiguel-7)\", \"url\": \"https://www.baseelements.net/shop/gaston-sanmiguel/art-object-gaston-sanmiguel/40-x-40-x-40-cm-gaston-sanmiguel-7/\"}, \"https://www.baseelements.net/shop/gaston-sanmiguel/art-object-gaston-sanmiguel/50-x-30-x-20-cm-gaston-sanmiguel-2/\": {\"artista\": \"Gastón Sanmiguel\", \"estado\": \"disponible\", \"precio\": \"1,90€\", \"precio_num\": 1.9, \"titulo\": \"50 x 30 x 20 cm (Gastón Sanmiguel-2)\", \"url\": \"https://www.baseelements.net/shop/gaston-sanmiguel/art-object-gaston-sanmiguel/50-x-30-x-20-cm-gaston-sanmiguel-2/\"}, \"https://www.baseelements.net/shop/gaston-sanmiguel/art-object-gaston-sanmiguel/50-x-30-x-20-cm-gaston-sanmiguel-4/\": {\"artista\": \"Gastón Sanmiguel\", \"estado\": \"disponible\", \"precio\": \"1,90€\", \"precio_num\": 1.9, \"titulo\": \"50 x 30 x 20 cm (Gastón Sanmiguel-4)\", \"url\": \"https://www.baseelements.net/shop/gaston-sanmiguel/art-object-gaston-sanmiguel/50-x-30-x-20-cm-gaston-sanmiguel-4/\"}, \"https://www.baseelements.net/shop/gaston-sanmiguel/art-object-gaston-sanmiguel/69-x-69-cm-gaston-sanmiguel-1/\": {\"artista\": \"Gastón Sanmiguel\", \"estado\": \"disponible\", \"precio\": \"6,00€\", \"precio_num\": 6.0, \"titulo\": \"69 x 69 cm (Gastón Sanmiguel-1)\", \"url\": \"https://www.baseelements.net/shop/gaston-sanmiguel/art-object-gaston-sanmiguel/69-x-69-cm-gaston-sanmiguel-1/\"}, \"https://www.baseelements.net/shop/gaston-sanmiguel/paintings-gaston-sanmiguel/70-x-50-cm-gaston-sanmiguel-p7/\": {\"artista\": \"Gastón Sanmiguel\", \"estado\": \"disponible\", \"precio\": \"3,75€\", \"precio_num\": 3.75, \"titulo\": \"70 x 50 cm (Gastón Sanmiguel-P7)\", \"url\": \"https://www.baseelements.net/shop/gaston-sanmiguel/paintings-gaston-sanmiguel/70-x-50-cm-gaston-sanmiguel-p7/\"}, \"https://www.baseelements.net/shop/gaston-sanmiguel/paintings-gaston-sanmiguel/79-x-21-cm-gaston-sanmiguel-p3/\": {\"artista\": \"Gastón Sanmiguel\", \"estado\": \"disponible\", \"precio\": \"4,90€\", \"precio_num\": 4.9, \"titulo\": \"79 x 21 cm (Gastón Sanmiguel-P3)\", \"url\": \"https://www.baseelements.net/shop/gaston-sanmiguel/paintings-gaston-sanmiguel/79-x-21-cm-gaston-sanmiguel-p3/\"}, \"https://www.baseelements.net/shop/gaston-sanmiguel/paintings-gaston-sanmiguel/79-x-21-cm-gaston-sanmiguel-p5/\": {\"artista\": \"Gastón Sanmiguel\", \"estado\": \"disponible\", \"precio\": \"Consultar precio\", \"precio_num\": 0.0, \"titulo\": \"SOLD\", \"url\": \"https://www.baseelements.net/shop/gaston-sanmiguel/paintings-gaston-sanmiguel/79-x-21-cm-gaston-sanmiguel-p5/\"}, \"https://www.baseelements.net/shop/gaston-sanmiguel/paintings-gaston-sanmiguel/81-x-100-cm-gaston-sanmiguel-p1/\": {\"artista\": \"Gastón Sanmiguel\", \"estado\": \"disponible\", \"precio\": \"14,00€\", \"precio_num\": 14.0, \"titulo\": \"81 x 100 cm (Gastón Sanmiguel-P1)\", \"url\": \"https://www.baseelements.net/shop/gaston-sanmiguel/paintings-gaston-sanmiguel/81-x-100-cm-gaston-sanmiguel-p1/\"}}",
     "obras": {
       "https://www.baseelements.net/shop/gaston-sanmiguel/paintings-gaston-sanmiguel/70-x-50-cm-gaston-sanmiguel-p7/": {
         "titulo": "70 x 50 cm (Gastón Sanmiguel-P7)",
-        "precio": "€375",
-        "precio_num": 375.0,
+        "precio": "3,75€",
+        "precio_num": 3.75,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/gaston-sanmiguel/paintings-gaston-sanmiguel/70-x-50-cm-gaston-sanmiguel-p7/",
         "artista": "Gastón Sanmiguel"
       },
       "https://www.baseelements.net/shop/gaston-sanmiguel/paintings-gaston-sanmiguel/79-x-21-cm-gaston-sanmiguel-p5/": {
         "titulo": "SOLD",
-        "precio": "Precio no disponible",
+        "precio": "Consultar precio",
         "precio_num": 0.0,
-        "estado": "vendido",
+        "estado": "disponible",
         "url": "https://www.baseelements.net/shop/gaston-sanmiguel/paintings-gaston-sanmiguel/79-x-21-cm-gaston-sanmiguel-p5/",
         "artista": "Gastón Sanmiguel"
       },
       "https://www.baseelements.net/shop/gaston-sanmiguel/paintings-gaston-sanmiguel/79-x-21-cm-gaston-sanmiguel-p3/": {
         "titulo": "79 x 21 cm (Gastón Sanmiguel-P3)",
-        "precio": "€490",
-        "precio_num": 490.0,
+        "precio": "4,90€",
+        "precio_num": 4.9,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/gaston-sanmiguel/paintings-gaston-sanmiguel/79-x-21-cm-gaston-sanmiguel-p3/",
         "artista": "Gastón Sanmiguel"
       },
       "https://www.baseelements.net/shop/gaston-sanmiguel/paintings-gaston-sanmiguel/81-x-100-cm-gaston-sanmiguel-p1/": {
         "titulo": "81 x 100 cm (Gastón Sanmiguel-P1)",
-        "precio": "€1,400",
-        "precio_num": 1.4,
+        "precio": "14,00€",
+        "precio_num": 14.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/gaston-sanmiguel/paintings-gaston-sanmiguel/81-x-100-cm-gaston-sanmiguel-p1/",
         "artista": "Gastón Sanmiguel"
       },
       "https://www.baseelements.net/shop/gaston-sanmiguel/art-object-gaston-sanmiguel/40-x-40-x-40-cm-gaston-sanmiguel-7/": {
         "titulo": "40 x 40 x 40 cm (Gastón Sanmiguel-7)",
-        "precio": "€450",
-        "precio_num": 450.0,
+        "precio": "4,50€",
+        "precio_num": 4.5,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/gaston-sanmiguel/art-object-gaston-sanmiguel/40-x-40-x-40-cm-gaston-sanmiguel-7/",
         "artista": "Gastón Sanmiguel"
       },
       "https://www.baseelements.net/shop/gaston-sanmiguel/art-object-gaston-sanmiguel/40-x-25-x-20-cm-gaston-sanmiguel-6/": {
         "titulo": "40 x 25 x 20 cm (Gastón Sanmiguel-6)",
-        "precio": "€190",
-        "precio_num": 190.0,
+        "precio": "1,90€",
+        "precio_num": 1.9,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/gaston-sanmiguel/art-object-gaston-sanmiguel/40-x-25-x-20-cm-gaston-sanmiguel-6/",
         "artista": "Gastón Sanmiguel"
       },
       "https://www.baseelements.net/shop/gaston-sanmiguel/art-object-gaston-sanmiguel/40-x-30-x-20-cm-gaston-sanmiguel-5/": {
         "titulo": "40 x 30 x 20 cm (Gastón Sanmiguel-5)",
-        "precio": "€190",
-        "precio_num": 190.0,
+        "precio": "1,90€",
+        "precio_num": 1.9,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/gaston-sanmiguel/art-object-gaston-sanmiguel/40-x-30-x-20-cm-gaston-sanmiguel-5/",
         "artista": "Gastón Sanmiguel"
       },
       "https://www.baseelements.net/shop/gaston-sanmiguel/art-object-gaston-sanmiguel/50-x-30-x-20-cm-gaston-sanmiguel-4/": {
         "titulo": "50 x 30 x 20 cm (Gastón Sanmiguel-4)",
-        "precio": "€190",
-        "precio_num": 190.0,
+        "precio": "1,90€",
+        "precio_num": 1.9,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/gaston-sanmiguel/art-object-gaston-sanmiguel/50-x-30-x-20-cm-gaston-sanmiguel-4/",
         "artista": "Gastón Sanmiguel"
       },
       "https://www.baseelements.net/shop/gaston-sanmiguel/art-object-gaston-sanmiguel/30-x-20-x-20-cm-gaston-sanmiguel-3/": {
         "titulo": "30 x 20 x 20 cm (Gastón Sanmiguel-3)",
-        "precio": "€190",
-        "precio_num": 190.0,
+        "precio": "1,90€",
+        "precio_num": 1.9,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/gaston-sanmiguel/art-object-gaston-sanmiguel/30-x-20-x-20-cm-gaston-sanmiguel-3/",
         "artista": "Gastón Sanmiguel"
       },
       "https://www.baseelements.net/shop/gaston-sanmiguel/art-object-gaston-sanmiguel/50-x-30-x-20-cm-gaston-sanmiguel-2/": {
         "titulo": "50 x 30 x 20 cm (Gastón Sanmiguel-2)",
-        "precio": "€190",
-        "precio_num": 190.0,
+        "precio": "1,90€",
+        "precio_num": 1.9,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/gaston-sanmiguel/art-object-gaston-sanmiguel/50-x-30-x-20-cm-gaston-sanmiguel-2/",
         "artista": "Gastón Sanmiguel"
       },
       "https://www.baseelements.net/shop/gaston-sanmiguel/art-object-gaston-sanmiguel/69-x-69-cm-gaston-sanmiguel-1/": {
         "titulo": "69 x 69 cm (Gastón Sanmiguel-1)",
-        "precio": "€600",
-        "precio_num": 600.0,
+        "precio": "6,00€",
+        "precio_num": 6.0,
         "estado": "disponible",
         "url": "https://www.baseelements.net/shop/gaston-sanmiguel/art-object-gaston-sanmiguel/69-x-69-cm-gaston-sanmiguel-1/",
         "artista": "Gastón Sanmiguel"
