@@ -1525,9 +1525,9 @@ def tp_extraer_obras(soup: BeautifulSoup) -> dict:
                     titulo = texto_a
                     break
 
-        # Limpiar la fecha del título (viene como "TÍTULO, 2024")
-        if ", " in titulo:
-            partes = titulo.rsplit(", ", 1)
+        # Limpiar la fecha del título (viene como "TÍTULO, 2024" o "TÍTULO,2024")
+        if "," in titulo:
+            partes = titulo.rsplit(",", 1)
             if partes[-1].strip().isdigit():
                 titulo = partes[0].strip()
 
