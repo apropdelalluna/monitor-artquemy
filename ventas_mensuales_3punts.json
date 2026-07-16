@@ -1596,6 +1596,24 @@
       "precio_num": 4800.0,
       "tipo": "vendida",
       "url": "https://www.3punts.com/es/shop/artwork/gerard-masfrenchie"
+    },
+    {
+      "fecha": "16/07/2026 16:16",
+      "artista": "Lara Padilla",
+      "obra": "",
+      "precio": "7 500,00 €",
+      "precio_num": 7500.0,
+      "tipo": "vendida",
+      "url": "https://www.3punts.com/es/shop/artwork/beyond-series-emerald"
+    },
+    {
+      "fecha": "16/07/2026 16:16",
+      "artista": "Lara Padilla",
+      "obra": "",
+      "precio": "4 000,00 €",
+      "precio_num": 4000.0,
+      "tipo": "vendida",
+      "url": "https://www.3punts.com/es/shop/artwork/human-series-coffee-small"
     }
   ]
 }
