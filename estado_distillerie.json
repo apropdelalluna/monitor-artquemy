@@ -17,7 +17,7 @@
   },
   "https://www.ladistillerie66.fr/produit/mystere-3/": {
     "titulo": "Méta",
-    "artista": "One Siker",
+    "artista": "Thierry Clamens",
     "precio": "Prix sur demande",
     "precio_num": 0.0,
     "estado": "disponible",
@@ -25,7 +25,7 @@
   },
   "https://www.ladistillerie66.fr/produit/marilyn-la-vie-en-fleur/": {
     "titulo": "Hayat",
-    "artista": "One Siker",
+    "artista": "Thierry Clamens",
     "precio": "1,190€",
     "precio_num": 1.19,
     "estado": "disponible",
@@ -33,7 +33,7 @@
   },
   "https://www.ladistillerie66.fr/produit/western-docks/": {
     "titulo": "Ludo Lassalle",
-    "artista": "One Siker",
+    "artista": "Thierry Clamens",
     "precio": "1,200€",
     "precio_num": 1.2,
     "estado": "disponible",
@@ -41,7 +41,7 @@
   },
   "https://www.ladistillerie66.fr/produit/back-jump/": {
     "titulo": "Ludo Lassalle",
-    "artista": "One Siker",
+    "artista": "Thierry Clamens",
     "precio": "790€",
     "precio_num": 790.0,
     "estado": "disponible",
@@ -49,7 +49,7 @@
   },
   "https://www.ladistillerie66.fr/produit/la-conciergerie/": {
     "titulo": "Beus",
-    "artista": "One Siker",
+    "artista": "Thierry Clamens",
     "precio": "Precio no disponible",
     "precio_num": 0.0,
     "estado": "vendido",
@@ -57,7 +57,7 @@
   },
   "https://www.ladistillerie66.fr/produit/laffirmee/": {
     "titulo": "Beus",
-    "artista": "One Siker",
+    "artista": "Thierry Clamens",
     "precio": "3,700€",
     "precio_num": 3.7,
     "estado": "disponible",
