@@ -1165,6 +1165,8 @@ def be_obtener_contenido(categoria: dict) -> dict | None:
             "Chrome/124.0.0.0 Safari/537.36"
         ),
         "Accept-Language": "es-ES,es;q=0.9",
+        "Cache-Control": "no-cache, no-store, must-revalidate",
+        "Pragma": "no-cache",
     }
     try:
         obras_totales = {}
@@ -1174,7 +1176,13 @@ def be_obtener_contenido(categoria: dict) -> dict | None:
         max_paginas = 10
 
         while url and pagina <= max_paginas:
-            resp = requests.get(url, headers=headers, timeout=20)
+            # Parámetro anti-caché: baseelements.net (o un CDN delante) estaba
+            # sirviendo una instantánea congelada del catálogo. Añadimos un
+            # valor único en cada petición para forzar contenido fresco.
+            separador = "&" if "?" in url else "?"
+            url_sin_cache = f"{url}{separador}_nocache={int(time.time() * 1000)}"
+
+            resp = requests.get(url_sin_cache, headers=headers, timeout=20)
             resp.raise_for_status()
             soup = BeautifulSoup(resp.text, "html.parser")
 
