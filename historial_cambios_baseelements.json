@@ -12288,5 +12288,539 @@
         "fecha": "16/07/2026 21:53"
       }
     ]
+  },
+  {
+    "fecha": "16/07/2026 21:54",
+    "artista": "Soem",
+    "cambios_obras": [
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "60 x 42 cm (SOEM-P18)",
+        "artista": "Soem",
+        "precio": "200,00€",
+        "precio_num": 200.0,
+        "precio_anterior": "2,00€",
+        "url": "https://www.baseelements.net/shop/soem/paper-soem/60-x-42-cm-soem-p18/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "60 x 42 cm (Colaboration SOEM &#038; Jaen )",
+        "artista": "Soem",
+        "precio": "400,00€",
+        "precio_num": 400.0,
+        "precio_anterior": "4,00€",
+        "url": "https://www.baseelements.net/shop/soem/paper-soem/60-x-42-cm-colaboration-soem-jaen/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "42 x 42 cm (SOEM-P15)",
+        "artista": "Soem",
+        "precio": "200,00€",
+        "precio_num": 200.0,
+        "precio_anterior": "2,00€",
+        "url": "https://www.baseelements.net/shop/soem/paper-soem/42-x-60-cm-soem-p15/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "42 x 60 cm (SOEM-P14)",
+        "artista": "Soem",
+        "precio": "200,00€",
+        "precio_num": 200.0,
+        "precio_anterior": "2,00€",
+        "url": "https://www.baseelements.net/shop/soem/paper-soem/42-x-60-cm-soem-p14/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "70 x 51 cm (SOEM-P9)",
+        "artista": "Soem",
+        "precio": "400,00€",
+        "precio_num": 400.0,
+        "precio_anterior": "4,00€",
+        "url": "https://www.baseelements.net/shop/soem/paper-soem/70-x-51-cm-soem-p9/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "51 x 70 cm (SOEM-P8)",
+        "artista": "Soem",
+        "precio": "400,00€",
+        "precio_num": 400.0,
+        "precio_anterior": "4,00€",
+        "url": "https://www.baseelements.net/shop/soem/paper-soem/51-x-70-cm-soem-p8/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "38 x 46 cm (SOEM-19)",
+        "artista": "Soem",
+        "precio": "190,00€",
+        "precio_num": 190.0,
+        "precio_anterior": "1,90€",
+        "url": "https://www.baseelements.net/shop/soem/canvas-soem/38-x-46-cm-soem-19/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "94 x 94 cm (Soem-18)",
+        "artista": "Soem",
+        "precio": "2.400,00€",
+        "precio_num": 2400.0,
+        "precio_anterior": "24,00€",
+        "url": "https://www.baseelements.net/shop/soem/canvas-soem/94-x-94-cm-soem-18/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "80 x 21 cm (Soem SK8-3)",
+        "artista": "Soem",
+        "precio": "425,00€",
+        "precio_num": 425.0,
+        "precio_anterior": "4,25€",
+        "url": "https://www.baseelements.net/shop/soem/80-x-21-cm-soem-sk8-3/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "70 x 100 cm (Soem-9)",
+        "artista": "Soem",
+        "precio": "1.400,00€",
+        "precio_num": 1400.0,
+        "precio_anterior": "14,00€",
+        "url": "https://www.baseelements.net/shop/soem/canvas-soem/70-x-100-cm-soem-9/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "70 x 100 cm (Soem-8)",
+        "artista": "Soem",
+        "precio": "1.800,00€",
+        "precio_num": 1800.0,
+        "precio_anterior": "18,00€",
+        "url": "https://www.baseelements.net/shop/soem/canvas-soem/70-x-100-cm-soem-8/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "130 x 100 cm (Soem-5)",
+        "artista": "Soem",
+        "precio": "2.500,00€",
+        "precio_num": 2500.0,
+        "precio_anterior": "25,00€",
+        "url": "https://www.baseelements.net/shop/soem/canvas-soem/130-x-100-cm-soem-5/",
+        "fecha": "16/07/2026 21:53"
+      }
+    ]
+  },
+  {
+    "fecha": "16/07/2026 21:54",
+    "artista": "Julián Lorenzo",
+    "cambios_obras": [
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "70 x 50 cm (Julián Lorenzo-P4)",
+        "artista": "Julián Lorenzo",
+        "precio": "590,00€",
+        "precio_num": 590.0,
+        "precio_anterior": "5,90€",
+        "url": "https://www.baseelements.net/shop/julian-lorenzo/paper-julian-lorenzo/70-x-50-cm-julian-lorenzo-p4/",
+        "fecha": "16/07/2026 21:54"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "60 x 45 cm (Julian Lorenzo LE-3)",
+        "artista": "Julián Lorenzo",
+        "precio": "110,00€",
+        "precio_num": 110.0,
+        "precio_anterior": "1,10€",
+        "url": "https://www.baseelements.net/shop/julian-lorenzo/limited-editions/60-x-45-cm-julian-lorenzo-le-2/",
+        "fecha": "16/07/2026 21:54"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "60 x 45 cm (Julian Lorenzo LE-2)",
+        "artista": "Julián Lorenzo",
+        "precio": "110,00€",
+        "precio_num": 110.0,
+        "precio_anterior": "1,10€",
+        "url": "https://www.baseelements.net/shop/julian-lorenzo/limited-editions/60-x-45-cm-julian-lorenzo-le-03/",
+        "fecha": "16/07/2026 21:54"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "45 X 45 cm (Julian Lorenzo LE-1)",
+        "artista": "Julián Lorenzo",
+        "precio": "110,00€",
+        "precio_num": 110.0,
+        "precio_anterior": "1,10€",
+        "url": "https://www.baseelements.net/shop/julian-lorenzo/limited-editions/45-x-45-cm-julian-lorenzo-le-1/",
+        "fecha": "16/07/2026 21:54"
+      }
+    ]
+  },
+  {
+    "fecha": "16/07/2026 21:54",
+    "artista": "Joan Tarragó",
+    "cambios_obras": [
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "50 x 70 cm (Joan Tarragó P-13)",
+        "artista": "Joan Tarragó",
+        "precio": "350,00€",
+        "precio_num": 350.0,
+        "precio_anterior": "3,50€",
+        "url": "https://www.baseelements.net/shop/joan-tarrago/paper/50-x-70-cm-joan-tarrago-p-13/",
+        "fecha": "16/07/2026 21:54"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "70 x 50 cm (Joan Tarragó P-10)",
+        "artista": "Joan Tarragó",
+        "precio": "350,00€",
+        "precio_num": 350.0,
+        "precio_anterior": "3,50€",
+        "url": "https://www.baseelements.net/shop/joan-tarrago/paper/70-x-50-cm-joan-tarrago-p-10/",
+        "fecha": "16/07/2026 21:54"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "50 x 70 cm (Joan Tarragó P-9)",
+        "artista": "Joan Tarragó",
+        "precio": "350,00€",
+        "precio_num": 350.0,
+        "precio_anterior": "3,50€",
+        "url": "https://www.baseelements.net/shop/joan-tarrago/paper/50-x-70-cm-joan-tarrago-p-9/",
+        "fecha": "16/07/2026 21:54"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "180 x 180 cm (Tarragó-12)",
+        "artista": "Joan Tarragó",
+        "precio": "4.500,00€",
+        "precio_num": 4500.0,
+        "precio_anterior": "45,00€",
+        "url": "https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/180-x-180-cm-tarrago-12/",
+        "fecha": "16/07/2026 21:54"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "70 X 70 cm (Tarragó-11)",
+        "artista": "Joan Tarragó",
+        "precio": "1.400,00€",
+        "precio_num": 1400.0,
+        "precio_anterior": "14,00€",
+        "url": "https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/70-x-70-cm-tarrago-11/",
+        "fecha": "16/07/2026 21:54"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "70 X 70 cm (Tarragó-10)",
+        "artista": "Joan Tarragó",
+        "precio": "1.400,00€",
+        "precio_num": 1400.0,
+        "precio_anterior": "14,00€",
+        "url": "https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/70-x-70-cm-tarrago-10-2/",
+        "fecha": "16/07/2026 21:54"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "83 X 22 cm (Tarragó SK8-1)",
+        "artista": "Joan Tarragó",
+        "precio": "290,00€",
+        "precio_num": 290.0,
+        "precio_anterior": "2,90€",
+        "url": "https://www.baseelements.net/shop/joan-tarrago/limited-editions-joan-tarrago/83-x-22-cm-tarrago-sk8-1/",
+        "fecha": "16/07/2026 21:54"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "70 X 70 cm (Tarragó-12)",
+        "artista": "Joan Tarragó",
+        "precio": "1.400,00€",
+        "precio_num": 1400.0,
+        "precio_anterior": "14,00€",
+        "url": "https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/70-x-70-cm-tarrago-10/",
+        "fecha": "16/07/2026 21:54"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "70 x 50 cm (Joan Tarragó P-8)",
+        "artista": "Joan Tarragó",
+        "precio": "390,00€",
+        "precio_num": 390.0,
+        "precio_anterior": "3,90€",
+        "url": "https://www.baseelements.net/shop/joan-tarrago/paper/70-x-50-cm-joan-tarrago-p-8/",
+        "fecha": "16/07/2026 21:54"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "70 x 50 cm (Joan Tarragó P-7)",
+        "artista": "Joan Tarragó",
+        "precio": "390,00€",
+        "precio_num": 390.0,
+        "precio_anterior": "3,90€",
+        "url": "https://www.baseelements.net/shop/joan-tarrago/paper/70-x-50-cm-joan-tarrago-p-7/",
+        "fecha": "16/07/2026 21:54"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "70 x 50 cm (Joan Tarragó P-6)",
+        "artista": "Joan Tarragó",
+        "precio": "390,00€",
+        "precio_num": 390.0,
+        "precio_anterior": "3,90€",
+        "url": "https://www.baseelements.net/shop/joan-tarrago/paper/70-x-50-cm-joan-tarrago-p-6/",
+        "fecha": "16/07/2026 21:54"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "70 x 50 cm (Joan Tarragó P-5)",
+        "artista": "Joan Tarragó",
+        "precio": "390,00€",
+        "precio_num": 390.0,
+        "precio_anterior": "3,90€",
+        "url": "https://www.baseelements.net/shop/joan-tarrago/paper/70-x-50-cm-joan-tarrago-p-5/",
+        "fecha": "16/07/2026 21:54"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "70 x 50 cm (Joan Tarragó P-4)",
+        "artista": "Joan Tarragó",
+        "precio": "390,00€",
+        "precio_num": 390.0,
+        "precio_anterior": "3,90€",
+        "url": "https://www.baseelements.net/shop/joan-tarrago/paper/50-x-70-cm-joan-tarrago-p-4/",
+        "fecha": "16/07/2026 21:54"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "100 x 70 cm (Joan Tarragó P-3)",
+        "artista": "Joan Tarragó",
+        "precio": "400,00€",
+        "precio_num": 400.0,
+        "precio_anterior": "4,00€",
+        "url": "https://www.baseelements.net/shop/joan-tarrago/paper/100-x-70-cm-joan-tarrago-le-9/",
+        "fecha": "16/07/2026 21:54"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "55 x 40 cm (Joan Tarragó LE-7)",
+        "artista": "Joan Tarragó",
+        "precio": "190,00€",
+        "precio_num": 190.0,
+        "precio_anterior": "1,90€",
+        "url": "https://www.baseelements.net/shop/joan-tarrago/limited-editions-joan-tarrago/55-x-40-cm-joan-tarrago-p-3/",
+        "fecha": "16/07/2026 21:54"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "65 x 50 cm (Joan Tarragó P-2)",
+        "artista": "Joan Tarragó",
+        "precio": "390,00€",
+        "precio_num": 390.0,
+        "precio_anterior": "3,90€",
+        "url": "https://www.baseelements.net/shop/joan-tarrago/paper/65-x-50-cm-joan-tarrago-p-2/",
+        "fecha": "16/07/2026 21:54"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "65 x 50 cm (Joan Tarragó P-1)",
+        "artista": "Joan Tarragó",
+        "precio": "390,00€",
+        "precio_num": 390.0,
+        "precio_anterior": "3,90€",
+        "url": "https://www.baseelements.net/shop/joan-tarrago/paper/65-x-50-cm-joan-tarrago-p-1/",
+        "fecha": "16/07/2026 21:54"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "150 X 150 cm (Tarragó-9)",
+        "artista": "Joan Tarragó",
+        "precio": "3.800,00€",
+        "precio_num": 3800.0,
+        "precio_anterior": "38,00€",
+        "url": "https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/150-x-150-cm-tarrago-9/",
+        "fecha": "16/07/2026 21:54"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "70 x 50 cm (Joan Tarragó LE-4)",
+        "artista": "Joan Tarragó",
+        "precio": "190,00€",
+        "precio_num": 190.0,
+        "precio_anterior": "1,90€",
+        "url": "https://www.baseelements.net/shop/joan-tarrago/limited-editions-joan-tarrago/70-x-50-cm-joan-tarrago-le-3-2/",
+        "fecha": "16/07/2026 21:54"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "60,5 x 40 cm (Joan Tarragó LE-2)",
+        "artista": "Joan Tarragó",
+        "precio": "190,00€",
+        "precio_num": 190.0,
+        "precio_anterior": "1,90€",
+        "url": "https://www.baseelements.net/shop/joan-tarrago/limited-editions-joan-tarrago/605-x-40-cm-joan-tarrago-le-2/",
+        "fecha": "16/07/2026 21:54"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "100 x 100 cm (Tarragó-8)",
+        "artista": "Joan Tarragó",
+        "precio": "2.500,00€",
+        "precio_num": 2500.0,
+        "precio_anterior": "25,00€",
+        "url": "https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/100-x-100-cm-tarrago-8/",
+        "fecha": "16/07/2026 21:54"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "97 cm  (Tarragó-2)",
+        "artista": "Joan Tarragó",
+        "precio": "2.500,00€",
+        "precio_num": 2500.0,
+        "precio_anterior": "25,00€",
+        "url": "https://www.baseelements.net/shop/joan-tarrago/canvas-joan-tarrago/97-cm-diameter-tarrago-2/",
+        "fecha": "16/07/2026 21:54"
+      }
+    ]
+  },
+  {
+    "fecha": "16/07/2026 21:54",
+    "artista": "Zosen",
+    "cambios_obras": [
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "70 x 50 cm (Zosen P-4)",
+        "artista": "Zosen",
+        "precio": "525,00€",
+        "precio_num": 525.0,
+        "precio_anterior": "5,25€",
+        "url": "https://www.baseelements.net/shop/zosen/zosen-paper/70-x-50-cm-zosen-p-4/",
+        "fecha": "16/07/2026 21:54"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "70 x 50 cm (Zosen P-3)",
+        "artista": "Zosen",
+        "precio": "525,00€",
+        "precio_num": 525.0,
+        "precio_anterior": "5,25€",
+        "url": "https://www.baseelements.net/shop/zosen/zosen-paper/70-x-50-cm-zosen-p-3/",
+        "fecha": "16/07/2026 21:54"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "70 x 50 cm (Zosen P-2)",
+        "artista": "Zosen",
+        "precio": "525,00€",
+        "precio_num": 525.0,
+        "precio_anterior": "5,25€",
+        "url": "https://www.baseelements.net/shop/zosen/zosen-paper/70-x-50-cm-zosen-p-2-2/",
+        "fecha": "16/07/2026 21:54"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "50 x 70 cm (Zosen P-1)",
+        "artista": "Zosen",
+        "precio": "525,00€",
+        "precio_num": 525.0,
+        "precio_anterior": "5,25€",
+        "url": "https://www.baseelements.net/shop/zosen/zosen-paper/70-x-50-cm-zosen-le-4/",
+        "fecha": "16/07/2026 21:54"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "70 x 50 cm (Zosen LE-3)",
+        "artista": "Zosen",
+        "precio": "160,00€",
+        "precio_num": 160.0,
+        "precio_anterior": "1,60€",
+        "url": "https://www.baseelements.net/shop/zosen/limited-editions-zosen/70-x-50-cm-zosen-le-3/",
+        "fecha": "16/07/2026 21:54"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "70 x 50 cm (Zosen LE-2)",
+        "artista": "Zosen",
+        "precio": "165,00€",
+        "precio_num": 165.0,
+        "precio_anterior": "1,65€",
+        "url": "https://www.baseelements.net/shop/zosen/limited-editions-zosen/70-x-50-cm-zosen-le-2/",
+        "fecha": "16/07/2026 21:54"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "59 x 42 cm (Zosen &#038; Mina Hamada LE-1)",
+        "artista": "Zosen",
+        "precio": "165,00€",
+        "precio_num": 165.0,
+        "precio_anterior": "1,65€",
+        "url": "https://www.baseelements.net/shop/zosen/limited-editions-zosen/59-x-42-cm-zosen-mina-hamada-le-1/",
+        "fecha": "16/07/2026 21:54"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "73 x 54 cm (Zosen-7)",
+        "artista": "Zosen",
+        "precio": "1.500,00€",
+        "precio_num": 1500.0,
+        "precio_anterior": "15,00€",
+        "url": "https://www.baseelements.net/shop/zosen/canvas-zosen/73-x-54-cm-zosen-7/",
+        "fecha": "16/07/2026 21:54"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "73 x 92 cm (Zosen-6)",
+        "artista": "Zosen",
+        "precio": "2.500,00€",
+        "precio_num": 2500.0,
+        "precio_anterior": "25,00€",
+        "url": "https://www.baseelements.net/shop/zosen/canvas-zosen/73-x-92-cm-zosen-6/",
+        "fecha": "16/07/2026 21:54"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "90 x 73 cm (Zosen-5)",
+        "artista": "Zosen",
+        "precio": "2.500,00€",
+        "precio_num": 2500.0,
+        "precio_anterior": "25,00€",
+        "url": "https://www.baseelements.net/shop/zosen/canvas-zosen/90-x-73-cm-zosen-5/",
+        "fecha": "16/07/2026 21:54"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "86 x 73 cm (Zosen-4)",
+        "artista": "Zosen",
+        "precio": "2.500,00€",
+        "precio_num": 2500.0,
+        "precio_anterior": "25,00€",
+        "url": "https://www.baseelements.net/shop/zosen/canvas-zosen/86-x-73-cm-zosen-4/",
+        "fecha": "16/07/2026 21:54"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "60 x 73 cm (Zosen-2)",
+        "artista": "Zosen",
+        "precio": "1.400,00€",
+        "precio_num": 1400.0,
+        "precio_anterior": "14,00€",
+        "url": "https://www.baseelements.net/shop/zosen/canvas-zosen/zsn-008/",
+        "fecha": "16/07/2026 21:54"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "60 x 70 cm (Zosen-1)",
+        "artista": "Zosen",
+        "precio": "1.400,00€",
+        "precio_num": 1400.0,
+        "precio_anterior": "14,00€",
+        "url": "https://www.baseelements.net/shop/zosen/canvas-zosen/60-x-70-cm-zsn-007/",
+        "fecha": "16/07/2026 21:54"
+      }
+    ]
   }
 ]
