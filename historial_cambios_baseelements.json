@@ -11654,5 +11654,639 @@
         "fecha": "16/07/2026 21:53"
       }
     ]
+  },
+  {
+    "fecha": "16/07/2026 21:53",
+    "artista": "Btoy",
+    "cambios_obras": [
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "69 x 56 cm (Btoy-P19)",
+        "artista": "Btoy",
+        "precio": "220,00€",
+        "precio_num": 220.0,
+        "precio_anterior": "2,20€",
+        "url": "https://www.baseelements.net/shop/btoy/paper-btoy/69-x-56-cm-btoy-p19/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "40 x 50 cm (BTOY-P13)",
+        "artista": "Btoy",
+        "precio": "375,00€",
+        "precio_num": 375.0,
+        "precio_anterior": "3,75€",
+        "url": "https://www.baseelements.net/shop/btoy/paper-btoy/40-x-50-cm-btoy-p13/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "40 x 50 cm (BTOY-P10)",
+        "artista": "Btoy",
+        "precio": "375,00€",
+        "precio_num": 375.0,
+        "precio_anterior": "3,75€",
+        "url": "https://www.baseelements.net/shop/btoy/paper-btoy/40-x-50-cm-btoy-p10/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "50 x 65 cm (BTOY-P9)",
+        "artista": "Btoy",
+        "precio": "550,00€",
+        "precio_num": 550.0,
+        "precio_anterior": "5,50€",
+        "url": "https://www.baseelements.net/shop/btoy/paper-btoy/50-x-65-cm-btoy-p9/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "71 x 100 cm (BTOY-P8)",
+        "artista": "Btoy",
+        "precio": "1.000,00€",
+        "precio_num": 1000.0,
+        "precio_anterior": "10,00€",
+        "url": "https://www.baseelements.net/shop/btoy/paper-btoy/71-x-100-cm-btoy-p8/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "76 x 56 cm (BTOY-P7)",
+        "artista": "Btoy",
+        "precio": "1.200,00€",
+        "precio_num": 1200.0,
+        "precio_anterior": "12,00€",
+        "url": "https://www.baseelements.net/shop/btoy/paper-btoy/76-x-56-cm-btoy-p7/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "76,5 x 57 cm (BTOY-P6)",
+        "artista": "Btoy",
+        "precio": "1.200,00€",
+        "precio_num": 1200.0,
+        "precio_anterior": "12,00€",
+        "url": "https://www.baseelements.net/shop/btoy/paper-btoy/765-x-57-cm-btoy-p6/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "95 x 130 cm (Btoy-3)",
+        "artista": "Btoy",
+        "precio": "2.500,00€",
+        "precio_num": 2500.0,
+        "precio_anterior": "25,00€",
+        "url": "https://www.baseelements.net/shop/btoy/canvas-btoy/95-x-130-cm-btoy-3/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "40 x 50 (BTOY-P4)",
+        "artista": "Btoy",
+        "precio": "350,00€",
+        "precio_num": 350.0,
+        "precio_anterior": "3,50€",
+        "url": "https://www.baseelements.net/shop/btoy/paper-btoy/40-x-50-btoy-p4/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "40 x 50 cm (BTOY-P1)",
+        "artista": "Btoy",
+        "precio": "350,00€",
+        "precio_num": 350.0,
+        "precio_anterior": "3,50€",
+        "url": "https://www.baseelements.net/shop/btoy/paper-btoy/40-x-50-cm-btoy-p1/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "100 x 100 cm (Btoy-2)",
+        "artista": "Btoy",
+        "precio": "2.200,00€",
+        "precio_num": 2200.0,
+        "precio_anterior": "22,00€",
+        "url": "https://www.baseelements.net/shop/btoy/canvas-btoy/100-x-100-cm-btoy-2/",
+        "fecha": "16/07/2026 21:53"
+      }
+    ]
+  },
+  {
+    "fecha": "16/07/2026 21:53",
+    "artista": "Kram",
+    "cambios_obras": [
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "130 x 97 cm (Kram -04)",
+        "artista": "Kram",
+        "precio": "4.700,00€",
+        "precio_num": 4700.0,
+        "precio_anterior": "47,00€",
+        "url": "https://www.baseelements.net/shop/kram/canvas-kram/97-x-130-cm-kram-04/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "100 x 100 cm (Kram -03)",
+        "artista": "Kram",
+        "precio": "4.000,00€",
+        "precio_num": 4000.0,
+        "precio_anterior": "40,00€",
+        "url": "https://www.baseelements.net/shop/kram/canvas-kram/100-x-100-cm-kram-03/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "107 x 70 cm (Kram -02)",
+        "artista": "Kram",
+        "precio": "3.000,00€",
+        "precio_num": 3000.0,
+        "precio_anterior": "30,00€",
+        "url": "https://www.baseelements.net/shop/kram/canvas-kram/70-x-107-cm-kram-02/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "110 x 97 cm (Kram -01)",
+        "artista": "Kram",
+        "precio": "4.000,00€",
+        "precio_num": 4000.0,
+        "precio_anterior": "40,00€",
+        "url": "https://www.baseelements.net/shop/kram/canvas-kram/97-x-110-cm-kram-01/",
+        "fecha": "16/07/2026 21:53"
+      }
+    ]
+  },
+  {
+    "fecha": "16/07/2026 21:53",
+    "artista": "Ivana Flores",
+    "cambios_obras": [
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "30 x 21 cm (Ivana Flores P-8)",
+        "artista": "Ivana Flores",
+        "precio": "490,00€",
+        "precio_num": 490.0,
+        "precio_anterior": "4,90€",
+        "url": "https://www.baseelements.net/shop/ivana-flores/paper-ivana-flores/30-x-21-cm-ivana-flores-p-8/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "30 x 21 cm (Ivana Flores P-7)",
+        "artista": "Ivana Flores",
+        "precio": "490,00€",
+        "precio_num": 490.0,
+        "precio_anterior": "4,90€",
+        "url": "https://www.baseelements.net/shop/ivana-flores/paper-ivana-flores/30-x-21-cm-ivana-flores-p-7/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "30 x 21 cm (Ivana Flores P-6)",
+        "artista": "Ivana Flores",
+        "precio": "490,00€",
+        "precio_num": 490.0,
+        "precio_anterior": "4,90€",
+        "url": "https://www.baseelements.net/shop/ivana-flores/paper-ivana-flores/30-x-21-cm-ivana-flores-p-6/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "78 x 65 cm (Ivana Flores LE-18)",
+        "artista": "Ivana Flores",
+        "precio": "420,00€",
+        "precio_num": 420.0,
+        "precio_anterior": "4,20€",
+        "url": "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/78-x-65-cm-ivana-flores-le-17/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "54,3 x 78 cm (Ivana Flores LE-17)",
+        "artista": "Ivana Flores",
+        "precio": "350,00€",
+        "precio_num": 350.0,
+        "precio_anterior": "3,50€",
+        "url": "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/543-x-78-cm-ivana-flores-le-18/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "108 x 70,5 (Ivana Flores LE-16)",
+        "artista": "Ivana Flores",
+        "precio": "500,00€",
+        "precio_num": 500.0,
+        "precio_anterior": "5,00€",
+        "url": "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/108-x-705-ivana-flores-le-16/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "46 x 46 cm (Ivana Flores LE-15)",
+        "artista": "Ivana Flores",
+        "precio": "225,00€",
+        "precio_num": 225.0,
+        "precio_anterior": "2,25€",
+        "url": "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/46-x-46-cm-ivana-flores-le-15/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "50,4 x 68 cm (Ivana Flores LE-13)",
+        "artista": "Ivana Flores",
+        "precio": "350,00€",
+        "precio_num": 350.0,
+        "precio_anterior": "3,50€",
+        "url": "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/504-x-68-cm-ivana-flores-le-13/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "108 x 62,6 cm (Ivana Flores LE-11)",
+        "artista": "Ivana Flores",
+        "precio": "500,00€",
+        "precio_num": 500.0,
+        "precio_anterior": "5,00€",
+        "url": "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/108-x-626-cm-ivana-flores-le-11/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "108 x 62,6 cm (Ivana Flores LE-10)",
+        "artista": "Ivana Flores",
+        "precio": "500,00€",
+        "precio_num": 500.0,
+        "precio_anterior": "5,00€",
+        "url": "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/108-x-626-cm-ivana-flores-le-10/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "20 x 25 cm (Ivana Flores P-5)",
+        "artista": "Ivana Flores",
+        "precio": "390,00€",
+        "precio_num": 390.0,
+        "precio_anterior": "3,90€",
+        "url": "https://www.baseelements.net/shop/ivana-flores/paper-ivana-flores/20-x-25-cm-ivana-flores-p-5/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "30 x 42 cm (Ivana Flores P-4)",
+        "artista": "Ivana Flores",
+        "precio": "510,00€",
+        "precio_num": 510.0,
+        "precio_anterior": "5,10€",
+        "url": "https://www.baseelements.net/shop/ivana-flores/paper-ivana-flores/30-x-42-cm-ivana-flores-p-4/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "20 x 81 cm (Ivana Flores-10)",
+        "artista": "Ivana Flores",
+        "precio": "950,00€",
+        "precio_num": 950.0,
+        "precio_anterior": "9,50€",
+        "url": "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/20-x-81-cm-ivana-flores-10/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "20 x 26 cm (Ivana Flores-8)",
+        "artista": "Ivana Flores",
+        "precio": "350,00€",
+        "precio_num": 350.0,
+        "precio_anterior": "3,50€",
+        "url": "https://www.baseelements.net/shop/ivana-flores/canvas-ivana-flores/20-x-26-cm-ivana-flores-8/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "25 × 25 cm (Ivana Flores P-3)",
+        "artista": "Ivana Flores",
+        "precio": "290,00€",
+        "precio_num": 290.0,
+        "precio_anterior": "2,90€",
+        "url": "https://www.baseelements.net/shop/ivana-flores/paper-ivana-flores/25-x-25-cm-ivana-flores-p-3/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "34 x 34 cm (Ivana Flores LE-7)",
+        "artista": "Ivana Flores",
+        "precio": "90,00€",
+        "precio_num": 90.0,
+        "precio_anterior": "0,90€",
+        "url": "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/34-x-34-cm-ivana-flores-le-7/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "34 × 34 cm (Ivana Flores LE-6)",
+        "artista": "Ivana Flores",
+        "precio": "90,00€",
+        "precio_num": 90.0,
+        "precio_anterior": "0,90€",
+        "url": "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/34-x-34-cm-ivana-flores-le-6/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "42 x 42 cm (Ivana Flores LE-5)",
+        "artista": "Ivana Flores",
+        "precio": "150,00€",
+        "precio_num": 150.0,
+        "precio_anterior": "1,50€",
+        "url": "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/42-x-42-cm-ivana-flores-le-5/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "30 × 30 cm (Ivana Flores LE-4)",
+        "artista": "Ivana Flores",
+        "precio": "90,00€",
+        "precio_num": 90.0,
+        "precio_anterior": "0,90€",
+        "url": "https://www.baseelements.net/shop/ivana-flores/if-p29/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "34 × 34 cm (Ivana Flores LE-3)",
+        "artista": "Ivana Flores",
+        "precio": "90,00€",
+        "precio_num": 90.0,
+        "precio_anterior": "0,90€",
+        "url": "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/23-x-23-cm-ivana-flores-le-3/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "34 x 34 cm (Ivana Flores LE-2)",
+        "artista": "Ivana Flores",
+        "precio": "90,00€",
+        "precio_num": 90.0,
+        "precio_anterior": "0,90€",
+        "url": "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/34-x-34-cm-ivana-flores-le-2/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "34 x 34 cm (Ivana Flores LE-1)",
+        "artista": "Ivana Flores",
+        "precio": "90,00€",
+        "precio_num": 90.0,
+        "precio_anterior": "0,90€",
+        "url": "https://www.baseelements.net/shop/ivana-flores/print-ivana-flores/34-x-34-cm-ivana-flores-le-1/",
+        "fecha": "16/07/2026 21:53"
+      }
+    ]
+  },
+  {
+    "fecha": "16/07/2026 21:53",
+    "artista": "J Loca",
+    "cambios_obras": [
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "70 x 50 cm (J.Loca-P25)",
+        "artista": "J Loca",
+        "precio": "525,00€",
+        "precio_num": 525.0,
+        "precio_anterior": "5,25€",
+        "url": "https://www.baseelements.net/shop/j-loca/paper-j-loca/70-x-50-cm-j-loca-p25/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "70 x 50 cm (J.Loca-P24)",
+        "artista": "J Loca",
+        "precio": "525,00€",
+        "precio_num": 525.0,
+        "precio_anterior": "5,25€",
+        "url": "https://www.baseelements.net/shop/j-loca/paper-j-loca/30-x-42-cm-j-loca-p24/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "70 x 50 cm (J.Loca-P19)",
+        "artista": "J Loca",
+        "precio": "525,00€",
+        "precio_num": 525.0,
+        "precio_anterior": "5,25€",
+        "url": "https://www.baseelements.net/shop/j-loca/paper-j-loca/70-x-50-cm-j-loca-p19/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "70 x 50 cm (J.Loca-P18)",
+        "artista": "J Loca",
+        "precio": "525,00€",
+        "precio_num": 525.0,
+        "precio_anterior": "5,25€",
+        "url": "https://www.baseelements.net/shop/j-loca/paper-j-loca/70-x-50-cm-j-loca-p18/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "40 x 30 cm (J.Loca-15)",
+        "artista": "J Loca",
+        "precio": "300,00€",
+        "precio_num": 300.0,
+        "precio_anterior": "3,00€",
+        "url": "https://www.baseelements.net/shop/j-loca/canvas-j-loca/40-x-30-cm-j-loca-15/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "40 x 30 cm (J.Loca-14)",
+        "artista": "J Loca",
+        "precio": "300,00€",
+        "precio_num": 300.0,
+        "precio_anterior": "3,00€",
+        "url": "https://www.baseelements.net/shop/j-loca/canvas-j-loca/40-x-30-cm-j-loca-14/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "80 x 20 cm (J.Loca SK8-4)",
+        "artista": "J Loca",
+        "precio": "690,00€",
+        "precio_num": 690.0,
+        "precio_anterior": "6,90€",
+        "url": "https://www.baseelements.net/shop/j-loca/canvas-j-loca/80-x-20-cm-j-loca-sk8-4/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "80 x 22 cm (J.Loca SK8-3)",
+        "artista": "J Loca",
+        "precio": "690,00€",
+        "precio_num": 690.0,
+        "precio_anterior": "6,90€",
+        "url": "https://www.baseelements.net/shop/j-loca/canvas-j-loca/80-x-22-cm-j-loca-sk8-3/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "82 x 22 cm (J.Loca SK8-2)",
+        "artista": "J Loca",
+        "precio": "690,00€",
+        "precio_num": 690.0,
+        "precio_anterior": "6,90€",
+        "url": "https://www.baseelements.net/shop/j-loca/canvas-j-loca/82-x-22-cm-j-loca-sk8-2/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "42 x 30 cm (J.Loca-P17)",
+        "artista": "J Loca",
+        "precio": "300,00€",
+        "precio_num": 300.0,
+        "precio_anterior": "3,00€",
+        "url": "https://www.baseelements.net/shop/j-loca/paper-j-loca/42-x-30-cm-j-loca-p17/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "42 x 30 cm (J.Loca-P15)",
+        "artista": "J Loca",
+        "precio": "300,00€",
+        "precio_num": 300.0,
+        "precio_anterior": "3,00€",
+        "url": "https://www.baseelements.net/shop/j-loca/paper-j-loca/42-x-30-cm-j-loca-p15/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "42 x 30 cm (J.Loca-P11)",
+        "artista": "J Loca",
+        "precio": "300,00€",
+        "precio_num": 300.0,
+        "precio_anterior": "3,00€",
+        "url": "https://www.baseelements.net/shop/j-loca/paper-j-loca/42-x-30-cm-j-loca-p11/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "42 x 30 cm (J.Loca-P10)",
+        "artista": "J Loca",
+        "precio": "300,00€",
+        "precio_num": 300.0,
+        "precio_anterior": "3,00€",
+        "url": "https://www.baseelements.net/shop/j-loca/paper-j-loca/42-x-30-cm-j-loca-p10/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "42 x 30 cm (J.Loca-P8)",
+        "artista": "J Loca",
+        "precio": "300,00€",
+        "precio_num": 300.0,
+        "precio_anterior": "3,00€",
+        "url": "https://www.baseelements.net/shop/j-loca/paper-j-loca/58-x-42-cm-j-loca-p8/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "140 x 140 cm (J.Loca-12)",
+        "artista": "J Loca",
+        "precio": "3.800,00€",
+        "precio_num": 3800.0,
+        "precio_anterior": "38,00€",
+        "url": "https://www.baseelements.net/shop/j-loca/canvas-j-loca/j-loca-12/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "60 x 130 cm (J.Loca-6)",
+        "artista": "J Loca",
+        "precio": "950,00€",
+        "precio_num": 950.0,
+        "precio_anterior": "9,50€",
+        "url": "https://www.baseelements.net/shop/j-loca/canvas-j-loca/60-x-130-cm-j-loca-6/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "40 x 29,5 cm (J.Loca-P7)",
+        "artista": "J Loca",
+        "precio": "300,00€",
+        "precio_num": 300.0,
+        "precio_anterior": "3,00€",
+        "url": "https://www.baseelements.net/shop/j-loca/paper-j-loca/40-x-295-cm-j-loca-p7/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "40 x 29,5 cm (J.Loca-P6)",
+        "artista": "J Loca",
+        "precio": "300,00€",
+        "precio_num": 300.0,
+        "precio_anterior": "3,00€",
+        "url": "https://www.baseelements.net/shop/j-loca/paper-j-loca/40-x-295-cm-j-loca-p6/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "90 x 90 cm (J.Loca-5)",
+        "artista": "J Loca",
+        "precio": "1.250,00€",
+        "precio_num": 1250.0,
+        "precio_anterior": "12,50€",
+        "url": "https://www.baseelements.net/shop/j-loca/canvas-j-loca/90-x-90-cm-j-loca-5/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "50 x 70 cm (J.Loca-P5)",
+        "artista": "J Loca",
+        "precio": "390,00€",
+        "precio_num": 390.0,
+        "precio_anterior": "3,90€",
+        "url": "https://www.baseelements.net/shop/j-loca/paper-j-loca/50-x-70-cm-j-loca-p5/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "59 x 42 cm (J.Loca-P4)",
+        "artista": "J Loca",
+        "precio": "290,00€",
+        "precio_num": 290.0,
+        "precio_anterior": "2,90€",
+        "url": "https://www.baseelements.net/shop/j-loca/paper-j-loca/59-x-42-cm-j-loca-p4/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "59 x 42 cm (J.Loca-P3)",
+        "artista": "J Loca",
+        "precio": "290,00€",
+        "precio_num": 290.0,
+        "precio_anterior": "2,90€",
+        "url": "https://www.baseelements.net/shop/j-loca/paper-j-loca/59-x-42-cm-j-loca-p3/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "15 x 60 cm (J.Loca-1)",
+        "artista": "J Loca",
+        "precio": "325,00€",
+        "precio_num": 325.0,
+        "precio_anterior": "3,25€",
+        "url": "https://www.baseelements.net/shop/j-loca/canvas-j-loca/jloca-11/",
+        "fecha": "16/07/2026 21:53"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "50 x 70 cm (J.Loca-P1)",
+        "artista": "J Loca",
+        "precio": "390,00€",
+        "precio_num": 390.0,
+        "precio_anterior": "3,90€",
+        "url": "https://www.baseelements.net/shop/j-loca/paper-j-loca/50-x-70-cm-j-loca-p1/",
+        "fecha": "16/07/2026 21:53"
+      }
+    ]
   }
 ]
