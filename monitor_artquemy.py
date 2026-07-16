@@ -250,13 +250,19 @@ def guardar_estado() -> None:
 
 def guardar_ventas_mensuales(cambios: list) -> None:
     try:
-        acumulado = {}
         contenido = github_cargar_archivo(ARCHIVO_MENSUAL)
         if contenido:
             acumulado = json.loads(contenido)
         elif os.path.exists(ARCHIVO_MENSUAL):
             with open(ARCHIVO_MENSUAL, "r", encoding="utf-8") as f:
                 acumulado = json.load(f)
+        else:
+            # No se pudo confirmar el contenido existente (podría ser un
+            # fallo de red, no necesariamente que el archivo no exista) —
+            # abortamos para no arriesgarnos a sobreescribir datos ya
+            # guardados con una versión vacía.
+            logging.error("No se pudo cargar %s ni de GitHub ni localmente — guardado abortado.", ARCHIVO_MENSUAL)
+            return
 
         mes_actual = datetime.now().strftime("%Y-%m")
         if mes_actual not in acumulado:
@@ -285,13 +291,15 @@ def guardar_ventas_mensuales(cambios: list) -> None:
 
 def guardar_historial(cambios: list) -> None:
     try:
-        historial = []
         contenido = github_cargar_archivo(ARCHIVO_HISTORIAL)
         if contenido:
             historial = json.loads(contenido)
         elif os.path.exists(ARCHIVO_HISTORIAL):
             with open(ARCHIVO_HISTORIAL, "r", encoding="utf-8") as f:
                 historial = json.load(f)
+        else:
+            logging.error("No se pudo cargar %s ni de GitHub ni localmente — guardado abortado.", ARCHIVO_HISTORIAL)
+            return
 
         for cambio in cambios:
             historial.append({
@@ -900,6 +908,9 @@ def comprobar_artista(artista: dict) -> dict | None:
         return None
 
 
+CHECKPOINT_CADA = 5  # guardar progreso cada N artistas/categorías, no solo al final
+
+
 def comprobar_todos() -> None:
     global cambios_del_dia
     logging.info("=" * 50)
@@ -907,16 +918,24 @@ def comprobar_todos() -> None:
     logging.info("Artistas a comprobar: %d", len(ARTISTAS))
 
     cambios_del_dia = []
+    cambios_guardados = 0  # índice hasta donde ya se ha persistido cambios_del_dia
 
-    for artista in ARTISTAS:
+    for i, artista in enumerate(ARTISTAS, start=1):
         comprobar_artista(artista)
         time.sleep(2)  # pausa cortés entre peticiones
 
-    guardar_estado()
+        # Checkpoint: guardar progreso cada N artistas para no perderlo si el
+        # proceso se corta a mitad (p. ej. Render duerme la instancia)
+        if i % CHECKPOINT_CADA == 0 or i == len(ARTISTAS):
+            guardar_estado()
+            nuevos = cambios_del_dia[cambios_guardados:]
+            if nuevos:
+                guardar_ventas_mensuales(nuevos)
+                guardar_historial(nuevos)
+                cambios_guardados = len(cambios_del_dia)
+            logging.info("  💾 Checkpoint guardado (%d/%d artistas)", i, len(ARTISTAS))
 
     if cambios_del_dia:
-        guardar_ventas_mensuales(cambios_del_dia)
-        guardar_historial(cambios_del_dia)
         # enviar_resumen_cambios(cambios_del_dia)  # emails desactivados
         logging.info("Comprobación finalizada — %d artistas con cambios.", len(cambios_del_dia))
     else:
@@ -1325,7 +1344,14 @@ def be_guardar_estado() -> None:
 def be_guardar_ventas_mensuales(cambios_list: list) -> None:
     try:
         contenido = github_cargar_archivo(BE_ARCHIVO_MENSUAL)
-        ventas = json.loads(contenido) if contenido else {}
+        if contenido:
+            ventas = json.loads(contenido)
+        elif os.path.exists(BE_ARCHIVO_MENSUAL):
+            with open(BE_ARCHIVO_MENSUAL, "r", encoding="utf-8") as f:
+                ventas = json.load(f)
+        else:
+            logging.error("[BE] No se pudo cargar %s ni de GitHub ni localmente — guardado abortado.", BE_ARCHIVO_MENSUAL)
+            return
 
         mes_actual = datetime.now().strftime("%Y-%m")
         if mes_actual not in ventas:
@@ -1355,7 +1381,14 @@ def be_guardar_ventas_mensuales(cambios_list: list) -> None:
 def be_guardar_historial(cambios_list: list) -> None:
     try:
         contenido = github_cargar_archivo(BE_ARCHIVO_HISTORIAL)
-        historial = json.loads(contenido) if contenido else []
+        if contenido:
+            historial = json.loads(contenido)
+        elif os.path.exists(BE_ARCHIVO_HISTORIAL):
+            with open(BE_ARCHIVO_HISTORIAL, "r", encoding="utf-8") as f:
+                historial = json.load(f)
+        else:
+            logging.error("[BE] No se pudo cargar %s ni de GitHub ni localmente — guardado abortado.", BE_ARCHIVO_HISTORIAL)
+            return
 
         fecha = datetime.now().strftime("%d/%m/%Y %H:%M")
         for cambio in cambios_list:
@@ -1461,18 +1494,27 @@ def be_comprobar_todos() -> None:
     logging.info("[BE] Inicio comprobación Base Elements — %s", datetime.now().strftime("%d/%m/%Y %H:%M"))
 
     be_cambios_del_dia = []
+    cambios_guardados = 0
 
     try:
-        for categoria in BE_CATEGORIAS:
+        total = len(BE_CATEGORIAS)
+        for i, categoria in enumerate(BE_CATEGORIAS, start=1):
             be_comprobar_categoria(categoria)
             time.sleep(2)
 
-        be_guardar_estado()
-        be_guardar_meta()
+            # Checkpoint: guardar progreso cada N categorías para no perderlo
+            # si el proceso se corta a mitad
+            if i % CHECKPOINT_CADA == 0 or i == total:
+                be_guardar_estado()
+                be_guardar_meta()
+                nuevos = be_cambios_del_dia[cambios_guardados:]
+                if nuevos:
+                    be_guardar_ventas_mensuales(nuevos)
+                    be_guardar_historial(nuevos)
+                    cambios_guardados = len(be_cambios_del_dia)
+                logging.info("[BE]  💾 Checkpoint guardado (%d/%d categorías)", i, total)
 
         if be_cambios_del_dia:
-            be_guardar_ventas_mensuales(be_cambios_del_dia)
-            be_guardar_historial(be_cambios_del_dia)
             logging.info("[BE] Comprobación finalizada — %d categorías con cambios.", len(be_cambios_del_dia))
         else:
             logging.info("[BE] Comprobación finalizada — Sin cambios detectados.")
@@ -1584,6 +1626,7 @@ def tp_obtener_todas_obras() -> dict | None:
         ),
         "Accept-Language": "es-ES,es;q=0.9",
     }
+    global tp_estado
     obras_totales = {}
     textos = []
 
@@ -1593,6 +1636,19 @@ def tp_obtener_todas_obras() -> dict | None:
             resp = requests.get(url, headers=headers, timeout=20)
             resp.raise_for_status()
             soup = BeautifulSoup(resp.text, "html.parser")
+
+            # Checkpoint: guardar progreso cada N páginas para no perder todo
+            # si el proceso se corta a mitad. Fusiona lo ya escaneado con lo
+            # que había guardado para las páginas aún no visitadas en esta
+            # pasada — la detección de "desaparecida" se calcula solo al
+            # final, con el barrido completo.
+            if pagina > 0 and pagina % CHECKPOINT_CADA == 0:
+                estado_checkpoint = dict(tp_estado.get("obras", {}))
+                estado_checkpoint.update(obras_totales)
+                tp_estado = {"__hash__": tp_estado.get("__hash__", ""), "obras": estado_checkpoint}
+                tp_guardar_estado()
+                tp_guardar_meta()
+                logging.info("[3P]  💾 Checkpoint guardado (página %d/%d)", pagina, TP_MAX_PAGINAS)
 
             obras_pagina = tp_extraer_obras(soup)
             if not obras_pagina:
@@ -1734,7 +1790,14 @@ def tp_guardar_estado() -> None:
 def tp_guardar_ventas_mensuales(cambios: list) -> None:
     try:
         contenido = github_cargar_archivo(TP_ARCHIVO_MENSUAL)
-        ventas = json.loads(contenido) if contenido else {}
+        if contenido:
+            ventas = json.loads(contenido)
+        elif os.path.exists(TP_ARCHIVO_MENSUAL):
+            with open(TP_ARCHIVO_MENSUAL, "r", encoding="utf-8") as f:
+                ventas = json.load(f)
+        else:
+            logging.error("[3P] No se pudo cargar %s ni de GitHub ni localmente — guardado abortado.", TP_ARCHIVO_MENSUAL)
+            return
         mes_actual = datetime.now().strftime("%Y-%m")
         if mes_actual not in ventas:
             ventas[mes_actual] = []
@@ -1760,7 +1823,14 @@ def tp_guardar_ventas_mensuales(cambios: list) -> None:
 def tp_guardar_historial(cambios: list) -> None:
     try:
         contenido = github_cargar_archivo(TP_ARCHIVO_HISTORIAL)
-        historial = json.loads(contenido) if contenido else []
+        if contenido:
+            historial = json.loads(contenido)
+        elif os.path.exists(TP_ARCHIVO_HISTORIAL):
+            with open(TP_ARCHIVO_HISTORIAL, "r", encoding="utf-8") as f:
+                historial = json.load(f)
+        else:
+            logging.error("[3P] No se pudo cargar %s ni de GitHub ni localmente — guardado abortado.", TP_ARCHIVO_HISTORIAL)
+            return
         historial.extend(cambios)
         historial = historial[-2000:]
         with open(TP_ARCHIVO_HISTORIAL, "w", encoding="utf-8") as f:
@@ -2058,7 +2128,14 @@ def ld_guardar_estado() -> None:
 def ld_guardar_ventas_mensuales(cambios: list) -> None:
     try:
         contenido = github_cargar_archivo(LD_ARCHIVO_MENSUAL)
-        ventas = json.loads(contenido) if contenido else {}
+        if contenido:
+            ventas = json.loads(contenido)
+        elif os.path.exists(LD_ARCHIVO_MENSUAL):
+            with open(LD_ARCHIVO_MENSUAL, "r", encoding="utf-8") as f:
+                ventas = json.load(f)
+        else:
+            logging.error("[LD] No se pudo cargar %s ni de GitHub ni localmente — guardado abortado.", LD_ARCHIVO_MENSUAL)
+            return
         mes_actual = datetime.now().strftime("%Y-%m")
         if mes_actual not in ventas:
             ventas[mes_actual] = []
@@ -2076,7 +2153,14 @@ def ld_guardar_ventas_mensuales(cambios: list) -> None:
 def ld_guardar_historial(cambios: list) -> None:
     try:
         contenido = github_cargar_archivo(LD_ARCHIVO_HISTORIAL)
-        historial = json.loads(contenido) if contenido else []
+        if contenido:
+            historial = json.loads(contenido)
+        elif os.path.exists(LD_ARCHIVO_HISTORIAL):
+            with open(LD_ARCHIVO_HISTORIAL, "r", encoding="utf-8") as f:
+                historial = json.load(f)
+        else:
+            logging.error("[LD] No se pudo cargar %s ni de GitHub ni localmente — guardado abortado.", LD_ARCHIVO_HISTORIAL)
+            return
         historial.extend(cambios)
         historial = historial[-2000:]
         with open(LD_ARCHIVO_HISTORIAL, "w", encoding="utf-8") as f:
@@ -2102,16 +2186,36 @@ def ld_comprobar_todos() -> None:
     logging.info("[LD] " + "=" * 45)
     logging.info("[LD] Inicio comprobación La Distillerie 66 — %s", datetime.now().strftime("%d/%m/%Y %H:%M"))
     ld_cambios_del_dia = []
+    ld_estado_original = dict(ld_estado)  # snapshot de cómo estaba al empezar, para el diff final
     try:
         obras_totales_nuevas = {}
-        for artista in LD_ARTISTAS:
+        total = len(LD_ARTISTAS)
+        for i, artista in enumerate(LD_ARTISTAS, start=1):
             logging.info("[LD] Comprobando: %s", artista["nombre"])
             datos = ld_obtener_artista(artista)
-            if datos is None:
-                continue
-            obras_totales_nuevas.update(datos["obras"])
+            if datos is not None:
+                obras_totales_nuevas.update(datos["obras"])
             time.sleep(1.5)
-        cambios = ld_detectar_cambios(obras_totales_nuevas, ld_estado)
+
+            # Checkpoint: guardar progreso cada N artistas para no perder
+            # todo si el proceso se corta a mitad (p. ej. Render duerme la
+            # instancia). Solo persistimos los datos ya frescos, combinados
+            # con los del último ciclo completo para los artistas aún no
+            # comprobados en esta pasada — la detección de "desaparecida"
+            # necesita el barrido completo, así que ese cálculo se hace solo
+            # una vez al final, sobre ld_estado_original.
+            if i % CHECKPOINT_CADA == 0 or i == total:
+                nombres_comprobados = {a["nombre"] for a in LD_ARTISTAS[:i]}
+                estado_checkpoint = dict(obras_totales_nuevas)
+                for url, info in ld_estado_original.items():
+                    if info.get("artista") not in nombres_comprobados:
+                        estado_checkpoint.setdefault(url, info)
+                ld_estado = estado_checkpoint
+                ld_guardar_estado()
+                ld_guardar_meta()
+                logging.info("[LD]  💾 Checkpoint guardado (%d/%d artistas)", i, total)
+
+        cambios = ld_detectar_cambios(obras_totales_nuevas, ld_estado_original)
         if cambios:
             logging.info("[LD] %d cambios detectados:", len(cambios))
             for c in cambios:
