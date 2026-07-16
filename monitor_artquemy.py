@@ -1235,7 +1235,13 @@ def be_obtener_contenido_api(categoria: dict) -> dict | None:
                         continue
 
                     en_stock = bool(p.get("is_in_stock", True))
-                    estado_obra = "disponible" if en_stock else "vendido"
+                    # Esta galería marca las obras vendidas cambiando el
+                    # título a "SOLD" a mano, sin tocar el estado de stock
+                    # real en WordPress — por eso is_in_stock por sí solo no
+                    # es fiable. Combinamos ambas señales: si cualquiera de
+                    # las dos indica que no está disponible, se marca vendido.
+                    es_vendido = (not en_stock) or (titulo.strip().upper() == "SOLD")
+                    estado_obra = "vendido" if es_vendido else "disponible"
 
                     precios = p.get("prices", {}) or {}
                     # En esta tienda el campo "price" de la API ya viene en
@@ -1250,7 +1256,7 @@ def be_obtener_contenido_api(categoria: dict) -> dict | None:
                     except (TypeError, ValueError):
                         precio_num = 0.0
 
-                    if not en_stock:
+                    if es_vendido:
                         precio_str = "Precio no disponible"
                         precio_num = 0.0
                     elif precio_num > 0:
