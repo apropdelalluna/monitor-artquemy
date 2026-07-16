@@ -1238,10 +1238,15 @@ def be_obtener_contenido_api(categoria: dict) -> dict | None:
                     estado_obra = "disponible" if en_stock else "vendido"
 
                     precios = p.get("prices", {}) or {}
-                    minor = int(precios.get("currency_minor_unit", 2) or 2)
+                    # En esta tienda el campo "price" de la API ya viene en
+                    # euros con decimales (no en céntimos/unidad mínima como
+                    # indica la especificación estándar de WooCommerce). Se
+                    # comprobó comparando contra precios conocidos del
+                    # histórico: dividir por currency_minor_unit daba
+                    # valores 100 veces más pequeños de lo real.
                     precio_raw = precios.get("price") or precios.get("regular_price") or "0"
                     try:
-                        precio_num = float(precio_raw) / (10 ** minor)
+                        precio_num = float(precio_raw)
                     except (TypeError, ValueError):
                         precio_num = 0.0
 
