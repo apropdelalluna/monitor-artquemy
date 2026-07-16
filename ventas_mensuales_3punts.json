@@ -1535,7 +1535,7 @@
     {
       "fecha": "26/06/2026 15:28",
       "artista": "Gerard Mas",
-      "obra": "",
+      "obra": "THE IDOL I",
       "precio": "Consultar precio",
       "precio_num": 0.0,
       "tipo": "vendida",
@@ -1546,7 +1546,7 @@
     {
       "fecha": "10/07/2026 18:25",
       "artista": "Antonella Montes - LANTOMO",
-      "obra": "",
+      "obra": "EXPECTATION",
       "precio": "10 500,00 €",
       "precio_num": 10500.0,
       "tipo": "vendida",
@@ -1555,7 +1555,7 @@
     {
       "fecha": "10/07/2026 18:25",
       "artista": "Antonella Montes - LANTOMO",
-      "obra": "",
+      "obra": "YELLOW GRAFFITI",
       "precio": "3 300,00 €",
       "precio_num": 3300.0,
       "tipo": "vendida",
@@ -1564,7 +1564,7 @@
     {
       "fecha": "10/07/2026 18:25",
       "artista": "Antonella Montes - LANTOMO",
-      "obra": "",
+      "obra": "SPRAYED L03",
       "precio": "3 300,00 €",
       "precio_num": 3300.0,
       "tipo": "vendida",
@@ -1573,7 +1573,7 @@
     {
       "fecha": "10/07/2026 18:25",
       "artista": "Antonella Montes - LANTOMO",
-      "obra": "",
+      "obra": "EVA",
       "precio": "1 300,00 €",
       "precio_num": 1300.0,
       "tipo": "vendida",
@@ -1582,7 +1582,7 @@
     {
       "fecha": "10/07/2026 18:25",
       "artista": "Antonella Montes - LANTOMO",
-      "obra": "",
+      "obra": "BLACK GRAFFITI",
       "precio": "3 300,00 €",
       "precio_num": 3300.0,
       "tipo": "vendida",
@@ -1591,7 +1591,7 @@
     {
       "fecha": "13/07/2026 15:01",
       "artista": "Gerard Mas",
-      "obra": "",
+      "obra": "\"Frenchie\"",
       "precio": "4 800,00 €",
       "precio_num": 4800.0,
       "tipo": "vendida",
@@ -1600,7 +1600,7 @@
     {
       "fecha": "16/07/2026 16:16",
       "artista": "Lara Padilla",
-      "obra": "",
+      "obra": "Beyond series - emerald",
       "precio": "7 500,00 €",
       "precio_num": 7500.0,
       "tipo": "vendida",
@@ -1609,7 +1609,7 @@
     {
       "fecha": "16/07/2026 16:16",
       "artista": "Lara Padilla",
-      "obra": "",
+      "obra": "Human series - Coffee small",
       "precio": "4 000,00 €",
       "precio_num": 4000.0,
       "tipo": "vendida",
