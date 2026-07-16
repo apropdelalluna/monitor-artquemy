@@ -17,7 +17,7 @@
   },
   "https://www.ladistillerie66.fr/produit/mystere-3/": {
     "titulo": "Méta",
-    "artista": "Martine Diotalevi",
+    "artista": "One Siker",
     "precio": "Prix sur demande",
     "precio_num": 0.0,
     "estado": "disponible",
@@ -25,7 +25,7 @@
   },
   "https://www.ladistillerie66.fr/produit/marilyn-la-vie-en-fleur/": {
     "titulo": "Hayat",
-    "artista": "Martine Diotalevi",
+    "artista": "One Siker",
     "precio": "1,190€",
     "precio_num": 1.19,
     "estado": "disponible",
@@ -33,7 +33,7 @@
   },
   "https://www.ladistillerie66.fr/produit/western-docks/": {
     "titulo": "Ludo Lassalle",
-    "artista": "Martine Diotalevi",
+    "artista": "One Siker",
     "precio": "1,200€",
     "precio_num": 1.2,
     "estado": "disponible",
@@ -41,7 +41,7 @@
   },
   "https://www.ladistillerie66.fr/produit/back-jump/": {
     "titulo": "Ludo Lassalle",
-    "artista": "Martine Diotalevi",
+    "artista": "One Siker",
     "precio": "790€",
     "precio_num": 790.0,
     "estado": "disponible",
@@ -49,7 +49,7 @@
   },
   "https://www.ladistillerie66.fr/produit/la-conciergerie/": {
     "titulo": "Beus",
-    "artista": "Martine Diotalevi",
+    "artista": "One Siker",
     "precio": "Precio no disponible",
     "precio_num": 0.0,
     "estado": "vendido",
@@ -57,7 +57,7 @@
   },
   "https://www.ladistillerie66.fr/produit/laffirmee/": {
     "titulo": "Beus",
-    "artista": "Martine Diotalevi",
+    "artista": "One Siker",
     "precio": "3,700€",
     "precio_num": 3.7,
     "estado": "disponible",
@@ -384,24 +384,24 @@
     "url": "https://www.ladistillerie66.fr/produit/dirty-rotten-scoundrels/"
   },
   "https://www.ladistillerie66.fr/produit/thunder/": {
-    "titulo": "One Siker",
-    "artista": "Faki",
+    "titulo": "Faki",
+    "artista": "One Siker",
     "precio": "4,000€",
     "precio_num": 4.0,
     "estado": "disponible",
     "url": "https://www.ladistillerie66.fr/produit/thunder/"
   },
   "https://www.ladistillerie66.fr/produit/throw-down/": {
-    "titulo": "One Siker",
-    "artista": "Faki",
+    "titulo": "Faki",
+    "artista": "One Siker",
     "precio": "4,000€",
     "precio_num": 4.0,
     "estado": "disponible",
     "url": "https://www.ladistillerie66.fr/produit/throw-down/"
   },
   "https://www.ladistillerie66.fr/produit/mai-box/": {
-    "titulo": "One Siker",
-    "artista": "Faki",
+    "titulo": "Faki",
+    "artista": "One Siker",
     "precio": "3,000€",
     "precio_num": 3.0,
     "estado": "disponible",
@@ -416,8 +416,8 @@
     "url": "https://www.ladistillerie66.fr/produit/open-your-eyes/"
   },
   "https://www.ladistillerie66.fr/produit/the-gap-way/": {
-    "titulo": "One Siker",
-    "artista": "Faki",
+    "titulo": "Faki",
+    "artista": "One Siker",
     "precio": "5,300€",
     "precio_num": 5.3,
     "estado": "disponible",
