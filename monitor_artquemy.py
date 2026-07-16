@@ -1176,7 +1176,118 @@ def be_extraer_obras(soup: BeautifulSoup, nombre_categoria: str) -> dict:
     return obras
 
 
+def be_slug_de_categoria(url: str) -> str:
+    """Extrae el slug de categoría de una URL de product-category."""
+    partes = [p for p in url.rstrip("/").split("/") if p]
+    return partes[-1] if partes else ""
+
+
+def be_obtener_contenido_api(categoria: dict) -> dict | None:
+    """
+    Intenta obtener las obras de una categoría vía la API REST pública de
+    WooCommerce (Store API — /wp-json/wc/store/v1/products). Al ser un
+    endpoint JSON, normalmente no pasa por la misma caché de página completa
+    que sirve el HTML del listado (la causa de que el scraping estuviera
+    devolviendo siempre una instantánea congelada del catálogo).
+    Devuelve None si la API no está disponible o falla, para que el llamador
+    recurra al scraping HTML tradicional como respaldo.
+    """
+    slug = be_slug_de_categoria(categoria["url"])
+    if not slug:
+        return None
+
+    headers = {
+        "User-Agent": (
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+            "AppleWebKit/537.36 (KHTML, like Gecko) "
+            "Chrome/124.0.0.0 Safari/537.36"
+        ),
+        "Accept": "application/json",
+    }
+    obras_totales = {}
+    pagina = 1
+    try:
+        while pagina <= 10:
+            url_api = (
+                "https://www.baseelements.net/wp-json/wc/store/v1/products"
+                f"?category={slug}&per_page=100&page={pagina}&_nocache={int(time.time() * 1000)}"
+            )
+            resp = requests.get(url_api, headers=headers, timeout=20)
+            if resp.status_code != 200:
+                logging.debug("[BE][%s] API Store no disponible (status %d) — se usará el scraping HTML.",
+                              categoria["nombre"], resp.status_code)
+                return None
+
+            try:
+                productos = resp.json()
+            except ValueError:
+                return None
+            if not isinstance(productos, list):
+                return None
+            if not productos:
+                break
+
+            for p in productos:
+                try:
+                    titulo = p.get("name", "") or ""
+                    url_obra = p.get("permalink", "") or ""
+                    if not url_obra:
+                        continue
+
+                    en_stock = bool(p.get("is_in_stock", True))
+                    estado_obra = "disponible" if en_stock else "vendido"
+
+                    precios = p.get("prices", {}) or {}
+                    minor = int(precios.get("currency_minor_unit", 2) or 2)
+                    precio_raw = precios.get("price") or precios.get("regular_price") or "0"
+                    try:
+                        precio_num = float(precio_raw) / (10 ** minor)
+                    except (TypeError, ValueError):
+                        precio_num = 0.0
+
+                    if not en_stock:
+                        precio_str = "Precio no disponible"
+                        precio_num = 0.0
+                    elif precio_num > 0:
+                        precio_str = _precio_str_desde_num(precio_num)
+                    else:
+                        precio_str = "Consultar precio"
+
+                    obras_totales[url_obra] = {
+                        "titulo":     titulo,
+                        "precio":     precio_str,
+                        "precio_num": precio_num,
+                        "estado":     estado_obra,
+                        "url":        url_obra,
+                        "artista":    categoria["nombre"],
+                    }
+                except Exception:
+                    continue
+
+            if len(productos) < 100:
+                break
+            pagina += 1
+
+        return {"obras": obras_totales}
+
+    except requests.RequestException as e:
+        logging.debug("[BE][%s] Error consultando API Store: %s — se usará el scraping HTML.",
+                       categoria["nombre"], e)
+        return None
+
+
 def be_obtener_contenido(categoria: dict) -> dict | None:
+    # Intento 1: API REST pública de WooCommerce — evita la caché de página
+    # completa que estaba sirviendo siempre el mismo catálogo congelado.
+    datos_api = be_obtener_contenido_api(categoria)
+    if datos_api is not None and datos_api["obras"]:
+        obras_totales = datos_api["obras"]
+        texto_completo = json.dumps(obras_totales, sort_keys=True, ensure_ascii=False)
+        hash_actual = hashlib.md5(texto_completo.encode()).hexdigest()
+        return {"texto": texto_completo, "hash": hash_actual, "obras": obras_totales}
+
+    # Intento 2 (respaldo): scraping HTML tradicional, por si la API Store
+    # no está habilitada en el sitio o la categoría está vacía.
     headers = {
         "User-Agent": (
             "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -1195,9 +1306,7 @@ def be_obtener_contenido(categoria: dict) -> dict | None:
         max_paginas = 10
 
         while url and pagina <= max_paginas:
-            # Parámetro anti-caché: baseelements.net (o un CDN delante) estaba
-            # sirviendo una instantánea congelada del catálogo. Añadimos un
-            # valor único en cada petición para forzar contenido fresco.
+            # Parámetro anti-caché adicional por si acaso.
             separador = "&" if "?" in url else "?"
             url_sin_cache = f"{url}{separador}_nocache={int(time.time() * 1000)}"
 
