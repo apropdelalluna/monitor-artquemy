@@ -6753,6 +6753,15 @@
       "precio_num": 90.0,
       "tipo": "vendida",
       "url": "https://artquemy.com/producto/recursos/"
+    },
+    {
+      "fecha": "16/07/2026 16:13",
+      "artista": "Ciro Marra",
+      "obra": "Black Mood 1",
+      "precio": "€130,00",
+      "precio_num": 130.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/ciro-marra-black-mood-1/"
     }
   ]
 }
