@@ -500,6 +500,11 @@
           ${numObras} obra${numObras !== 1 ? 's' : ''} vendida${numObras !== 1 ? 's' : ''} en ${formatMes(mesActual)}
         `;
 
+        document.getElementById('ultimoCambio').textContent = numObras;
+        document.getElementById('ultimoCambioSub').textContent = numObras === 0
+          ? `Ninguna en ${formatMes(mesActual)}`
+          : `en ${formatMes(mesActual)}`;
+
         // Historial mensual con obras por mes
         // Añadir mes actual si no tiene datos
         if (!ventas[mesActual]) ventas[mesActual] = [];
