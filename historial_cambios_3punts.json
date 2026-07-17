@@ -6727,5 +6727,14 @@
     "precio_num": 7500.0,
     "url": "https://www.3punts.com/es/shop/artwork/kamasutra-ii",
     "fecha": "16/07/2026 16:16"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "404 ERROR",
+    "artista": "Xavi Noble",
+    "precio": "1 800,00 €",
+    "precio_num": 1800.0,
+    "url": "https://www.3punts.com/es/shop/artwork/404-error-xavi-noble",
+    "fecha": "17/07/2026 17:07"
   }
 ]
