@@ -5544,6 +5544,14 @@
       "precio_num": 3500.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/eusebio-lopez-asbtracto"
+    },
+    "https://www.3punts.com/es/shop/artwork/wizard-leonora-carrington": {
+      "titulo": "THE WIZARD",
+      "artista": "Leonora Carrington",
+      "precio": "4 500,00 €",
+      "precio_num": 4500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/wizard-leonora-carrington"
     }
   }
 }
