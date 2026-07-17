@@ -5552,6 +5552,14 @@
       "precio_num": 4500.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/wizard-leonora-carrington"
+    },
+    "https://www.3punts.com/es/shop/artwork/santi-moix-untitled": {
+      "titulo": "UNTITLED",
+      "artista": "Santi Moix",
+      "precio": "Consultar precio",
+      "precio_num": 0.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/santi-moix-untitled"
     }
   }
 }
