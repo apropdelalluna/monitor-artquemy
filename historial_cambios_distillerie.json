@@ -7945,5 +7945,32 @@
     "precio_num": 0.0,
     "url": "https://www.ladistillerie66.fr/produit/reborn/",
     "fecha": "16/07/2026 22:16"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Rock",
+    "artista": "Mr Yerro",
+    "precio": "2,150€",
+    "precio_num": 2.15,
+    "url": "https://www.ladistillerie66.fr/produit/rock/",
+    "fecha": "17/07/2026 07:07"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Sub",
+    "artista": "Mr Yerro",
+    "precio": "4,750€",
+    "precio_num": 4.75,
+    "url": "https://www.ladistillerie66.fr/produit/sub/",
+    "fecha": "17/07/2026 07:07"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Reborn",
+    "artista": "Mr Yerro",
+    "precio": "Precio no disponible",
+    "precio_num": 0.0,
+    "url": "https://www.ladistillerie66.fr/produit/reborn/",
+    "fecha": "17/07/2026 07:07"
   }
 ]
