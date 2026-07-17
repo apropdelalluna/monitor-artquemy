@@ -1,5 +1,5 @@
 {
-  "__hash__": "6a55b874d4436f80ccd400eb4bebd95f",
+  "__hash__": "b7026ac51c6d8ff73ee037124bf5a7fd",
   "obras": {
     "https://www.3punts.com/es/shop/artwork/untitled-alberto-fernandez-hurtado": {
       "titulo": "SIN TÍTULO",
@@ -1296,6 +1296,14 @@
       "precio_num": 5200.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/territorios-sumergidos-dominika-berger"
+    },
+    "https://www.3punts.com/es/shop/artwork/eusebio-lopez-asbtracto": {
+      "titulo": "ABSTRACTO",
+      "artista": "Eusebio López",
+      "precio": "3 500,00 €",
+      "precio_num": 3500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/eusebio-lopez-asbtracto"
     },
     "https://www.3punts.com/es/shop/artwork/tongue-out-lady": {
       "titulo": "TONGUE-OUT LADY",
@@ -3041,6 +3049,14 @@
       "estado": "vendido",
       "url": "https://www.3punts.com/es/shop/artwork/lara-padilla-iced-coffee-tetris-0"
     },
+    "https://www.3punts.com/es/shop/artwork/wizard-leonora-carrington": {
+      "titulo": "THE WIZARD",
+      "artista": "Leonora Carrington",
+      "precio": "4 500,00 €",
+      "precio_num": 4500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/wizard-leonora-carrington"
+    },
     "https://www.3punts.com/es/shop/artwork/lluis-roigfood-wheels": {
       "titulo": "FOOD ON WHEELS",
       "artista": "Lluis Roig",
@@ -4689,6 +4705,14 @@
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/mirror-mirror-wall-samuel-salcedo"
     },
+    "https://www.3punts.com/es/shop/artwork/santi-moix-untitled": {
+      "titulo": "UNTITLED",
+      "artista": "Santi Moix",
+      "precio": "Consultar precio",
+      "precio_num": 0.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/santi-moix-untitled"
+    },
     "https://www.3punts.com/es/shop/artwork/santiago-picatoste-event-horizon-ii": {
       "titulo": "THE EVENT HORIZON II",
       "artista": "Santiago Picatoste",
@@ -5233,6 +5257,14 @@
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/consume-xavi-noble"
     },
+    "https://www.3punts.com/es/shop/artwork/404-error-xavi-noble": {
+      "titulo": "404 ERROR",
+      "artista": "Xavi Noble",
+      "precio": "1 800,00 €",
+      "precio_num": 1800.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/404-error-xavi-noble"
+    },
     "https://www.3punts.com/es/shop/artwork/maybe-xavi-noble": {
       "titulo": "MAYBE",
       "artista": "Xavi Noble",
@@ -5536,30 +5568,6 @@
       "precio_num": 1200.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/welcome-wonderful-world-genetics-yves-decamps"
-    },
-    "https://www.3punts.com/es/shop/artwork/eusebio-lopez-asbtracto": {
-      "titulo": "ABSTRACTO",
-      "artista": "Eusebio López",
-      "precio": "3 500,00 €",
-      "precio_num": 3500.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/eusebio-lopez-asbtracto"
-    },
-    "https://www.3punts.com/es/shop/artwork/wizard-leonora-carrington": {
-      "titulo": "THE WIZARD",
-      "artista": "Leonora Carrington",
-      "precio": "4 500,00 €",
-      "precio_num": 4500.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/wizard-leonora-carrington"
-    },
-    "https://www.3punts.com/es/shop/artwork/santi-moix-untitled": {
-      "titulo": "UNTITLED",
-      "artista": "Santi Moix",
-      "precio": "Consultar precio",
-      "precio_num": 0.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/santi-moix-untitled"
     }
   }
 }
