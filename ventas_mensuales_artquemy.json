@@ -6762,6 +6762,15 @@
       "precio_num": 130.0,
       "tipo": "vendida",
       "url": "https://artquemy.com/producto/ciro-marra-black-mood-1/"
+    },
+    {
+      "fecha": "17/07/2026 23:10",
+      "artista": "Luciana Zamarbide",
+      "obra": "Shiva II",
+      "precio": "€1.700,00",
+      "precio_num": 1700.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/shiva-ii/"
     }
   ]
 }
