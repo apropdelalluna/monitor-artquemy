@@ -6771,6 +6771,105 @@
       "precio_num": 1700.0,
       "tipo": "vendida",
       "url": "https://artquemy.com/producto/shiva-ii/"
+    },
+    {
+      "fecha": "18/07/2026 19:19",
+      "artista": "Alessia Innocenti",
+      "obra": "Blue Garden",
+      "precio": "€70,00",
+      "precio_num": 70.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/blue-garden/"
+    },
+    {
+      "fecha": "18/07/2026 19:19",
+      "artista": "Alessia Innocenti",
+      "obra": "Jardín del crepúsculo",
+      "precio": "€50,00",
+      "precio_num": 50.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/jardin-del-crepusculo/"
+    },
+    {
+      "fecha": "18/07/2026 19:19",
+      "artista": "Alessia Innocenti",
+      "obra": "Carnaval",
+      "precio": "€50,00",
+      "precio_num": 50.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/carnaval/"
+    },
+    {
+      "fecha": "18/07/2026 19:19",
+      "artista": "Alessia Innocenti",
+      "obra": "Pájaros en flor",
+      "precio": "€50,00",
+      "precio_num": 50.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/pajaros-en-flor/"
+    },
+    {
+      "fecha": "18/07/2026 19:19",
+      "artista": "Alessia Innocenti",
+      "obra": "Sinergia",
+      "precio": "€50,00",
+      "precio_num": 50.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/libertad-copy/"
+    },
+    {
+      "fecha": "18/07/2026 19:19",
+      "artista": "Alessia Innocenti",
+      "obra": "Destello",
+      "precio": "€45,00",
+      "precio_num": 45.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/interaccion/"
+    },
+    {
+      "fecha": "18/07/2026 19:19",
+      "artista": "Alessia Innocenti",
+      "obra": "Carnaval Chino",
+      "precio": "€40,00",
+      "precio_num": 40.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/carnaval-chino/"
+    },
+    {
+      "fecha": "18/07/2026 19:19",
+      "artista": "Alessia Innocenti",
+      "obra": "Vital",
+      "precio": "€40,00",
+      "precio_num": 40.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/vital/"
+    },
+    {
+      "fecha": "18/07/2026 19:19",
+      "artista": "Alessia Innocenti",
+      "obra": "Interacción",
+      "precio": "€40,00",
+      "precio_num": 40.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/interaccion-2/"
+    },
+    {
+      "fecha": "18/07/2026 19:19",
+      "artista": "Alessia Innocenti",
+      "obra": "Remolino",
+      "precio": "€40,00",
+      "precio_num": 40.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/interaccion-3/"
+    },
+    {
+      "fecha": "18/07/2026 19:19",
+      "artista": "Alessia Innocenti",
+      "obra": "Cascada de colores",
+      "precio": "€40,00",
+      "precio_num": 40.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/cascada-de-colores/"
     }
   ]
 }
