@@ -11706,5 +11706,18 @@
         "url": "https://artquemy.com/producto/cascada-de-colores/"
       }
     ]
+  },
+  {
+    "fecha": "18/07/2026 19:22",
+    "artista": "Laura Gonballes",
+    "cambios_obras": [
+      {
+        "tipo": "vendida",
+        "titulo": "Blue Garden",
+        "precio": "€70,00",
+        "precio_num": 70.0,
+        "url": "https://artquemy.com/producto/blue-garden/"
+      }
+    ]
   }
 ]
