@@ -11623,5 +11623,88 @@
         "url": "https://artquemy.com/producto/shiva-ii/"
       }
     ]
+  },
+  {
+    "fecha": "18/07/2026 19:19",
+    "artista": "Alessia Innocenti",
+    "cambios_obras": [
+      {
+        "tipo": "vendida",
+        "titulo": "Blue Garden",
+        "precio": "€70,00",
+        "precio_num": 70.0,
+        "url": "https://artquemy.com/producto/blue-garden/"
+      },
+      {
+        "tipo": "vendida",
+        "titulo": "Jardín del crepúsculo",
+        "precio": "€50,00",
+        "precio_num": 50.0,
+        "url": "https://artquemy.com/producto/jardin-del-crepusculo/"
+      },
+      {
+        "tipo": "vendida",
+        "titulo": "Carnaval",
+        "precio": "€50,00",
+        "precio_num": 50.0,
+        "url": "https://artquemy.com/producto/carnaval/"
+      },
+      {
+        "tipo": "vendida",
+        "titulo": "Pájaros en flor",
+        "precio": "€50,00",
+        "precio_num": 50.0,
+        "url": "https://artquemy.com/producto/pajaros-en-flor/"
+      },
+      {
+        "tipo": "vendida",
+        "titulo": "Sinergia",
+        "precio": "€50,00",
+        "precio_num": 50.0,
+        "url": "https://artquemy.com/producto/libertad-copy/"
+      },
+      {
+        "tipo": "vendida",
+        "titulo": "Destello",
+        "precio": "€45,00",
+        "precio_num": 45.0,
+        "url": "https://artquemy.com/producto/interaccion/"
+      },
+      {
+        "tipo": "vendida",
+        "titulo": "Carnaval Chino",
+        "precio": "€40,00",
+        "precio_num": 40.0,
+        "url": "https://artquemy.com/producto/carnaval-chino/"
+      },
+      {
+        "tipo": "vendida",
+        "titulo": "Vital",
+        "precio": "€40,00",
+        "precio_num": 40.0,
+        "url": "https://artquemy.com/producto/vital/"
+      },
+      {
+        "tipo": "vendida",
+        "titulo": "Interacción",
+        "precio": "€40,00",
+        "precio_num": 40.0,
+        "url": "https://artquemy.com/producto/interaccion-2/"
+      },
+      {
+        "tipo": "vendida",
+        "titulo": "Remolino",
+        "precio": "€40,00",
+        "precio_num": 40.0,
+        "url": "https://artquemy.com/producto/interaccion-3/"
+      },
+      {
+        "tipo": "vendida",
+        "titulo": "Cascada de colores",
+        "precio": "€40,00",
+        "precio_num": 40.0,
+        "url": "https://artquemy.com/producto/cascada-de-colores/"
+      }
+    ]
   }
 ]
