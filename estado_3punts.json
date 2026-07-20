@@ -5608,6 +5608,22 @@
       "precio_num": 7000.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/del-aire-xvii-emilio-pascual"
+    },
+    "https://www.3punts.com/es/shop/artwork/gato-jose-luis-pascual": {
+      "titulo": "GATO",
+      "artista": "Jose Luis Pascual",
+      "precio": "4 500,00 €",
+      "precio_num": 4500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/gato-jose-luis-pascual"
+    },
+    "https://www.3punts.com/es/shop/artwork/mujer-jose-luis-pacual": {
+      "titulo": "MUJER",
+      "artista": "Jose Luis Pascual",
+      "precio": "8 000,00 €",
+      "precio_num": 8000.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/mujer-jose-luis-pacual"
     }
   }
 }
