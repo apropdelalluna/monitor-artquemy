@@ -2135,22 +2135,20 @@ def recuperar_precios_artquemy() -> None:
                 if not url:
                     continue
                 try:
-                    resp = requests.get(url, headers=headers, timeout=15)
+                    resp = requests.get(url, headers=headers, timeout=8)
                     if resp.status_code != 200:
                         logging.warning("[RECUPERAR] %s: HTTP %d", url, resp.status_code)
                         total_procesadas += 1
-                        time.sleep(1.5)
+                        time.sleep(1)
                         continue
                     soup = BeautifulSoup(resp.text, "html.parser")
-                    # Precio en WooCommerce: .woocommerce-Price-amount bdi
                     precio_el = soup.select_one("p.price .woocommerce-Price-amount bdi")
                     if not precio_el:
                         precio_el = soup.select_one(".woocommerce-Price-amount bdi")
                     if precio_el:
                         precio_str = precio_el.get_text(strip=True)
-                        # Limpiar: quitar símbolo € y espacios
                         import re
-                        match = re.search(r'[\d][\d\.\s,]*', precio_str.replace(' ', ''))
+                        match = re.search(r'[0-9][0-9.,\s]*', precio_str.replace(' ', ''))
                         if match:
                             precio_num = float(match.group(0).replace('.', '').replace(',', '.').strip())
                             obra["precio"] = precio_str
@@ -2162,7 +2160,13 @@ def recuperar_precios_artquemy() -> None:
                     else:
                         logging.info("[RECUPERAR] Sin selector precio: %s", url)
                     total_procesadas += 1
-                    time.sleep(1.5)
+                    time.sleep(1)
+                except requests.exceptions.Timeout:
+                    logging.warning("[RECUPERAR] Timeout: %s — saltando", url)
+                    total_procesadas += 1
+                except requests.exceptions.ConnectionError:
+                    logging.warning("[RECUPERAR] ConnectionError: %s — saltando", url)
+                    total_procesadas += 1
                 except Exception as e:
                     logging.error("[RECUPERAR] Error %s: %s", url, e)
                     total_procesadas += 1
