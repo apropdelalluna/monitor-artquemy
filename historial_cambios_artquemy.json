@@ -11732,5 +11732,59 @@
         "url": "https://artquemy.com/producto/cadencias-2/"
       }
     ]
+  },
+  {
+    "fecha": "21/07/2026 16:51",
+    "artista": "Jor Ros",
+    "cambios_obras": [
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "Tower",
+        "precio": "€120,00",
+        "precio_num": 120.0,
+        "precio_anterior": "€95,00",
+        "url": "https://artquemy.com/producto/tower-2/"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "Glass",
+        "precio": "€120,00",
+        "precio_num": 120.0,
+        "precio_anterior": "€95,00",
+        "url": "https://artquemy.com/producto/glass-3/"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "Early Bird",
+        "precio": "€120,00",
+        "precio_num": 120.0,
+        "precio_anterior": "€95,00",
+        "url": "https://artquemy.com/producto/early-bird-2/"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "Ember",
+        "precio": "€120,00",
+        "precio_num": 120.0,
+        "precio_anterior": "€95,00",
+        "url": "https://artquemy.com/producto/ember-2/"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "Vase I",
+        "precio": "€120,00",
+        "precio_num": 120.0,
+        "precio_anterior": "€95,00",
+        "url": "https://artquemy.com/producto/vase-i-2/"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "Him lll",
+        "precio": "€120,00",
+        "precio_num": 120.0,
+        "precio_anterior": "€95,00",
+        "url": "https://artquemy.com/producto/him-lll-2/"
+      }
+    ]
   }
 ]
