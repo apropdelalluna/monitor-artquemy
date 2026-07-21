@@ -5624,6 +5624,38 @@
       "precio_num": 1200.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/welcome-wonderful-world-genetics-yves-decamps"
+    },
+    "https://www.3punts.com/es/shop/artwork/musica-de-camara-eusebio-lopez": {
+      "titulo": "MÚSICA DE CÁMARA",
+      "artista": "Eusebio López",
+      "precio": "3 500,00 €",
+      "precio_num": 3500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/musica-de-camara-eusebio-lopez"
+    },
+    "https://www.3punts.com/es/shop/artwork/reflejo-eusebio-lopez": {
+      "titulo": "REFLEJO",
+      "artista": "Eusebio López",
+      "precio": "4 000,00 €",
+      "precio_num": 4000.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/reflejo-eusebio-lopez"
+    },
+    "https://www.3punts.com/es/shop/artwork/simbolos-en-el-paisaje-eusebio-lopez": {
+      "titulo": "SÍMBOLOS EN EL PAISAJE",
+      "artista": "Eusebio López",
+      "precio": "4 500,00 €",
+      "precio_num": 4500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/simbolos-en-el-paisaje-eusebio-lopez"
+    },
+    "https://www.3punts.com/es/shop/artwork/vacaciones-eusebio-lopez": {
+      "titulo": "VACACIONES",
+      "artista": "Eusebio López",
+      "precio": "6 500,00 €",
+      "precio_num": 6500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/vacaciones-eusebio-lopez"
     }
   }
 }
