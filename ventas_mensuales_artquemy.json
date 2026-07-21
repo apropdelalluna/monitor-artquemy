@@ -6879,6 +6879,15 @@
       "precio_num": 70.0,
       "tipo": "vendida",
       "url": "https://artquemy.com/producto/blue-garden/"
+    },
+    {
+      "fecha": "21/07/2026 16:49",
+      "artista": "Alessia Innocenti",
+      "obra": "Cadencias 2",
+      "precio": "€2.500,00",
+      "precio_num": 2500.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/cadencias-2/"
     }
   ]
 }
