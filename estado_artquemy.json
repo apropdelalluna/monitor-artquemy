@@ -2597,8 +2597,8 @@
     }
   },
   "Collage Volage": {
-    "hash": "b3dc656ab631ec325424b147f5266993",
-    "texto": "Collage\nAfrica\n€\n120,00\nAdd to cart\nThis product is already in your cart\nCart\nOut of Stock\nCollage\nLotfi\nSOLD\nCollage\nRed Sheep\n€\n100,00\nAdd to cart\nThis product is already in your cart\nCart\nCollage\nMi sangre\n€\n90,00\nAdd to cart\nThis product is already in your cart\nCart\nCollage\nSueño Divino\n€\n80,00\nAdd to cart\nThis product is already in your cart\nCart\nCollage\nMother\n€\n80,00\nAdd to cart\nThis product is already in your cart\nCart\nCollage\nL’heure du châtiment\n€\n80,00\nAdd to cart\nThis product is already in your cart\nCart\nCollage\nL’avalanche\n€\n80,00\nAdd to cart\nThis product is already in your cart\nCart\nOut of Stock\nCollage\nChest\nSOLD\nCollage\nDear Léon\n€\n80,00\nAdd to cart\nThis product is already in your cart\nCart\nCollage\nPoursuivre des fantômes\n€\n80,00\nAdd to cart\nThis product is already in your cart\nCart\nCollage\nL’élu\n€\n80,00\nAdd to cart\nThis product is already in your cart\nCart\nCollage\nLe refuge\n€\n80,00\nAdd to cart\nThis product is already in your cart\nCart\nOut of Stock\nCollage\nL’enterrement du tapissier\nSOLD\nOut of Stock\nCollage\nLas dégas\nSOLD\nOut of Stock\nCollage\nNuez\nSOLD\nCollage\n13/12\n€\n50,00\nAdd to cart\nThis product is already in your cart\nCart\nCollage\nPeau de cheval\n€\n50,00\nAdd to cart\nThis product is already in your cart\nCart\nCollage\nUpwards\n€\n50,00\nAdd to cart\nThis product is already in your cart\nCart\nOut of Stock\nCollage\nAliens comes from men\nSOLD\nCollage\nMiséricorde\n€\n50,00\nAdd to cart\nThis product is already in your cart\nCart",
+    "hash": "5af7fa28696348d92f0e537385fb1662",
+    "texto": "Collage\nAfrica\n€\n120,00\nAdd to cart\nThis product is already in your cart\nCart\nOut of Stock\nCollage\nLotfi\nSOLD\nCollage\nRed Sheep\n€\n100,00\nAdd to cart\nThis product is already in your cart\nCart\nCollage\nMi sangre\n€\n90,00\nAdd to cart\nThis product is already in your cart\nCart\nCollage\nSueño Divino\n€\n80,00\nAdd to cart\nThis product is already in your cart\nCart\nCollage\nMother\n€\n80,00\nAdd to cart\nThis product is already in your cart\nCart\nCollage\nL’heure du châtiment\n€\n80,00\nAdd to cart\nThis product is already in your cart\nCart\nCollage\nL’avalanche\n€\n80,00\nAdd to cart\nThis product is already in your cart\nCart\nOut of Stock\nCollage\nChest\nSOLD\nCollage\nDear Léon\n€\n80,00\nAdd to cart\nThis product is already in your cart\nCart\nCollage\nPoursuivre des fantômes\n€\n80,00\nAdd to cart\nThis product is already in your cart\nCart\nOut of Stock\nCollage\nL’élu\nSOLD\nCollage\nLe refuge\n€\n80,00\nAdd to cart\nThis product is already in your cart\nCart\nOut of Stock\nCollage\nL’enterrement du tapissier\nSOLD\nOut of Stock\nCollage\nLas dégas\nSOLD\nOut of Stock\nCollage\nNuez\nSOLD\nCollage\n13/12\n€\n50,00\nAdd to cart\nThis product is already in your cart\nCart\nCollage\nPeau de cheval\n€\n50,00\nAdd to cart\nThis product is already in your cart\nCart\nCollage\nUpwards\n€\n50,00\nAdd to cart\nThis product is already in your cart\nCart\nOut of Stock\nCollage\nAliens comes from men\nSOLD\nCollage\nMiséricorde\n€\n50,00\nAdd to cart\nThis product is already in your cart\nCart",
     "obras": {
       "https://artquemy.com/producto/africa/": {
         "titulo": "Africa",
@@ -2679,9 +2679,9 @@
       },
       "https://artquemy.com/producto/de-la-serie-collage-7/": {
         "titulo": "L’élu",
-        "precio": "€80,00",
-        "precio_num": 80.0,
-        "estado": "disponible",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "estado": "vendido",
         "url": "https://artquemy.com/producto/de-la-serie-collage-7/"
       },
       "https://artquemy.com/producto/de-la-serie-collage-6/": {
