@@ -491,7 +491,7 @@
         const ventasMes = ventas[mesActual] || [];
 
         // Vendidas del mes (sin desaparecidas ni nuevas-reserved)
-        const ventasReales = ventasMes.filter(v => (v.tipo === 'vendida' || v.tipo === 'nueva_vendida') && (v.precio_num || 0) > 0);
+        const ventasReales = ventasMes.filter(v => (v.tipo === 'vendida' || v.tipo === 'nueva_vendida') && !v.pre_monitor);
         const totalMes = ventasReales.reduce((s, v) => s + (v.precio_num || 0), 0);
         const numObras = ventasReales.length;
 
@@ -510,7 +510,7 @@
         let historialHTML = '';
 
         function buildMesHTML(mes, idx) {
-          const vs = ventas[mes].filter(v => (v.tipo === 'vendida' || v.tipo === 'nueva_vendida') && (v.precio_num || 0) > 0);
+          const vs = ventas[mes].filter(v => (v.tipo === 'vendida' || v.tipo === 'nueva_vendida') && !v.pre_monitor);
           const total = vs.reduce((s, v) => s + (v.precio_num || 0), 0);
           const esMesActual = mes === mesActual;
           const nombreMes = formatMes(mes);
