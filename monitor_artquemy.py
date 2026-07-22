@@ -2139,8 +2139,16 @@ def recuperar_precios_artquemy() -> None:
                 url = obra.get("url", "")
                 if not url:
                     continue
+                import signal as _signal
+
+                def _timeout_handler(signum, frame):
+                    raise TimeoutError("peticion colgada")
+
+                _signal.signal(_signal.SIGALRM, _timeout_handler)
+                _signal.alarm(10)  # limite duro de 10 segundos
                 try:
                     resp = session.get(url, timeout=(5, 8))
+                    _signal.alarm(0)  # cancelar alarma si fue bien
                     if resp.status_code != 200:
                         logging.warning("[RECUPERAR] %s: HTTP %d", url, resp.status_code)
                         total_procesadas += 1
@@ -2166,13 +2174,20 @@ def recuperar_precios_artquemy() -> None:
                         logging.info("[RECUPERAR] Sin selector precio: %s", url)
                     total_procesadas += 1
                     time.sleep(1)
+                except TimeoutError:
+                    _signal.alarm(0)
+                    logging.warning("[RECUPERAR] Timeout duro: %s — saltando", url)
+                    total_procesadas += 1
                 except requests.exceptions.Timeout:
+                    _signal.alarm(0)
                     logging.warning("[RECUPERAR] Timeout: %s — saltando", url)
                     total_procesadas += 1
                 except requests.exceptions.ConnectionError:
+                    _signal.alarm(0)
                     logging.warning("[RECUPERAR] ConnectionError: %s — saltando", url)
                     total_procesadas += 1
                 except Exception as e:
+                    _signal.alarm(0)
                     logging.error("[RECUPERAR] Error %s: %s", url, e)
                     total_procesadas += 1
         if total_procesadas >= LIMITE:
