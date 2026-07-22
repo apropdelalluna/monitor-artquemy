@@ -2114,6 +2114,11 @@ def recuperar_precios_artquemy() -> None:
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
         "Accept-Language": "es-ES,es;q=0.9",
     }
+    from requests.adapters import HTTPAdapter
+    session = requests.Session()
+    session.headers.update(headers)
+    session.mount("http://", HTTPAdapter(max_retries=0))
+    session.mount("https://", HTTPAdapter(max_retries=0))
 
     contenido = github_cargar_archivo("ventas_mensuales_artquemy.json")
     if not contenido:
@@ -2135,7 +2140,7 @@ def recuperar_precios_artquemy() -> None:
                 if not url:
                     continue
                 try:
-                    resp = requests.get(url, headers=headers, timeout=8)
+                    resp = session.get(url, timeout=(5, 8))
                     if resp.status_code != 200:
                         logging.warning("[RECUPERAR] %s: HTTP %d", url, resp.status_code)
                         total_procesadas += 1
