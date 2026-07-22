@@ -7602,6 +7602,15 @@
       "precio_num": 2500.0,
       "tipo": "vendida",
       "url": "https://artquemy.com/producto/cadencias-2/"
+    },
+    {
+      "fecha": "22/07/2026 21:06",
+      "artista": "Collage Volage",
+      "obra": "L’élu",
+      "precio": "€80,00",
+      "precio_num": 80.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/de-la-serie-collage-7/"
     }
   ]
 }
