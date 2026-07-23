@@ -11799,5 +11799,31 @@
         "url": "https://artquemy.com/producto/de-la-serie-collage-7/"
       }
     ]
+  },
+  {
+    "fecha": "23/07/2026 13:07",
+    "artista": "Lourdes Villagómez",
+    "cambios_obras": [
+      {
+        "tipo": "vendida",
+        "titulo": "Tzompantli VI",
+        "precio": "€350,00",
+        "precio_num": 350.0,
+        "url": "https://artquemy.com/producto/tzompantli-vi/"
+      }
+    ]
+  },
+  {
+    "fecha": "23/07/2026 13:07",
+    "artista": "Luciana Zamarbide",
+    "cambios_obras": [
+      {
+        "tipo": "vendida",
+        "titulo": "The Door opens",
+        "precio": "€950,00",
+        "precio_num": 950.0,
+        "url": "https://artquemy.com/producto/the-door-opens/"
+      }
+    ]
   }
 ]
