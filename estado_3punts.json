@@ -1,5 +1,5 @@
 {
-  "__hash__": "2ea768a6c32207e420ecf75f6a927461",
+  "__hash__": "df79f003529b44e12a88aa0f5fd62c95",
   "obras": {
     "https://www.3punts.com/es/shop/artwork/untitled-alberto-fernandez-hurtado": {
       "titulo": "",
@@ -436,9 +436,9 @@
     "https://www.3punts.com/es/shop/artwork/zoom-2-lantomo": {
       "titulo": "",
       "artista": "Antonella Montes - LANTOMO",
-      "precio": "1 500,00 €",
-      "precio_num": 1500.0,
-      "estado": "disponible",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "estado": "vendido",
       "url": "https://www.3punts.com/es/shop/artwork/zoom-2-lantomo"
     },
     "https://www.3punts.com/es/shop/artwork/camouflage-5-lantomo": {
@@ -1136,14 +1136,6 @@
       "precio_num": 0.0,
       "estado": "vendido",
       "url": "https://www.3punts.com/es/shop/artwork/yellow-apple-carlos-albert"
-    },
-    "https://www.3punts.com/es/shop/artwork/banano-carlos-albert": {
-      "titulo": "",
-      "artista": "Carlos Albert",
-      "precio": "1 500,00 €",
-      "precio_num": 1500.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/banano-carlos-albert"
     },
     "https://www.3punts.com/es/shop/artwork/white-apple-carlos-albert": {
       "titulo": "",
@@ -1920,6 +1912,14 @@
       "precio_num": 6500.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/sommerabend-jan-schuler"
+    },
+    "https://www.3punts.com/es/shop/artwork/playa-beige-javier-mariscal": {
+      "titulo": "",
+      "artista": "Javier Mariscal",
+      "precio": "2 500,00 €",
+      "precio_num": 2500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/playa-beige-javier-mariscal"
     },
     "https://www.3punts.com/es/shop/artwork/jimmy-turrell-stratos-dub": {
       "titulo": "",
@@ -3256,6 +3256,46 @@
       "precio_num": 2800.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/macarena-yanez-intervencion-tropical"
+    },
+    "https://www.3punts.com/es/shop/artwork/sin-titulo-i-marcel-marti": {
+      "titulo": "",
+      "artista": "Marcel Marti",
+      "precio": "500,00 €",
+      "precio_num": 500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/sin-titulo-i-marcel-marti"
+    },
+    "https://www.3punts.com/es/shop/artwork/sin-titulo-ii-marcel-marti": {
+      "titulo": "",
+      "artista": "Marcel Marti",
+      "precio": "500,00 €",
+      "precio_num": 500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/sin-titulo-ii-marcel-marti"
+    },
+    "https://www.3punts.com/es/shop/artwork/sin-titulo-iii": {
+      "titulo": "",
+      "artista": "Marcel Marti",
+      "precio": "500,00 €",
+      "precio_num": 500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/sin-titulo-iii"
+    },
+    "https://www.3punts.com/es/shop/artwork/mira-marcel-marti": {
+      "titulo": "",
+      "artista": "Marcel Marti",
+      "precio": "1 500,00 €",
+      "precio_num": 1500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/mira-marcel-marti"
+    },
+    "https://www.3punts.com/es/shop/artwork/tucsa-marcel-marti": {
+      "titulo": "",
+      "artista": "Marcel Marti",
+      "precio": "6 000,00 €",
+      "precio_num": 6000.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/tucsa-marcel-marti"
     },
     "https://www.3punts.com/es/shop/artwork/mark-laitacatholic-nuns": {
       "titulo": "",
