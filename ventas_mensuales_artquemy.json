@@ -7629,6 +7629,15 @@
       "precio_num": 950.0,
       "tipo": "vendida",
       "url": "https://artquemy.com/producto/the-door-opens/"
+    },
+    {
+      "fecha": "23/07/2026 20:53",
+      "artista": "Juncosa",
+      "obra": "Interior",
+      "precio": "€110,00",
+      "precio_num": 110.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/interior/"
     }
   ]
 }
