@@ -6736,5 +6736,77 @@
     "precio_num": 1800.0,
     "url": "https://www.3punts.com/es/shop/artwork/404-error-xavi-noble",
     "fecha": "17/07/2026 17:07"
+  },
+  {
+    "tipo": "vendida",
+    "titulo": "",
+    "artista": "Antonella Montes - LANTOMO",
+    "precio": "1 500,00 €",
+    "precio_num": 1500.0,
+    "url": "https://www.3punts.com/es/shop/artwork/zoom-2-lantomo",
+    "fecha": "23/07/2026 13:11"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Javier Mariscal",
+    "precio": "2 500,00 €",
+    "precio_num": 2500.0,
+    "url": "https://www.3punts.com/es/shop/artwork/playa-beige-javier-mariscal",
+    "fecha": "23/07/2026 13:11"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Marcel Marti",
+    "precio": "500,00 €",
+    "precio_num": 500.0,
+    "url": "https://www.3punts.com/es/shop/artwork/sin-titulo-i-marcel-marti",
+    "fecha": "23/07/2026 13:11"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Marcel Marti",
+    "precio": "500,00 €",
+    "precio_num": 500.0,
+    "url": "https://www.3punts.com/es/shop/artwork/sin-titulo-ii-marcel-marti",
+    "fecha": "23/07/2026 13:11"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Marcel Marti",
+    "precio": "500,00 €",
+    "precio_num": 500.0,
+    "url": "https://www.3punts.com/es/shop/artwork/sin-titulo-iii",
+    "fecha": "23/07/2026 13:11"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Marcel Marti",
+    "precio": "1 500,00 €",
+    "precio_num": 1500.0,
+    "url": "https://www.3punts.com/es/shop/artwork/mira-marcel-marti",
+    "fecha": "23/07/2026 13:11"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Marcel Marti",
+    "precio": "6 000,00 €",
+    "precio_num": 6000.0,
+    "url": "https://www.3punts.com/es/shop/artwork/tucsa-marcel-marti",
+    "fecha": "23/07/2026 13:11"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Carlos Albert",
+    "precio": "1 500,00 €",
+    "precio_num": 1500.0,
+    "url": "https://www.3punts.com/es/shop/artwork/banano-carlos-albert",
+    "fecha": "23/07/2026 13:11"
   }
 ]
