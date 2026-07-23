@@ -1614,6 +1614,15 @@
       "precio_num": 4000.0,
       "tipo": "vendida",
       "url": "https://www.3punts.com/es/shop/artwork/human-series-coffee-small"
+    },
+    {
+      "fecha": "23/07/2026 13:11",
+      "artista": "Antonella Montes - LANTOMO",
+      "obra": "",
+      "precio": "1 500,00 €",
+      "precio_num": 1500.0,
+      "tipo": "vendida",
+      "url": "https://www.3punts.com/es/shop/artwork/zoom-2-lantomo"
     }
   ]
 }
