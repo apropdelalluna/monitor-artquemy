@@ -1,5 +1,5 @@
 {
-  "__hash__": "df79f003529b44e12a88aa0f5fd62c95",
+  "__hash__": "473df0d586907985b75e4731480e2d0a",
   "obras": {
     "https://www.3punts.com/es/shop/artwork/untitled-alberto-fernandez-hurtado": {
       "titulo": "",
@@ -1073,22 +1073,6 @@
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/antonio-beneytoserie-color-1"
     },
-    "https://www.3punts.com/es/shop/artwork/eclipse-carlos-albert": {
-      "titulo": "",
-      "artista": "Carlos Albert",
-      "precio": "Consultar precio",
-      "precio_num": 0.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/eclipse-carlos-albert"
-    },
-    "https://www.3punts.com/es/shop/artwork/el-alma-por-tesoro-carlos-albert": {
-      "titulo": "",
-      "artista": "Carlos Albert",
-      "precio": "Consultar precio",
-      "precio_num": 0.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/el-alma-por-tesoro-carlos-albert"
-    },
     "https://www.3punts.com/es/shop/artwork/fruta-carlos-albert": {
       "titulo": "",
       "artista": "Carlos Albert",
@@ -1121,14 +1105,6 @@
       "estado": "vendido",
       "url": "https://www.3punts.com/es/shop/artwork/ikigai-carlos-albert"
     },
-    "https://www.3punts.com/es/shop/artwork/small-blue-compass-carlos-albert": {
-      "titulo": "",
-      "artista": "Carlos Albert",
-      "precio": "Consultar precio",
-      "precio_num": 0.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/small-blue-compass-carlos-albert"
-    },
     "https://www.3punts.com/es/shop/artwork/yellow-apple-carlos-albert": {
       "titulo": "",
       "artista": "Carlos Albert",
@@ -1137,13 +1113,29 @@
       "estado": "vendido",
       "url": "https://www.3punts.com/es/shop/artwork/yellow-apple-carlos-albert"
     },
-    "https://www.3punts.com/es/shop/artwork/white-apple-carlos-albert": {
+    "https://www.3punts.com/es/shop/artwork/white-apple-carlos-albert-0": {
+      "titulo": "",
+      "artista": "Carlos Albert",
+      "precio": "2 500,00 €",
+      "precio_num": 2500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/white-apple-carlos-albert-0"
+    },
+    "https://www.3punts.com/es/shop/artwork/fantsay-apple-carlos-albert": {
       "titulo": "",
       "artista": "Carlos Albert",
       "precio": "3 000,00 €",
       "precio_num": 3000.0,
       "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/white-apple-carlos-albert"
+      "url": "https://www.3punts.com/es/shop/artwork/fantsay-apple-carlos-albert"
+    },
+    "https://www.3punts.com/es/shop/artwork/perfume-carlos-albert": {
+      "titulo": "",
+      "artista": "Carlos Albert",
+      "precio": "3 500,00 €",
+      "precio_num": 3500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/perfume-carlos-albert"
     },
     "https://www.3punts.com/es/shop/artwork/noche-en-calma-carlos-albert": {
       "titulo": "",
@@ -1153,21 +1145,13 @@
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/noche-en-calma-carlos-albert"
     },
-    "https://www.3punts.com/es/shop/artwork/arbol-de-otono-carlos-albert": {
+    "https://www.3punts.com/es/shop/artwork/el-reflejo-de-la-pagoda-carlos-albert": {
       "titulo": "",
       "artista": "Carlos Albert",
-      "precio": "4 200,00 €",
-      "precio_num": 4200.0,
+      "precio": "3 800,00 €",
+      "precio_num": 3800.0,
       "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/arbol-de-otono-carlos-albert"
-    },
-    "https://www.3punts.com/es/shop/artwork/interior-carlos-albert": {
-      "titulo": "",
-      "artista": "Carlos Albert",
-      "precio": "6 800,00 €",
-      "precio_num": 6800.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/interior-carlos-albert"
+      "url": "https://www.3punts.com/es/shop/artwork/el-reflejo-de-la-pagoda-carlos-albert"
     },
     "https://www.3punts.com/es/shop/artwork/el-misterio-de-las-aguas-verdes-carlos-albert": {
       "titulo": "",
@@ -5236,8 +5220,8 @@
     "https://www.3punts.com/es/shop/artwork/what-lies-beneath": {
       "titulo": "",
       "artista": "Xavi Noble",
-      "precio": "2 000,00 €",
-      "precio_num": 2000.0,
+      "precio": "2 600,00 €",
+      "precio_num": 2600.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/what-lies-beneath"
     },
@@ -5345,14 +5329,6 @@
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/fun-over-xavi-noble"
     },
-    "https://www.3punts.com/es/shop/artwork/all-what-xavi-noble": {
-      "titulo": "",
-      "artista": "Xavi Noble",
-      "precio": "1 700,00 €",
-      "precio_num": 1700.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/all-what-xavi-noble"
-    },
     "https://www.3punts.com/es/shop/artwork/what-real-xavi-noble": {
       "titulo": "",
       "artista": "Xavi Noble",
@@ -5360,38 +5336,6 @@
       "precio_num": 1800.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/what-real-xavi-noble"
-    },
-    "https://www.3punts.com/es/shop/artwork/need-be-loved-xavi-noble": {
-      "titulo": "",
-      "artista": "Xavi Noble",
-      "precio": "1 800,00 €",
-      "precio_num": 1800.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/need-be-loved-xavi-noble"
-    },
-    "https://www.3punts.com/es/shop/artwork/whatever-happens-xavi-noble": {
-      "titulo": "",
-      "artista": "Xavi Noble",
-      "precio": "1 800,00 €",
-      "precio_num": 1800.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/whatever-happens-xavi-noble"
-    },
-    "https://www.3punts.com/es/shop/artwork/consume-xavi-noble": {
-      "titulo": "",
-      "artista": "Xavi Noble",
-      "precio": "1 800,00 €",
-      "precio_num": 1800.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/consume-xavi-noble"
-    },
-    "https://www.3punts.com/es/shop/artwork/404-error-xavi-noble": {
-      "titulo": "",
-      "artista": "Xavi Noble",
-      "precio": "1 800,00 €",
-      "precio_num": 1800.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/404-error-xavi-noble"
     },
     "https://www.3punts.com/es/shop/artwork/maybe-xavi-noble": {
       "titulo": "",
@@ -5401,6 +5345,46 @@
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/maybe-xavi-noble"
     },
+    "https://www.3punts.com/es/shop/artwork/all-what-xavi-noble": {
+      "titulo": "",
+      "artista": "Xavi Noble",
+      "precio": "2 000,00 €",
+      "precio_num": 2000.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/all-what-xavi-noble"
+    },
+    "https://www.3punts.com/es/shop/artwork/404-error-xavi-noble": {
+      "titulo": "",
+      "artista": "Xavi Noble",
+      "precio": "2 000,00 €",
+      "precio_num": 2000.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/404-error-xavi-noble"
+    },
+    "https://www.3punts.com/es/shop/artwork/need-be-loved-xavi-noble": {
+      "titulo": "",
+      "artista": "Xavi Noble",
+      "precio": "2 200,00 €",
+      "precio_num": 2200.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/need-be-loved-xavi-noble"
+    },
+    "https://www.3punts.com/es/shop/artwork/whatever-happens-xavi-noble": {
+      "titulo": "",
+      "artista": "Xavi Noble",
+      "precio": "2 200,00 €",
+      "precio_num": 2200.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/whatever-happens-xavi-noble"
+    },
+    "https://www.3punts.com/es/shop/artwork/consume-xavi-noble": {
+      "titulo": "",
+      "artista": "Xavi Noble",
+      "precio": "2 200,00 €",
+      "precio_num": 2200.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/consume-xavi-noble"
+    },
     "https://www.3punts.com/es/shop/artwork/lets-burn-xavi-noble": {
       "titulo": "",
       "artista": "Xavi Noble",
@@ -5408,6 +5392,14 @@
       "precio_num": 3000.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/lets-burn-xavi-noble"
+    },
+    "https://www.3punts.com/es/shop/artwork/refugio-interior-xavi-noble": {
+      "titulo": "",
+      "artista": "Xavi Noble",
+      "precio": "2 800,00 €",
+      "precio_num": 2800.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/refugio-interior-xavi-noble"
     },
     "https://www.3punts.com/es/shop/artwork/cactus": {
       "titulo": "",
