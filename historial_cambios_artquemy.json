@@ -11838,5 +11838,18 @@
         "url": "https://artquemy.com/producto/interior/"
       }
     ]
+  },
+  {
+    "fecha": "26/07/2026 20:44",
+    "artista": "Ciro Marra",
+    "cambios_obras": [
+      {
+        "tipo": "vendida",
+        "titulo": "Just Soul Portrait X",
+        "precio": "€490,00",
+        "precio_num": 490.0,
+        "url": "https://artquemy.com/producto/just-soul-portrait-x/"
+      }
+    ]
   }
 ]
