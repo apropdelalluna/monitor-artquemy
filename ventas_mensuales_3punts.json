@@ -1623,6 +1623,15 @@
       "precio_num": 1500.0,
       "tipo": "vendida",
       "url": "https://www.3punts.com/es/shop/artwork/zoom-2-lantomo"
+    },
+    {
+      "fecha": "28/07/2026 16:36",
+      "artista": "José Hernández",
+      "obra": "",
+      "precio": "3 500,00 €",
+      "precio_num": 3500.0,
+      "tipo": "vendida",
+      "url": "https://www.3punts.com/es/shop/artwork/jose-hernandezrelampago"
     }
   ]
 }
