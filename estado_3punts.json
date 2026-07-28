@@ -1,5 +1,5 @@
 {
-  "__hash__": "b0c255d52767a2d4c0d711d1a399d047",
+  "__hash__": "ba2936cbf1b7e063c0de5e00da60a9c4",
   "obras": {
     "https://www.3punts.com/es/shop/artwork/chet-baker-paris-1976-adria-garcia-surribas": {
       "titulo": "",
@@ -2633,6 +2633,14 @@
       "estado": "vendido",
       "url": "https://www.3punts.com/es/shop/artwork/jose-hernandezhomenaje-leger"
     },
+    "https://www.3punts.com/es/shop/artwork/figura-jose-hernandez": {
+      "titulo": "",
+      "artista": "José Hernández",
+      "precio": "2 500,00 €",
+      "precio_num": 2500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/figura-jose-hernandez"
+    },
     "https://www.3punts.com/es/shop/artwork/jose-hernandezcrisalida-iii": {
       "titulo": "",
       "artista": "José Hernández",
@@ -2644,9 +2652,9 @@
     "https://www.3punts.com/es/shop/artwork/jose-hernandezrelampago": {
       "titulo": "",
       "artista": "José Hernández",
-      "precio": "3 500,00 €",
-      "precio_num": 3500.0,
-      "estado": "disponible",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "estado": "vendido",
       "url": "https://www.3punts.com/es/shop/artwork/jose-hernandezrelampago"
     },
     "https://www.3punts.com/es/shop/artwork/jose-hernandeztelon-de-fondo-iv": {
@@ -5752,14 +5760,6 @@
       "precio_num": 0.0,
       "estado": "vendido",
       "url": "https://www.3punts.com/es/shop/artwork/youre-always-my-mind-yves-decamps"
-    },
-    "https://www.3punts.com/es/shop/artwork/i-feel-so-yves-decamps": {
-      "titulo": "",
-      "artista": "Yves DeCamps",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/i-feel-so-yves-decamps"
     }
   }
 }
