@@ -7471,5 +7471,23 @@
     "precio_num": 0.0,
     "url": "https://www.3punts.com/es/shop/artwork/i-feel-so-yves-decamps",
     "fecha": "28/07/2026 16:36"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "ADD FUEL",
+    "precio": "4 800,00 €",
+    "precio_num": 4800.0,
+    "url": "https://www.3punts.com/es/shop/artwork/cash-add-fuel",
+    "fecha": "28/07/2026 18:50"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Yves DeCamps",
+    "precio": "Precio no disponible",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/youre-always-my-mind-yves-decamps",
+    "fecha": "28/07/2026 18:50"
   }
 ]
