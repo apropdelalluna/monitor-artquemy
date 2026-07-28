@@ -1,6 +1,14 @@
 {
-  "__hash__": "ba2936cbf1b7e063c0de5e00da60a9c4",
+  "__hash__": "540aa3d6e93ff54a05a3e278eb5f4498",
   "obras": {
+    "https://www.3punts.com/es/shop/artwork/cash-add-fuel": {
+      "titulo": "",
+      "artista": "ADD FUEL",
+      "precio": "4 800,00 €",
+      "precio_num": 4800.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/cash-add-fuel"
+    },
     "https://www.3punts.com/es/shop/artwork/chet-baker-paris-1976-adria-garcia-surribas": {
       "titulo": "",
       "artista": "Adrià Garcia Surribas",
@@ -5752,14 +5760,6 @@
       "precio_num": 0.0,
       "estado": "vendido",
       "url": "https://www.3punts.com/es/shop/artwork/i-want-break-free-yves-decamps"
-    },
-    "https://www.3punts.com/es/shop/artwork/youre-always-my-mind-yves-decamps": {
-      "titulo": "",
-      "artista": "Yves DeCamps",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/youre-always-my-mind-yves-decamps"
     }
   }
 }
