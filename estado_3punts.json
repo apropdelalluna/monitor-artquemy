@@ -1,6 +1,150 @@
 {
-  "__hash__": "473df0d586907985b75e4731480e2d0a",
+  "__hash__": "b0c255d52767a2d4c0d711d1a399d047",
   "obras": {
+    "https://www.3punts.com/es/shop/artwork/chet-baker-paris-1976-adria-garcia-surribas": {
+      "titulo": "",
+      "artista": "Adrià Garcia Surribas",
+      "precio": "200,00 €",
+      "precio_num": 200.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/chet-baker-paris-1976-adria-garcia-surribas"
+    },
+    "https://www.3punts.com/es/shop/artwork/crisantemo-adria-garcia-surribas": {
+      "titulo": "",
+      "artista": "Adrià Garcia Surribas",
+      "precio": "200,00 €",
+      "precio_num": 200.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/crisantemo-adria-garcia-surribas"
+    },
+    "https://www.3punts.com/es/shop/artwork/dialeg-adria-garcia-surribas": {
+      "titulo": "",
+      "artista": "Adrià Garcia Surribas",
+      "precio": "200,00 €",
+      "precio_num": 200.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/dialeg-adria-garcia-surribas"
+    },
+    "https://www.3punts.com/es/shop/artwork/home-en-una-branca-adria-garcia-surribas": {
+      "titulo": "",
+      "artista": "Adrià Garcia Surribas",
+      "precio": "200,00 €",
+      "precio_num": 200.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/home-en-una-branca-adria-garcia-surribas"
+    },
+    "https://www.3punts.com/es/shop/artwork/jeune-adria-garcia-surribas": {
+      "titulo": "",
+      "artista": "Adrià Garcia Surribas",
+      "precio": "200,00 €",
+      "precio_num": 200.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/jeune-adria-garcia-surribas"
+    },
+    "https://www.3punts.com/es/shop/artwork/jugador-de-cartes-en-un-bar-adria-garcia-surribas": {
+      "titulo": "",
+      "artista": "Adrià Garcia Surribas",
+      "precio": "200,00 €",
+      "precio_num": 200.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/jugador-de-cartes-en-un-bar-adria-garcia-surribas"
+    },
+    "https://www.3punts.com/es/shop/artwork/lhome-que-treballa-fent-de-gos-adria-garcia-surribas": {
+      "titulo": "",
+      "artista": "Adrià Garcia Surribas",
+      "precio": "200,00 €",
+      "precio_num": 200.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/lhome-que-treballa-fent-de-gos-adria-garcia-surribas"
+    },
+    "https://www.3punts.com/es/shop/artwork/mico-pintor-adria-garcia-surribas": {
+      "titulo": "",
+      "artista": "Adrià Garcia Surribas",
+      "precio": "200,00 €",
+      "precio_num": 200.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/mico-pintor-adria-garcia-surribas"
+    },
+    "https://www.3punts.com/es/shop/artwork/papallones-i-paneroles-adria-garcia-surribas": {
+      "titulo": "",
+      "artista": "Adrià Garcia Surribas",
+      "precio": "200,00 €",
+      "precio_num": 200.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/papallones-i-paneroles-adria-garcia-surribas"
+    },
+    "https://www.3punts.com/es/shop/artwork/pessic-de-papallona": {
+      "titulo": "",
+      "artista": "Adrià Garcia Surribas",
+      "precio": "200,00 €",
+      "precio_num": 200.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/pessic-de-papallona"
+    },
+    "https://www.3punts.com/es/shop/artwork/quatre-paios-adria-garcia-surribas": {
+      "titulo": "",
+      "artista": "Adrià Garcia Surribas",
+      "precio": "200,00 €",
+      "precio_num": 200.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/quatre-paios-adria-garcia-surribas"
+    },
+    "https://www.3punts.com/es/shop/artwork/sa-excremencia-adria-garcia-surribas": {
+      "titulo": "",
+      "artista": "Adrià Garcia Surribas",
+      "precio": "200,00 €",
+      "precio_num": 200.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/sa-excremencia-adria-garcia-surribas"
+    },
+    "https://www.3punts.com/es/shop/artwork/sense-titol-adria-garcia-surribas": {
+      "titulo": "",
+      "artista": "Adrià Garcia Surribas",
+      "precio": "200,00 €",
+      "precio_num": 200.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/sense-titol-adria-garcia-surribas"
+    },
+    "https://www.3punts.com/es/shop/artwork/sense-titol-adria-garcia-surribas-0": {
+      "titulo": "",
+      "artista": "Adrià Garcia Surribas",
+      "precio": "200,00 €",
+      "precio_num": 200.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/sense-titol-adria-garcia-surribas-0"
+    },
+    "https://www.3punts.com/es/shop/artwork/senyors-adria-garcia-surribas": {
+      "titulo": "",
+      "artista": "Adrià Garcia Surribas",
+      "precio": "200,00 €",
+      "precio_num": 200.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/senyors-adria-garcia-surribas"
+    },
+    "https://www.3punts.com/es/shop/artwork/dos-homes-i-una-papallona": {
+      "titulo": "",
+      "artista": "Adrià Garcia Surribas",
+      "precio": "1 200,00 €",
+      "precio_num": 1200.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/dos-homes-i-una-papallona"
+    },
+    "https://www.3punts.com/es/shop/artwork/els-enamorats-adria-garcia-surribas": {
+      "titulo": "",
+      "artista": "Adrià Garcia Surribas",
+      "precio": "1 300,00 €",
+      "precio_num": 1300.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/els-enamorats-adria-garcia-surribas"
+    },
+    "https://www.3punts.com/es/shop/artwork/jugadors-de-cartes-adria-garcia-surribas": {
+      "titulo": "",
+      "artista": "Adrià Garcia Surribas",
+      "precio": "1 500,00 €",
+      "precio_num": 1500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/jugadors-de-cartes-adria-garcia-surribas"
+    },
     "https://www.3punts.com/es/shop/artwork/untitled-alberto-fernandez-hurtado": {
       "titulo": "",
       "artista": "Alberto Fernández Hurtado",
@@ -288,6 +432,38 @@
       "precio_num": 0.0,
       "estado": "vendido",
       "url": "https://www.3punts.com/es/shop/artwork/crush-alejandro-monge"
+    },
+    "https://www.3punts.com/es/shop/artwork/red-london-aleksandar-zaar": {
+      "titulo": "",
+      "artista": "Aleksandar Zaar",
+      "precio": "3 000,00 €",
+      "precio_num": 3000.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/red-london-aleksandar-zaar"
+    },
+    "https://www.3punts.com/es/shop/artwork/red": {
+      "titulo": "",
+      "artista": "Aleksandar Zaar",
+      "precio": "6 000,00 €",
+      "precio_num": 6000.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/red"
+    },
+    "https://www.3punts.com/es/shop/artwork/yellow-aleksandar-zaar": {
+      "titulo": "",
+      "artista": "Aleksandar Zaar",
+      "precio": "6 000,00 €",
+      "precio_num": 6000.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/yellow-aleksandar-zaar"
+    },
+    "https://www.3punts.com/es/shop/artwork/green-black-aleksandar-zaar": {
+      "titulo": "",
+      "artista": "Aleksandar Zaar",
+      "precio": "6 000,00 €",
+      "precio_num": 6000.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/green-black-aleksandar-zaar"
     },
     "https://www.3punts.com/es/shop/artwork/uoap-c5-alex-palli": {
       "titulo": "",
@@ -1288,6 +1464,22 @@
       "precio_num": 5200.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/territorios-sumergidos-dominika-berger"
+    },
+    "https://www.3punts.com/es/shop/artwork/caja-de-encajes-efraim-rodriguez": {
+      "titulo": "",
+      "artista": "Efraïm Rodríguez",
+      "precio": "2 100,00 €",
+      "precio_num": 2100.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/caja-de-encajes-efraim-rodriguez"
+    },
+    "https://www.3punts.com/es/shop/artwork/nado-efraim-rodriguez": {
+      "titulo": "",
+      "artista": "Efraïm Rodríguez",
+      "precio": "3 800,00 €",
+      "precio_num": 3800.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/nado-efraim-rodriguez"
     },
     "https://www.3punts.com/es/shop/artwork/del-aire-v-emilio-pascual": {
       "titulo": "",
@@ -3161,6 +3353,38 @@
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/loretta-lux-hugo-dylan"
     },
+    "https://www.3punts.com/es/shop/artwork/head-luis-vidal": {
+      "titulo": "",
+      "artista": "Luis Vidal",
+      "precio": "3 000,00 €",
+      "precio_num": 3000.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/head-luis-vidal"
+    },
+    "https://www.3punts.com/es/shop/artwork/white-black-iv-luis-vidal": {
+      "titulo": "",
+      "artista": "Luis Vidal",
+      "precio": "4 500,00 €",
+      "precio_num": 4500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/white-black-iv-luis-vidal"
+    },
+    "https://www.3punts.com/es/shop/artwork/congo-luis-vidal": {
+      "titulo": "",
+      "artista": "Luis Vidal",
+      "precio": "5 500,00 €",
+      "precio_num": 5500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/congo-luis-vidal"
+    },
+    "https://www.3punts.com/es/shop/artwork/borbon-luis-vidal": {
+      "titulo": "",
+      "artista": "Luis Vidal",
+      "precio": "6 000,00 €",
+      "precio_num": 6000.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/borbon-luis-vidal"
+    },
     "https://www.3punts.com/es/shop/artwork/macarena-yanez-senderismo-natural": {
       "titulo": "",
       "artista": "Macarena Yáñez - MACAY",
@@ -3777,29 +4001,21 @@
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/rodrigo-romero-swimmer"
     },
-    "https://www.3punts.com/es/shop/artwork/rodrigo-romero-cabeza-de-macaco": {
+    "https://www.3punts.com/es/shop/artwork/microplasticos-e-interferencias-rodrigo-romero": {
       "titulo": "",
       "artista": "Rodrigo Romero",
-      "precio": "400,00 €",
-      "precio_num": 400.0,
+      "precio": "Consultar precio",
+      "precio_num": 0.0,
       "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/rodrigo-romero-cabeza-de-macaco"
+      "url": "https://www.3punts.com/es/shop/artwork/microplasticos-e-interferencias-rodrigo-romero"
     },
-    "https://www.3punts.com/es/shop/artwork/rodrigo-romero-cabeza-de-macaco-0": {
+    "https://www.3punts.com/es/shop/artwork/iii-try-rodrigo-romero": {
       "titulo": "",
       "artista": "Rodrigo Romero",
-      "precio": "400,00 €",
-      "precio_num": 400.0,
+      "precio": "Consultar precio",
+      "precio_num": 0.0,
       "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/rodrigo-romero-cabeza-de-macaco-0"
-    },
-    "https://www.3punts.com/es/shop/artwork/rodrigo-romero-cabeza-de-macaco-1": {
-      "titulo": "",
-      "artista": "Rodrigo Romero",
-      "precio": "400,00 €",
-      "precio_num": 400.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/rodrigo-romero-cabeza-de-macaco-1"
+      "url": "https://www.3punts.com/es/shop/artwork/iii-try-rodrigo-romero"
     },
     "https://www.3punts.com/es/shop/artwork/rodrigo-romero-el-recelo": {
       "titulo": "",
@@ -3824,6 +4040,14 @@
       "precio_num": 2500.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/rodrigo-romero-el-recelo-1"
+    },
+    "https://www.3punts.com/es/shop/artwork/hope-rodrigo-romero": {
+      "titulo": "",
+      "artista": "Rodrigo Romero",
+      "precio": "4 500,00 €",
+      "precio_num": 4500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/hope-rodrigo-romero"
     },
     "https://www.3punts.com/es/shop/artwork/rodrigo-romero-reflexiones-iii": {
       "titulo": "",
@@ -5536,158 +5760,6 @@
       "precio_num": 0.0,
       "estado": "vendido",
       "url": "https://www.3punts.com/es/shop/artwork/i-feel-so-yves-decamps"
-    },
-    "https://www.3punts.com/es/shop/artwork/i-have-lose-myself-get-found-again-yves-decamps": {
-      "titulo": "",
-      "artista": "Yves DeCamps",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/i-have-lose-myself-get-found-again-yves-decamps"
-    },
-    "https://www.3punts.com/es/shop/artwork/you-are-not-allowed-hallucinate-you-are-now-yves-decamps": {
-      "titulo": "",
-      "artista": "Yves DeCamps",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/you-are-not-allowed-hallucinate-you-are-now-yves-decamps"
-    },
-    "https://www.3punts.com/es/shop/artwork/im-beautiful-garden-nothing-it-yves-decamps": {
-      "titulo": "",
-      "artista": "Yves DeCamps",
-      "precio": "700,00 €",
-      "precio_num": 700.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/im-beautiful-garden-nothing-it-yves-decamps"
-    },
-    "https://www.3punts.com/es/shop/artwork/life-good-yves-decamps": {
-      "titulo": "",
-      "artista": "Yves DeCamps",
-      "precio": "700,00 €",
-      "precio_num": 700.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/life-good-yves-decamps"
-    },
-    "https://www.3punts.com/es/shop/artwork/et-tu-brute-yves-decamps": {
-      "titulo": "",
-      "artista": "Yves DeCamps",
-      "precio": "700,00 €",
-      "precio_num": 700.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/et-tu-brute-yves-decamps"
-    },
-    "https://www.3punts.com/es/shop/artwork/be-frustated-be-alive-yves-decamps": {
-      "titulo": "",
-      "artista": "Yves DeCamps",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/be-frustated-be-alive-yves-decamps"
-    },
-    "https://www.3punts.com/es/shop/artwork/i-always-take-care-my-mental-health-yves-decamps": {
-      "titulo": "",
-      "artista": "Yves DeCamps",
-      "precio": "700,00 €",
-      "precio_num": 700.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/i-always-take-care-my-mental-health-yves-decamps"
-    },
-    "https://www.3punts.com/es/shop/artwork/beware-dentist-yves-decamps": {
-      "titulo": "",
-      "artista": "Yves DeCamps",
-      "precio": "1 000,00 €",
-      "precio_num": 1000.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/beware-dentist-yves-decamps"
-    },
-    "https://www.3punts.com/es/shop/artwork/we-share-deep-bond-yves-decamps": {
-      "titulo": "",
-      "artista": "Yves DeCamps",
-      "precio": "1 000,00 €",
-      "precio_num": 1000.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/we-share-deep-bond-yves-decamps"
-    },
-    "https://www.3punts.com/es/shop/artwork/kim-jong-two-yves-decamps": {
-      "titulo": "",
-      "artista": "Yves DeCamps",
-      "precio": "1 000,00 €",
-      "precio_num": 1000.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/kim-jong-two-yves-decamps"
-    },
-    "https://www.3punts.com/es/shop/artwork/i-always-look-bright-side-life-yves-decamps": {
-      "titulo": "",
-      "artista": "Yves DeCamps",
-      "precio": "1 000,00 €",
-      "precio_num": 1000.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/i-always-look-bright-side-life-yves-decamps"
-    },
-    "https://www.3punts.com/es/shop/artwork/i-have-been-diagnosed-augmented-masculinity-yves-decamps": {
-      "titulo": "",
-      "artista": "Yves DeCamps",
-      "precio": "1 000,00 €",
-      "precio_num": 1000.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/i-have-been-diagnosed-augmented-masculinity-yves-decamps"
-    },
-    "https://www.3punts.com/es/shop/artwork/miracle-fatherhood-yves-decamps": {
-      "titulo": "",
-      "artista": "Yves DeCamps",
-      "precio": "1 000,00 €",
-      "precio_num": 1000.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/miracle-fatherhood-yves-decamps"
-    },
-    "https://www.3punts.com/es/shop/artwork/lets-dance-yves-decamps": {
-      "titulo": "",
-      "artista": "Yves DeCamps",
-      "precio": "1 000,00 €",
-      "precio_num": 1000.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/lets-dance-yves-decamps"
-    },
-    "https://www.3punts.com/es/shop/artwork/feelin-big-fat-fuck-yves-decamps": {
-      "titulo": "",
-      "artista": "Yves DeCamps",
-      "precio": "1 000,00 €",
-      "precio_num": 1000.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/feelin-big-fat-fuck-yves-decamps"
-    },
-    "https://www.3punts.com/es/shop/artwork/just-moment-im-coming-down-yves-decamps": {
-      "titulo": "",
-      "artista": "Yves DeCamps",
-      "precio": "1 200,00 €",
-      "precio_num": 1200.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/just-moment-im-coming-down-yves-decamps"
-    },
-    "https://www.3punts.com/es/shop/artwork/did-you-say-i-was-beaver-yves-decamps": {
-      "titulo": "",
-      "artista": "Yves DeCamps",
-      "precio": "1 200,00 €",
-      "precio_num": 1200.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/did-you-say-i-was-beaver-yves-decamps"
-    },
-    "https://www.3punts.com/es/shop/artwork/im-hovering-between-hate-and-happines-yves-decamps": {
-      "titulo": "",
-      "artista": "Yves DeCamps",
-      "precio": "1 200,00 €",
-      "precio_num": 1200.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/im-hovering-between-hate-and-happines-yves-decamps"
-    },
-    "https://www.3punts.com/es/shop/artwork/welcome-wonderful-world-genetics-yves-decamps": {
-      "titulo": "",
-      "artista": "Yves DeCamps",
-      "precio": "1 200,00 €",
-      "precio_num": 1200.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/welcome-wonderful-world-genetics-yves-decamps"
     }
   }
 }
