@@ -1,6 +1,14 @@
 {
-  "__hash__": "540aa3d6e93ff54a05a3e278eb5f4498",
+  "__hash__": "80d6cafcf0762b58aaed50ea3bac6706",
   "obras": {
+    "https://www.3punts.com/es/shop/artwork/adapta-add-fuel": {
+      "titulo": "",
+      "artista": "ADD FUEL",
+      "precio": "2 000,00 €",
+      "precio_num": 2000.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/adapta-add-fuel"
+    },
     "https://www.3punts.com/es/shop/artwork/cash-add-fuel": {
       "titulo": "",
       "artista": "ADD FUEL",
@@ -321,13 +329,13 @@
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/alejandro-monge-inverse-shape-x"
     },
-    "https://www.3punts.com/es/shop/artwork/alejandro-monge-inverse-shape-y": {
+    "https://www.3punts.com/es/shop/artwork/inverse-shape-y-alejandro-monge": {
       "titulo": "",
       "artista": "Alejandro Monge",
       "precio": "7 500,00 €",
       "precio_num": 7500.0,
       "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/alejandro-monge-inverse-shape-y"
+      "url": "https://www.3punts.com/es/shop/artwork/inverse-shape-y-alejandro-monge"
     },
     "https://www.3punts.com/es/shop/artwork/beggining-alejandro-monge": {
       "titulo": "",
@@ -849,13 +857,13 @@
       "estado": "vendido",
       "url": "https://www.3punts.com/es/shop/artwork/unmasked-rebel-lantomo"
     },
-    "https://www.3punts.com/es/shop/artwork/lantomo-space-buns-stars": {
+    "https://www.3punts.com/es/shop/artwork/space-buns-stars-lantomo": {
       "titulo": "",
       "artista": "Antonella Montes - LANTOMO",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
       "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/lantomo-space-buns-stars"
+      "url": "https://www.3punts.com/es/shop/artwork/space-buns-stars-lantomo"
     },
     "https://www.3punts.com/es/shop/artwork/sprayed-i-lantomo": {
       "titulo": "",
@@ -1513,6 +1521,86 @@
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/del-aire-xvii-emilio-pascual"
     },
+    "https://www.3punts.com/es/shop/artwork/st-i-erwin-bechtold": {
+      "titulo": "",
+      "artista": "Erwin Bechtold",
+      "precio": "500,00 €",
+      "precio_num": 500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/st-i-erwin-bechtold"
+    },
+    "https://www.3punts.com/es/shop/artwork/st-ii-erwin-bechtold": {
+      "titulo": "",
+      "artista": "Erwin Bechtold",
+      "precio": "500,00 €",
+      "precio_num": 500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/st-ii-erwin-bechtold"
+    },
+    "https://www.3punts.com/es/shop/artwork/st-iii-erwin-bechtold": {
+      "titulo": "",
+      "artista": "Erwin Bechtold",
+      "precio": "500,00 €",
+      "precio_num": 500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/st-iii-erwin-bechtold"
+    },
+    "https://www.3punts.com/es/shop/artwork/st-iv-erwin-bechtold": {
+      "titulo": "",
+      "artista": "Erwin Bechtold",
+      "precio": "500,00 €",
+      "precio_num": 500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/st-iv-erwin-bechtold"
+    },
+    "https://www.3punts.com/es/shop/artwork/st-v-erwin-bechtold": {
+      "titulo": "",
+      "artista": "Erwin Bechtold",
+      "precio": "500,00 €",
+      "precio_num": 500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/st-v-erwin-bechtold"
+    },
+    "https://www.3punts.com/es/shop/artwork/st-vi-erwin-bechtold": {
+      "titulo": "",
+      "artista": "Erwin Bechtold",
+      "precio": "500,00 €",
+      "precio_num": 500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/st-vi-erwin-bechtold"
+    },
+    "https://www.3punts.com/es/shop/artwork/st-vii-erwin-bechtold": {
+      "titulo": "",
+      "artista": "Erwin Bechtold",
+      "precio": "500,00 €",
+      "precio_num": 500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/st-vii-erwin-bechtold"
+    },
+    "https://www.3punts.com/es/shop/artwork/st-viii-erwin-bechtold": {
+      "titulo": "",
+      "artista": "Erwin Bechtold",
+      "precio": "500,00 €",
+      "precio_num": 500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/st-viii-erwin-bechtold"
+    },
+    "https://www.3punts.com/es/shop/artwork/st-ix-erwin-bechtold": {
+      "titulo": "",
+      "artista": "Erwin Bechtold",
+      "precio": "500,00 €",
+      "precio_num": 500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/st-ix-erwin-bechtold"
+    },
+    "https://www.3punts.com/es/shop/artwork/st-x-erwin-bechtold": {
+      "titulo": "",
+      "artista": "Erwin Bechtold",
+      "precio": "500,00 €",
+      "precio_num": 500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/st-x-erwin-bechtold"
+    },
     "https://www.3punts.com/es/shop/artwork/eusebio-lopez-asbtracto": {
       "titulo": "",
       "artista": "Eusebio López",
@@ -1992,6 +2080,14 @@
       "precio_num": 0.0,
       "estado": "vendido",
       "url": "https://www.3punts.com/es/shop/artwork/idol-ii"
+    },
+    "https://www.3punts.com/es/shop/artwork/relax-hossein-azadi": {
+      "titulo": "",
+      "artista": "Hosein Azadi",
+      "precio": "4 200,00 €",
+      "precio_num": 4200.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/relax-hossein-azadi"
     },
     "https://www.3punts.com/es/shop/artwork/berlin-abend-am-olympiastadion-jan-schuler": {
       "titulo": "",
@@ -3081,6 +3177,14 @@
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/coffee-tetris-i"
     },
+    "https://www.3punts.com/es/shop/artwork/tiger-rest": {
+      "titulo": "",
+      "artista": "Lara Padilla",
+      "precio": "4 000,00 €",
+      "precio_num": 4000.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/tiger-rest"
+    },
     "https://www.3punts.com/es/shop/artwork/lara-padilla-line-black-white-tetris": {
       "titulo": "",
       "artista": "Lara Padilla",
@@ -3481,6 +3585,14 @@
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/macarena-yanez-intervencion-tropical"
     },
+    "https://www.3punts.com/es/shop/artwork/foeniculum-vulgare-manel-armengol": {
+      "titulo": "",
+      "artista": "Manel Armengol",
+      "precio": "2 500,00 €",
+      "precio_num": 2500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/foeniculum-vulgare-manel-armengol"
+    },
     "https://www.3punts.com/es/shop/artwork/sin-titulo-i-marcel-marti": {
       "titulo": "",
       "artista": "Marcel Marti",
@@ -3552,6 +3664,22 @@
       "precio_num": 18000.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/marc-laita-photo-46"
+    },
+    "https://www.3punts.com/es/shop/artwork/silver-daughter-negin-baghery": {
+      "titulo": "",
+      "artista": "Negin Baghery",
+      "precio": "1 000,00 €",
+      "precio_num": 1000.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/silver-daughter-negin-baghery"
+    },
+    "https://www.3punts.com/es/shop/artwork/silver-i-negin-baghery": {
+      "titulo": "",
+      "artista": "Negin Baghery",
+      "precio": "1 900,00 €",
+      "precio_num": 1900.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/silver-i-negin-baghery"
     },
     "https://www.3punts.com/es/shop/artwork/nick-veaseyhang-loose-bands": {
       "titulo": "",
@@ -4865,13 +4993,13 @@
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/rolling-stones-samuel-salcedo"
     },
-    "https://www.3punts.com/es/shop/artwork/about-memories-i-0": {
+    "https://www.3punts.com/es/shop/artwork/about-memories-i-samuel-salcedo": {
       "titulo": "",
       "artista": "Samuel Salcedo",
       "precio": "Consultar precio",
       "precio_num": 0.0,
       "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/about-memories-i-0"
+      "url": "https://www.3punts.com/es/shop/artwork/about-memories-i-samuel-salcedo"
     },
     "https://www.3punts.com/es/shop/artwork/needles-and-pins-samuel-salcedo": {
       "titulo": "",
@@ -5632,134 +5760,6 @@
       "precio_num": 3000.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/lets-burn-xavi-noble"
-    },
-    "https://www.3punts.com/es/shop/artwork/refugio-interior-xavi-noble": {
-      "titulo": "",
-      "artista": "Xavi Noble",
-      "precio": "2 800,00 €",
-      "precio_num": 2800.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/refugio-interior-xavi-noble"
-    },
-    "https://www.3punts.com/es/shop/artwork/cactus": {
-      "titulo": "",
-      "artista": "Yves DeCamps",
-      "precio": "1 000,00 €",
-      "precio_num": 1000.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/cactus"
-    },
-    "https://www.3punts.com/es/shop/artwork/day-i-met-brutus": {
-      "titulo": "",
-      "artista": "Yves DeCamps",
-      "precio": "1 000,00 €",
-      "precio_num": 1000.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/day-i-met-brutus"
-    },
-    "https://www.3punts.com/es/shop/artwork/lets-get-physical": {
-      "titulo": "",
-      "artista": "Yves DeCamps",
-      "precio": "1 000,00 €",
-      "precio_num": 1000.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/lets-get-physical"
-    },
-    "https://www.3punts.com/es/shop/artwork/travelling-parallel-dimesions-and-awkward-bussiness": {
-      "titulo": "",
-      "artista": "Yves DeCamps",
-      "precio": "1 200,00 €",
-      "precio_num": 1200.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/travelling-parallel-dimesions-and-awkward-bussiness"
-    },
-    "https://www.3punts.com/es/shop/artwork/im-visual-multitasker-yves-decamps": {
-      "titulo": "",
-      "artista": "Yves DeCamps",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/im-visual-multitasker-yves-decamps"
-    },
-    "https://www.3punts.com/es/shop/artwork/we-have-become-increasingly-toxic": {
-      "titulo": "",
-      "artista": "Yves DeCamps",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/we-have-become-increasingly-toxic"
-    },
-    "https://www.3punts.com/es/shop/artwork/kiss-yves-decamps": {
-      "titulo": "",
-      "artista": "Yves DeCamps",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/kiss-yves-decamps"
-    },
-    "https://www.3punts.com/es/shop/artwork/i-was-made-loving-you-yves-decamps": {
-      "titulo": "",
-      "artista": "Yves DeCamps",
-      "precio": "1 000,00 €",
-      "precio_num": 1000.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/i-was-made-loving-you-yves-decamps"
-    },
-    "https://www.3punts.com/es/shop/artwork/only-love-will-tear-us-apart-yves-decamps": {
-      "titulo": "",
-      "artista": "Yves DeCamps",
-      "precio": "1 200,00 €",
-      "precio_num": 1200.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/only-love-will-tear-us-apart-yves-decamps"
-    },
-    "https://www.3punts.com/es/shop/artwork/its-not-always-easy-express-my-feelings-yves-decamps": {
-      "titulo": "",
-      "artista": "Yves DeCamps",
-      "precio": "1 200,00 €",
-      "precio_num": 1200.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/its-not-always-easy-express-my-feelings-yves-decamps"
-    },
-    "https://www.3punts.com/es/shop/artwork/tattoos-are-stupid-yves-decamps": {
-      "titulo": "",
-      "artista": "Yves DeCamps",
-      "precio": "3 000,00 €",
-      "precio_num": 3000.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/tattoos-are-stupid-yves-decamps"
-    },
-    "https://www.3punts.com/es/shop/artwork/distortion-doesnt-bother-me-anymore-yves-decamps": {
-      "titulo": "",
-      "artista": "Yves DeCamps",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/distortion-doesnt-bother-me-anymore-yves-decamps"
-    },
-    "https://www.3punts.com/es/shop/artwork/i-lost-control-again-yves-decamps": {
-      "titulo": "",
-      "artista": "Yves DeCamps",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/i-lost-control-again-yves-decamps"
-    },
-    "https://www.3punts.com/es/shop/artwork/im-stuggling-oral-fixation-yves-decamps": {
-      "titulo": "",
-      "artista": "Yves DeCamps",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/im-stuggling-oral-fixation-yves-decamps"
-    },
-    "https://www.3punts.com/es/shop/artwork/i-want-break-free-yves-decamps": {
-      "titulo": "",
-      "artista": "Yves DeCamps",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/i-want-break-free-yves-decamps"
     }
   }
 }
