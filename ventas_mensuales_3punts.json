@@ -1632,6 +1632,15 @@
       "precio_num": 3500.0,
       "tipo": "vendida",
       "url": "https://www.3punts.com/es/shop/artwork/jose-hernandezrelampago"
+    },
+    {
+      "fecha": "29/07/2026 18:53",
+      "artista": "Antonella Montes - LANTOMO",
+      "obra": "",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.3punts.com/es/shop/artwork/space-buns-stars-lantomo"
     }
   ]
 }
