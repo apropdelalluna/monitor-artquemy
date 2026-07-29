@@ -7647,6 +7647,15 @@
       "precio_num": 490.0,
       "tipo": "vendida",
       "url": "https://artquemy.com/producto/just-soul-portrait-x/"
+    },
+    {
+      "fecha": "29/07/2026 18:49",
+      "artista": "Erwtje",
+      "obra": "Camouflage",
+      "precio": "€1.400,00",
+      "precio_num": 1400.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/camouflage-2/"
     }
   ]
 }
