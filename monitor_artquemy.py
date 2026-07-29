@@ -1519,12 +1519,21 @@ def tp_extraer_obras(soup: BeautifulSoup) -> dict:
         precio_str_raw = precio_el.get_text(strip=True) if precio_el else ""
         precio_num = precio_a_numero(precio_str_raw)
 
-        # Estado — en el listado no hay clase out-of-stock visible directamente
-        # pero el formulario tiene clase in-stock o out-of-stock
+        # Estado — botón submit disabled = vendido
         form_el = row.select_one("form.commerce-add-to-cart")
         if form_el:
-            if "out-of-stock" in form_el.get("class", []):
+            boton_disabled = form_el.select_one("input[disabled], button[disabled]")
+            if boton_disabled or "out-of-stock" in form_el.get("class", []):
                 estado = "vendido"
+                # Si la obra está vendida y no tiene título, intentar extraerlo del enlace o alt de imagen
+                if not titulo:
+                    img = row.select_one("img")
+                    if img and img.get("alt"):
+                        titulo = img.get("alt").strip()
+                    if not titulo:
+                        # Extraer del slug de la URL
+                        slug = url_obra.rstrip("/").split("/")[-1]
+                        titulo = slug.replace("-", " ").title()
             else:
                 estado = "disponible"
         else:
@@ -2114,11 +2123,6 @@ def recuperar_precios_artquemy() -> None:
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
         "Accept-Language": "es-ES,es;q=0.9",
     }
-    from requests.adapters import HTTPAdapter
-    session = requests.Session()
-    session.headers.update(headers)
-    session.mount("http://", HTTPAdapter(max_retries=0))
-    session.mount("https://", HTTPAdapter(max_retries=0))
 
     contenido = github_cargar_archivo("ventas_mensuales_artquemy.json")
     if not contenido:
@@ -2139,29 +2143,23 @@ def recuperar_precios_artquemy() -> None:
                 url = obra.get("url", "")
                 if not url:
                     continue
-                import signal as _signal
-
-                def _timeout_handler(signum, frame):
-                    raise TimeoutError("peticion colgada")
-
-                _signal.signal(_signal.SIGALRM, _timeout_handler)
-                _signal.alarm(10)  # limite duro de 10 segundos
                 try:
-                    resp = session.get(url, timeout=(5, 8))
-                    _signal.alarm(0)  # cancelar alarma si fue bien
+                    resp = requests.get(url, headers=headers, timeout=15)
                     if resp.status_code != 200:
                         logging.warning("[RECUPERAR] %s: HTTP %d", url, resp.status_code)
                         total_procesadas += 1
-                        time.sleep(1)
+                        time.sleep(1.5)
                         continue
                     soup = BeautifulSoup(resp.text, "html.parser")
+                    # Precio en WooCommerce: .woocommerce-Price-amount bdi
                     precio_el = soup.select_one("p.price .woocommerce-Price-amount bdi")
                     if not precio_el:
                         precio_el = soup.select_one(".woocommerce-Price-amount bdi")
                     if precio_el:
                         precio_str = precio_el.get_text(strip=True)
+                        # Limpiar: quitar símbolo € y espacios
                         import re
-                        match = re.search(r'[0-9][0-9.,\s]*', precio_str.replace(' ', ''))
+                        match = re.search(r'[\d][\d\.\s,]*', precio_str.replace(' ', ''))
                         if match:
                             precio_num = float(match.group(0).replace('.', '').replace(',', '.').strip())
                             obra["precio"] = precio_str
@@ -2173,21 +2171,8 @@ def recuperar_precios_artquemy() -> None:
                     else:
                         logging.info("[RECUPERAR] Sin selector precio: %s", url)
                     total_procesadas += 1
-                    time.sleep(1)
-                except TimeoutError:
-                    _signal.alarm(0)
-                    logging.warning("[RECUPERAR] Timeout duro: %s — saltando", url)
-                    total_procesadas += 1
-                except requests.exceptions.Timeout:
-                    _signal.alarm(0)
-                    logging.warning("[RECUPERAR] Timeout: %s — saltando", url)
-                    total_procesadas += 1
-                except requests.exceptions.ConnectionError:
-                    _signal.alarm(0)
-                    logging.warning("[RECUPERAR] ConnectionError: %s — saltando", url)
-                    total_procesadas += 1
+                    time.sleep(1.5)
                 except Exception as e:
-                    _signal.alarm(0)
                     logging.error("[RECUPERAR] Error %s: %s", url, e)
                     total_procesadas += 1
         if total_procesadas >= LIMITE:

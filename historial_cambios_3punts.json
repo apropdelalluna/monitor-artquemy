@@ -496,7 +496,7 @@
   },
   {
     "tipo": "nueva",
-    "titulo": "ZOOM 2,2026",
+    "titulo": "Zoom 2",
     "artista": "Antonella Montes - LANTOMO",
     "precio": "1 500,00 €",
     "precio_num": 1500.0,
@@ -2692,7 +2692,7 @@
   },
   {
     "tipo": "nueva",
-    "titulo": "\"Relámpago\",2006",
+    "titulo": "Relámpago",
     "artista": "José Hernández",
     "precio": "3 500,00 €",
     "precio_num": 3500.0,
@@ -6739,7 +6739,7 @@
   },
   {
     "tipo": "vendida",
-    "titulo": "",
+    "titulo": "Zoom 2",
     "artista": "Antonella Montes - LANTOMO",
     "precio": "1 500,00 €",
     "precio_num": 1500.0,
@@ -7456,7 +7456,7 @@
   },
   {
     "tipo": "vendida",
-    "titulo": "",
+    "titulo": "Relámpago",
     "artista": "José Hernández",
     "precio": "3 500,00 €",
     "precio_num": 3500.0,
