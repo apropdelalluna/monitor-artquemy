@@ -7489,5 +7489,347 @@
     "precio_num": 0.0,
     "url": "https://www.3punts.com/es/shop/artwork/youre-always-my-mind-yves-decamps",
     "fecha": "28/07/2026 18:50"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "ADD FUEL",
+    "precio": "2 000,00 €",
+    "precio_num": 2000.0,
+    "url": "https://www.3punts.com/es/shop/artwork/adapta-add-fuel",
+    "fecha": "29/07/2026 18:53"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Alejandro Monge",
+    "precio": "7 500,00 €",
+    "precio_num": 7500.0,
+    "url": "https://www.3punts.com/es/shop/artwork/inverse-shape-y-alejandro-monge",
+    "fecha": "29/07/2026 18:53"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "",
+    "artista": "Antonella Montes - LANTOMO",
+    "precio": "Precio no disponible",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/space-buns-stars-lantomo",
+    "fecha": "29/07/2026 18:53"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Erwin Bechtold",
+    "precio": "500,00 €",
+    "precio_num": 500.0,
+    "url": "https://www.3punts.com/es/shop/artwork/st-i-erwin-bechtold",
+    "fecha": "29/07/2026 18:53"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Erwin Bechtold",
+    "precio": "500,00 €",
+    "precio_num": 500.0,
+    "url": "https://www.3punts.com/es/shop/artwork/st-ii-erwin-bechtold",
+    "fecha": "29/07/2026 18:53"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Erwin Bechtold",
+    "precio": "500,00 €",
+    "precio_num": 500.0,
+    "url": "https://www.3punts.com/es/shop/artwork/st-iii-erwin-bechtold",
+    "fecha": "29/07/2026 18:53"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Erwin Bechtold",
+    "precio": "500,00 €",
+    "precio_num": 500.0,
+    "url": "https://www.3punts.com/es/shop/artwork/st-iv-erwin-bechtold",
+    "fecha": "29/07/2026 18:53"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Erwin Bechtold",
+    "precio": "500,00 €",
+    "precio_num": 500.0,
+    "url": "https://www.3punts.com/es/shop/artwork/st-v-erwin-bechtold",
+    "fecha": "29/07/2026 18:53"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Erwin Bechtold",
+    "precio": "500,00 €",
+    "precio_num": 500.0,
+    "url": "https://www.3punts.com/es/shop/artwork/st-vi-erwin-bechtold",
+    "fecha": "29/07/2026 18:53"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Erwin Bechtold",
+    "precio": "500,00 €",
+    "precio_num": 500.0,
+    "url": "https://www.3punts.com/es/shop/artwork/st-vii-erwin-bechtold",
+    "fecha": "29/07/2026 18:53"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Erwin Bechtold",
+    "precio": "500,00 €",
+    "precio_num": 500.0,
+    "url": "https://www.3punts.com/es/shop/artwork/st-viii-erwin-bechtold",
+    "fecha": "29/07/2026 18:53"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Erwin Bechtold",
+    "precio": "500,00 €",
+    "precio_num": 500.0,
+    "url": "https://www.3punts.com/es/shop/artwork/st-ix-erwin-bechtold",
+    "fecha": "29/07/2026 18:53"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Erwin Bechtold",
+    "precio": "500,00 €",
+    "precio_num": 500.0,
+    "url": "https://www.3punts.com/es/shop/artwork/st-x-erwin-bechtold",
+    "fecha": "29/07/2026 18:53"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Hosein Azadi",
+    "precio": "4 200,00 €",
+    "precio_num": 4200.0,
+    "url": "https://www.3punts.com/es/shop/artwork/relax-hossein-azadi",
+    "fecha": "29/07/2026 18:53"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Lara Padilla",
+    "precio": "4 000,00 €",
+    "precio_num": 4000.0,
+    "url": "https://www.3punts.com/es/shop/artwork/tiger-rest",
+    "fecha": "29/07/2026 18:53"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Manel Armengol",
+    "precio": "2 500,00 €",
+    "precio_num": 2500.0,
+    "url": "https://www.3punts.com/es/shop/artwork/foeniculum-vulgare-manel-armengol",
+    "fecha": "29/07/2026 18:53"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Negin Baghery",
+    "precio": "1 000,00 €",
+    "precio_num": 1000.0,
+    "url": "https://www.3punts.com/es/shop/artwork/silver-daughter-negin-baghery",
+    "fecha": "29/07/2026 18:53"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Negin Baghery",
+    "precio": "1 900,00 €",
+    "precio_num": 1900.0,
+    "url": "https://www.3punts.com/es/shop/artwork/silver-i-negin-baghery",
+    "fecha": "29/07/2026 18:53"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Samuel Salcedo",
+    "precio": "Consultar precio",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/about-memories-i-samuel-salcedo",
+    "fecha": "29/07/2026 18:53"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Alejandro Monge",
+    "precio": "7 500,00 €",
+    "precio_num": 7500.0,
+    "url": "https://www.3punts.com/es/shop/artwork/alejandro-monge-inverse-shape-y",
+    "fecha": "29/07/2026 18:53"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Antonella Montes - LANTOMO",
+    "precio": "Precio no disponible",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/lantomo-space-buns-stars",
+    "fecha": "29/07/2026 18:53"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Samuel Salcedo",
+    "precio": "Consultar precio",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/about-memories-i-0",
+    "fecha": "29/07/2026 18:53"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Xavi Noble",
+    "precio": "2 800,00 €",
+    "precio_num": 2800.0,
+    "url": "https://www.3punts.com/es/shop/artwork/refugio-interior-xavi-noble",
+    "fecha": "29/07/2026 18:53"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Yves DeCamps",
+    "precio": "1 000,00 €",
+    "precio_num": 1000.0,
+    "url": "https://www.3punts.com/es/shop/artwork/cactus",
+    "fecha": "29/07/2026 18:53"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Yves DeCamps",
+    "precio": "1 000,00 €",
+    "precio_num": 1000.0,
+    "url": "https://www.3punts.com/es/shop/artwork/day-i-met-brutus",
+    "fecha": "29/07/2026 18:53"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Yves DeCamps",
+    "precio": "1 000,00 €",
+    "precio_num": 1000.0,
+    "url": "https://www.3punts.com/es/shop/artwork/lets-get-physical",
+    "fecha": "29/07/2026 18:53"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Yves DeCamps",
+    "precio": "1 200,00 €",
+    "precio_num": 1200.0,
+    "url": "https://www.3punts.com/es/shop/artwork/travelling-parallel-dimesions-and-awkward-bussiness",
+    "fecha": "29/07/2026 18:53"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Yves DeCamps",
+    "precio": "Precio no disponible",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/im-visual-multitasker-yves-decamps",
+    "fecha": "29/07/2026 18:53"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Yves DeCamps",
+    "precio": "Precio no disponible",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/we-have-become-increasingly-toxic",
+    "fecha": "29/07/2026 18:53"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Yves DeCamps",
+    "precio": "Precio no disponible",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/kiss-yves-decamps",
+    "fecha": "29/07/2026 18:53"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Yves DeCamps",
+    "precio": "1 000,00 €",
+    "precio_num": 1000.0,
+    "url": "https://www.3punts.com/es/shop/artwork/i-was-made-loving-you-yves-decamps",
+    "fecha": "29/07/2026 18:53"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Yves DeCamps",
+    "precio": "1 200,00 €",
+    "precio_num": 1200.0,
+    "url": "https://www.3punts.com/es/shop/artwork/only-love-will-tear-us-apart-yves-decamps",
+    "fecha": "29/07/2026 18:53"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Yves DeCamps",
+    "precio": "1 200,00 €",
+    "precio_num": 1200.0,
+    "url": "https://www.3punts.com/es/shop/artwork/its-not-always-easy-express-my-feelings-yves-decamps",
+    "fecha": "29/07/2026 18:53"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Yves DeCamps",
+    "precio": "3 000,00 €",
+    "precio_num": 3000.0,
+    "url": "https://www.3punts.com/es/shop/artwork/tattoos-are-stupid-yves-decamps",
+    "fecha": "29/07/2026 18:53"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Yves DeCamps",
+    "precio": "Precio no disponible",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/distortion-doesnt-bother-me-anymore-yves-decamps",
+    "fecha": "29/07/2026 18:53"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Yves DeCamps",
+    "precio": "Precio no disponible",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/i-lost-control-again-yves-decamps",
+    "fecha": "29/07/2026 18:53"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Yves DeCamps",
+    "precio": "Precio no disponible",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/im-stuggling-oral-fixation-yves-decamps",
+    "fecha": "29/07/2026 18:53"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Yves DeCamps",
+    "precio": "Precio no disponible",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/i-want-break-free-yves-decamps",
+    "fecha": "29/07/2026 18:53"
   }
 ]
