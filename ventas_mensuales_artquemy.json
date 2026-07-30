@@ -7656,6 +7656,15 @@
       "precio_num": 1400.0,
       "tipo": "vendida",
       "url": "https://artquemy.com/producto/camouflage-2/"
+    },
+    {
+      "fecha": "30/07/2026 19:04",
+      "artista": "Laura Plou",
+      "obra": "Modelo CARE",
+      "precio": "€166,00",
+      "precio_num": 166.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/modelo-care/"
     }
   ]
 }
