@@ -7831,5 +7831,50 @@
     "precio_num": 0.0,
     "url": "https://www.3punts.com/es/shop/artwork/i-want-break-free-yves-decamps",
     "fecha": "29/07/2026 18:53"
+  },
+  {
+    "tipo": "vendida",
+    "titulo": "Porcelain Solitude Lantomo",
+    "artista": "Antonella Montes - LANTOMO",
+    "precio": "9 800,00 €",
+    "precio_num": 9800.0,
+    "url": "https://www.3punts.com/es/shop/artwork/porcelain-solitude-lantomo",
+    "fecha": "30/07/2026 11:49"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Rogério Timóteo",
+    "precio": "4 500,00 €",
+    "precio_num": 4500.0,
+    "url": "https://www.3punts.com/es/shop/artwork/caryatid-iii-rogerio-timoteo",
+    "fecha": "30/07/2026 11:49"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Rogério Timóteo",
+    "precio": "4 500,00 €",
+    "precio_num": 4500.0,
+    "url": "https://www.3punts.com/es/shop/artwork/caryatid-ii-rogerio-timoteo",
+    "fecha": "30/07/2026 11:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Rogério Timóteo",
+    "precio": "4 500,00 €",
+    "precio_num": 4500.0,
+    "url": "https://www.3punts.com/es/shop/artwork/cartayid-iii-rogerio-timoteo",
+    "fecha": "30/07/2026 11:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Rogério Timóteo",
+    "precio": "4 500,00 €",
+    "precio_num": 4500.0,
+    "url": "https://www.3punts.com/es/shop/artwork/cartayid-ii-rogerio-timoteo",
+    "fecha": "30/07/2026 11:49"
   }
 ]
