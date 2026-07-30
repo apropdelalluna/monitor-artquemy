@@ -1641,6 +1641,15 @@
       "precio_num": 0.0,
       "tipo": "nueva_vendida",
       "url": "https://www.3punts.com/es/shop/artwork/space-buns-stars-lantomo"
+    },
+    {
+      "fecha": "30/07/2026 11:49",
+      "artista": "Antonella Montes - LANTOMO",
+      "obra": "Porcelain Solitude Lantomo",
+      "precio": "9 800,00 €",
+      "precio_num": 9800.0,
+      "tipo": "vendida",
+      "url": "https://www.3punts.com/es/shop/artwork/porcelain-solitude-lantomo"
     }
   ]
 }
