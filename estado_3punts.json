@@ -1,5 +1,5 @@
 {
-  "__hash__": "80d6cafcf0762b58aaed50ea3bac6706",
+  "__hash__": "7618da92ed3f3cd0fe17a47a1276ff96",
   "obras": {
     "https://www.3punts.com/es/shop/artwork/adapta-add-fuel": {
       "titulo": "",
@@ -378,7 +378,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/aiko-alejandro-monge"
     },
     "https://www.3punts.com/es/shop/artwork/offline-alejandro-monge": {
-      "titulo": "",
+      "titulo": "Offline Alejandro Monge",
       "artista": "Alejandro Monge",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -386,7 +386,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/offline-alejandro-monge"
     },
     "https://www.3punts.com/es/shop/artwork/alejandro-monge-2": {
-      "titulo": "",
+      "titulo": "Alejandro Monge 2",
       "artista": "Alejandro Monge",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -394,7 +394,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/alejandro-monge-2"
     },
     "https://www.3punts.com/es/shop/artwork/alejandro-monge-ready-it": {
-      "titulo": "",
+      "titulo": "Alejandro Monge Ready It",
       "artista": "Alejandro Monge",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -402,7 +402,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/alejandro-monge-ready-it"
     },
     "https://www.3punts.com/es/shop/artwork/alejandro-monge-good-morning": {
-      "titulo": "",
+      "titulo": "Alejandro Monge Good Morning",
       "artista": "Alejandro Monge",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -410,7 +410,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/alejandro-monge-good-morning"
     },
     "https://www.3punts.com/es/shop/artwork/shibuya-alejandro-monge": {
-      "titulo": "",
+      "titulo": "Shibuya Alejandro Monge",
       "artista": "Alejandro Monge",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -418,7 +418,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/shibuya-alejandro-monge"
     },
     "https://www.3punts.com/es/shop/artwork/brkln-alejandro-monge": {
-      "titulo": "",
+      "titulo": "Brkln Alejandro Monge",
       "artista": "Alejandro Monge",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -426,7 +426,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/brkln-alejandro-monge"
     },
     "https://www.3punts.com/es/shop/artwork/insomnia-alejandro-monge-0": {
-      "titulo": "",
+      "titulo": "Insomnia Alejandro Monge 0",
       "artista": "Alejandro Monge",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -434,7 +434,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/insomnia-alejandro-monge-0"
     },
     "https://www.3punts.com/es/shop/artwork/playlist-mode-alejandro-monge": {
-      "titulo": "",
+      "titulo": "Playlist Mode Alejandro Monge",
       "artista": "Alejandro Monge",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -442,7 +442,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/playlist-mode-alejandro-monge"
     },
     "https://www.3punts.com/es/shop/artwork/crush-alejandro-monge": {
-      "titulo": "",
+      "titulo": "Crush Alejandro Monge",
       "artista": "Alejandro Monge",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -538,7 +538,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/black-braid-lantomo"
     },
     "https://www.3punts.com/es/shop/artwork/fen-4-lantomo": {
-      "titulo": "",
+      "titulo": "Fen 4 Lantomo",
       "artista": "Antonella Montes - LANTOMO",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -586,15 +586,15 @@
       "url": "https://www.3punts.com/es/shop/artwork/dark-venus-lantomo"
     },
     "https://www.3punts.com/es/shop/artwork/porcelain-solitude-lantomo": {
-      "titulo": "",
+      "titulo": "Porcelain Solitude Lantomo",
       "artista": "Antonella Montes - LANTOMO",
-      "precio": "9 800,00 €",
-      "precio_num": 9800.0,
-      "estado": "disponible",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "estado": "vendido",
       "url": "https://www.3punts.com/es/shop/artwork/porcelain-solitude-lantomo"
     },
     "https://www.3punts.com/es/shop/artwork/dragon-piercing-lantomo": {
-      "titulo": "",
+      "titulo": "Dragon Piercing Lantomo",
       "artista": "Antonella Montes - LANTOMO",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -610,7 +610,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/2smiles-lantomo"
     },
     "https://www.3punts.com/es/shop/artwork/red-rug-lantomo": {
-      "titulo": "",
+      "titulo": "Red Rug Lantomo",
       "artista": "Antonella Montes - LANTOMO",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -626,7 +626,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/zoom-1-lantomo"
     },
     "https://www.3punts.com/es/shop/artwork/zoom-2-lantomo": {
-      "titulo": "",
+      "titulo": "Zoom 2 Lantomo",
       "artista": "Antonella Montes - LANTOMO",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -674,7 +674,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/white-collar-2-lantomo"
     },
     "https://www.3punts.com/es/shop/artwork/suspence-lantomo": {
-      "titulo": "",
+      "titulo": "Suspence Lantomo",
       "artista": "Antonella Montes - LANTOMO",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -682,7 +682,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/suspence-lantomo"
     },
     "https://www.3punts.com/es/shop/artwork/hong-series-2-4-lantomo": {
-      "titulo": "",
+      "titulo": "Hong Series 2 4 Lantomo",
       "artista": "Antonella Montes - LANTOMO",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -690,7 +690,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/hong-series-2-4-lantomo"
     },
     "https://www.3punts.com/es/shop/artwork/yellow-double-braid-lantomo": {
-      "titulo": "",
+      "titulo": "Yellou Double Draid",
       "artista": "Antonella Montes - LANTOMO",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -698,7 +698,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/yellow-double-braid-lantomo"
     },
     "https://www.3punts.com/es/shop/artwork/hong-series-2-lantomo": {
-      "titulo": "",
+      "titulo": "Hong Series II",
       "artista": "Antonella Montes - LANTOMO",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -706,7 +706,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/hong-series-2-lantomo"
     },
     "https://www.3punts.com/es/shop/artwork/yellow-braid-l-lantomo": {
-      "titulo": "",
+      "titulo": "Yellow Braid L Lantomo",
       "artista": "Antonella Montes - LANTOMO",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -826,7 +826,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/jurji-lantomo"
     },
     "https://www.3punts.com/es/shop/artwork/space-buns-samurai-lantomo": {
-      "titulo": "",
+      "titulo": "Space Buns Samurai Lantomo",
       "artista": "Antonella Montes - LANTOMO",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -834,7 +834,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/space-buns-samurai-lantomo"
     },
     "https://www.3punts.com/es/shop/artwork/lantomo-huang-7": {
-      "titulo": "",
+      "titulo": "Lantomo Huang 7",
       "artista": "Antonella Montes - LANTOMO",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -842,7 +842,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/lantomo-huang-7"
     },
     "https://www.3punts.com/es/shop/artwork/violet-1-lantomo": {
-      "titulo": "",
+      "titulo": "Violet 1 Lantomo",
       "artista": "Antonella Montes - LANTOMO",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -850,7 +850,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/violet-1-lantomo"
     },
     "https://www.3punts.com/es/shop/artwork/unmasked-rebel-lantomo": {
-      "titulo": "",
+      "titulo": "Unmasked Rebel Lantomo",
       "artista": "Antonella Montes - LANTOMO",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -858,7 +858,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/unmasked-rebel-lantomo"
     },
     "https://www.3punts.com/es/shop/artwork/space-buns-stars-lantomo": {
-      "titulo": "",
+      "titulo": "Space Buns Stars Lantomo",
       "artista": "Antonella Montes - LANTOMO",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -866,7 +866,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/space-buns-stars-lantomo"
     },
     "https://www.3punts.com/es/shop/artwork/sprayed-i-lantomo": {
-      "titulo": "",
+      "titulo": "Sprayed I Lantomo",
       "artista": "Antonella Montes - LANTOMO",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -874,7 +874,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/sprayed-i-lantomo"
     },
     "https://www.3punts.com/es/shop/artwork/sprayed-ii-lantomo": {
-      "titulo": "",
+      "titulo": "Sprayed Ii Lantomo",
       "artista": "Antonella Montes - LANTOMO",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -882,7 +882,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/sprayed-ii-lantomo"
     },
     "https://www.3punts.com/es/shop/artwork/sprayed-iii-lantomo": {
-      "titulo": "",
+      "titulo": "Sprayed Iii Lantomo",
       "artista": "Antonella Montes - LANTOMO",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -890,7 +890,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/sprayed-iii-lantomo"
     },
     "https://www.3punts.com/es/shop/artwork/sprayed-iv-lantomo": {
-      "titulo": "",
+      "titulo": "Sprayed Iv Lantomo",
       "artista": "Antonella Montes - LANTOMO",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -898,7 +898,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/sprayed-iv-lantomo"
     },
     "https://www.3punts.com/es/shop/artwork/huang-3-thunderbolt-lantomo": {
-      "titulo": "",
+      "titulo": "Huang 3 Thunderbolt Lantomo",
       "artista": "Antonella Montes - LANTOMO",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -906,7 +906,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/huang-3-thunderbolt-lantomo"
     },
     "https://www.3punts.com/es/shop/artwork/hong-13-kitsune-lantomo": {
-      "titulo": "",
+      "titulo": "Hong 13 Kitsune Lantomo",
       "artista": "Antonella Montes - LANTOMO",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -914,7 +914,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/hong-13-kitsune-lantomo"
     },
     "https://www.3punts.com/es/shop/artwork/huang-8-lantomo": {
-      "titulo": "",
+      "titulo": "Huang 8 Lantomo",
       "artista": "Antonella Montes - LANTOMO",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -922,7 +922,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/huang-8-lantomo"
     },
     "https://www.3punts.com/es/shop/artwork/fen-1-lantomo": {
-      "titulo": "",
+      "titulo": "Fen 1 Lantomo",
       "artista": "Antonella Montes - LANTOMO",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -930,7 +930,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/fen-1-lantomo"
     },
     "https://www.3punts.com/es/shop/artwork/sprayed-m5-lantomo": {
-      "titulo": "",
+      "titulo": "Sprayed M5 Lantomo",
       "artista": "Antonella Montes - LANTOMO",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -938,7 +938,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/sprayed-m5-lantomo"
     },
     "https://www.3punts.com/es/shop/artwork/sprayed-m6-lantomo": {
-      "titulo": "",
+      "titulo": "Sprayed M6 Lantomo",
       "artista": "Antonella Montes - LANTOMO",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -946,7 +946,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/sprayed-m6-lantomo"
     },
     "https://www.3punts.com/es/shop/artwork/sprayed-m4-lantomo": {
-      "titulo": "",
+      "titulo": "Sprayed M4 Lantomo",
       "artista": "Antonella Montes - LANTOMO",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -954,7 +954,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/sprayed-m4-lantomo"
     },
     "https://www.3punts.com/es/shop/artwork/fen-2-bunnies-stars-lantomo": {
-      "titulo": "",
+      "titulo": "Fen 2 Bunnies Stars Lantomo",
       "artista": "Antonella Montes - LANTOMO",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -962,7 +962,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/fen-2-bunnies-stars-lantomo"
     },
     "https://www.3punts.com/es/shop/artwork/hei-4-lantomo": {
-      "titulo": "",
+      "titulo": "Hei 4 Lantomo",
       "artista": "Antonella Montes - LANTOMO",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -970,7 +970,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/hei-4-lantomo"
     },
     "https://www.3punts.com/es/shop/artwork/huang-4-lantomo": {
-      "titulo": "",
+      "titulo": "Huang 4 Lantomo",
       "artista": "Antonella Montes - LANTOMO",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -978,7 +978,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/huang-4-lantomo"
     },
     "https://www.3punts.com/es/shop/artwork/lantomo-pink-clouds": {
-      "titulo": "",
+      "titulo": "Lantomo Pink Clouds",
       "artista": "Antonella Montes - LANTOMO",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -986,7 +986,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/lantomo-pink-clouds"
     },
     "https://www.3punts.com/es/shop/artwork/blue-dragon-lantomo": {
-      "titulo": "",
+      "titulo": "Blue Dragon Lantomo",
       "artista": "Antonella Montes - LANTOMO",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -1002,7 +1002,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/antonio-beneytoserie-de-dibujos-con-llagas-13"
     },
     "https://www.3punts.com/es/shop/artwork/antonio-beneyto": {
-      "titulo": "",
+      "titulo": "Antonio Beneyto",
       "artista": "Antonio Beneyto",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -1010,7 +1010,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/antonio-beneyto"
     },
     "https://www.3punts.com/es/shop/artwork/antonio-beneyto-1": {
-      "titulo": "",
+      "titulo": "Antonio Beneyto 1",
       "artista": "Antonio Beneyto",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -1018,7 +1018,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/antonio-beneyto-1"
     },
     "https://www.3punts.com/es/shop/artwork/antonio-beneyto-7": {
-      "titulo": "",
+      "titulo": "Antonio Beneyto 7",
       "artista": "Antonio Beneyto",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -1026,7 +1026,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/antonio-beneyto-7"
     },
     "https://www.3punts.com/es/shop/artwork/antonio-beneyto-8": {
-      "titulo": "",
+      "titulo": "Antonio Beneyto 8",
       "artista": "Antonio Beneyto",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -1034,7 +1034,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/antonio-beneyto-8"
     },
     "https://www.3punts.com/es/shop/artwork/antonio-beneyto-9": {
-      "titulo": "",
+      "titulo": "Antonio Beneyto 9",
       "artista": "Antonio Beneyto",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -1042,7 +1042,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/antonio-beneyto-9"
     },
     "https://www.3punts.com/es/shop/artwork/antonio-beneyto-17": {
-      "titulo": "",
+      "titulo": "Antonio Beneyto 17",
       "artista": "Antonio Beneyto",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -1050,7 +1050,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/antonio-beneyto-17"
     },
     "https://www.3punts.com/es/shop/artwork/antonio-beneyto-18": {
-      "titulo": "",
+      "titulo": "Antonio Beneyto 18",
       "artista": "Antonio Beneyto",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -1058,7 +1058,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/antonio-beneyto-18"
     },
     "https://www.3punts.com/es/shop/artwork/antonio-beneyto-21": {
-      "titulo": "",
+      "titulo": "Antonio Beneyto 21",
       "artista": "Antonio Beneyto",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -1266,7 +1266,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/antonio-beneytoserie-color-1"
     },
     "https://www.3punts.com/es/shop/artwork/fruta-carlos-albert": {
-      "titulo": "",
+      "titulo": "Fruta Carlos Albert",
       "artista": "Carlos Albert",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -1274,7 +1274,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/fruta-carlos-albert"
     },
     "https://www.3punts.com/es/shop/artwork/hefesto-carlos-albert": {
-      "titulo": "",
+      "titulo": "Hefesto Carlos Albert",
       "artista": "Carlos Albert",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -1282,7 +1282,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/hefesto-carlos-albert"
     },
     "https://www.3punts.com/es/shop/artwork/hiding-red-carlos-albert": {
-      "titulo": "",
+      "titulo": "Hiding Red Carlos Albert",
       "artista": "Carlos Albert",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -1290,7 +1290,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/hiding-red-carlos-albert"
     },
     "https://www.3punts.com/es/shop/artwork/ikigai-carlos-albert": {
-      "titulo": "",
+      "titulo": "Ikigai Carlos Albert",
       "artista": "Carlos Albert",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -1298,7 +1298,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/ikigai-carlos-albert"
     },
     "https://www.3punts.com/es/shop/artwork/yellow-apple-carlos-albert": {
-      "titulo": "",
+      "titulo": "Yellow Apple Carlos Albert",
       "artista": "Carlos Albert",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -1458,7 +1458,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/reflejo-sinuoso-dominika-berger"
     },
     "https://www.3punts.com/es/shop/artwork/dialogo-submarino-dominika-berger": {
-      "titulo": "",
+      "titulo": "Dialogo Submarino Dominika Berger",
       "artista": "Dominika Berger",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -1746,7 +1746,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/gerard-masdama-del-cesto"
     },
     "https://www.3punts.com/es/shop/artwork/gerard-masdama-del-cactus": {
-      "titulo": "",
+      "titulo": "Gerard Masdama Del Cactus",
       "artista": "Gerard Mas",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -1754,7 +1754,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/gerard-masdama-del-cactus"
     },
     "https://www.3punts.com/es/shop/artwork/dama-del-bogavante": {
-      "titulo": "",
+      "titulo": "Dama Del Bogavante",
       "artista": "Gerard Mas",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -1762,7 +1762,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/dama-del-bogavante"
     },
     "https://www.3punts.com/es/shop/artwork/dama-del-chihuahua": {
-      "titulo": "",
+      "titulo": "Dama Del Chihuahua",
       "artista": "Gerard Mas",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -1770,7 +1770,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/dama-del-chihuahua"
     },
     "https://www.3punts.com/es/shop/artwork/gerard-mascall-center-lady": {
-      "titulo": "",
+      "titulo": "Gerard Mascall Center Lady",
       "artista": "Gerard Mas",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -1778,7 +1778,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/gerard-mascall-center-lady"
     },
     "https://www.3punts.com/es/shop/artwork/gerard-masdama-de-la-pinza": {
-      "titulo": "",
+      "titulo": "Gerard Masdama De La Pinza",
       "artista": "Gerard Mas",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -1786,7 +1786,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/gerard-masdama-de-la-pinza"
     },
     "https://www.3punts.com/es/shop/artwork/gerard-maslady-broccoli": {
-      "titulo": "",
+      "titulo": "Gerard Maslady Broccoli",
       "artista": "Gerard Mas",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -1794,7 +1794,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/gerard-maslady-broccoli"
     },
     "https://www.3punts.com/es/shop/artwork/gerard-mas-lollipop-lady-maroon": {
-      "titulo": "",
+      "titulo": "Gerard Mas Lollipop Lady Maroon",
       "artista": "Gerard Mas",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -1874,7 +1874,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/mi-primer-calder"
     },
     "https://www.3punts.com/es/shop/artwork/gerard-masfrenchie": {
-      "titulo": "",
+      "titulo": "Gerard Masfrenchie",
       "artista": "Gerard Mas",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -1938,7 +1938,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/gerard-masornitologies-5"
     },
     "https://www.3punts.com/es/shop/artwork/gerard-massarcofag": {
-      "titulo": "",
+      "titulo": "Gerard Massarcofag",
       "artista": "Gerard Mas",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -1946,7 +1946,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/gerard-massarcofag"
     },
     "https://www.3punts.com/es/shop/artwork/gerard-masguardian-0": {
-      "titulo": "",
+      "titulo": "Gerard Masguardian 0",
       "artista": "Gerard Mas",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -1954,7 +1954,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/gerard-masguardian-0"
     },
     "https://www.3punts.com/es/shop/artwork/gerard-masmadonna-del-frenchie": {
-      "titulo": "",
+      "titulo": "Gerard Masmadonna Del Frenchie",
       "artista": "Gerard Mas",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -1962,7 +1962,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/gerard-masmadonna-del-frenchie"
     },
     "https://www.3punts.com/es/shop/artwork/gerard-mas-ciris": {
-      "titulo": "",
+      "titulo": "Gerard Mas Ciris",
       "artista": "Gerard Mas",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -1970,7 +1970,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/gerard-mas-ciris"
     },
     "https://www.3punts.com/es/shop/artwork/idol-i": {
-      "titulo": "",
+      "titulo": "Idol I",
       "artista": "Gerard Mas",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -1978,7 +1978,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/idol-i"
     },
     "https://www.3punts.com/es/shop/artwork/gerard-mas-ornitoglifo-iii": {
-      "titulo": "",
+      "titulo": "Gerard Mas Ornitoglifo Iii",
       "artista": "Gerard Mas",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -1986,7 +1986,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/gerard-mas-ornitoglifo-iii"
     },
     "https://www.3punts.com/es/shop/artwork/thalassinus-i": {
-      "titulo": "",
+      "titulo": "Thalassinus I",
       "artista": "Gerard Mas",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -1994,7 +1994,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/thalassinus-i"
     },
     "https://www.3punts.com/es/shop/artwork/thalassinus-ii": {
-      "titulo": "",
+      "titulo": "Thalassinus Ii",
       "artista": "Gerard Mas",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -2002,7 +2002,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/thalassinus-ii"
     },
     "https://www.3punts.com/es/shop/artwork/chess": {
-      "titulo": "",
+      "titulo": "Chess",
       "artista": "Gerard Mas",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -2010,7 +2010,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/chess"
     },
     "https://www.3punts.com/es/shop/artwork/retrat-de-caterina-darago-amb-dinosaure": {
-      "titulo": "",
+      "titulo": "Retrat De Caterina Darago Amb Dinosaure",
       "artista": "Gerard Mas",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -2018,7 +2018,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/retrat-de-caterina-darago-amb-dinosaure"
     },
     "https://www.3punts.com/es/shop/artwork/gerard-masornitologies-6": {
-      "titulo": "",
+      "titulo": "Gerard Masornitologies 6",
       "artista": "Gerard Mas",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -2026,7 +2026,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/gerard-masornitologies-6"
     },
     "https://www.3punts.com/es/shop/artwork/gerard-mas-ornitologies-3": {
-      "titulo": "",
+      "titulo": "Gerard Mas Ornitologies 3",
       "artista": "Gerard Mas",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -2034,7 +2034,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/gerard-mas-ornitologies-3"
     },
     "https://www.3punts.com/es/shop/artwork/gerard-mas": {
-      "titulo": "",
+      "titulo": "Gerard Mas",
       "artista": "Gerard Mas",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -2042,7 +2042,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/gerard-mas"
     },
     "https://www.3punts.com/es/shop/artwork/gerard-mas-4": {
-      "titulo": "",
+      "titulo": "Gerard Mas 4",
       "artista": "Gerard Mas",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -2050,7 +2050,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/gerard-mas-4"
     },
     "https://www.3punts.com/es/shop/artwork/gerard-maslo-rei-en-jaume": {
-      "titulo": "",
+      "titulo": "Gerard Maslo Rei En Jaume",
       "artista": "Gerard Mas",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -2058,7 +2058,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/gerard-maslo-rei-en-jaume"
     },
     "https://www.3punts.com/es/shop/artwork/gerard-mas-ornitologies-2": {
-      "titulo": "",
+      "titulo": "Gerard Mas Ornitologies 2",
       "artista": "Gerard Mas",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -2066,7 +2066,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/gerard-mas-ornitologies-2"
     },
     "https://www.3punts.com/es/shop/artwork/gerard-masantroporci-2": {
-      "titulo": "",
+      "titulo": "Gerard Masantroporci 2",
       "artista": "Gerard Mas",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -2074,7 +2074,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/gerard-masantroporci-2"
     },
     "https://www.3punts.com/es/shop/artwork/idol-ii": {
-      "titulo": "",
+      "titulo": "Idol Ii",
       "artista": "Gerard Mas",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -2090,7 +2090,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/relax-hossein-azadi"
     },
     "https://www.3punts.com/es/shop/artwork/berlin-abend-am-olympiastadion-jan-schuler": {
-      "titulo": "",
+      "titulo": "Berlin Abend Am Olympiastadion Jan Schuler",
       "artista": "Jan Schüler",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -2154,7 +2154,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/dresden-die-elbwiesen-mit-dem-wasserwerk-saloppe-jan-schuler"
     },
     "https://www.3punts.com/es/shop/artwork/blick-vom-schwarzen-mann-zum-ebsdorfergrund-jan-schuler": {
-      "titulo": "",
+      "titulo": "Blick Vom Schwarzen Mann Zum Ebsdorfergrund Jan Schuler",
       "artista": "Jan Schüler",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -2170,7 +2170,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/dresden-die-elbe-bei-wachwitz-jan-schuler"
     },
     "https://www.3punts.com/es/shop/artwork/abend-der-eifel-jan-schuler": {
-      "titulo": "",
+      "titulo": "Abend Der Eifel Jan Schuler",
       "artista": "Jan Schüler",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -2178,7 +2178,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/abend-der-eifel-jan-schuler"
     },
     "https://www.3punts.com/es/shop/artwork/dresden-die-elbe-bei-loschwitz-jan-schuler": {
-      "titulo": "",
+      "titulo": "Dresden Die Elbe Bei Loschwitz Jan Schuler",
       "artista": "Jan Schüler",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -2210,7 +2210,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/jimmy-turrell-stratos-dub"
     },
     "https://www.3punts.com/es/shop/artwork/jimmy-turrell-new-day": {
-      "titulo": "",
+      "titulo": "Jimmy Turrell New Day",
       "artista": "Jimmy Turrell",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -2218,7 +2218,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/jimmy-turrell-new-day"
     },
     "https://www.3punts.com/es/shop/artwork/jimmy-turrell-do-what-matters-now": {
-      "titulo": "",
+      "titulo": "Jimmy Turrell Do What Matters Now",
       "artista": "Jimmy Turrell",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -2226,7 +2226,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/jimmy-turrell-do-what-matters-now"
     },
     "https://www.3punts.com/es/shop/artwork/jimmy-turrell-aretha": {
-      "titulo": "",
+      "titulo": "Jimmy Turrell Aretha",
       "artista": "Jimmy Turrell",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -2234,7 +2234,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/jimmy-turrell-aretha"
     },
     "https://www.3punts.com/es/shop/artwork/jimmy-turrell-best-way": {
-      "titulo": "",
+      "titulo": "Jimmy Turrell Best Way",
       "artista": "Jimmy Turrell",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -2274,7 +2274,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/jimmy-turrell-diego"
     },
     "https://www.3punts.com/es/shop/artwork/jimmy-turrell-florian": {
-      "titulo": "",
+      "titulo": "Jimmy Turrell Florian",
       "artista": "Jimmy Turrell",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -2290,7 +2290,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/jimmy-turrell-grace-ii"
     },
     "https://www.3punts.com/es/shop/artwork/jimmy-turrell-troja-n": {
-      "titulo": "",
+      "titulo": "Jimmy Turrell Troja N",
       "artista": "Jimmy Turrell",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -2298,7 +2298,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/jimmy-turrell-troja-n"
     },
     "https://www.3punts.com/es/shop/artwork/jimmy-turrell-beatles": {
-      "titulo": "",
+      "titulo": "Jimmy Turrell Beatles",
       "artista": "Jimmy Turrell",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -2330,7 +2330,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/jimmy-turrell-all-roads"
     },
     "https://www.3punts.com/es/shop/artwork/jimmy-turrell-mount": {
-      "titulo": "",
+      "titulo": "Jimmy Turrell Mount",
       "artista": "Jimmy Turrell",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -2610,7 +2610,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/srsotorra"
     },
     "https://www.3punts.com/es/shop/artwork/diceros-bicornis-0": {
-      "titulo": "",
+      "titulo": "Diceros Bicornis 0",
       "artista": "José Cobo",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -2730,7 +2730,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/jose-hernandezel-sueno"
     },
     "https://www.3punts.com/es/shop/artwork/jose-hernandezhomenaje-leger": {
-      "titulo": "",
+      "titulo": "Jose Hernandezhomenaje Leger",
       "artista": "José Hernández",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -2754,7 +2754,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/jose-hernandezcrisalida-iii"
     },
     "https://www.3punts.com/es/shop/artwork/jose-hernandezrelampago": {
-      "titulo": "",
+      "titulo": "Jose Hernandezrelampago",
       "artista": "José Hernández",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -2874,7 +2874,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/donde-esta-marylin-juan-luis-jardi"
     },
     "https://www.3punts.com/es/shop/artwork/llibreria-sant-jordi-juan-luis-jardi": {
-      "titulo": "",
+      "titulo": "Llibreria Sant Jordi Juan Luis Jardi",
       "artista": "Juan Luís Jardí",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -2882,7 +2882,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/llibreria-sant-jordi-juan-luis-jardi"
     },
     "https://www.3punts.com/es/shop/artwork/preparando-un-delicioso-merengue-juan-luis-jardi": {
-      "titulo": "",
+      "titulo": "Preparando Un Delicioso Merengue Juan Luis Jardi",
       "artista": "Juan Luís Jardí",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -2890,7 +2890,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/preparando-un-delicioso-merengue-juan-luis-jardi"
     },
     "https://www.3punts.com/es/shop/artwork/melody": {
-      "titulo": "",
+      "titulo": "Melody",
       "artista": "Kiko Miyares",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -2898,7 +2898,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/melody"
     },
     "https://www.3punts.com/es/shop/artwork/elisa-volviendo": {
-      "titulo": "",
+      "titulo": "Elisa Volviendo",
       "artista": "Kiko Miyares",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -2914,7 +2914,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/los-hermanos-kalamitov"
     },
     "https://www.3punts.com/es/shop/artwork/jon-jon": {
-      "titulo": "",
+      "titulo": "Jon Jon",
       "artista": "Kiko Miyares",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -2938,7 +2938,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/carreteras-o-barrancos-v"
     },
     "https://www.3punts.com/es/shop/artwork/carreteras-o-barrancos-vi": {
-      "titulo": "",
+      "titulo": "Carreteras O Barrancos Vi",
       "artista": "Kiko Miyares",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -2962,7 +2962,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/carreteras-o-barrancos-x"
     },
     "https://www.3punts.com/es/shop/artwork/los-hermanos-macana": {
-      "titulo": "",
+      "titulo": "Los Hermanos Macana",
       "artista": "Kiko Miyares",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -2994,7 +2994,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/minnie-la-joya-kiko-miyares"
     },
     "https://www.3punts.com/es/shop/artwork/pato-doble-mandato-kiko-miyares": {
-      "titulo": "",
+      "titulo": "Pato Doble Mandato Kiko Miyares",
       "artista": "Kiko Miyares",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -3002,7 +3002,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/pato-doble-mandato-kiko-miyares"
     },
     "https://www.3punts.com/es/shop/artwork/rottenmeier-la-entrenadora": {
-      "titulo": "",
+      "titulo": "Rottenmeier La Entrenadora",
       "artista": "Kiko Miyares",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -3074,7 +3074,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/lara-padilla-game-grey-yellow"
     },
     "https://www.3punts.com/es/shop/artwork/lara-padilla-kamasutra-grey-yellow-0": {
-      "titulo": "",
+      "titulo": "Lara Padilla Kamasutra Grey Yellow 0",
       "artista": "Lara Padilla",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -3122,7 +3122,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/beyond-series-amathist"
     },
     "https://www.3punts.com/es/shop/artwork/beyond-series-emerald": {
-      "titulo": "",
+      "titulo": "Beyond Series Emerald",
       "artista": "Lara Padilla",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -3154,7 +3154,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/human-series-white-black"
     },
     "https://www.3punts.com/es/shop/artwork/human-series-coffee-small": {
-      "titulo": "",
+      "titulo": "Human Series Coffee Small",
       "artista": "Lara Padilla",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -3306,7 +3306,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/game-xy-lara-padilla"
     },
     "https://www.3punts.com/es/shop/artwork/grey-tetris-ii": {
-      "titulo": "",
+      "titulo": "Grey Tetris Ii",
       "artista": "Lara Padilla",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -3314,7 +3314,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/grey-tetris-ii"
     },
     "https://www.3punts.com/es/shop/artwork/grey-tetris-0": {
-      "titulo": "",
+      "titulo": "Grey Tetris 0",
       "artista": "Lara Padilla",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -3338,7 +3338,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/black-white-agape-toy"
     },
     "https://www.3punts.com/es/shop/artwork/human-series-lunar-collage-tetris": {
-      "titulo": "",
+      "titulo": "Human Series Lunar Collage Tetris",
       "artista": "Lara Padilla",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -3394,7 +3394,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/white-human-tetris-lara-padilla"
     },
     "https://www.3punts.com/es/shop/artwork/lara-padilla-monalince": {
-      "titulo": "",
+      "titulo": "Lara Padilla Monalince",
       "artista": "Lara Padilla",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -3402,7 +3402,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/lara-padilla-monalince"
     },
     "https://www.3punts.com/es/shop/artwork/shades-earth": {
-      "titulo": "",
+      "titulo": "Shades Earth",
       "artista": "Lara Padilla",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -3410,7 +3410,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/shades-earth"
     },
     "https://www.3punts.com/es/shop/artwork/gold-tetris": {
-      "titulo": "",
+      "titulo": "Gold Tetris",
       "artista": "Lara Padilla",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -3418,7 +3418,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/gold-tetris"
     },
     "https://www.3punts.com/es/shop/artwork/lara-padilla-autumn-tetris": {
-      "titulo": "",
+      "titulo": "Lara Padilla Autumn Tetris",
       "artista": "Lara Padilla",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -3426,7 +3426,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/lara-padilla-autumn-tetris"
     },
     "https://www.3punts.com/es/shop/artwork/lara-padilla-iced-coffee-tetris-0": {
-      "titulo": "",
+      "titulo": "Lara Padilla Iced Coffee Tetris 0",
       "artista": "Lara Padilla",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -3450,7 +3450,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/lluis-roigfood-wheels"
     },
     "https://www.3punts.com/es/shop/artwork/lluis-roigon-wheels": {
-      "titulo": "",
+      "titulo": "Lluis Roigon Wheels",
       "artista": "Lluis Roig",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -3458,7 +3458,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/lluis-roigon-wheels"
     },
     "https://www.3punts.com/es/shop/artwork/lluis-roig-micromonkey-i": {
-      "titulo": "",
+      "titulo": "Lluis Roig Micromonkey I",
       "artista": "Lluis Roig",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -3634,7 +3634,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/tucsa-marcel-marti"
     },
     "https://www.3punts.com/es/shop/artwork/mark-laitacatholic-nuns": {
-      "titulo": "",
+      "titulo": "Mark Laitacatholic Nuns",
       "artista": "Mark Laita",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -3682,7 +3682,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/silver-i-negin-baghery"
     },
     "https://www.3punts.com/es/shop/artwork/nick-veaseyhang-loose-bands": {
-      "titulo": "",
+      "titulo": "Nick Veaseyhang Loose Bands",
       "artista": "Nick Veasey",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -3730,7 +3730,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/nick-veasey-6"
     },
     "https://www.3punts.com/es/shop/artwork/nick-veasey-8": {
-      "titulo": "",
+      "titulo": "Nick Veasey 8",
       "artista": "Nick Veasey",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -3770,7 +3770,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/nick-veasey"
     },
     "https://www.3punts.com/es/shop/artwork/nick-veasey-0": {
-      "titulo": "",
+      "titulo": "Nick Veasey 0",
       "artista": "Nick Veasey",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -3842,7 +3842,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/street-life"
     },
     "https://www.3punts.com/es/shop/artwork/skull-mirror-iii-okuda-san-miguel": {
-      "titulo": "",
+      "titulo": "Skull Mirror Iii Okuda San Miguel",
       "artista": "OKUDA SAN MIGUEL",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -3850,7 +3850,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/skull-mirror-iii-okuda-san-miguel"
     },
     "https://www.3punts.com/es/shop/artwork/impossible-love": {
-      "titulo": "",
+      "titulo": "Impossible Love",
       "artista": "OKUDA SAN MIGUEL",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -3858,7 +3858,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/impossible-love"
     },
     "https://www.3punts.com/es/shop/artwork/wolf-mirage": {
-      "titulo": "",
+      "titulo": "Wolf Mirage",
       "artista": "OKUDA SAN MIGUEL",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -3866,7 +3866,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/wolf-mirage"
     },
     "https://www.3punts.com/es/shop/artwork/holy-animal-iii": {
-      "titulo": "",
+      "titulo": "Holy Animal Iii",
       "artista": "OKUDA SAN MIGUEL",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -3874,7 +3874,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/holy-animal-iii"
     },
     "https://www.3punts.com/es/shop/artwork/plastic-animals-lake": {
-      "titulo": "",
+      "titulo": "Plastic Animals Lake",
       "artista": "OKUDA SAN MIGUEL",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -3882,7 +3882,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/plastic-animals-lake"
     },
     "https://www.3punts.com/es/shop/artwork/human-bubble-bird": {
-      "titulo": "",
+      "titulo": "Human Bubble Bird",
       "artista": "OKUDA SAN MIGUEL",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -3962,7 +3962,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/ramon-surinyacimpression"
     },
     "https://www.3punts.com/es/shop/artwork/ramon-surinyacreasons": {
-      "titulo": "",
+      "titulo": "Ramon Surinyacreasons",
       "artista": "Ramon Surinyac",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -3970,7 +3970,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/ramon-surinyacreasons"
     },
     "https://www.3punts.com/es/shop/artwork/ramon-surinyacaim": {
-      "titulo": "",
+      "titulo": "Ramon Surinyacaim",
       "artista": "Ramon Surinyac",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -4066,7 +4066,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/richard-stiplreveries"
     },
     "https://www.3punts.com/es/shop/artwork/richard-stiplexpulsion": {
-      "titulo": "",
+      "titulo": "Richard Stiplexpulsion",
       "artista": "Richard Stipl",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -4074,7 +4074,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/richard-stiplexpulsion"
     },
     "https://www.3punts.com/es/shop/artwork/richard-stiplresonance": {
-      "titulo": "",
+      "titulo": "Richard Stiplresonance",
       "artista": "Richard Stipl",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -4082,7 +4082,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/richard-stiplresonance"
     },
     "https://www.3punts.com/es/shop/artwork/richard-stiplas-above-so-below": {
-      "titulo": "",
+      "titulo": "Richard Stiplas Above So Below",
       "artista": "Richard Stipl",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -4234,7 +4234,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/head-i-rogerio-timoteo"
     },
     "https://www.3punts.com/es/shop/artwork/head-rogerio-timoteo": {
-      "titulo": "",
+      "titulo": "Head Rogerio Timoteo",
       "artista": "Rogério Timóteo",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -4249,24 +4249,24 @@
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/caryatid-i-rogerio-timoteo"
     },
-    "https://www.3punts.com/es/shop/artwork/cartayid-iii-rogerio-timoteo": {
+    "https://www.3punts.com/es/shop/artwork/caryatid-iii-rogerio-timoteo": {
       "titulo": "",
       "artista": "Rogério Timóteo",
       "precio": "4 500,00 €",
       "precio_num": 4500.0,
       "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/cartayid-iii-rogerio-timoteo"
+      "url": "https://www.3punts.com/es/shop/artwork/caryatid-iii-rogerio-timoteo"
     },
-    "https://www.3punts.com/es/shop/artwork/cartayid-ii-rogerio-timoteo": {
+    "https://www.3punts.com/es/shop/artwork/caryatid-ii-rogerio-timoteo": {
       "titulo": "",
       "artista": "Rogério Timóteo",
       "precio": "4 500,00 €",
       "precio_num": 4500.0,
       "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/cartayid-ii-rogerio-timoteo"
+      "url": "https://www.3punts.com/es/shop/artwork/caryatid-ii-rogerio-timoteo"
     },
     "https://www.3punts.com/es/shop/artwork/abyss-rogerio-timoteo": {
-      "titulo": "",
+      "titulo": "Abyss Rogerio Timoteo",
       "artista": "Rogério Timóteo",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -4314,7 +4314,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/origin-rogerio-timoteo"
     },
     "https://www.3punts.com/es/shop/artwork/lazy-tiger-roman-klonek": {
-      "titulo": "",
+      "titulo": "Lazy Tiger Roman Klonek",
       "artista": "Roman Klonek",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -4370,7 +4370,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/inevitable-transmissions-roman-klonek"
     },
     "https://www.3punts.com/es/shop/artwork/just-because-roman-klonek": {
-      "titulo": "",
+      "titulo": "Just Because Roman Klonek",
       "artista": "Roman Klonek",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -4442,7 +4442,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/frumpy-taste-luxury-roman-klonek-0"
     },
     "https://www.3punts.com/es/shop/artwork/bold-cuts-whim-and-fashion-roman-klonek": {
-      "titulo": "",
+      "titulo": "Bold Cuts Whim And Fashion Roman Klonek",
       "artista": "Roman Klonek",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -4458,7 +4458,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/tokyo-tapes-roman-klonek"
     },
     "https://www.3punts.com/es/shop/artwork/wild-hearts-no-rules-roman-klonek": {
-      "titulo": "",
+      "titulo": "Wild Hearts No Rules Roman Klonek",
       "artista": "Roman Klonek",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -4466,7 +4466,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/wild-hearts-no-rules-roman-klonek"
     },
     "https://www.3punts.com/es/shop/artwork/bold-cuts-whim-and-fashion-roman-klonek-0": {
-      "titulo": "",
+      "titulo": "Bold Cuts Whim And Fashion Roman Klonek 0",
       "artista": "Roman Klonek",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -4570,7 +4570,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/ruben-lartigue-11"
     },
     "https://www.3punts.com/es/shop/artwork/ruben-lartigue-12": {
-      "titulo": "",
+      "titulo": "Ruben Lartigue 12",
       "artista": "Ruben Lartigue",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -4898,7 +4898,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/ill-be-your-mirror-i-ii-samuel-salcedo"
     },
     "https://www.3punts.com/es/shop/artwork/meteorite-iii-samuel-salcedo": {
-      "titulo": "",
+      "titulo": "Meteorite Iii Samuel Salcedo",
       "artista": "Samuel Salcedo",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -5114,7 +5114,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/cast"
     },
     "https://www.3punts.com/es/shop/artwork/alchemist": {
-      "titulo": "",
+      "titulo": "Alchemist",
       "artista": "Samuel Salcedo",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -5434,7 +5434,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/sebastia-marti-dibujo-pistola-laser"
     },
     "https://www.3punts.com/es/shop/artwork/sebastia-marti-dibujo-fobofobia-i": {
-      "titulo": "",
+      "titulo": "Sebastia Marti Dibujo Fobofobia I",
       "artista": "Sebastià Martí",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -5458,7 +5458,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/sebastia-marti-dibujo-astronauta"
     },
     "https://www.3punts.com/es/shop/artwork/sebastia-marti-dibujo-sueno-esparcido": {
-      "titulo": "",
+      "titulo": "Sebastia Marti Dibujo Sueno Esparcido",
       "artista": "Sebastià Martí",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -5506,7 +5506,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/shepard-fairey-tested-performance"
     },
     "https://www.3punts.com/es/shop/artwork/shepard-fairey-earth-crisis-01": {
-      "titulo": "",
+      "titulo": "Shepard Fairey Earth Crisis 01",
       "artista": "Shepard Fairey",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -5514,7 +5514,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/shepard-fairey-earth-crisis-01"
     },
     "https://www.3punts.com/es/shop/artwork/shepard-fairey-earth-crisis-02": {
-      "titulo": "",
+      "titulo": "Shepard Fairey Earth Crisis 02",
       "artista": "Shepard Fairey",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -5522,7 +5522,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/shepard-fairey-earth-crisis-02"
     },
     "https://www.3punts.com/es/shop/artwork/shepard-fairey-earth-crisis03": {
-      "titulo": "",
+      "titulo": "Shepard Fairey Earth Crisis03",
       "artista": "Shepard Fairey",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -5530,7 +5530,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/shepard-fairey-earth-crisis03"
     },
     "https://www.3punts.com/es/shop/artwork/shepard-faireythis-poster": {
-      "titulo": "",
+      "titulo": "Shepard Faireythis Poster",
       "artista": "Shepard Fairey",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -5538,7 +5538,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/shepard-faireythis-poster"
     },
     "https://www.3punts.com/es/shop/artwork/shepard-fairey-1": {
-      "titulo": "",
+      "titulo": "Shepard Fairey 1",
       "artista": "Shepard Fairey",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -5554,7 +5554,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/shepard-fairey-2"
     },
     "https://www.3punts.com/es/shop/artwork/shepard-fairey-black-sabbath-silver-black-cross": {
-      "titulo": "",
+      "titulo": "Shepard Fairey Black Sabbath Silver Black Cross",
       "artista": "Shepard Fairey",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -5570,7 +5570,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/shepard-fairey"
     },
     "https://www.3punts.com/es/shop/artwork/shepard-faireyicon-collage-set-iii": {
-      "titulo": "",
+      "titulo": "Shepard Faireyicon Collage Set Iii",
       "artista": "Shepard Fairey",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -5578,7 +5578,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/shepard-faireyicon-collage-set-iii"
     },
     "https://www.3punts.com/es/shop/artwork/umbral-xavi-noble": {
-      "titulo": "",
+      "titulo": "Umbral Xavi Noble",
       "artista": "Xavi Noble",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -5594,7 +5594,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/what-lies-beneath"
     },
     "https://www.3punts.com/es/shop/artwork/lose-control-xavi-noble": {
-      "titulo": "",
+      "titulo": "Lose Control Xavi Noble",
       "artista": "Xavi Noble",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -5626,7 +5626,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/devilish-xavi-noble"
     },
     "https://www.3punts.com/es/shop/artwork/overdose-xavi-noble": {
-      "titulo": "",
+      "titulo": "Overdose Xavi Noble",
       "artista": "Xavi Noble",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -5634,7 +5634,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/overdose-xavi-noble"
     },
     "https://www.3punts.com/es/shop/artwork/endless-xavi-noble": {
-      "titulo": "",
+      "titulo": "Endless Xavi Noble",
       "artista": "Xavi Noble",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
@@ -5650,7 +5650,7 @@
       "url": "https://www.3punts.com/es/shop/artwork/lost-xavi-noble"
     },
     "https://www.3punts.com/es/shop/artwork/rise-xavi-noble": {
-      "titulo": "",
+      "titulo": "Rise Xavi Noble",
       "artista": "Xavi Noble",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
