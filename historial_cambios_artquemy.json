@@ -11891,5 +11891,18 @@
         "url": "https://artquemy.com/producto/modelo-care/"
       }
     ]
+  },
+  {
+    "fecha": "31/07/2026 12:49",
+    "artista": "Collage Volage",
+    "cambios_obras": [
+      {
+        "tipo": "vendida",
+        "titulo": "L’avalanche",
+        "precio": "€80,00",
+        "precio_num": 80.0,
+        "url": "https://artquemy.com/producto/lavalanche/"
+      }
+    ]
   }
 ]
