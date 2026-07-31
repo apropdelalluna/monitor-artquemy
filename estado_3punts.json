@@ -1,5 +1,5 @@
 {
-  "__hash__": "b969e0aa4aa4d73b17995ec227765654",
+  "__hash__": "c692326df0c70a3afc50de41a364552f",
   "obras": {
     "https://www.3punts.com/es/shop/artwork/adapta-add-fuel": {
       "titulo": "",
@@ -1001,6 +1001,46 @@
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/antonio-beneytoserie-de-dibujos-con-llagas-13"
     },
+    "https://www.3punts.com/es/shop/artwork/abanico-v-antonio-beneyto": {
+      "titulo": "",
+      "artista": "Antonio Beneyto",
+      "precio": "300,00 €",
+      "precio_num": 300.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/abanico-v-antonio-beneyto"
+    },
+    "https://www.3punts.com/es/shop/artwork/abanico-vi-antonio-beneyto": {
+      "titulo": "",
+      "artista": "Antonio Beneyto",
+      "precio": "300,00 €",
+      "precio_num": 300.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/abanico-vi-antonio-beneyto"
+    },
+    "https://www.3punts.com/es/shop/artwork/abanico-vii-antonio-beneyto": {
+      "titulo": "",
+      "artista": "Antonio Beneyto",
+      "precio": "300,00 €",
+      "precio_num": 300.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/abanico-vii-antonio-beneyto"
+    },
+    "https://www.3punts.com/es/shop/artwork/abanico-viii-antonio-beneyto": {
+      "titulo": "",
+      "artista": "Antonio Beneyto",
+      "precio": "300,00 €",
+      "precio_num": 300.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/abanico-viii-antonio-beneyto"
+    },
+    "https://www.3punts.com/es/shop/artwork/aladino-antonio-beneyto": {
+      "titulo": "",
+      "artista": "Antonio Beneyto",
+      "precio": "300,00 €",
+      "precio_num": 300.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/aladino-antonio-beneyto"
+    },
     "https://www.3punts.com/es/shop/artwork/antonio-beneyto": {
       "titulo": "Antonio Beneyto",
       "artista": "Antonio Beneyto",
@@ -1017,22 +1057,6 @@
       "estado": "vendido",
       "url": "https://www.3punts.com/es/shop/artwork/antonio-beneyto-1"
     },
-    "https://www.3punts.com/es/shop/artwork/antonio-beneyto-7": {
-      "titulo": "Antonio Beneyto 7",
-      "artista": "Antonio Beneyto",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/antonio-beneyto-7"
-    },
-    "https://www.3punts.com/es/shop/artwork/antonio-beneyto-8": {
-      "titulo": "Antonio Beneyto 8",
-      "artista": "Antonio Beneyto",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/antonio-beneyto-8"
-    },
     "https://www.3punts.com/es/shop/artwork/antonio-beneyto-9": {
       "titulo": "Antonio Beneyto 9",
       "artista": "Antonio Beneyto",
@@ -1040,14 +1064,6 @@
       "precio_num": 0.0,
       "estado": "vendido",
       "url": "https://www.3punts.com/es/shop/artwork/antonio-beneyto-9"
-    },
-    "https://www.3punts.com/es/shop/artwork/antonio-beneyto-17": {
-      "titulo": "Antonio Beneyto 17",
-      "artista": "Antonio Beneyto",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/antonio-beneyto-17"
     },
     "https://www.3punts.com/es/shop/artwork/antonio-beneyto-18": {
       "titulo": "Antonio Beneyto 18",
@@ -1241,6 +1257,118 @@
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/antonio-beneyto-28"
     },
+    "https://www.3punts.com/es/shop/artwork/serie-dibujos-con-llagas-70-antonio-beneyto": {
+      "titulo": "",
+      "artista": "Antonio Beneyto",
+      "precio": "500,00 €",
+      "precio_num": 500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/serie-dibujos-con-llagas-70-antonio-beneyto"
+    },
+    "https://www.3punts.com/es/shop/artwork/serie-de-dibujos-con-llagas-73-antonio-beneyto": {
+      "titulo": "",
+      "artista": "Antonio Beneyto",
+      "precio": "500,00 €",
+      "precio_num": 500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/serie-de-dibujos-con-llagas-73-antonio-beneyto"
+    },
+    "https://www.3punts.com/es/shop/artwork/abanico-iii-antonio-beneyto": {
+      "titulo": "",
+      "artista": "Antonio Beneyto",
+      "precio": "500,00 €",
+      "precio_num": 500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/abanico-iii-antonio-beneyto"
+    },
+    "https://www.3punts.com/es/shop/artwork/abanico-iv-antonio-beneyto": {
+      "titulo": "",
+      "artista": "Antonio Beneyto",
+      "precio": "500,00 €",
+      "precio_num": 500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/abanico-iv-antonio-beneyto"
+    },
+    "https://www.3punts.com/es/shop/artwork/abanico-i-antonio-beneyto": {
+      "titulo": "",
+      "artista": "Antonio Beneyto",
+      "precio": "600,00 €",
+      "precio_num": 600.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/abanico-i-antonio-beneyto"
+    },
+    "https://www.3punts.com/es/shop/artwork/abanico-ii-antonio-beneyto": {
+      "titulo": "",
+      "artista": "Antonio Beneyto",
+      "precio": "600,00 €",
+      "precio_num": 600.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/abanico-ii-antonio-beneyto"
+    },
+    "https://www.3punts.com/es/shop/artwork/lautreamont-desdoblandose-antonio-beneyto": {
+      "titulo": "",
+      "artista": "Antonio Beneyto",
+      "precio": "1 000,00 €",
+      "precio_num": 1000.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/lautreamont-desdoblandose-antonio-beneyto"
+    },
+    "https://www.3punts.com/es/shop/artwork/st-antonio-beneyto": {
+      "titulo": "",
+      "artista": "Antonio Beneyto",
+      "precio": "1 500,00 €",
+      "precio_num": 1500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/st-antonio-beneyto"
+    },
+    "https://www.3punts.com/es/shop/artwork/hombre-rojo-antonio-beneyto": {
+      "titulo": "",
+      "artista": "Antonio Beneyto",
+      "precio": "2 200,00 €",
+      "precio_num": 2200.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/hombre-rojo-antonio-beneyto"
+    },
+    "https://www.3punts.com/es/shop/artwork/serie-negro-1-antonio-beneyto": {
+      "titulo": "",
+      "artista": "Antonio Beneyto",
+      "precio": "2 500,00 €",
+      "precio_num": 2500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/serie-negro-1-antonio-beneyto"
+    },
+    "https://www.3punts.com/es/shop/artwork/serie-negro-2-antonio-beneyto": {
+      "titulo": "",
+      "artista": "Antonio Beneyto",
+      "precio": "2 500,00 €",
+      "precio_num": 2500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/serie-negro-2-antonio-beneyto"
+    },
+    "https://www.3punts.com/es/shop/artwork/serie-negro-3-antonio-beneyto": {
+      "titulo": "",
+      "artista": "Antonio Beneyto",
+      "precio": "2 500,00 €",
+      "precio_num": 2500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/serie-negro-3-antonio-beneyto"
+    },
+    "https://www.3punts.com/es/shop/artwork/serie-negro-4-antonio-beneyto": {
+      "titulo": "",
+      "artista": "Antonio Beneyto",
+      "precio": "2 500,00 €",
+      "precio_num": 2500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/serie-negro-4-antonio-beneyto"
+    },
+    "https://www.3punts.com/es/shop/artwork/serie-color-5-antonio-beneyto": {
+      "titulo": "",
+      "artista": "Antonio Beneyto",
+      "precio": "2 500,00 €",
+      "precio_num": 2500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/serie-color-5-antonio-beneyto"
+    },
     "https://www.3punts.com/es/shop/artwork/antonio-beneyto-codols": {
       "titulo": "",
       "artista": "Antonio Beneyto",
@@ -1248,6 +1376,38 @@
       "precio_num": 2700.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/antonio-beneyto-codols"
+    },
+    "https://www.3punts.com/es/shop/artwork/pinturas-negras-i-antonio-beneyto": {
+      "titulo": "",
+      "artista": "Antonio Beneyto",
+      "precio": "3 000,00 €",
+      "precio_num": 3000.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/pinturas-negras-i-antonio-beneyto"
+    },
+    "https://www.3punts.com/es/shop/artwork/serie-color-2-antonio-beneyto": {
+      "titulo": "",
+      "artista": "Antonio Beneyto",
+      "precio": "3 200,00 €",
+      "precio_num": 3200.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/serie-color-2-antonio-beneyto"
+    },
+    "https://www.3punts.com/es/shop/artwork/pinturas-negras-ii-antonio-beneyto": {
+      "titulo": "",
+      "artista": "Antonio Beneyto",
+      "precio": "3 500,00 €",
+      "precio_num": 3500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/pinturas-negras-ii-antonio-beneyto"
+    },
+    "https://www.3punts.com/es/shop/artwork/dos-personajes-antonio-beneyto": {
+      "titulo": "",
+      "artista": "Antonio Beneyto",
+      "precio": "9 000,00 €",
+      "precio_num": 9000.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/dos-personajes-antonio-beneyto"
     },
     "https://www.3punts.com/es/shop/artwork/antonio-beneytobarcelona": {
       "titulo": "",
@@ -3668,8 +3828,8 @@
     "https://www.3punts.com/es/shop/artwork/silver-daughter-negin-baghery": {
       "titulo": "",
       "artista": "Negin Baghery",
-      "precio": "1 000,00 €",
-      "precio_num": 1000.0,
+      "precio": "950,00 €",
+      "precio_num": 950.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/silver-daughter-negin-baghery"
     },
@@ -5600,166 +5760,6 @@
       "precio_num": 0.0,
       "estado": "vendido",
       "url": "https://www.3punts.com/es/shop/artwork/lose-control-xavi-noble"
-    },
-    "https://www.3punts.com/es/shop/artwork/ilusion-safety-xavi-noble": {
-      "titulo": "",
-      "artista": "Xavi Noble",
-      "precio": "3 500,00 €",
-      "precio_num": 3500.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/ilusion-safety-xavi-noble"
-    },
-    "https://www.3punts.com/es/shop/artwork/love-me-or-leave-me-xavi-noble": {
-      "titulo": "",
-      "artista": "Xavi Noble",
-      "precio": "750,00 €",
-      "precio_num": 750.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/love-me-or-leave-me-xavi-noble"
-    },
-    "https://www.3punts.com/es/shop/artwork/devilish-xavi-noble": {
-      "titulo": "",
-      "artista": "Xavi Noble",
-      "precio": "750,00 €",
-      "precio_num": 750.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/devilish-xavi-noble"
-    },
-    "https://www.3punts.com/es/shop/artwork/overdose-xavi-noble": {
-      "titulo": "Overdose Xavi Noble",
-      "artista": "Xavi Noble",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/overdose-xavi-noble"
-    },
-    "https://www.3punts.com/es/shop/artwork/endless-xavi-noble": {
-      "titulo": "Endless Xavi Noble",
-      "artista": "Xavi Noble",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/endless-xavi-noble"
-    },
-    "https://www.3punts.com/es/shop/artwork/lost-xavi-noble": {
-      "titulo": "",
-      "artista": "Xavi Noble",
-      "precio": "2 700,00 €",
-      "precio_num": 2700.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/lost-xavi-noble"
-    },
-    "https://www.3punts.com/es/shop/artwork/rise-xavi-noble": {
-      "titulo": "Rise Xavi Noble",
-      "artista": "Xavi Noble",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/rise-xavi-noble"
-    },
-    "https://www.3punts.com/es/shop/artwork/wasted-years-xavi-noble": {
-      "titulo": "",
-      "artista": "Xavi Noble",
-      "precio": "3 500,00 €",
-      "precio_num": 3500.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/wasted-years-xavi-noble"
-    },
-    "https://www.3punts.com/es/shop/artwork/who-fuck-xavi-noble": {
-      "titulo": "",
-      "artista": "Xavi Noble",
-      "precio": "500,00 €",
-      "precio_num": 500.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/who-fuck-xavi-noble"
-    },
-    "https://www.3punts.com/es/shop/artwork/eau-dindifference-xavi-noble": {
-      "titulo": "",
-      "artista": "Xavi Noble",
-      "precio": "1 000,00 €",
-      "precio_num": 1000.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/eau-dindifference-xavi-noble"
-    },
-    "https://www.3punts.com/es/shop/artwork/everything-copy-xavi-noble": {
-      "titulo": "",
-      "artista": "Xavi Noble",
-      "precio": "1 500,00 €",
-      "precio_num": 1500.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/everything-copy-xavi-noble"
-    },
-    "https://www.3punts.com/es/shop/artwork/fun-over-xavi-noble": {
-      "titulo": "",
-      "artista": "Xavi Noble",
-      "precio": "1 500,00 €",
-      "precio_num": 1500.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/fun-over-xavi-noble"
-    },
-    "https://www.3punts.com/es/shop/artwork/what-real-xavi-noble": {
-      "titulo": "",
-      "artista": "Xavi Noble",
-      "precio": "1 800,00 €",
-      "precio_num": 1800.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/what-real-xavi-noble"
-    },
-    "https://www.3punts.com/es/shop/artwork/maybe-xavi-noble": {
-      "titulo": "",
-      "artista": "Xavi Noble",
-      "precio": "2 000,00 €",
-      "precio_num": 2000.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/maybe-xavi-noble"
-    },
-    "https://www.3punts.com/es/shop/artwork/all-what-xavi-noble": {
-      "titulo": "",
-      "artista": "Xavi Noble",
-      "precio": "2 000,00 €",
-      "precio_num": 2000.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/all-what-xavi-noble"
-    },
-    "https://www.3punts.com/es/shop/artwork/404-error-xavi-noble": {
-      "titulo": "",
-      "artista": "Xavi Noble",
-      "precio": "2 000,00 €",
-      "precio_num": 2000.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/404-error-xavi-noble"
-    },
-    "https://www.3punts.com/es/shop/artwork/need-be-loved-xavi-noble": {
-      "titulo": "",
-      "artista": "Xavi Noble",
-      "precio": "2 200,00 €",
-      "precio_num": 2200.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/need-be-loved-xavi-noble"
-    },
-    "https://www.3punts.com/es/shop/artwork/whatever-happens-xavi-noble": {
-      "titulo": "",
-      "artista": "Xavi Noble",
-      "precio": "2 200,00 €",
-      "precio_num": 2200.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/whatever-happens-xavi-noble"
-    },
-    "https://www.3punts.com/es/shop/artwork/consume-xavi-noble": {
-      "titulo": "",
-      "artista": "Xavi Noble",
-      "precio": "2 200,00 €",
-      "precio_num": 2200.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/consume-xavi-noble"
-    },
-    "https://www.3punts.com/es/shop/artwork/lets-burn-xavi-noble": {
-      "titulo": "",
-      "artista": "Xavi Noble",
-      "precio": "3 000,00 €",
-      "precio_num": 3000.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/lets-burn-xavi-noble"
     }
   }
 }
