@@ -7675,5 +7675,16 @@
       "tipo": "vendida",
       "url": "https://artquemy.com/producto/lavalanche/"
     }
+  ],
+  "2026-08": [
+    {
+      "fecha": "02/08/2026 19:43",
+      "artista": "Juncosa",
+      "obra": "Caracol Paseo de Grácia",
+      "precio": "€900,00",
+      "precio_num": 900.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/caracol-paseo-de-gracia/"
+    }
   ]
 }
