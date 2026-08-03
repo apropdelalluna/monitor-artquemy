@@ -8300,5 +8300,113 @@
     "precio_num": 3000.0,
     "url": "https://www.3punts.com/es/shop/artwork/lets-burn-xavi-noble",
     "fecha": "31/07/2026 18:54"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Boris Hoppek",
+    "precio": "1 200,00 €",
+    "precio_num": 1200.0,
+    "url": "https://www.3punts.com/es/shop/artwork/toyz-sex-bear-boris-hoppek",
+    "fecha": "03/08/2026 16:08"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Diego Canogar",
+    "precio": "2 180,00 €",
+    "precio_num": 2180.0,
+    "url": "https://www.3punts.com/es/shop/artwork/biforma-diamante-9-n-diego-canogar",
+    "fecha": "03/08/2026 16:08"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Diego Canogar",
+    "precio": "2 180,00 €",
+    "precio_num": 2180.0,
+    "url": "https://www.3punts.com/es/shop/artwork/tetramorfo-9n-ii-diego-canogar",
+    "fecha": "03/08/2026 16:08"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Eduardo Chillida",
+    "precio": "7 500,00 €",
+    "precio_num": 7500.0,
+    "url": "https://www.3punts.com/es/shop/artwork/le-plus-beau-cadeau-eduardo-chillida",
+    "fecha": "03/08/2026 16:08"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Joan Brossa",
+    "precio": "1 900,00 €",
+    "precio_num": 1900.0,
+    "url": "https://www.3punts.com/es/shop/artwork/claus-joan-brossa",
+    "fecha": "03/08/2026 16:08"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Shepard Fairey",
+    "precio": "5 500,00 €",
+    "precio_num": 5500.0,
+    "url": "https://www.3punts.com/es/shop/artwork/hello-my-name-shepard-fairey",
+    "fecha": "03/08/2026 16:08"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Shepard Fairey Black Sabbath Silver Black Cross",
+    "artista": "Shepard Fairey",
+    "precio": "Precio no disponible",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/shepard-fairey-black-sabbath-silver-black-cross",
+    "fecha": "03/08/2026 16:08"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Shepard Fairey",
+    "precio": "1 800,00 €",
+    "precio_num": 1800.0,
+    "url": "https://www.3punts.com/es/shop/artwork/shepard-fairey",
+    "fecha": "03/08/2026 16:08"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Shepard Faireyicon Collage Set Iii",
+    "artista": "Shepard Fairey",
+    "precio": "Precio no disponible",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/shepard-faireyicon-collage-set-iii",
+    "fecha": "03/08/2026 16:08"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Umbral Xavi Noble",
+    "artista": "Xavi Noble",
+    "precio": "Precio no disponible",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/umbral-xavi-noble",
+    "fecha": "03/08/2026 16:08"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Xavi Noble",
+    "precio": "2 600,00 €",
+    "precio_num": 2600.0,
+    "url": "https://www.3punts.com/es/shop/artwork/what-lies-beneath",
+    "fecha": "03/08/2026 16:08"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Lose Control Xavi Noble",
+    "artista": "Xavi Noble",
+    "precio": "Precio no disponible",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/lose-control-xavi-noble",
+    "fecha": "03/08/2026 16:08"
   }
 ]
