@@ -1,5 +1,5 @@
 {
-  "__hash__": "c692326df0c70a3afc50de41a364552f",
+  "__hash__": "4cd8ef172751a7aa62b35549c1380c56",
   "obras": {
     "https://www.3punts.com/es/shop/artwork/adapta-add-fuel": {
       "titulo": "",
@@ -1425,6 +1425,14 @@
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/antonio-beneytoserie-color-1"
     },
+    "https://www.3punts.com/es/shop/artwork/toyz-sex-bear-boris-hoppek": {
+      "titulo": "",
+      "artista": "Boris Hoppek",
+      "precio": "1 200,00 €",
+      "precio_num": 1200.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/toyz-sex-bear-boris-hoppek"
+    },
     "https://www.3punts.com/es/shop/artwork/fruta-carlos-albert": {
       "titulo": "Fruta Carlos Albert",
       "artista": "Carlos Albert",
@@ -1601,6 +1609,22 @@
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/oh-oh-antonio-david-spiller"
     },
+    "https://www.3punts.com/es/shop/artwork/biforma-diamante-9-n-diego-canogar": {
+      "titulo": "",
+      "artista": "Diego Canogar",
+      "precio": "2 180,00 €",
+      "precio_num": 2180.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/biforma-diamante-9-n-diego-canogar"
+    },
+    "https://www.3punts.com/es/shop/artwork/tetramorfo-9n-ii-diego-canogar": {
+      "titulo": "",
+      "artista": "Diego Canogar",
+      "precio": "2 180,00 €",
+      "precio_num": 2180.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/tetramorfo-9n-ii-diego-canogar"
+    },
     "https://www.3punts.com/es/shop/artwork/inquietud-reptil-dominika-berger": {
       "titulo": "",
       "artista": "Dominika Berger",
@@ -1640,6 +1664,14 @@
       "precio_num": 5200.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/territorios-sumergidos-dominika-berger"
+    },
+    "https://www.3punts.com/es/shop/artwork/le-plus-beau-cadeau-eduardo-chillida": {
+      "titulo": "",
+      "artista": "Eduardo Chillida",
+      "precio": "7 500,00 €",
+      "precio_num": 7500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/le-plus-beau-cadeau-eduardo-chillida"
     },
     "https://www.3punts.com/es/shop/artwork/caja-de-encajes-efraim-rodriguez": {
       "titulo": "",
@@ -2528,6 +2560,14 @@
       "precio_num": 500.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/jimmy-turrell-prince"
+    },
+    "https://www.3punts.com/es/shop/artwork/claus-joan-brossa": {
+      "titulo": "",
+      "artista": "Joan Brossa",
+      "precio": "1 900,00 €",
+      "precio_num": 1900.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/claus-joan-brossa"
     },
     "https://www.3punts.com/es/shop/artwork/jose-carmona-knight-synthesis-series": {
       "titulo": "",
@@ -5665,6 +5705,14 @@
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/shepard-fairey-tested-performance"
     },
+    "https://www.3punts.com/es/shop/artwork/hello-my-name-shepard-fairey": {
+      "titulo": "",
+      "artista": "Shepard Fairey",
+      "precio": "5 500,00 €",
+      "precio_num": 5500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/hello-my-name-shepard-fairey"
+    },
     "https://www.3punts.com/es/shop/artwork/shepard-fairey-earth-crisis-01": {
       "titulo": "Shepard Fairey Earth Crisis 01",
       "artista": "Shepard Fairey",
@@ -5712,54 +5760,6 @@
       "precio_num": 1000.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/shepard-fairey-2"
-    },
-    "https://www.3punts.com/es/shop/artwork/shepard-fairey-black-sabbath-silver-black-cross": {
-      "titulo": "Shepard Fairey Black Sabbath Silver Black Cross",
-      "artista": "Shepard Fairey",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/shepard-fairey-black-sabbath-silver-black-cross"
-    },
-    "https://www.3punts.com/es/shop/artwork/shepard-fairey": {
-      "titulo": "",
-      "artista": "Shepard Fairey",
-      "precio": "1 800,00 €",
-      "precio_num": 1800.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/shepard-fairey"
-    },
-    "https://www.3punts.com/es/shop/artwork/shepard-faireyicon-collage-set-iii": {
-      "titulo": "Shepard Faireyicon Collage Set Iii",
-      "artista": "Shepard Fairey",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/shepard-faireyicon-collage-set-iii"
-    },
-    "https://www.3punts.com/es/shop/artwork/umbral-xavi-noble": {
-      "titulo": "Umbral Xavi Noble",
-      "artista": "Xavi Noble",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/umbral-xavi-noble"
-    },
-    "https://www.3punts.com/es/shop/artwork/what-lies-beneath": {
-      "titulo": "",
-      "artista": "Xavi Noble",
-      "precio": "2 600,00 €",
-      "precio_num": 2600.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/what-lies-beneath"
-    },
-    "https://www.3punts.com/es/shop/artwork/lose-control-xavi-noble": {
-      "titulo": "Lose Control Xavi Noble",
-      "artista": "Xavi Noble",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/lose-control-xavi-noble"
     }
   }
 }
