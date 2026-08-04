@@ -231,30 +231,6 @@
     "estado": "disponible",
     "url": "https://www.ladistillerie66.fr/produit/sea-sheperd/"
   },
-  "https://www.ladistillerie66.fr/produit/sentir-que-el-tiempo-se-acaba/": {
-    "titulo": "Sentir que el Tiempo se Acaba",
-    "artista": "BL2A",
-    "precio": "1,850€",
-    "precio_num": 1.85,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/sentir-que-el-tiempo-se-acaba/"
-  },
-  "https://www.ladistillerie66.fr/produit/solo-en-el-cafe/": {
-    "titulo": "Solo en el café",
-    "artista": "BL2A",
-    "precio": "Precio no disponible",
-    "precio_num": 0.0,
-    "estado": "vendido",
-    "url": "https://www.ladistillerie66.fr/produit/solo-en-el-cafe/"
-  },
-  "https://www.ladistillerie66.fr/produit/dos-en-la-banera/": {
-    "titulo": "Dos en la bañera",
-    "artista": "BL2A",
-    "precio": "2,200€",
-    "precio_num": 2.2,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/dos-en-la-banera/"
-  },
   "https://www.ladistillerie66.fr/produit/duck/": {
     "titulo": "Duck",
     "artista": "Daddy Graph",
