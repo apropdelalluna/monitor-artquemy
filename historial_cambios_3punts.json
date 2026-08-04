@@ -8408,5 +8408,41 @@
     "precio_num": 0.0,
     "url": "https://www.3punts.com/es/shop/artwork/lose-control-xavi-noble",
     "fecha": "03/08/2026 16:08"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Pedro Cherino",
+    "precio": "3 900,00 €",
+    "precio_num": 3900.0,
+    "url": "https://www.3punts.com/es/shop/artwork/essentials-pedro-cherino",
+    "fecha": "04/08/2026 18:13"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Pedro Cherino",
+    "precio": "4 100,00 €",
+    "precio_num": 4100.0,
+    "url": "https://www.3punts.com/es/shop/artwork/blue-sensation-pedro-cherino",
+    "fecha": "04/08/2026 18:13"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Shepard Fairey 1",
+    "artista": "Shepard Fairey",
+    "precio": "Precio no disponible",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/shepard-fairey-1",
+    "fecha": "04/08/2026 18:13"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Shepard Fairey",
+    "precio": "1 000,00 €",
+    "precio_num": 1000.0,
+    "url": "https://www.3punts.com/es/shop/artwork/shepard-fairey-2",
+    "fecha": "04/08/2026 18:13"
   }
 ]
