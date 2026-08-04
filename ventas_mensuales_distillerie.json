@@ -1263,5 +1263,15 @@
       "url": "https://www.ladistillerie66.fr/produit/reborn/"
     }
   ],
-  "2026-08": []
+  "2026-08": [
+    {
+      "fecha": "04/08/2026 18:18",
+      "artista": "BL2A",
+      "obra": "Solo en el café",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.ladistillerie66.fr/produit/solo-en-el-cafe/"
+    }
+  ]
 }
