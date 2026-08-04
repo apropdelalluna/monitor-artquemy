@@ -7999,5 +7999,32 @@
     "precio_num": 2.2,
     "url": "https://www.ladistillerie66.fr/produit/dos-en-la-banera/",
     "fecha": "04/08/2026 13:13"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Sentir que el Tiempo se Acaba",
+    "artista": "BL2A",
+    "precio": "1,850€",
+    "precio_num": 1.85,
+    "url": "https://www.ladistillerie66.fr/produit/sentir-que-el-tiempo-se-acaba/",
+    "fecha": "04/08/2026 18:18"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Solo en el café",
+    "artista": "BL2A",
+    "precio": "Precio no disponible",
+    "precio_num": 0.0,
+    "url": "https://www.ladistillerie66.fr/produit/solo-en-el-cafe/",
+    "fecha": "04/08/2026 18:18"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Dos en la bañera",
+    "artista": "BL2A",
+    "precio": "2,200€",
+    "precio_num": 2.2,
+    "url": "https://www.ladistillerie66.fr/produit/dos-en-la-banera/",
+    "fecha": "04/08/2026 18:18"
   }
 ]
