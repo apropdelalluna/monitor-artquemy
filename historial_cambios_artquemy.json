@@ -11917,5 +11917,19 @@
         "url": "https://artquemy.com/producto/caracol-paseo-de-gracia/"
       }
     ]
+  },
+  {
+    "fecha": "04/08/2026 13:06",
+    "artista": "Qwert",
+    "cambios_obras": [
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "paNEM eT circensES, a1",
+        "precio": "€700,00",
+        "precio_num": 700.0,
+        "precio_anterior": "€660,00",
+        "url": "https://artquemy.com/producto/panem-et-circenses-a1/"
+      }
+    ]
   }
 ]
