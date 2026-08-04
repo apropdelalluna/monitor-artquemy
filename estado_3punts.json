@@ -1,5 +1,5 @@
 {
-  "__hash__": "4cd8ef172751a7aa62b35549c1380c56",
+  "__hash__": "6e7d42786adadeb937ab3948012cb3a7",
   "obras": {
     "https://www.3punts.com/es/shop/artwork/adapta-add-fuel": {
       "titulo": "",
@@ -4145,6 +4145,22 @@
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/lola"
     },
+    "https://www.3punts.com/es/shop/artwork/essentials-pedro-cherino": {
+      "titulo": "",
+      "artista": "Pedro Cherino",
+      "precio": "3 900,00 €",
+      "precio_num": 3900.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/essentials-pedro-cherino"
+    },
+    "https://www.3punts.com/es/shop/artwork/blue-sensation-pedro-cherino": {
+      "titulo": "",
+      "artista": "Pedro Cherino",
+      "precio": "4 100,00 €",
+      "precio_num": 4100.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/blue-sensation-pedro-cherino"
+    },
     "https://www.3punts.com/es/shop/artwork/ramon-surinyacserie-love-letters-7": {
       "titulo": "",
       "artista": "Ramon Surinyac",
@@ -5744,22 +5760,6 @@
       "precio_num": 0.0,
       "estado": "vendido",
       "url": "https://www.3punts.com/es/shop/artwork/shepard-faireythis-poster"
-    },
-    "https://www.3punts.com/es/shop/artwork/shepard-fairey-1": {
-      "titulo": "Shepard Fairey 1",
-      "artista": "Shepard Fairey",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/shepard-fairey-1"
-    },
-    "https://www.3punts.com/es/shop/artwork/shepard-fairey-2": {
-      "titulo": "",
-      "artista": "Shepard Fairey",
-      "precio": "1 000,00 €",
-      "precio_num": 1000.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/shepard-fairey-2"
     }
   }
 }
