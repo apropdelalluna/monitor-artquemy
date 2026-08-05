@@ -8444,5 +8444,59 @@
     "precio_num": 1000.0,
     "url": "https://www.3punts.com/es/shop/artwork/shepard-fairey-2",
     "fecha": "04/08/2026 18:13"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Daniel & Geo Fuchs",
+    "precio": "18 000,00 €",
+    "precio_num": 18000.0,
+    "url": "https://www.3punts.com/es/shop/artwork/pink-daniel-geo-fuchs",
+    "fecha": "05/08/2026 21:38"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Jorge Fuembuena",
+    "precio": "9 300,00 €",
+    "precio_num": 9300.0,
+    "url": "https://www.3punts.com/es/shop/artwork/fire-jorge-fuembuena",
+    "fecha": "05/08/2026 21:38"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Kendell Geers",
+    "precio": "9 000,00 €",
+    "precio_num": 9000.0,
+    "url": "https://www.3punts.com/es/shop/artwork/mutus-liber-59-kendell-geers",
+    "fecha": "05/08/2026 21:38"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Shepard Fairey Earth Crisis 02",
+    "artista": "Shepard Fairey",
+    "precio": "Precio no disponible",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/shepard-fairey-earth-crisis-02",
+    "fecha": "05/08/2026 21:38"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Shepard Fairey Earth Crisis03",
+    "artista": "Shepard Fairey",
+    "precio": "Precio no disponible",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/shepard-fairey-earth-crisis03",
+    "fecha": "05/08/2026 21:38"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Shepard Faireythis Poster",
+    "artista": "Shepard Fairey",
+    "precio": "Precio no disponible",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/shepard-faireythis-poster",
+    "fecha": "05/08/2026 21:38"
   }
 ]
