@@ -1,5 +1,5 @@
 {
-  "__hash__": "6e7d42786adadeb937ab3948012cb3a7",
+  "__hash__": "d99e2c8cfcbb5c341953fa55f97fd7d2",
   "obras": {
     "https://www.3punts.com/es/shop/artwork/adapta-add-fuel": {
       "titulo": "",
@@ -1601,6 +1601,14 @@
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/adventures-brain-dead-dface"
     },
+    "https://www.3punts.com/es/shop/artwork/pink-daniel-geo-fuchs": {
+      "titulo": "",
+      "artista": "Daniel & Geo Fuchs",
+      "precio": "18 000,00 €",
+      "precio_num": 18000.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/pink-daniel-geo-fuchs"
+    },
     "https://www.3punts.com/es/shop/artwork/oh-oh-antonio-david-spiller": {
       "titulo": "",
       "artista": "David Spiller",
@@ -2569,6 +2577,14 @@
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/claus-joan-brossa"
     },
+    "https://www.3punts.com/es/shop/artwork/fire-jorge-fuembuena": {
+      "titulo": "",
+      "artista": "Jorge Fuembuena",
+      "precio": "9 300,00 €",
+      "precio_num": 9300.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/fire-jorge-fuembuena"
+    },
     "https://www.3punts.com/es/shop/artwork/jose-carmona-knight-synthesis-series": {
       "titulo": "",
       "artista": "José Carmona",
@@ -3088,6 +3104,14 @@
       "precio_num": 0.0,
       "estado": "vendido",
       "url": "https://www.3punts.com/es/shop/artwork/preparando-un-delicioso-merengue-juan-luis-jardi"
+    },
+    "https://www.3punts.com/es/shop/artwork/mutus-liber-59-kendell-geers": {
+      "titulo": "",
+      "artista": "Kendell Geers",
+      "precio": "9 000,00 €",
+      "precio_num": 9000.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/mutus-liber-59-kendell-geers"
     },
     "https://www.3punts.com/es/shop/artwork/melody": {
       "titulo": "Melody",
@@ -5736,30 +5760,6 @@
       "precio_num": 0.0,
       "estado": "vendido",
       "url": "https://www.3punts.com/es/shop/artwork/shepard-fairey-earth-crisis-01"
-    },
-    "https://www.3punts.com/es/shop/artwork/shepard-fairey-earth-crisis-02": {
-      "titulo": "Shepard Fairey Earth Crisis 02",
-      "artista": "Shepard Fairey",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/shepard-fairey-earth-crisis-02"
-    },
-    "https://www.3punts.com/es/shop/artwork/shepard-fairey-earth-crisis03": {
-      "titulo": "Shepard Fairey Earth Crisis03",
-      "artista": "Shepard Fairey",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/shepard-fairey-earth-crisis03"
-    },
-    "https://www.3punts.com/es/shop/artwork/shepard-faireythis-poster": {
-      "titulo": "Shepard Faireythis Poster",
-      "artista": "Shepard Fairey",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/shepard-faireythis-poster"
     }
   }
 }
