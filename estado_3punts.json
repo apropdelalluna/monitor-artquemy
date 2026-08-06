@@ -1,5 +1,5 @@
 {
-  "__hash__": "01fca8f4523e89669a072e393a60d63f",
+  "__hash__": "5a543c63fab1d9e9f253b1f585e901ce",
   "obras": {
     "https://www.3punts.com/es/shop/artwork/adapta-add-fuel": {
       "titulo": "",
@@ -537,14 +537,6 @@
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/black-braid-lantomo"
     },
-    "https://www.3punts.com/es/shop/artwork/fen-4-lantomo": {
-      "titulo": "Fen 4 Lantomo",
-      "artista": "Antonella Montes - LANTOMO",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/fen-4-lantomo"
-    },
     "https://www.3punts.com/es/shop/artwork/hong-series-2-fluo-5-lantomo": {
       "titulo": "",
       "artista": "Antonella Montes - LANTOMO",
@@ -609,14 +601,6 @@
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/2smiles-lantomo"
     },
-    "https://www.3punts.com/es/shop/artwork/red-rug-lantomo": {
-      "titulo": "Red Rug Lantomo",
-      "artista": "Antonella Montes - LANTOMO",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/red-rug-lantomo"
-    },
     "https://www.3punts.com/es/shop/artwork/zoom-1-lantomo": {
       "titulo": "",
       "artista": "Antonella Montes - LANTOMO",
@@ -672,14 +656,6 @@
       "precio_num": 2500.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/white-collar-2-lantomo"
-    },
-    "https://www.3punts.com/es/shop/artwork/suspence-lantomo": {
-      "titulo": "Suspence Lantomo",
-      "artista": "Antonella Montes - LANTOMO",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/suspence-lantomo"
     },
     "https://www.3punts.com/es/shop/artwork/hong-series-2-lantomo": {
       "titulo": "Hong Series II",
@@ -785,6 +761,30 @@
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/samurai-smile-lantomo"
     },
+    "https://www.3punts.com/es/shop/artwork/intensity-braid-lantomo": {
+      "titulo": "",
+      "artista": "Antonella Montes - LANTOMO",
+      "precio": "2 500,00 €",
+      "precio_num": 2500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/intensity-braid-lantomo"
+    },
+    "https://www.3punts.com/es/shop/artwork/fen-4-lantomo": {
+      "titulo": "",
+      "artista": "Antonella Montes - LANTOMO",
+      "precio": "2 500,00 €",
+      "precio_num": 2500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/fen-4-lantomo"
+    },
+    "https://www.3punts.com/es/shop/artwork/hong-series-ii-5-lantomo": {
+      "titulo": "",
+      "artista": "Antonella Montes - LANTOMO",
+      "precio": "2 500,00 €",
+      "precio_num": 2500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/hong-series-ii-5-lantomo"
+    },
     "https://www.3punts.com/es/shop/artwork/black-graffiti-lantomo": {
       "titulo": "",
       "artista": "Antonella Montes - LANTOMO",
@@ -801,6 +801,30 @@
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/punk-lantomo"
     },
+    "https://www.3punts.com/es/shop/artwork/white-star-lantomo": {
+      "titulo": "",
+      "artista": "Antonella Montes - LANTOMO",
+      "precio": "3 300,00 €",
+      "precio_num": 3300.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/white-star-lantomo"
+    },
+    "https://www.3punts.com/es/shop/artwork/super-h-lantomo": {
+      "titulo": "",
+      "artista": "Antonella Montes - LANTOMO",
+      "precio": "3 300,00 €",
+      "precio_num": 3300.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/super-h-lantomo"
+    },
+    "https://www.3punts.com/es/shop/artwork/sprayed-l02-lantomo-0": {
+      "titulo": "",
+      "artista": "Antonella Montes - LANTOMO",
+      "precio": "3 700,00 €",
+      "precio_num": 3700.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/sprayed-l02-lantomo-0"
+    },
     "https://www.3punts.com/es/shop/artwork/jurji-lantomo": {
       "titulo": "",
       "artista": "Antonella Montes - LANTOMO",
@@ -808,6 +832,22 @@
       "precio_num": 4300.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/jurji-lantomo"
+    },
+    "https://www.3punts.com/es/shop/artwork/blue-contemplation-lantomo": {
+      "titulo": "",
+      "artista": "Antonella Montes - LANTOMO",
+      "precio": "4 300,00 €",
+      "precio_num": 4300.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/blue-contemplation-lantomo"
+    },
+    "https://www.3punts.com/es/shop/artwork/sad-revolution-lantomo": {
+      "titulo": "",
+      "artista": "Antonella Montes - LANTOMO",
+      "precio": "4 300,00 €",
+      "precio_num": 4300.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/sad-revolution-lantomo"
     },
     "https://www.3punts.com/es/shop/artwork/space-buns-samurai-lantomo": {
       "titulo": "Space Buns Samurai Lantomo",
@@ -824,22 +864,6 @@
       "precio_num": 0.0,
       "estado": "vendido",
       "url": "https://www.3punts.com/es/shop/artwork/violet-1-lantomo"
-    },
-    "https://www.3punts.com/es/shop/artwork/space-buns-stars-lantomo": {
-      "titulo": "Space Buns Stars Lantomo",
-      "artista": "Antonella Montes - LANTOMO",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/space-buns-stars-lantomo"
-    },
-    "https://www.3punts.com/es/shop/artwork/huang-8-lantomo": {
-      "titulo": "Huang 8 Lantomo",
-      "artista": "Antonella Montes - LANTOMO",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/huang-8-lantomo"
     },
     "https://www.3punts.com/es/shop/artwork/sprayed-m5-lantomo": {
       "titulo": "Sprayed M5 Lantomo",
@@ -1664,6 +1688,22 @@
       "precio_num": 500.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/st-x-erwin-bechtold"
+    },
+    "https://www.3punts.com/es/shop/artwork/peace-medals-eugenio-merino": {
+      "titulo": "",
+      "artista": "Eugenio Merino",
+      "precio": "2 000,00 €",
+      "precio_num": 2000.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/peace-medals-eugenio-merino"
+    },
+    "https://www.3punts.com/es/shop/artwork/ideals-never-die-eugenio-merino": {
+      "titulo": "",
+      "artista": "Eugenio Merino",
+      "precio": "2 800,00 €",
+      "precio_num": 2800.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/ideals-never-die-eugenio-merino"
     },
     "https://www.3punts.com/es/shop/artwork/eusebio-lopez-asbtracto": {
       "titulo": "",
@@ -3608,6 +3648,14 @@
       "precio_num": 6000.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/borbon-luis-vidal"
+    },
+    "https://www.3punts.com/es/shop/artwork/cuidado-con-el-perro-lusesita": {
+      "titulo": "",
+      "artista": "Lusesita",
+      "precio": "3 500,00 €",
+      "precio_num": 3500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/cuidado-con-el-perro-lusesita"
     },
     "https://www.3punts.com/es/shop/artwork/macarena-yanez-senderismo-natural": {
       "titulo": "",
@@ -5712,54 +5760,6 @@
       "precio_num": 8000.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/clown-thomas-kuebler"
-    },
-    "https://www.3punts.com/es/shop/artwork/umbral-xavi-noble": {
-      "titulo": "Umbral Xavi Noble",
-      "artista": "Xavi Noble",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/umbral-xavi-noble"
-    },
-    "https://www.3punts.com/es/shop/artwork/what-lies-beneath": {
-      "titulo": "",
-      "artista": "Xavi Noble",
-      "precio": "2 600,00 €",
-      "precio_num": 2600.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/what-lies-beneath"
-    },
-    "https://www.3punts.com/es/shop/artwork/lose-control-xavi-noble": {
-      "titulo": "Lose Control Xavi Noble",
-      "artista": "Xavi Noble",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/lose-control-xavi-noble"
-    },
-    "https://www.3punts.com/es/shop/artwork/ilusion-safety-xavi-noble": {
-      "titulo": "",
-      "artista": "Xavi Noble",
-      "precio": "3 500,00 €",
-      "precio_num": 3500.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/ilusion-safety-xavi-noble"
-    },
-    "https://www.3punts.com/es/shop/artwork/love-me-or-leave-me-xavi-noble": {
-      "titulo": "",
-      "artista": "Xavi Noble",
-      "precio": "750,00 €",
-      "precio_num": 750.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/love-me-or-leave-me-xavi-noble"
-    },
-    "https://www.3punts.com/es/shop/artwork/devilish-xavi-noble": {
-      "titulo": "",
-      "artista": "Xavi Noble",
-      "precio": "750,00 €",
-      "precio_num": 750.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/devilish-xavi-noble"
     }
   }
 }
