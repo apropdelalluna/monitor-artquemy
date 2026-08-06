@@ -11936,5 +11936,75 @@
     "fecha": "05/08/2026 14:59",
     "artista": "El Xupet Negre",
     "cambios_obras": []
+  },
+  {
+    "fecha": "06/08/2026 18:42",
+    "artista": "Ceci SN",
+    "cambios_obras": [
+      {
+        "tipo": "vendida",
+        "titulo": "Dancers VIII",
+        "precio": "€50,00",
+        "precio_num": 50.0,
+        "url": "https://artquemy.com/producto/dancers-viii/"
+      }
+    ]
+  },
+  {
+    "fecha": "06/08/2026 18:42",
+    "artista": "Juncosa",
+    "cambios_obras": [
+      {
+        "tipo": "nueva",
+        "titulo": "Passeig de Gràcia Turquesa lll",
+        "precio": "€290,00",
+        "precio_num": 290.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/passeig-de-gracia-turquesa-lll/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Passeig de Gràcia Turquesa ll",
+        "precio": "€290,00",
+        "precio_num": 290.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/passeig-de-gracia-turquesa-ll/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Passeig de Gràcia Turquesa l",
+        "precio": "€290,00",
+        "precio_num": 290.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/passeig-de-gracia-turquesa-l/"
+      }
+    ]
+  },
+  {
+    "fecha": "06/08/2026 18:42",
+    "artista": "Laura Gonballes",
+    "cambios_obras": [
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "Alguitas azules",
+        "precio": "€1.350,00",
+        "precio_num": 1350.0,
+        "precio_anterior": "€800,00",
+        "url": "https://artquemy.com/producto/alguitas-azules/"
+      }
+    ]
+  },
+  {
+    "fecha": "06/08/2026 18:42",
+    "artista": "Yilov",
+    "cambios_obras": [
+      {
+        "tipo": "vendida",
+        "titulo": "How did I get here?",
+        "precio": "€600,00",
+        "precio_num": 600.0,
+        "url": "https://artquemy.com/producto/how-did-i-get-here/"
+      }
+    ]
   }
 ]
