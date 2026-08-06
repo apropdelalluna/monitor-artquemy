@@ -8804,5 +8804,194 @@
     "precio_num": 0.0,
     "url": "https://www.3punts.com/es/shop/artwork/blue-dragon-lantomo",
     "fecha": "06/08/2026 11:41"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Antonella Montes - LANTOMO",
+    "precio": "2 500,00 €",
+    "precio_num": 2500.0,
+    "url": "https://www.3punts.com/es/shop/artwork/intensity-braid-lantomo",
+    "fecha": "06/08/2026 18:45"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Antonella Montes - LANTOMO",
+    "precio": "2 500,00 €",
+    "precio_num": 2500.0,
+    "url": "https://www.3punts.com/es/shop/artwork/fen-4-lantomo",
+    "fecha": "06/08/2026 18:45"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Antonella Montes - LANTOMO",
+    "precio": "2 500,00 €",
+    "precio_num": 2500.0,
+    "url": "https://www.3punts.com/es/shop/artwork/hong-series-ii-5-lantomo",
+    "fecha": "06/08/2026 18:45"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Antonella Montes - LANTOMO",
+    "precio": "3 300,00 €",
+    "precio_num": 3300.0,
+    "url": "https://www.3punts.com/es/shop/artwork/white-star-lantomo",
+    "fecha": "06/08/2026 18:45"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Antonella Montes - LANTOMO",
+    "precio": "3 300,00 €",
+    "precio_num": 3300.0,
+    "url": "https://www.3punts.com/es/shop/artwork/super-h-lantomo",
+    "fecha": "06/08/2026 18:45"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Antonella Montes - LANTOMO",
+    "precio": "3 700,00 €",
+    "precio_num": 3700.0,
+    "url": "https://www.3punts.com/es/shop/artwork/sprayed-l02-lantomo-0",
+    "fecha": "06/08/2026 18:45"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Antonella Montes - LANTOMO",
+    "precio": "4 300,00 €",
+    "precio_num": 4300.0,
+    "url": "https://www.3punts.com/es/shop/artwork/blue-contemplation-lantomo",
+    "fecha": "06/08/2026 18:45"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Antonella Montes - LANTOMO",
+    "precio": "4 300,00 €",
+    "precio_num": 4300.0,
+    "url": "https://www.3punts.com/es/shop/artwork/sad-revolution-lantomo",
+    "fecha": "06/08/2026 18:45"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Eugenio Merino",
+    "precio": "2 000,00 €",
+    "precio_num": 2000.0,
+    "url": "https://www.3punts.com/es/shop/artwork/peace-medals-eugenio-merino",
+    "fecha": "06/08/2026 18:45"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Eugenio Merino",
+    "precio": "2 800,00 €",
+    "precio_num": 2800.0,
+    "url": "https://www.3punts.com/es/shop/artwork/ideals-never-die-eugenio-merino",
+    "fecha": "06/08/2026 18:45"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Lusesita",
+    "precio": "3 500,00 €",
+    "precio_num": 3500.0,
+    "url": "https://www.3punts.com/es/shop/artwork/cuidado-con-el-perro-lusesita",
+    "fecha": "06/08/2026 18:45"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Red Rug Lantomo",
+    "artista": "Antonella Montes - LANTOMO",
+    "precio": "Precio no disponible",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/red-rug-lantomo",
+    "fecha": "06/08/2026 18:45"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Suspence Lantomo",
+    "artista": "Antonella Montes - LANTOMO",
+    "precio": "Precio no disponible",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/suspence-lantomo",
+    "fecha": "06/08/2026 18:45"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Space Buns Stars Lantomo",
+    "artista": "Antonella Montes - LANTOMO",
+    "precio": "Precio no disponible",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/space-buns-stars-lantomo",
+    "fecha": "06/08/2026 18:45"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Huang 8 Lantomo",
+    "artista": "Antonella Montes - LANTOMO",
+    "precio": "Precio no disponible",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/huang-8-lantomo",
+    "fecha": "06/08/2026 18:45"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Umbral Xavi Noble",
+    "artista": "Xavi Noble",
+    "precio": "Precio no disponible",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/umbral-xavi-noble",
+    "fecha": "06/08/2026 18:45"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Xavi Noble",
+    "precio": "2 600,00 €",
+    "precio_num": 2600.0,
+    "url": "https://www.3punts.com/es/shop/artwork/what-lies-beneath",
+    "fecha": "06/08/2026 18:45"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Lose Control Xavi Noble",
+    "artista": "Xavi Noble",
+    "precio": "Precio no disponible",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/lose-control-xavi-noble",
+    "fecha": "06/08/2026 18:45"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Xavi Noble",
+    "precio": "3 500,00 €",
+    "precio_num": 3500.0,
+    "url": "https://www.3punts.com/es/shop/artwork/ilusion-safety-xavi-noble",
+    "fecha": "06/08/2026 18:45"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Xavi Noble",
+    "precio": "750,00 €",
+    "precio_num": 750.0,
+    "url": "https://www.3punts.com/es/shop/artwork/love-me-or-leave-me-xavi-noble",
+    "fecha": "06/08/2026 18:45"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Xavi Noble",
+    "precio": "750,00 €",
+    "precio_num": 750.0,
+    "url": "https://www.3punts.com/es/shop/artwork/devilish-xavi-noble",
+    "fecha": "06/08/2026 18:45"
   }
 ]
