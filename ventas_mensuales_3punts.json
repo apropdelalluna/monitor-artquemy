@@ -1652,5 +1652,78 @@
       "url": "https://www.3punts.com/es/shop/artwork/porcelain-solitude-lantomo"
     }
   ],
-  "2026-08": []
+  "2026-08": [
+    {
+      "fecha": "06/08/2026 11:41",
+      "artista": "Shepard Fairey",
+      "obra": "Shepard Fairey Earth Crisis 02",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.3punts.com/es/shop/artwork/shepard-fairey-earth-crisis-02"
+    },
+    {
+      "fecha": "06/08/2026 11:41",
+      "artista": "Shepard Fairey",
+      "obra": "Shepard Fairey Earth Crisis03",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.3punts.com/es/shop/artwork/shepard-fairey-earth-crisis03"
+    },
+    {
+      "fecha": "06/08/2026 11:41",
+      "artista": "Shepard Fairey",
+      "obra": "Shepard Faireythis Poster",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.3punts.com/es/shop/artwork/shepard-faireythis-poster"
+    },
+    {
+      "fecha": "06/08/2026 11:41",
+      "artista": "Shepard Fairey",
+      "obra": "Shepard Fairey 1",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.3punts.com/es/shop/artwork/shepard-fairey-1"
+    },
+    {
+      "fecha": "06/08/2026 11:41",
+      "artista": "Shepard Fairey",
+      "obra": "Shepard Fairey Black Sabbath Silver Black Cross",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.3punts.com/es/shop/artwork/shepard-fairey-black-sabbath-silver-black-cross"
+    },
+    {
+      "fecha": "06/08/2026 11:41",
+      "artista": "Shepard Fairey",
+      "obra": "Shepard Faireyicon Collage Set Iii",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.3punts.com/es/shop/artwork/shepard-faireyicon-collage-set-iii"
+    },
+    {
+      "fecha": "06/08/2026 11:41",
+      "artista": "Xavi Noble",
+      "obra": "Umbral Xavi Noble",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.3punts.com/es/shop/artwork/umbral-xavi-noble"
+    },
+    {
+      "fecha": "06/08/2026 11:41",
+      "artista": "Xavi Noble",
+      "obra": "Lose Control Xavi Noble",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.3punts.com/es/shop/artwork/lose-control-xavi-noble"
+    }
+  ]
 }
