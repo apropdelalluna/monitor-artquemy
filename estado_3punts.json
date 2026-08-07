@@ -1,5 +1,5 @@
 {
-  "__hash__": "5a543c63fab1d9e9f253b1f585e901ce",
+  "__hash__": "a2944fd18144e37473d90b0ff5016437",
   "obras": {
     "https://www.3punts.com/es/shop/artwork/adapta-add-fuel": {
       "titulo": "",
@@ -1744,6 +1744,30 @@
       "precio_num": 6500.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/vacaciones-eusebio-lopez"
+    },
+    "https://www.3punts.com/es/shop/artwork/sense-titol-ferran-alejandre-0": {
+      "titulo": "",
+      "artista": "Ferran Alejandre",
+      "precio": "300,00 €",
+      "precio_num": 300.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/sense-titol-ferran-alejandre-0"
+    },
+    "https://www.3punts.com/es/shop/artwork/sense-titol-ferran-alejandre": {
+      "titulo": "",
+      "artista": "Ferran Alejandre",
+      "precio": "900,00 €",
+      "precio_num": 900.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/sense-titol-ferran-alejandre"
+    },
+    "https://www.3punts.com/es/shop/artwork/untitled": {
+      "titulo": "",
+      "artista": "Ferran Alejandre",
+      "precio": "1 500,00 €",
+      "precio_num": 1500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/untitled"
     },
     "https://www.3punts.com/es/shop/artwork/tongue-out-lady": {
       "titulo": "",
@@ -5736,30 +5760,6 @@
       "precio_num": 0.0,
       "estado": "vendido",
       "url": "https://www.3punts.com/es/shop/artwork/shepard-fairey-black-sabbath-silver-black-cross"
-    },
-    "https://www.3punts.com/es/shop/artwork/shepard-fairey": {
-      "titulo": "",
-      "artista": "Shepard Fairey",
-      "precio": "1 800,00 €",
-      "precio_num": 1800.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/shepard-fairey"
-    },
-    "https://www.3punts.com/es/shop/artwork/shepard-faireyicon-collage-set-iii": {
-      "titulo": "Shepard Faireyicon Collage Set Iii",
-      "artista": "Shepard Fairey",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/shepard-faireyicon-collage-set-iii"
-    },
-    "https://www.3punts.com/es/shop/artwork/clown-thomas-kuebler": {
-      "titulo": "",
-      "artista": "Thomas Kuebler",
-      "precio": "8 000,00 €",
-      "precio_num": 8000.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/clown-thomas-kuebler"
     }
   }
 }
