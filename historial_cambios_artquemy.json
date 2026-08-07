@@ -12006,5 +12006,32 @@
         "url": "https://artquemy.com/producto/how-did-i-get-here/"
       }
     ]
+  },
+  {
+    "fecha": "07/08/2026 21:07",
+    "artista": "Ceci SN",
+    "cambios_obras": [
+      {
+        "tipo": "nueva",
+        "titulo": "Dancers VIII",
+        "precio": "€50,00",
+        "precio_num": 50.0,
+        "url": "https://artquemy.com/producto/dancers-viii/"
+      }
+    ]
+  },
+  {
+    "fecha": "07/08/2026 21:07",
+    "artista": "Tiny",
+    "cambios_obras": [
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "The Ballerina",
+        "precio": "€950,00",
+        "precio_num": 950.0,
+        "precio_anterior": "€750,00",
+        "url": "https://artquemy.com/producto/the-ballerina/"
+      }
+    ]
   }
 ]
