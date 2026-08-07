@@ -8993,5 +8993,59 @@
     "precio_num": 750.0,
     "url": "https://www.3punts.com/es/shop/artwork/devilish-xavi-noble",
     "fecha": "06/08/2026 18:45"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Ferran Alejandre",
+    "precio": "300,00 €",
+    "precio_num": 300.0,
+    "url": "https://www.3punts.com/es/shop/artwork/sense-titol-ferran-alejandre-0",
+    "fecha": "07/08/2026 21:11"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Ferran Alejandre",
+    "precio": "900,00 €",
+    "precio_num": 900.0,
+    "url": "https://www.3punts.com/es/shop/artwork/sense-titol-ferran-alejandre",
+    "fecha": "07/08/2026 21:11"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Ferran Alejandre",
+    "precio": "1 500,00 €",
+    "precio_num": 1500.0,
+    "url": "https://www.3punts.com/es/shop/artwork/untitled",
+    "fecha": "07/08/2026 21:11"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Shepard Fairey",
+    "precio": "1 800,00 €",
+    "precio_num": 1800.0,
+    "url": "https://www.3punts.com/es/shop/artwork/shepard-fairey",
+    "fecha": "07/08/2026 21:11"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Shepard Faireyicon Collage Set Iii",
+    "artista": "Shepard Fairey",
+    "precio": "Precio no disponible",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/shepard-faireyicon-collage-set-iii",
+    "fecha": "07/08/2026 21:11"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Thomas Kuebler",
+    "precio": "8 000,00 €",
+    "precio_num": 8000.0,
+    "url": "https://www.3punts.com/es/shop/artwork/clown-thomas-kuebler",
+    "fecha": "07/08/2026 21:11"
   }
 ]
