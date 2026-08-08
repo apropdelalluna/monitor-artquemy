@@ -7703,6 +7703,15 @@
       "precio_num": 600.0,
       "tipo": "vendida",
       "url": "https://artquemy.com/producto/how-did-i-get-here/"
+    },
+    {
+      "fecha": "08/08/2026 18:55",
+      "artista": "Ceci SN",
+      "obra": "Dancers VIII",
+      "precio": "€50,00",
+      "precio_num": 50.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/dancers-viii/"
     }
   ]
 }
