@@ -7712,6 +7712,15 @@
       "precio_num": 50.0,
       "tipo": "vendida",
       "url": "https://artquemy.com/producto/dancers-viii/"
+    },
+    {
+      "fecha": "09/08/2026 20:17",
+      "artista": "Tiny",
+      "obra": "Shut it out",
+      "precio": "€160,00",
+      "precio_num": 160.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/shut-it-out/"
     }
   ]
 }
