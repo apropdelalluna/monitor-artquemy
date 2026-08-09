@@ -12068,5 +12068,46 @@
         "url": "https://artquemy.com/producto/dancers-viii/"
       }
     ]
+  },
+  {
+    "fecha": "09/08/2026 20:17",
+    "artista": "Camil Escruela",
+    "cambios_obras": [
+      {
+        "tipo": "nueva",
+        "titulo": "Homenatge a Matisse",
+        "precio": "€3.800,00",
+        "precio_num": 3800.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/homenatge-a-matisse/"
+      }
+    ]
+  },
+  {
+    "fecha": "09/08/2026 20:17",
+    "artista": "Jor Ros",
+    "cambios_obras": [
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "Dove & Crow",
+        "precio": "€120,00",
+        "precio_num": 120.0,
+        "precio_anterior": "€95,00",
+        "url": "https://artquemy.com/producto/dove-crow/"
+      }
+    ]
+  },
+  {
+    "fecha": "09/08/2026 20:17",
+    "artista": "Tiny",
+    "cambios_obras": [
+      {
+        "tipo": "vendida",
+        "titulo": "Shut it out",
+        "precio": "€160,00",
+        "precio_num": 160.0,
+        "url": "https://artquemy.com/producto/shut-it-out/"
+      }
+    ]
   }
 ]
