@@ -12109,5 +12109,50 @@
         "url": "https://artquemy.com/producto/shut-it-out/"
       }
     ]
+  },
+  {
+    "fecha": "10/08/2026 20:23",
+    "artista": "Juncosa",
+    "cambios_obras": [
+      {
+        "tipo": "nueva",
+        "titulo": "Caracol Paseo de Grácia",
+        "precio": "€900,00",
+        "precio_num": 900.0,
+        "url": "https://artquemy.com/producto/caracol-paseo-de-gracia/"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "Origen Azul",
+        "precio": "€1.300,00",
+        "precio_num": 1300.0,
+        "precio_anterior": "€650,00",
+        "url": "https://artquemy.com/producto/origen-azul/"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "Origen Rosa",
+        "precio": "€1.300,00",
+        "precio_num": 1300.0,
+        "precio_anterior": "€650,00",
+        "url": "https://artquemy.com/producto/origen-rosa/"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "Origen Naranja",
+        "precio": "€1.300,00",
+        "precio_num": 1300.0,
+        "precio_anterior": "€650,00",
+        "url": "https://artquemy.com/producto/origen-naranja/"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "Origen Verde",
+        "precio": "€1.300,00",
+        "precio_num": 1300.0,
+        "precio_anterior": "€650,00",
+        "url": "https://artquemy.com/producto/origen-verde/"
+      }
+    ]
   }
 ]
