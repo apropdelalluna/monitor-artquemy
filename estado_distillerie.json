@@ -343,22 +343,6 @@
     "estado": "disponible",
     "url": "https://www.ladistillerie66.fr/produit/cocotte-1/"
   },
-  "https://www.ladistillerie66.fr/produit/equilibre-2/": {
-    "titulo": "Équilibre",
-    "artista": "Eric Montaux",
-    "precio": "Prix sur demande",
-    "precio_num": 0.0,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/equilibre-2/"
-  },
-  "https://www.ladistillerie66.fr/produit/la-passion/": {
-    "titulo": "La Passion",
-    "artista": "Eric Montaux",
-    "precio": "5,200€",
-    "precio_num": 5.2,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/la-passion/"
-  },
   "https://www.ladistillerie66.fr/produit/f-volution/": {
     "titulo": "F-Volution",
     "artista": "Faki",
