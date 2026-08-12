@@ -826,9 +826,9 @@
   "https://www.ladistillerie66.fr/produit/celui-qui-croyait-au-ciel/": {
     "titulo": "Celui qui croyait au ciel",
     "artista": "Maxime Andriot",
-    "precio": "750€",
-    "precio_num": 750.0,
-    "estado": "disponible",
+    "precio": "Precio no disponible",
+    "precio_num": 0.0,
+    "estado": "vendido",
     "url": "https://www.ladistillerie66.fr/produit/celui-qui-croyait-au-ciel/"
   },
   "https://www.ladistillerie66.fr/produit/bon-marche-1890/": {
