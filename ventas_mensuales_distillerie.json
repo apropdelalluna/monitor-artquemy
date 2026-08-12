@@ -1272,6 +1272,15 @@
       "precio_num": 0.0,
       "tipo": "nueva_vendida",
       "url": "https://www.ladistillerie66.fr/produit/solo-en-el-cafe/"
+    },
+    {
+      "fecha": "12/08/2026 21:11",
+      "artista": "Maxime Andriot",
+      "obra": "Celui qui croyait au ciel",
+      "precio": "750€",
+      "precio_num": 750.0,
+      "tipo": "vendida",
+      "url": "https://www.ladistillerie66.fr/produit/celui-qui-croyait-au-ciel/"
     }
   ]
 }
