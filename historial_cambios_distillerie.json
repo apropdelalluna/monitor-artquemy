@@ -8062,5 +8062,14 @@
     "precio_num": 5.2,
     "url": "https://www.ladistillerie66.fr/produit/la-passion/",
     "fecha": "12/08/2026 12:54"
+  },
+  {
+    "tipo": "vendida",
+    "titulo": "Celui qui croyait au ciel",
+    "artista": "Maxime Andriot",
+    "precio": "750€",
+    "precio_num": 750.0,
+    "url": "https://www.ladistillerie66.fr/produit/celui-qui-croyait-au-ciel/",
+    "fecha": "12/08/2026 21:11"
   }
 ]
