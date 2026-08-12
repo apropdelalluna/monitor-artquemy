@@ -8044,5 +8044,23 @@
     "precio_num": 5.2,
     "url": "https://www.ladistillerie66.fr/produit/la-passion/",
     "fecha": "11/08/2026 18:56"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Équilibre",
+    "artista": "Eric Montaux",
+    "precio": "Prix sur demande",
+    "precio_num": 0.0,
+    "url": "https://www.ladistillerie66.fr/produit/equilibre-2/",
+    "fecha": "12/08/2026 12:54"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "La Passion",
+    "artista": "Eric Montaux",
+    "precio": "5,200€",
+    "precio_num": 5.2,
+    "url": "https://www.ladistillerie66.fr/produit/la-passion/",
+    "fecha": "12/08/2026 12:54"
   }
 ]
