@@ -623,22 +623,6 @@
     "estado": "disponible",
     "url": "https://www.ladistillerie66.fr/produit/vulvmarley/"
   },
-  "https://www.ladistillerie66.fr/produit/bubble-bunny-rouge-58cm/": {
-    "titulo": "Bubble Bunny Rouge 58cm",
-    "artista": "Killian Iglesis",
-    "precio": "Prix sur demande",
-    "precio_num": 0.0,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/bubble-bunny-rouge-58cm/"
-  },
-  "https://www.ladistillerie66.fr/produit/bubble-bunny-jaune-56cm/": {
-    "titulo": "Bubble Bunny Jaune 56cm",
-    "artista": "Killian Iglesis",
-    "precio": "Prix sur demande",
-    "precio_num": 0.0,
-    "estado": "disponible",
-    "url": "https://www.ladistillerie66.fr/produit/bubble-bunny-jaune-56cm/"
-  },
   "https://www.ladistillerie66.fr/produit/koeurele-crew/": {
     "titulo": "Kœurélé Crew",
     "artista": "Kœurélé",
