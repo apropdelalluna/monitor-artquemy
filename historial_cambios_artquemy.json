@@ -12154,5 +12154,43 @@
         "url": "https://artquemy.com/producto/origen-verde/"
       }
     ]
+  },
+  {
+    "fecha": "14/08/2026 18:22",
+    "artista": "Ciro Marra",
+    "cambios_obras": [
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "Il ragazzo che imparò a volare",
+        "precio": "€3.500,00",
+        "precio_num": 3500.0,
+        "precio_anterior": "€4.200,00",
+        "url": "https://artquemy.com/producto/il-ragazzo-che-imparo-a-volare/"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "Invisibile",
+        "precio": "€2.500,00",
+        "precio_num": 2500.0,
+        "precio_anterior": "€4.000,00",
+        "url": "https://artquemy.com/producto/invisibile/"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "Santificación de Sebastian",
+        "precio": "€2.500,00",
+        "precio_num": 2500.0,
+        "precio_anterior": "€4.000,00",
+        "url": "https://artquemy.com/producto/santificacion-de-sebastian/"
+      },
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "Yo vs Me",
+        "precio": "€2.500,00",
+        "precio_num": 2500.0,
+        "precio_anterior": "€3.780,00",
+        "url": "https://artquemy.com/producto/yo-vs-me/"
+      }
+    ]
   }
 ]
