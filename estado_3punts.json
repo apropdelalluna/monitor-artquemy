@@ -1,5 +1,5 @@
 {
-  "__hash__": "a2944fd18144e37473d90b0ff5016437",
+  "__hash__": "2b6639f48f4e8b25889fb606a75a48a0",
   "obras": {
     "https://www.3punts.com/es/shop/artwork/adapta-add-fuel": {
       "titulo": "",
@@ -528,6 +528,54 @@
       "precio_num": 4600.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/uoap-green-alex-palli-0"
+    },
+    "https://www.3punts.com/es/shop/artwork/erasmo-vii-amadeo-gabino": {
+      "titulo": "",
+      "artista": "Amadeo Gabino",
+      "precio": "Consultar precio",
+      "precio_num": 0.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/erasmo-vii-amadeo-gabino"
+    },
+    "https://www.3punts.com/es/shop/artwork/st-amadeo-gabino-0": {
+      "titulo": "",
+      "artista": "Amadeo Gabino",
+      "precio": "500,00 €",
+      "precio_num": 500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/st-amadeo-gabino-0"
+    },
+    "https://www.3punts.com/es/shop/artwork/st-amadeo-gabino": {
+      "titulo": "",
+      "artista": "Amadeo Gabino",
+      "precio": "1 800,00 €",
+      "precio_num": 1800.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/st-amadeo-gabino"
+    },
+    "https://www.3punts.com/es/shop/artwork/mannheim-amadeo-gabino": {
+      "titulo": "",
+      "artista": "Amadeo Gabino",
+      "precio": "1 800,00 €",
+      "precio_num": 1800.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/mannheim-amadeo-gabino"
+    },
+    "https://www.3punts.com/es/shop/artwork/marte-x-amadeo-gabino": {
+      "titulo": "",
+      "artista": "Amadeo Gabino",
+      "precio": "4 000,00 €",
+      "precio_num": 4000.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/marte-x-amadeo-gabino"
+    },
+    "https://www.3punts.com/es/shop/artwork/escudo-de-venus-xv-amadeo-gabino": {
+      "titulo": "",
+      "artista": "Amadeo Gabino",
+      "precio": "9 000,00 €",
+      "precio_num": 9000.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/escudo-de-venus-xv-amadeo-gabino"
     },
     "https://www.3punts.com/es/shop/artwork/black-braid-lantomo": {
       "titulo": "",
@@ -1585,6 +1633,22 @@
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/nado-efraim-rodriguez"
     },
+    "https://www.3punts.com/es/shop/artwork/snow-white-forbidden-brain-diamond-dust-emilio-garcia": {
+      "titulo": "",
+      "artista": "Emilio Garcia",
+      "precio": "300,00 €",
+      "precio_num": 300.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/snow-white-forbidden-brain-diamond-dust-emilio-garcia"
+    },
+    "https://www.3punts.com/es/shop/artwork/forbbiden-brain-emilio-garcia": {
+      "titulo": "",
+      "artista": "Emilio Garcia",
+      "precio": "1 100,00 €",
+      "precio_num": 1100.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/forbbiden-brain-emilio-garcia"
+    },
     "https://www.3punts.com/es/shop/artwork/del-aire-v-emilio-pascual": {
       "titulo": "",
       "artista": "Emilio Pascual",
@@ -2217,6 +2281,22 @@
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/relax-hossein-azadi"
     },
+    "https://www.3punts.com/es/shop/artwork/man-dog-bird-ira-lombardia": {
+      "titulo": "",
+      "artista": "Ira Lombardia",
+      "precio": "1 000,00 €",
+      "precio_num": 1000.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/man-dog-bird-ira-lombardia"
+    },
+    "https://www.3punts.com/es/shop/artwork/fog-ira-lombardia": {
+      "titulo": "",
+      "artista": "Ira Lombardia",
+      "precio": "1 000,00 €",
+      "precio_num": 1000.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/fog-ira-lombardia"
+    },
     "https://www.3punts.com/es/shop/artwork/big-blue-jan-hunling": {
       "titulo": "",
       "artista": "Jan Hunling",
@@ -2336,6 +2416,30 @@
       "precio_num": 6500.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/sommerabend-jan-schuler"
+    },
+    "https://www.3punts.com/es/shop/artwork/blue-portrait-i-jas": {
+      "titulo": "",
+      "artista": "JAS",
+      "precio": "1 800,00 €",
+      "precio_num": 1800.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/blue-portrait-i-jas"
+    },
+    "https://www.3punts.com/es/shop/artwork/blue-portrait-ii-jas": {
+      "titulo": "",
+      "artista": "JAS",
+      "precio": "1 800,00 €",
+      "precio_num": 1800.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/blue-portrait-ii-jas"
+    },
+    "https://www.3punts.com/es/shop/artwork/crencas-escatologicas-jas": {
+      "titulo": "",
+      "artista": "JAS",
+      "precio": "3 500,00 €",
+      "precio_num": 3500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/crencas-escatologicas-jas"
     },
     "https://www.3punts.com/es/shop/artwork/playa-beige-javier-mariscal": {
       "titulo": "",
@@ -5025,14 +5129,6 @@
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/ill-be-your-reflection-v-samuel-salcedo"
     },
-    "https://www.3punts.com/es/shop/artwork/rapid-eye-movement-samuel-salcedo": {
-      "titulo": "",
-      "artista": "Samuel Salcedo",
-      "precio": "8 000,00 €",
-      "precio_num": 8000.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/rapid-eye-movement-samuel-salcedo"
-    },
     "https://www.3punts.com/es/shop/artwork/replacement-head-samuel-salcedo": {
       "titulo": "",
       "artista": "Samuel Salcedo",
@@ -5040,6 +5136,14 @@
       "precio_num": 8000.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/replacement-head-samuel-salcedo"
+    },
+    "https://www.3punts.com/es/shop/artwork/rapid-eye-movement-samuel-salcedo": {
+      "titulo": "",
+      "artista": "Samuel Salcedo",
+      "precio": "12 000,00 €",
+      "precio_num": 12000.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/rapid-eye-movement-samuel-salcedo"
     },
     "https://www.3punts.com/es/shop/artwork/heavyweight-samuel-salcedo": {
       "titulo": "",
@@ -5260,8 +5364,8 @@
     "https://www.3punts.com/es/shop/artwork/sabela-samuel-salcedo": {
       "titulo": "",
       "artista": "Samuel Salcedo",
-      "precio": "5 000,00 €",
-      "precio_num": 5000.0,
+      "precio": "7 000,00 €",
+      "precio_num": 7000.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/sabela-samuel-salcedo"
     },
@@ -5656,110 +5760,6 @@
       "precio_num": 0.0,
       "estado": "vendido",
       "url": "https://www.3punts.com/es/shop/artwork/sebastia-marti-dibujo-sueno-esparcido"
-    },
-    "https://www.3punts.com/es/shop/artwork/sebastia-marti-machine": {
-      "titulo": "",
-      "artista": "Sebastià Martí",
-      "precio": "950,00 €",
-      "precio_num": 950.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/sebastia-marti-machine"
-    },
-    "https://www.3punts.com/es/shop/artwork/sebastia-marti-autoretrat": {
-      "titulo": "",
-      "artista": "Sebastià Martí",
-      "precio": "1 000,00 €",
-      "precio_num": 1000.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/sebastia-marti-autoretrat"
-    },
-    "https://www.3punts.com/es/shop/artwork/sebastia-marti-dibujo-te-de-manzana": {
-      "titulo": "",
-      "artista": "Sebastià Martí",
-      "precio": "1 200,00 €",
-      "precio_num": 1200.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/sebastia-marti-dibujo-te-de-manzana"
-    },
-    "https://www.3punts.com/es/shop/artwork/sebastia-marti-dibujo-la-vie-continue": {
-      "titulo": "",
-      "artista": "Sebastià Martí",
-      "precio": "1 200,00 €",
-      "precio_num": 1200.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/sebastia-marti-dibujo-la-vie-continue"
-    },
-    "https://www.3punts.com/es/shop/artwork/shepard-fairey-tested-performance": {
-      "titulo": "",
-      "artista": "Shepard Fairey",
-      "precio": "1 000,00 €",
-      "precio_num": 1000.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/shepard-fairey-tested-performance"
-    },
-    "https://www.3punts.com/es/shop/artwork/hello-my-name-shepard-fairey": {
-      "titulo": "",
-      "artista": "Shepard Fairey",
-      "precio": "5 500,00 €",
-      "precio_num": 5500.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/hello-my-name-shepard-fairey"
-    },
-    "https://www.3punts.com/es/shop/artwork/shepard-fairey-earth-crisis-01": {
-      "titulo": "Shepard Fairey Earth Crisis 01",
-      "artista": "Shepard Fairey",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/shepard-fairey-earth-crisis-01"
-    },
-    "https://www.3punts.com/es/shop/artwork/shepard-fairey-earth-crisis-02": {
-      "titulo": "Shepard Fairey Earth Crisis 02",
-      "artista": "Shepard Fairey",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/shepard-fairey-earth-crisis-02"
-    },
-    "https://www.3punts.com/es/shop/artwork/shepard-fairey-earth-crisis03": {
-      "titulo": "Shepard Fairey Earth Crisis03",
-      "artista": "Shepard Fairey",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/shepard-fairey-earth-crisis03"
-    },
-    "https://www.3punts.com/es/shop/artwork/shepard-faireythis-poster": {
-      "titulo": "Shepard Faireythis Poster",
-      "artista": "Shepard Fairey",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/shepard-faireythis-poster"
-    },
-    "https://www.3punts.com/es/shop/artwork/shepard-fairey-1": {
-      "titulo": "Shepard Fairey 1",
-      "artista": "Shepard Fairey",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/shepard-fairey-1"
-    },
-    "https://www.3punts.com/es/shop/artwork/shepard-fairey-2": {
-      "titulo": "",
-      "artista": "Shepard Fairey",
-      "precio": "1 000,00 €",
-      "precio_num": 1000.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/shepard-fairey-2"
-    },
-    "https://www.3punts.com/es/shop/artwork/shepard-fairey-black-sabbath-silver-black-cross": {
-      "titulo": "Shepard Fairey Black Sabbath Silver Black Cross",
-      "artista": "Shepard Fairey",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/shepard-fairey-black-sabbath-silver-black-cross"
     }
   }
 }
