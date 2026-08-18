@@ -7721,6 +7721,15 @@
       "precio_num": 160.0,
       "tipo": "vendida",
       "url": "https://artquemy.com/producto/shut-it-out/"
+    },
+    {
+      "fecha": "18/08/2026 19:31",
+      "artista": "Camil Escruela",
+      "obra": "Untitled",
+      "precio": "€200,00",
+      "precio_num": 200.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/untitled/"
     }
   ]
 }
