@@ -9301,5 +9301,23 @@
     "precio_num": 0.0,
     "url": "https://www.3punts.com/es/shop/artwork/shepard-fairey-black-sabbath-silver-black-cross",
     "fecha": "18/08/2026 19:35"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Sebastià Martí",
+    "precio": "950,00 €",
+    "precio_num": 950.0,
+    "url": "https://www.3punts.com/es/shop/artwork/sebastia-marti-machine",
+    "fecha": "19/08/2026 18:22"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Ferran Alejandre",
+    "precio": "300,00 €",
+    "precio_num": 300.0,
+    "url": "https://www.3punts.com/es/shop/artwork/sense-titol-ferran-alejandre-0",
+    "fecha": "19/08/2026 18:22"
   }
 ]
