@@ -1,5 +1,5 @@
 {
-  "__hash__": "2b6639f48f4e8b25889fb606a75a48a0",
+  "__hash__": "61d000bc551093263ed3389f600a4788",
   "obras": {
     "https://www.3punts.com/es/shop/artwork/adapta-add-fuel": {
       "titulo": "",
@@ -1808,14 +1808,6 @@
       "precio_num": 6500.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/vacaciones-eusebio-lopez"
-    },
-    "https://www.3punts.com/es/shop/artwork/sense-titol-ferran-alejandre-0": {
-      "titulo": "",
-      "artista": "Ferran Alejandre",
-      "precio": "300,00 €",
-      "precio_num": 300.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/sense-titol-ferran-alejandre-0"
     },
     "https://www.3punts.com/es/shop/artwork/sense-titol-ferran-alejandre": {
       "titulo": "",
@@ -5760,6 +5752,14 @@
       "precio_num": 0.0,
       "estado": "vendido",
       "url": "https://www.3punts.com/es/shop/artwork/sebastia-marti-dibujo-sueno-esparcido"
+    },
+    "https://www.3punts.com/es/shop/artwork/sebastia-marti-machine": {
+      "titulo": "",
+      "artista": "Sebastià Martí",
+      "precio": "950,00 €",
+      "precio_num": 950.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/sebastia-marti-machine"
     }
   }
 }
