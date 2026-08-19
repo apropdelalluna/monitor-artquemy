@@ -8269,5 +8269,167 @@
     "precio_num": 90.0,
     "url": "https://www.ladistillerie66.fr/produit/vulvmarley/",
     "fecha": "18/08/2026 19:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Équilibre",
+    "artista": "Eric Montaux",
+    "precio": "Prix sur demande",
+    "precio_num": 0.0,
+    "url": "https://www.ladistillerie66.fr/produit/equilibre-2/",
+    "fecha": "19/08/2026 18:25"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "La Passion",
+    "artista": "Eric Montaux",
+    "precio": "5,200€",
+    "precio_num": 5.2,
+    "url": "https://www.ladistillerie66.fr/produit/la-passion/",
+    "fecha": "19/08/2026 18:25"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "F-Volution",
+    "artista": "Faki",
+    "precio": "2,000€",
+    "precio_num": 2.0,
+    "url": "https://www.ladistillerie66.fr/produit/f-volution/",
+    "fecha": "19/08/2026 18:25"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Graffitisme",
+    "artista": "Faki",
+    "precio": "2,000€",
+    "precio_num": 2.0,
+    "url": "https://www.ladistillerie66.fr/produit/graffitisme/",
+    "fecha": "19/08/2026 18:25"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Dirty Rotten Scoundrels",
+    "artista": "Faki",
+    "precio": "2,500€",
+    "precio_num": 2.5,
+    "url": "https://www.ladistillerie66.fr/produit/dirty-rotten-scoundrels/",
+    "fecha": "19/08/2026 18:25"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Open Your Eyes",
+    "artista": "Faki",
+    "precio": "2,800€",
+    "precio_num": 2.8,
+    "url": "https://www.ladistillerie66.fr/produit/open-your-eyes/",
+    "fecha": "19/08/2026 18:25"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Nena",
+    "artista": "Idan Zareski",
+    "precio": "Prix sur demande",
+    "precio_num": 0.0,
+    "url": "https://www.ladistillerie66.fr/produit/nena-2/",
+    "fecha": "19/08/2026 18:25"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "BabyFoot",
+    "artista": "Idan Zareski",
+    "precio": "Prix sur demande",
+    "precio_num": 0.0,
+    "url": "https://www.ladistillerie66.fr/produit/babyfoot-2/",
+    "fecha": "19/08/2026 18:25"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Le Siffleur",
+    "artista": "Idan Zareski",
+    "precio": "Prix sur demande",
+    "precio_num": 0.0,
+    "url": "https://www.ladistillerie66.fr/produit/le-siffleur-2/",
+    "fecha": "19/08/2026 18:25"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Bigfoot",
+    "artista": "Idan Zareski",
+    "precio": "Prix sur demande",
+    "precio_num": 0.0,
+    "url": "https://www.ladistillerie66.fr/produit/bigfoot/",
+    "fecha": "19/08/2026 18:25"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Vulv'Nic",
+    "artista": "Jalhu6Ne",
+    "precio": "90€",
+    "precio_num": 90.0,
+    "url": "https://www.ladistillerie66.fr/produit/vulvnic/",
+    "fecha": "19/08/2026 18:25"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Vulv'gandhi",
+    "artista": "Jalhu6Ne",
+    "precio": "90€",
+    "precio_num": 90.0,
+    "url": "https://www.ladistillerie66.fr/produit/vulvgandhi/",
+    "fecha": "19/08/2026 18:25"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Vulv' SimoneVeil",
+    "artista": "Jalhu6Ne",
+    "precio": "90€",
+    "precio_num": 90.0,
+    "url": "https://www.ladistillerie66.fr/produit/vulv-simoneveil/",
+    "fecha": "19/08/2026 18:25"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Vulv'Haring",
+    "artista": "Jalhu6Ne",
+    "precio": "90€",
+    "precio_num": 90.0,
+    "url": "https://www.ladistillerie66.fr/produit/vulvharing/",
+    "fecha": "19/08/2026 18:25"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Vulv' Verine",
+    "artista": "Jalhu6Ne",
+    "precio": "90€",
+    "precio_num": 90.0,
+    "url": "https://www.ladistillerie66.fr/produit/vulv-verine/",
+    "fecha": "19/08/2026 18:25"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Vulv'Juice",
+    "artista": "Jalhu6Ne",
+    "precio": "90€",
+    "precio_num": 90.0,
+    "url": "https://www.ladistillerie66.fr/produit/vulvjuice/",
+    "fecha": "19/08/2026 18:25"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Vulv'Uke",
+    "artista": "Jalhu6Ne",
+    "precio": "90€",
+    "precio_num": 90.0,
+    "url": "https://www.ladistillerie66.fr/produit/vulvuke/",
+    "fecha": "19/08/2026 18:25"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Vulv'Marley",
+    "artista": "Jalhu6Ne",
+    "precio": "90€",
+    "precio_num": 90.0,
+    "url": "https://www.ladistillerie66.fr/produit/vulvmarley/",
+    "fecha": "19/08/2026 18:25"
   }
 ]
