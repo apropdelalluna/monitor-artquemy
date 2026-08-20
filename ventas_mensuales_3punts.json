@@ -1724,6 +1724,24 @@
       "precio_num": 0.0,
       "tipo": "nueva_vendida",
       "url": "https://www.3punts.com/es/shop/artwork/lose-control-xavi-noble"
+    },
+    {
+      "fecha": "20/08/2026 15:07",
+      "artista": "Santiago Picatoste",
+      "obra": "Santiago Picatoste Atlas Pangea I",
+      "precio": "Consultar precio",
+      "precio_num": 0.0,
+      "tipo": "vendida",
+      "url": "https://www.3punts.com/es/shop/artwork/santiago-picatoste-atlas-pangea-i"
+    },
+    {
+      "fecha": "20/08/2026 15:07",
+      "artista": "Santiago Picatoste",
+      "obra": "Santiago Picatoste Between",
+      "precio": "Consultar precio",
+      "precio_num": 0.0,
+      "tipo": "vendida",
+      "url": "https://www.3punts.com/es/shop/artwork/santiago-picatoste-between"
     }
   ]
 }
