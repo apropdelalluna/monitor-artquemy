@@ -1,5 +1,5 @@
 {
-  "__hash__": "a2a1ea0cba786b4f057db954f3092d41",
+  "__hash__": "60edafbf54ed58e1d9aba2d3c69f2fea",
   "obras": {
     "https://www.3punts.com/es/shop/artwork/adapta-add-fuel": {
       "titulo": "",
@@ -3073,6 +3073,22 @@
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/mujer-jose-luis-pacual"
     },
+    "https://www.3punts.com/es/shop/artwork/versidad-juan-diaz-faes": {
+      "titulo": "",
+      "artista": "Juan Díaz-Faes",
+      "precio": "1 700,00 €",
+      "precio_num": 1700.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/versidad-juan-diaz-faes"
+    },
+    "https://www.3punts.com/es/shop/artwork/rockanrolla-juan-diaz-faes": {
+      "titulo": "",
+      "artista": "Juan Díaz-Faes",
+      "precio": "2 800,00 €",
+      "precio_num": 2800.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/rockanrolla-juan-diaz-faes"
+    },
     "https://www.3punts.com/es/shop/artwork/despertar-en-lauzenette-juan-luis-jardi": {
       "titulo": "",
       "artista": "Juan Luís Jardí",
@@ -5744,22 +5760,6 @@
       "precio_num": 4600.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/sebastia-marti-asfixia"
-    },
-    "https://www.3punts.com/es/shop/artwork/sebastia-marti-sueno-esparcido": {
-      "titulo": "",
-      "artista": "Sebastià Martí",
-      "precio": "4 900,00 €",
-      "precio_num": 4900.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/sebastia-marti-sueno-esparcido"
-    },
-    "https://www.3punts.com/es/shop/artwork/sebastia-marti-te-de-manzana": {
-      "titulo": "",
-      "artista": "Sebastià Martí",
-      "precio": "4 900,00 €",
-      "precio_num": 4900.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/sebastia-marti-te-de-manzana"
     }
   }
 }
