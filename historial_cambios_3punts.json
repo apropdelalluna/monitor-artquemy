@@ -9319,5 +9319,203 @@
     "precio_num": 300.0,
     "url": "https://www.3punts.com/es/shop/artwork/sense-titol-ferran-alejandre-0",
     "fecha": "19/08/2026 18:22"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Luis Feo",
+    "precio": "1 100,00 €",
+    "precio_num": 1100.0,
+    "url": "https://www.3punts.com/es/shop/artwork/tintero",
+    "fecha": "20/08/2026 15:07"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Luis Feo",
+    "precio": "1 100,00 €",
+    "precio_num": 1100.0,
+    "url": "https://www.3punts.com/es/shop/artwork/bocina",
+    "fecha": "20/08/2026 15:07"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Luis Feo",
+    "precio": "1 100,00 €",
+    "precio_num": 1100.0,
+    "url": "https://www.3punts.com/es/shop/artwork/lavabo-luis-feo",
+    "fecha": "20/08/2026 15:07"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Luis Feo",
+    "precio": "1 200,00 €",
+    "precio_num": 1200.0,
+    "url": "https://www.3punts.com/es/shop/artwork/bisonte-ii-luis-feo",
+    "fecha": "20/08/2026 15:07"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Luis Feo",
+    "precio": "1 200,00 €",
+    "precio_num": 1200.0,
+    "url": "https://www.3punts.com/es/shop/artwork/st-luis-feo",
+    "fecha": "20/08/2026 15:07"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Luis Feo",
+    "precio": "1 200,00 €",
+    "precio_num": 1200.0,
+    "url": "https://www.3punts.com/es/shop/artwork/st-ii-luis-feo",
+    "fecha": "20/08/2026 15:07"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Luis Feo",
+    "precio": "2 900,00 €",
+    "precio_num": 2900.0,
+    "url": "https://www.3punts.com/es/shop/artwork/polar-bear-luis-feo",
+    "fecha": "20/08/2026 15:07"
+  },
+  {
+    "tipo": "vendida",
+    "titulo": "Santiago Picatoste Atlas Pangea I",
+    "artista": "Santiago Picatoste",
+    "precio": "Consultar precio",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/santiago-picatoste-atlas-pangea-i",
+    "fecha": "20/08/2026 15:07"
+  },
+  {
+    "tipo": "vendida",
+    "titulo": "Santiago Picatoste Between",
+    "artista": "Santiago Picatoste",
+    "precio": "Consultar precio",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/santiago-picatoste-between",
+    "fecha": "20/08/2026 15:07"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Santiago Picatoste",
+    "precio": "8 400,00 €",
+    "precio_num": 8400.0,
+    "url": "https://www.3punts.com/es/shop/artwork/limbo-fluo-orange-santiago-picatoste",
+    "fecha": "20/08/2026 15:07"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Santiago Picatoste",
+    "precio": "8 400,00 €",
+    "precio_num": 8400.0,
+    "url": "https://www.3punts.com/es/shop/artwork/limbo-fluo-pink-santiago-picatoste",
+    "fecha": "20/08/2026 15:07"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Santiago Picatoste",
+    "precio": "8 400,00 €",
+    "precio_num": 8400.0,
+    "url": "https://www.3punts.com/es/shop/artwork/limbo-fluo-yellow-santiago-picatoste",
+    "fecha": "20/08/2026 15:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Sebastià Martí",
+    "precio": "2 100,00 €",
+    "precio_num": 2100.0,
+    "url": "https://www.3punts.com/es/shop/artwork/sebastia-marti-fobofobia-ii",
+    "fecha": "20/08/2026 15:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Sebastià Martí",
+    "precio": "2 500,00 €",
+    "precio_num": 2500.0,
+    "url": "https://www.3punts.com/es/shop/artwork/sebastia-marti-aguza-punzante",
+    "fecha": "20/08/2026 15:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Sebastià Martí",
+    "precio": "3 500,00 €",
+    "precio_num": 3500.0,
+    "url": "https://www.3punts.com/es/shop/artwork/sebastia-marti-el-loco-marcus-o-el-teratoma-de-la-locura",
+    "fecha": "20/08/2026 15:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Sebastià Martí",
+    "precio": "3 900,00 €",
+    "precio_num": 3900.0,
+    "url": "https://www.3punts.com/es/shop/artwork/sebastia-marti-la-vie-continue",
+    "fecha": "20/08/2026 15:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Sebastià Martí",
+    "precio": "350,00 €",
+    "precio_num": 350.0,
+    "url": "https://www.3punts.com/es/shop/artwork/sebastia-marti-dibujo-pistola-laser",
+    "fecha": "20/08/2026 15:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Sebastia Marti Dibujo Fobofobia I",
+    "artista": "Sebastià Martí",
+    "precio": "Precio no disponible",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/sebastia-marti-dibujo-fobofobia-i",
+    "fecha": "20/08/2026 15:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Sebastià Martí",
+    "precio": "750,00 €",
+    "precio_num": 750.0,
+    "url": "https://www.3punts.com/es/shop/artwork/sebastia-marti-dibujo-codigo-baturro",
+    "fecha": "20/08/2026 15:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Sebastià Martí",
+    "precio": "750,00 €",
+    "precio_num": 750.0,
+    "url": "https://www.3punts.com/es/shop/artwork/sebastia-marti-dibujo-astronauta",
+    "fecha": "20/08/2026 15:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Sebastia Marti Dibujo Sueno Esparcido",
+    "artista": "Sebastià Martí",
+    "precio": "Precio no disponible",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/sebastia-marti-dibujo-sueno-esparcido",
+    "fecha": "20/08/2026 15:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Sebastià Martí",
+    "precio": "950,00 €",
+    "precio_num": 950.0,
+    "url": "https://www.3punts.com/es/shop/artwork/sebastia-marti-machine",
+    "fecha": "20/08/2026 15:07"
   }
 ]
