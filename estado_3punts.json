@@ -1,5 +1,5 @@
 {
-  "__hash__": "61d000bc551093263ed3389f600a4788",
+  "__hash__": "a2a1ea0cba786b4f057db954f3092d41",
   "obras": {
     "https://www.3punts.com/es/shop/artwork/adapta-add-fuel": {
       "titulo": "",
@@ -3737,6 +3737,62 @@
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/loretta-lux-hugo-dylan"
     },
+    "https://www.3punts.com/es/shop/artwork/tintero": {
+      "titulo": "",
+      "artista": "Luis Feo",
+      "precio": "1 100,00 €",
+      "precio_num": 1100.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/tintero"
+    },
+    "https://www.3punts.com/es/shop/artwork/bocina": {
+      "titulo": "",
+      "artista": "Luis Feo",
+      "precio": "1 100,00 €",
+      "precio_num": 1100.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/bocina"
+    },
+    "https://www.3punts.com/es/shop/artwork/lavabo-luis-feo": {
+      "titulo": "",
+      "artista": "Luis Feo",
+      "precio": "1 100,00 €",
+      "precio_num": 1100.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/lavabo-luis-feo"
+    },
+    "https://www.3punts.com/es/shop/artwork/bisonte-ii-luis-feo": {
+      "titulo": "",
+      "artista": "Luis Feo",
+      "precio": "1 200,00 €",
+      "precio_num": 1200.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/bisonte-ii-luis-feo"
+    },
+    "https://www.3punts.com/es/shop/artwork/st-luis-feo": {
+      "titulo": "",
+      "artista": "Luis Feo",
+      "precio": "1 200,00 €",
+      "precio_num": 1200.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/st-luis-feo"
+    },
+    "https://www.3punts.com/es/shop/artwork/st-ii-luis-feo": {
+      "titulo": "",
+      "artista": "Luis Feo",
+      "precio": "1 200,00 €",
+      "precio_num": 1200.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/st-ii-luis-feo"
+    },
+    "https://www.3punts.com/es/shop/artwork/polar-bear-luis-feo": {
+      "titulo": "",
+      "artista": "Luis Feo",
+      "precio": "2 900,00 €",
+      "precio_num": 2900.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/polar-bear-luis-feo"
+    },
     "https://www.3punts.com/es/shop/artwork/head-luis-vidal": {
       "titulo": "",
       "artista": "Luis Vidal",
@@ -5514,11 +5570,11 @@
       "url": "https://www.3punts.com/es/shop/artwork/santiago-picatoste-atlas-astartes-ii"
     },
     "https://www.3punts.com/es/shop/artwork/santiago-picatoste-atlas-pangea-i": {
-      "titulo": "",
+      "titulo": "Santiago Picatoste Atlas Pangea I",
       "artista": "Santiago Picatoste",
-      "precio": "Consultar precio",
+      "precio": "Precio no disponible",
       "precio_num": 0.0,
-      "estado": "disponible",
+      "estado": "vendido",
       "url": "https://www.3punts.com/es/shop/artwork/santiago-picatoste-atlas-pangea-i"
     },
     "https://www.3punts.com/es/shop/artwork/santiago-picatoste-atlas-sororitas-i": {
@@ -5578,11 +5634,11 @@
       "url": "https://www.3punts.com/es/shop/artwork/santiago-picatoste-limbo-canvas-fluo-i"
     },
     "https://www.3punts.com/es/shop/artwork/santiago-picatoste-between": {
-      "titulo": "",
+      "titulo": "Santiago Picatoste Between",
       "artista": "Santiago Picatoste",
-      "precio": "Consultar precio",
+      "precio": "Precio no disponible",
       "precio_num": 0.0,
-      "estado": "disponible",
+      "estado": "vendido",
       "url": "https://www.3punts.com/es/shop/artwork/santiago-picatoste-between"
     },
     "https://www.3punts.com/es/shop/artwork/santiago-picatoste-atlas-lux-i": {
@@ -5624,6 +5680,30 @@
       "precio_num": 0.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/santiago-picatoste-chirality-9"
+    },
+    "https://www.3punts.com/es/shop/artwork/limbo-fluo-orange-santiago-picatoste": {
+      "titulo": "",
+      "artista": "Santiago Picatoste",
+      "precio": "8 400,00 €",
+      "precio_num": 8400.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/limbo-fluo-orange-santiago-picatoste"
+    },
+    "https://www.3punts.com/es/shop/artwork/limbo-fluo-pink-santiago-picatoste": {
+      "titulo": "",
+      "artista": "Santiago Picatoste",
+      "precio": "8 400,00 €",
+      "precio_num": 8400.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/limbo-fluo-pink-santiago-picatoste"
+    },
+    "https://www.3punts.com/es/shop/artwork/limbo-fluo-yellow-santiago-picatoste": {
+      "titulo": "",
+      "artista": "Santiago Picatoste",
+      "precio": "8 400,00 €",
+      "precio_num": 8400.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/limbo-fluo-yellow-santiago-picatoste"
     },
     "https://www.3punts.com/es/shop/artwork/sebastia-marti-cor-de-peluix": {
       "titulo": "",
@@ -5680,86 +5760,6 @@
       "precio_num": 4900.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/sebastia-marti-te-de-manzana"
-    },
-    "https://www.3punts.com/es/shop/artwork/sebastia-marti-fobofobia-ii": {
-      "titulo": "",
-      "artista": "Sebastià Martí",
-      "precio": "2 100,00 €",
-      "precio_num": 2100.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/sebastia-marti-fobofobia-ii"
-    },
-    "https://www.3punts.com/es/shop/artwork/sebastia-marti-aguza-punzante": {
-      "titulo": "",
-      "artista": "Sebastià Martí",
-      "precio": "2 500,00 €",
-      "precio_num": 2500.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/sebastia-marti-aguza-punzante"
-    },
-    "https://www.3punts.com/es/shop/artwork/sebastia-marti-el-loco-marcus-o-el-teratoma-de-la-locura": {
-      "titulo": "",
-      "artista": "Sebastià Martí",
-      "precio": "3 500,00 €",
-      "precio_num": 3500.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/sebastia-marti-el-loco-marcus-o-el-teratoma-de-la-locura"
-    },
-    "https://www.3punts.com/es/shop/artwork/sebastia-marti-la-vie-continue": {
-      "titulo": "",
-      "artista": "Sebastià Martí",
-      "precio": "3 900,00 €",
-      "precio_num": 3900.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/sebastia-marti-la-vie-continue"
-    },
-    "https://www.3punts.com/es/shop/artwork/sebastia-marti-dibujo-pistola-laser": {
-      "titulo": "",
-      "artista": "Sebastià Martí",
-      "precio": "350,00 €",
-      "precio_num": 350.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/sebastia-marti-dibujo-pistola-laser"
-    },
-    "https://www.3punts.com/es/shop/artwork/sebastia-marti-dibujo-fobofobia-i": {
-      "titulo": "Sebastia Marti Dibujo Fobofobia I",
-      "artista": "Sebastià Martí",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/sebastia-marti-dibujo-fobofobia-i"
-    },
-    "https://www.3punts.com/es/shop/artwork/sebastia-marti-dibujo-codigo-baturro": {
-      "titulo": "",
-      "artista": "Sebastià Martí",
-      "precio": "750,00 €",
-      "precio_num": 750.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/sebastia-marti-dibujo-codigo-baturro"
-    },
-    "https://www.3punts.com/es/shop/artwork/sebastia-marti-dibujo-astronauta": {
-      "titulo": "",
-      "artista": "Sebastià Martí",
-      "precio": "750,00 €",
-      "precio_num": 750.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/sebastia-marti-dibujo-astronauta"
-    },
-    "https://www.3punts.com/es/shop/artwork/sebastia-marti-dibujo-sueno-esparcido": {
-      "titulo": "Sebastia Marti Dibujo Sueno Esparcido",
-      "artista": "Sebastià Martí",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/sebastia-marti-dibujo-sueno-esparcido"
-    },
-    "https://www.3punts.com/es/shop/artwork/sebastia-marti-machine": {
-      "titulo": "",
-      "artista": "Sebastià Martí",
-      "precio": "950,00 €",
-      "precio_num": 950.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/sebastia-marti-machine"
     }
   }
 }
