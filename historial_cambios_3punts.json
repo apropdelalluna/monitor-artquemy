@@ -9517,5 +9517,41 @@
     "precio_num": 950.0,
     "url": "https://www.3punts.com/es/shop/artwork/sebastia-marti-machine",
     "fecha": "20/08/2026 15:07"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Juan Díaz-Faes",
+    "precio": "1 700,00 €",
+    "precio_num": 1700.0,
+    "url": "https://www.3punts.com/es/shop/artwork/versidad-juan-diaz-faes",
+    "fecha": "20/08/2026 21:51"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Juan Díaz-Faes",
+    "precio": "2 800,00 €",
+    "precio_num": 2800.0,
+    "url": "https://www.3punts.com/es/shop/artwork/rockanrolla-juan-diaz-faes",
+    "fecha": "20/08/2026 21:51"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Sebastià Martí",
+    "precio": "4 900,00 €",
+    "precio_num": 4900.0,
+    "url": "https://www.3punts.com/es/shop/artwork/sebastia-marti-sueno-esparcido",
+    "fecha": "20/08/2026 21:51"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Sebastià Martí",
+    "precio": "4 900,00 €",
+    "precio_num": 4900.0,
+    "url": "https://www.3punts.com/es/shop/artwork/sebastia-marti-te-de-manzana",
+    "fecha": "20/08/2026 21:51"
   }
 ]
