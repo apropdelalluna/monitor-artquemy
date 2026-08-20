@@ -12283,5 +12283,19 @@
         "url": "https://artquemy.com/producto/magic-art-vase-graffiti/"
       }
     ]
+  },
+  {
+    "fecha": "20/08/2026 15:03",
+    "artista": "Camil Escruela",
+    "cambios_obras": [
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "Homatge a Basquiat",
+        "precio": "~€3.800",
+        "precio_num": 3800.0,
+        "precio_estimado": true,
+        "url": "https://artquemy.com/producto/homatge-a-basquiat/"
+      }
+    ]
   }
 ]
