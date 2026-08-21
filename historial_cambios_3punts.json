@@ -9553,5 +9553,104 @@
     "precio_num": 4900.0,
     "url": "https://www.3punts.com/es/shop/artwork/sebastia-marti-te-de-manzana",
     "fecha": "20/08/2026 21:51"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Bidias Romaric",
+    "precio": "7 000,00 €",
+    "precio_num": 7000.0,
+    "url": "https://www.3punts.com/es/shop/artwork/my-partenaire-bidias-romaric",
+    "fecha": "21/08/2026 14:35"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "David La Chapelle",
+    "precio": "Consultar precio",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/jonah-awakened-series",
+    "fecha": "21/08/2026 14:35"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Eric Croes",
+    "precio": "11 300,00 €",
+    "precio_num": 11300.0,
+    "url": "https://www.3punts.com/es/shop/artwork/alchemist-eric-croes",
+    "fecha": "21/08/2026 14:35"
+  },
+  {
+    "tipo": "vendida",
+    "titulo": "Dama Del Espantasuegras Gerard Mas",
+    "artista": "Gerard Mas",
+    "precio": "4 800,00 €",
+    "precio_num": 4800.0,
+    "url": "https://www.3punts.com/es/shop/artwork/dama-del-espantasuegras-gerard-mas",
+    "fecha": "21/08/2026 14:35"
+  },
+  {
+    "tipo": "vendida",
+    "titulo": "Mom Tattoo Lady Gerard Mas",
+    "artista": "Gerard Mas",
+    "precio": "4 800,00 €",
+    "precio_num": 4800.0,
+    "url": "https://www.3punts.com/es/shop/artwork/mom-tattoo-lady-gerard-mas",
+    "fecha": "21/08/2026 14:35"
+  },
+  {
+    "tipo": "vendida",
+    "titulo": "St Luis Feo",
+    "artista": "Luis Feo",
+    "precio": "1 200,00 €",
+    "precio_num": 1200.0,
+    "url": "https://www.3punts.com/es/shop/artwork/st-luis-feo",
+    "fecha": "21/08/2026 14:35"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Marjolijn Mandersloot",
+    "precio": "Consultar precio",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/soul-sisters-marjolijn-mandersloot",
+    "fecha": "21/08/2026 14:35"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Sebastià Martí",
+    "precio": "3 300,00 €",
+    "precio_num": 3300.0,
+    "url": "https://www.3punts.com/es/shop/artwork/sebastia-marti-fobofobia-i",
+    "fecha": "21/08/2026 14:35"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Sebastià Martí",
+    "precio": "3 500,00 €",
+    "precio_num": 3500.0,
+    "url": "https://www.3punts.com/es/shop/artwork/sebastia-marti-scarabaeus-qui-volare-non-poterat",
+    "fecha": "21/08/2026 14:35"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Sebastià Martí",
+    "precio": "3 600,00 €",
+    "precio_num": 3600.0,
+    "url": "https://www.3punts.com/es/shop/artwork/sebastia-marti-codigo-baturro",
+    "fecha": "21/08/2026 14:35"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Sebastià Martí",
+    "precio": "4 600,00 €",
+    "precio_num": 4600.0,
+    "url": "https://www.3punts.com/es/shop/artwork/sebastia-marti-asfixia",
+    "fecha": "21/08/2026 14:35"
   }
 ]
