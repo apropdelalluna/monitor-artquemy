@@ -1742,6 +1742,33 @@
       "precio_num": 0.0,
       "tipo": "vendida",
       "url": "https://www.3punts.com/es/shop/artwork/santiago-picatoste-between"
+    },
+    {
+      "fecha": "21/08/2026 14:35",
+      "artista": "Gerard Mas",
+      "obra": "Dama Del Espantasuegras Gerard Mas",
+      "precio": "4 800,00 €",
+      "precio_num": 4800.0,
+      "tipo": "vendida",
+      "url": "https://www.3punts.com/es/shop/artwork/dama-del-espantasuegras-gerard-mas"
+    },
+    {
+      "fecha": "21/08/2026 14:35",
+      "artista": "Gerard Mas",
+      "obra": "Mom Tattoo Lady Gerard Mas",
+      "precio": "4 800,00 €",
+      "precio_num": 4800.0,
+      "tipo": "vendida",
+      "url": "https://www.3punts.com/es/shop/artwork/mom-tattoo-lady-gerard-mas"
+    },
+    {
+      "fecha": "21/08/2026 14:35",
+      "artista": "Luis Feo",
+      "obra": "St Luis Feo",
+      "precio": "1 200,00 €",
+      "precio_num": 1200.0,
+      "tipo": "vendida",
+      "url": "https://www.3punts.com/es/shop/artwork/st-luis-feo"
     }
   ]
 }
