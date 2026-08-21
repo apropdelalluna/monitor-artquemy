@@ -1,5 +1,5 @@
 {
-  "__hash__": "60edafbf54ed58e1d9aba2d3c69f2fea",
+  "__hash__": "d22c170af23e9ad2cbe68b5ab805d423",
   "obras": {
     "https://www.3punts.com/es/shop/artwork/adapta-add-fuel": {
       "titulo": "",
@@ -1361,6 +1361,14 @@
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/antonio-beneytoserie-color-1"
     },
+    "https://www.3punts.com/es/shop/artwork/my-partenaire-bidias-romaric": {
+      "titulo": "",
+      "artista": "Bidias Romaric",
+      "precio": "7 000,00 €",
+      "precio_num": 7000.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/my-partenaire-bidias-romaric"
+    },
     "https://www.3punts.com/es/shop/artwork/toyz-sex-bear-boris-hoppek": {
       "titulo": "",
       "artista": "Boris Hoppek",
@@ -1545,6 +1553,14 @@
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/pink-daniel-geo-fuchs"
     },
+    "https://www.3punts.com/es/shop/artwork/jonah-awakened-series": {
+      "titulo": "",
+      "artista": "David La Chapelle",
+      "precio": "Consultar precio",
+      "precio_num": 0.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/jonah-awakened-series"
+    },
     "https://www.3punts.com/es/shop/artwork/oh-oh-antonio-david-spiller": {
       "titulo": "",
       "artista": "David Spiller",
@@ -1672,6 +1688,14 @@
       "precio_num": 7000.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/del-aire-xvii-emilio-pascual"
+    },
+    "https://www.3punts.com/es/shop/artwork/alchemist-eric-croes": {
+      "titulo": "",
+      "artista": "Eric Croes",
+      "precio": "11 300,00 €",
+      "precio_num": 11300.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/alchemist-eric-croes"
     },
     "https://www.3punts.com/es/shop/artwork/st-i-erwin-bechtold": {
       "titulo": "",
@@ -1874,11 +1898,11 @@
       "url": "https://www.3punts.com/es/shop/artwork/lollipop-lady-toy-edition-gerard-mas"
     },
     "https://www.3punts.com/es/shop/artwork/dama-del-espantasuegras-gerard-mas": {
-      "titulo": "",
+      "titulo": "Dama Del Espantasuegras Gerard Mas",
       "artista": "Gerard Mas",
-      "precio": "4 800,00 €",
-      "precio_num": 4800.0,
-      "estado": "disponible",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "estado": "vendido",
       "url": "https://www.3punts.com/es/shop/artwork/dama-del-espantasuegras-gerard-mas"
     },
     "https://www.3punts.com/es/shop/artwork/gerard-masdama-de-baqueira": {
@@ -1898,11 +1922,11 @@
       "url": "https://www.3punts.com/es/shop/artwork/gerard-masdama-del-collar"
     },
     "https://www.3punts.com/es/shop/artwork/mom-tattoo-lady-gerard-mas": {
-      "titulo": "",
+      "titulo": "Mom Tattoo Lady Gerard Mas",
       "artista": "Gerard Mas",
-      "precio": "4 800,00 €",
-      "precio_num": 4800.0,
-      "estado": "disponible",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "estado": "vendido",
       "url": "https://www.3punts.com/es/shop/artwork/mom-tattoo-lady-gerard-mas"
     },
     "https://www.3punts.com/es/shop/artwork/frida-gerard-mas": {
@@ -2267,7 +2291,7 @@
     },
     "https://www.3punts.com/es/shop/artwork/relax-hossein-azadi": {
       "titulo": "",
-      "artista": "Hosein Azadi",
+      "artista": "Hossein Azadi",
       "precio": "4 200,00 €",
       "precio_num": 4200.0,
       "estado": "disponible",
@@ -3786,11 +3810,11 @@
       "url": "https://www.3punts.com/es/shop/artwork/bisonte-ii-luis-feo"
     },
     "https://www.3punts.com/es/shop/artwork/st-luis-feo": {
-      "titulo": "",
+      "titulo": "St Luis Feo",
       "artista": "Luis Feo",
-      "precio": "1 200,00 €",
-      "precio_num": 1200.0,
-      "estado": "disponible",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "estado": "vendido",
       "url": "https://www.3punts.com/es/shop/artwork/st-luis-feo"
     },
     "https://www.3punts.com/es/shop/artwork/st-ii-luis-feo": {
@@ -3976,6 +4000,14 @@
       "precio_num": 6000.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/tucsa-marcel-marti"
+    },
+    "https://www.3punts.com/es/shop/artwork/soul-sisters-marjolijn-mandersloot": {
+      "titulo": "",
+      "artista": "Marjolijn Mandersloot",
+      "precio": "Consultar precio",
+      "precio_num": 0.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/soul-sisters-marjolijn-mandersloot"
     },
     "https://www.3punts.com/es/shop/artwork/mark-laitacatholic-nuns": {
       "titulo": "Mark Laitacatholic Nuns",
@@ -5728,38 +5760,6 @@
       "precio_num": 3300.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/sebastia-marti-cor-de-peluix"
-    },
-    "https://www.3punts.com/es/shop/artwork/sebastia-marti-fobofobia-i": {
-      "titulo": "",
-      "artista": "Sebastià Martí",
-      "precio": "3 300,00 €",
-      "precio_num": 3300.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/sebastia-marti-fobofobia-i"
-    },
-    "https://www.3punts.com/es/shop/artwork/sebastia-marti-scarabaeus-qui-volare-non-poterat": {
-      "titulo": "",
-      "artista": "Sebastià Martí",
-      "precio": "3 500,00 €",
-      "precio_num": 3500.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/sebastia-marti-scarabaeus-qui-volare-non-poterat"
-    },
-    "https://www.3punts.com/es/shop/artwork/sebastia-marti-codigo-baturro": {
-      "titulo": "",
-      "artista": "Sebastià Martí",
-      "precio": "3 600,00 €",
-      "precio_num": 3600.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/sebastia-marti-codigo-baturro"
-    },
-    "https://www.3punts.com/es/shop/artwork/sebastia-marti-asfixia": {
-      "titulo": "",
-      "artista": "Sebastià Martí",
-      "precio": "4 600,00 €",
-      "precio_num": 4600.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/sebastia-marti-asfixia"
     }
   }
 }
