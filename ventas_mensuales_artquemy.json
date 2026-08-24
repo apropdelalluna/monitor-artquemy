@@ -7739,6 +7739,15 @@
       "precio_num": 3800.0,
       "tipo": "nueva_vendida",
       "url": "https://artquemy.com/producto/homatge-a-basquiat/"
+    },
+    {
+      "fecha": "24/08/2026 22:07",
+      "artista": "Camil Escruela",
+      "obra": "Untitled Ill",
+      "precio": "€200,00",
+      "precio_num": 200.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/untitled-ill/"
     }
   ]
 }
