@@ -12302,5 +12302,59 @@
     "fecha": "22/08/2026 18:51",
     "artista": "Camil Escruela",
     "cambios_obras": []
+  },
+  {
+    "fecha": "24/08/2026 22:07",
+    "artista": "Camil Escruela",
+    "cambios_obras": [
+      {
+        "tipo": "vendida",
+        "titulo": "Untitled Ill",
+        "precio": "€200,00",
+        "precio_num": 200.0,
+        "url": "https://artquemy.com/producto/untitled-ill/"
+      }
+    ]
+  },
+  {
+    "fecha": "24/08/2026 22:07",
+    "artista": "Ciro Marra",
+    "cambios_obras": [
+      {
+        "tipo": "eliminada",
+        "titulo": "Il grido del silenzio",
+        "precio": "€2.400,00",
+        "precio_num": 2400.0,
+        "url": "https://artquemy.com/producto/il-grido-del-silenzio/"
+      },
+      {
+        "tipo": "eliminada",
+        "titulo": "Just Soul 088 Oltremare",
+        "precio": "€1.890,00",
+        "precio_num": 1890.0,
+        "url": "https://artquemy.com/producto/just-soul-088-oltremare/"
+      },
+      {
+        "tipo": "eliminada",
+        "titulo": "Autoritratto distratto",
+        "precio": "€1.820,00",
+        "precio_num": 1820.0,
+        "url": "https://artquemy.com/producto/autoritratto-distratto-2/"
+      },
+      {
+        "tipo": "eliminada",
+        "titulo": "Pace Esteriore",
+        "precio": "€720,00",
+        "precio_num": 720.0,
+        "url": "https://artquemy.com/producto/pace-esteriore/"
+      },
+      {
+        "tipo": "eliminada",
+        "titulo": "Just Soul 016",
+        "precio": "€250,00",
+        "precio_num": 250.0,
+        "url": "https://artquemy.com/producto/just-soul-016/"
+      }
+    ]
   }
 ]
