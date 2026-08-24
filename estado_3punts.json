@@ -1,6 +1,14 @@
 {
-  "__hash__": "d22c170af23e9ad2cbe68b5ab805d423",
+  "__hash__": "cb60fd529d3f593d687b54fba8684e4c",
   "obras": {
+    "https://www.3punts.com/es/shop/artwork/vincent-vega-pulp-fiction": {
+      "titulo": "",
+      "artista": "",
+      "precio": "1 200,00 €",
+      "precio_num": 1200.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/vincent-vega-pulp-fiction"
+    },
     "https://www.3punts.com/es/shop/artwork/adapta-add-fuel": {
       "titulo": "",
       "artista": "ADD FUEL",
@@ -528,6 +536,14 @@
       "precio_num": 4600.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/uoap-green-alex-palli-0"
+    },
+    "https://www.3punts.com/es/shop/artwork/young-woman-pearl-alex-varenne": {
+      "titulo": "",
+      "artista": "Alex Varenne",
+      "precio": "3 500,00 €",
+      "precio_num": 3500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/young-woman-pearl-alex-varenne"
     },
     "https://www.3punts.com/es/shop/artwork/erasmo-vii-amadeo-gabino": {
       "titulo": "",
@@ -1658,11 +1674,11 @@
       "url": "https://www.3punts.com/es/shop/artwork/snow-white-forbidden-brain-diamond-dust-emilio-garcia"
     },
     "https://www.3punts.com/es/shop/artwork/forbbiden-brain-emilio-garcia": {
-      "titulo": "",
+      "titulo": "Forbbiden Brain Emilio Garcia",
       "artista": "Emilio Garcia",
-      "precio": "1 100,00 €",
-      "precio_num": 1100.0,
-      "estado": "disponible",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "estado": "vendido",
       "url": "https://www.3punts.com/es/shop/artwork/forbbiden-brain-emilio-garcia"
     },
     "https://www.3punts.com/es/shop/artwork/del-aire-v-emilio-pascual": {
@@ -2312,6 +2328,14 @@
       "precio_num": 1000.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/fog-ira-lombardia"
+    },
+    "https://www.3punts.com/es/shop/artwork/or-whitout-god-our-side-james-rielly": {
+      "titulo": "",
+      "artista": "James Rielly",
+      "precio": "7 000,00 €",
+      "precio_num": 7000.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/or-whitout-god-our-side-james-rielly"
     },
     "https://www.3punts.com/es/shop/artwork/big-blue-jan-hunling": {
       "titulo": "",
@@ -4337,6 +4361,22 @@
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/blue-sensation-pedro-cherino"
     },
+    "https://www.3punts.com/es/shop/artwork/mia-wallace-pulp-fiction": {
+      "titulo": "",
+      "artista": "Perishable Rush",
+      "precio": "1 200,00 €",
+      "precio_num": 1200.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/mia-wallace-pulp-fiction"
+    },
+    "https://www.3punts.com/es/shop/artwork/keith-haring-perishable-rush": {
+      "titulo": "",
+      "artista": "Perishable Rush",
+      "precio": "1 200,00 €",
+      "precio_num": 1200.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/keith-haring-perishable-rush"
+    },
     "https://www.3punts.com/es/shop/artwork/ramon-surinyacserie-love-letters-7": {
       "titulo": "",
       "artista": "Ramon Surinyac",
@@ -5720,46 +5760,6 @@
       "precio_num": 0.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/santiago-picatoste-chirality-2"
-    },
-    "https://www.3punts.com/es/shop/artwork/santiago-picatoste-chirality-9": {
-      "titulo": "",
-      "artista": "Santiago Picatoste",
-      "precio": "Consultar precio",
-      "precio_num": 0.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/santiago-picatoste-chirality-9"
-    },
-    "https://www.3punts.com/es/shop/artwork/limbo-fluo-orange-santiago-picatoste": {
-      "titulo": "",
-      "artista": "Santiago Picatoste",
-      "precio": "8 400,00 €",
-      "precio_num": 8400.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/limbo-fluo-orange-santiago-picatoste"
-    },
-    "https://www.3punts.com/es/shop/artwork/limbo-fluo-pink-santiago-picatoste": {
-      "titulo": "",
-      "artista": "Santiago Picatoste",
-      "precio": "8 400,00 €",
-      "precio_num": 8400.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/limbo-fluo-pink-santiago-picatoste"
-    },
-    "https://www.3punts.com/es/shop/artwork/limbo-fluo-yellow-santiago-picatoste": {
-      "titulo": "",
-      "artista": "Santiago Picatoste",
-      "precio": "8 400,00 €",
-      "precio_num": 8400.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/limbo-fluo-yellow-santiago-picatoste"
-    },
-    "https://www.3punts.com/es/shop/artwork/sebastia-marti-cor-de-peluix": {
-      "titulo": "",
-      "artista": "Sebastià Martí",
-      "precio": "3 300,00 €",
-      "precio_num": 3300.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/sebastia-marti-cor-de-peluix"
     }
   }
 }
