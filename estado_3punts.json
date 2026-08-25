@@ -1,5 +1,5 @@
 {
-  "__hash__": "cb60fd529d3f593d687b54fba8684e4c",
+  "__hash__": "ddb8223c15671fff332f9fb4eddd3607",
   "obras": {
     "https://www.3punts.com/es/shop/artwork/vincent-vega-pulp-fiction": {
       "titulo": "",
@@ -3769,6 +3769,38 @@
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/wizard-leonora-carrington"
     },
+    "https://www.3punts.com/es/shop/artwork/mickey-novia-liliana-porter": {
+      "titulo": "",
+      "artista": "Liliana Porter",
+      "precio": "1 500,00 €",
+      "precio_num": 1500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/mickey-novia-liliana-porter"
+    },
+    "https://www.3punts.com/es/shop/artwork/patito-bailarina-liliana-porter": {
+      "titulo": "",
+      "artista": "Liliana Porter",
+      "precio": "1 500,00 €",
+      "precio_num": 1500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/patito-bailarina-liliana-porter"
+    },
+    "https://www.3punts.com/es/shop/artwork/dialogo-con-eso-ii-liliana-porter": {
+      "titulo": "",
+      "artista": "Liliana Porter",
+      "precio": "1 500,00 €",
+      "precio_num": 1500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/dialogo-con-eso-ii-liliana-porter"
+    },
+    "https://www.3punts.com/es/shop/artwork/tres-de-ellos-liliana-porter": {
+      "titulo": "",
+      "artista": "Liliana Porter",
+      "precio": "1 500,00 €",
+      "precio_num": 1500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/tres-de-ellos-liliana-porter"
+    },
     "https://www.3punts.com/es/shop/artwork/lluis-roigfood-wheels": {
       "titulo": "",
       "artista": "Lluis Roig",
@@ -5728,38 +5760,6 @@
       "precio_num": 0.0,
       "estado": "vendido",
       "url": "https://www.3punts.com/es/shop/artwork/santiago-picatoste-between"
-    },
-    "https://www.3punts.com/es/shop/artwork/santiago-picatoste-atlas-lux-i": {
-      "titulo": "",
-      "artista": "Santiago Picatoste",
-      "precio": "Consultar precio",
-      "precio_num": 0.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/santiago-picatoste-atlas-lux-i"
-    },
-    "https://www.3punts.com/es/shop/artwork/santiago-picatoste-atlas-tenebrae-i": {
-      "titulo": "",
-      "artista": "Santiago Picatoste",
-      "precio": "Consultar precio",
-      "precio_num": 0.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/santiago-picatoste-atlas-tenebrae-i"
-    },
-    "https://www.3punts.com/es/shop/artwork/santiago-picatoste-oublie-i": {
-      "titulo": "",
-      "artista": "Santiago Picatoste",
-      "precio": "Consultar precio",
-      "precio_num": 0.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/santiago-picatoste-oublie-i"
-    },
-    "https://www.3punts.com/es/shop/artwork/santiago-picatoste-chirality-2": {
-      "titulo": "",
-      "artista": "Santiago Picatoste",
-      "precio": "Consultar precio",
-      "precio_num": 0.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/santiago-picatoste-chirality-2"
     }
   }
 }
