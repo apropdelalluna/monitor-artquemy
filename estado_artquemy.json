@@ -1165,8 +1165,8 @@
     }
   },
   "Carola Bagnato": {
-    "hash": "f551a81336659488f83be6e8cb38c3d7",
-    "texto": "Painting\nSueño lúcido\n€\n7.260,00\nAdd to cart\nThis product is already in your cart\nCart\nPainting\nBestiario Onírico\n€\n3.200,00\nAdd to cart\nThis product is already in your cart\nCart\nPainting\nTodo lo que no sabemos nombrar\n€\n1.490,00\nAdd to cart\nThis product is already in your cart\nCart\nPainting\n1993\n€\n1.400,00\nAdd to cart\nThis product is already in your cart\nCart\nPainting\nTodas las que fui\n€\n1.200,00\nAdd to cart\nThis product is already in your cart\nCart\nPainting\nBodegón\n€\n1.200,00\nAdd to cart\nThis product is already in your cart\nCart\nPainting\nBigotes\n€\n390,00\nAdd to cart\nThis product is already in your cart\nCart\nOut of Stock\nPainting\nIntuición base\nSOLD\nPrint\nLo divino en lo cotidiano\n€\n25,00\nAdd to cart\nThis product is already in your cart\nCart",
+    "hash": "51f78a992230003c6b70ab9a621e65b2",
+    "texto": "Painting\nSueño lúcido\n€\n7.260,00\nAdd to cart\nThis product is already in your cart\nCart\nPainting\nBestiario Onírico\n€\n3.200,00\nAdd to cart\nThis product is already in your cart\nCart\nPainting\nTodo lo que no sabemos nombrar\n€\n1.490,00\nAdd to cart\nThis product is already in your cart\nCart\nPainting\n1993\n€\n1.400,00\nAdd to cart\nThis product is already in your cart\nCart\nPainting\nTodas las que fui\n€\n1.200,00\nAdd to cart\nThis product is already in your cart\nCart\nPainting\nBodegón\n€\n1.200,00\nAdd to cart\nThis product is already in your cart\nCart\nOut of Stock\nPainting\nBigotes\nSOLD\nOut of Stock\nPainting\nIntuición base\nSOLD\nPrint\nLo divino en lo cotidiano\n€\n25,00\nAdd to cart\nThis product is already in your cart\nCart",
     "obras": {
       "https://artquemy.com/producto/sueno-lucido/": {
         "titulo": "Sueño lúcido",
@@ -1212,9 +1212,9 @@
       },
       "https://artquemy.com/producto/bigotes/": {
         "titulo": "Bigotes",
-        "precio": "€390,00",
-        "precio_num": 390.0,
-        "estado": "disponible",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "estado": "vendido",
         "url": "https://artquemy.com/producto/bigotes/"
       },
       "https://artquemy.com/producto/intuicion-base/": {
@@ -2806,8 +2806,8 @@
     }
   },
   "Daniele Verzini": {
-    "hash": "c312527ca9604aab31d776b9cc26c0d2",
-    "texto": "Out of Stock\nPainting\nCranberry\nSOLD\nOut of Stock\nPainting\nAddicted #8\nSOLD\nOut of Stock\nPainting\nAddicted #7\nSOLD\nOut of Stock\nPainting\nAddicted #6\nSOLD\nPainting\nAddicted #5\n€\n280,00\nAdd to cart\nThis product is already in your cart\nCart\nOut of Stock\nPainting\nAddicted #4\nSOLD\nOut of Stock\nPainting\nAddicted #3\nSOLD\nPainting\nAddicted #2\n€\n280,00\nAdd to cart\nThis product is already in your cart\nCart\nOut of Stock\nPainting\nAddicted #1\nSOLD\nPrint\nAddicted #1\n€\n40,00\nAdd to cart\nThis product is already in your cart\nCart\nPrint\nAddicted #2\n€\n40,00\nAdd to cart\nThis product is already in your cart\nCart\nPrint\nAddicted #3\n€\n40,00\nAdd to cart\nThis product is already in your cart\nCart\nPrint\nAddicted #4\n€\n40,00\nAdd to cart\nThis product is already in your cart\nCart\nPrint\nAddicted #5\n€\n40,00\nAdd to cart\nThis product is already in your cart\nCart\nPrint\nAddicted #6\n€\n40,00\nAdd to cart\nThis product is already in your cart\nCart\nPrint\nAddicted #7\n€\n40,00\nAdd to cart\nThis product is already in your cart\nCart\nPrint\nAddicted #8\n€\n40,00\nAdd to cart\nThis product is already in your cart\nCart",
+    "hash": "eb9532ec839dae40331018299ca8abfb",
+    "texto": "Out of Stock\nPainting\nCranberry\nSOLD\nOut of Stock\nPainting\nAddicted #8\nSOLD\nOut of Stock\nPainting\nAddicted #7\nSOLD\nOut of Stock\nPainting\nAddicted #6\nSOLD\nPainting\nAddicted #5\n€\n280,00\nAdd to cart\nThis product is already in your cart\nCart\nOut of Stock\nPainting\nAddicted #4\nSOLD\nOut of Stock\nPainting\nAddicted #3\nSOLD\nOut of Stock\nPainting\nAddicted #2\nSOLD\nOut of Stock\nPainting\nAddicted #1\nSOLD\nPrint\nAddicted #1\n€\n40,00\nAdd to cart\nThis product is already in your cart\nCart\nPrint\nAddicted #2\n€\n40,00\nAdd to cart\nThis product is already in your cart\nCart\nPrint\nAddicted #3\n€\n40,00\nAdd to cart\nThis product is already in your cart\nCart\nPrint\nAddicted #4\n€\n40,00\nAdd to cart\nThis product is already in your cart\nCart\nPrint\nAddicted #5\n€\n40,00\nAdd to cart\nThis product is already in your cart\nCart\nPrint\nAddicted #6\n€\n40,00\nAdd to cart\nThis product is already in your cart\nCart\nPrint\nAddicted #7\n€\n40,00\nAdd to cart\nThis product is already in your cart\nCart\nPrint\nAddicted #8\n€\n40,00\nAdd to cart\nThis product is already in your cart\nCart",
     "obras": {
       "https://artquemy.com/producto/cranberry/": {
         "titulo": "Cranberry",
@@ -2860,9 +2860,9 @@
       },
       "https://artquemy.com/producto/addicted-2/": {
         "titulo": "Addicted #2",
-        "precio": "€280,00",
-        "precio_num": 280.0,
-        "estado": "disponible",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "estado": "vendido",
         "url": "https://artquemy.com/producto/addicted-2/"
       },
       "https://artquemy.com/producto/addicted-1/": {
@@ -7144,8 +7144,8 @@
     }
   },
   "Luciana Zamarbide": {
-    "hash": "dba44fdddd343c6b318341031f6e4665",
-    "texto": "Painting\nEl Alazán\n€\n2.100,00\nAdd to cart\nThis product is already in your cart\nCart\nOut of Stock\nPainting\nFind Me In The Air\nSOLD\nPainting\nGuarida\n€\n1.900,00\nAdd to cart\nThis product is already in your cart\nCart\nPainting\nLa Sabia\n€\n1.800,00\nAdd to cart\nThis product is already in your cart\nCart\nPainting\nLa Geisha\n€\n1.750,00\nAdd to cart\nThis product is already in your cart\nCart\nOut of Stock\nPainting\nShiva II\nSOLD\nPainting\nLa Llorona\n€\n1.500,00\nAdd to cart\nThis product is already in your cart\nCart\nPainting\nEmerging\n€\n1.500,00\nAdd to cart\nThis product is already in your cart\nCart\nPainting\nLucid Dream\n€\n1.500,00\nAdd to cart\nThis product is already in your cart\nCart\nOut of Stock\nPainting\nAgorafobia\nSOLD\nOut of Stock\nPainting\nRitual tree\nSOLD\nOut of Stock\nPainting\nShiva\nSOLD\nOut of Stock\nPainting\nMagojiro\nSOLD\nPainting\nScorpio Rising\n€\n1.300,00\nAdd to cart\nThis product is already in your cart\nCart\nOut of Stock\nPainting\nExplorador\nSOLD\nOut of Stock\nPainting\nThe Door opens\nSOLD\nOut of Stock\nPainting\nThe Still Center\nSOLD\nOut of Stock\nPainting\nInner Architecture\nSOLD\nDrawing\nLa Pitonisa\n€\n780,00\nAdd to cart\nThis product is already in your cart\nCart\nPainting\nOut of Water\n€\n550,00\nAdd to cart\nThis product is already in your cart\nCart\nOut of Stock\nPainting\nCedar Shakes\nSOLD\nPainting\nA throne Abandoned\n€\n420,00\nAdd to cart\nThis product is already in your cart\nCart\nPainting\nMantis\n€\n420,00\nAdd to cart\nThis product is already in your cart\nCart\nPainting\nLike a Mountain\n€\n340,00\nAdd to cart\nThis product is already in your cart\nCart\nPainting\nObsolith\n€\n340,00\nAdd to cart\nThis product is already in your cart\nCart\nOut of Stock\nPainting\nWaldo\nSOLD\nOut of Stock\nPainting\nSpirits flown\nSOLD\nOut of Stock\nPainting\nArena\nSOLD\nOut of Stock\nPainting\nFire walk with me\nSOLD\nPrint\nGuarida\n€\n80,00\nAdd to cart\nThis product is already in your cart\nCart\nPrint\nAgorafobia\n€\n80,00\nAdd to cart\nThis product is already in your cart\nCart\nPrint\nThe Door opens\n€\n40,00\nAdd to cart\nThis product is already in your cart\nCart\nPrint\nCedar Shakes\n€\n40,00\nAdd to cart\nThis product is already in your cart\nCart\nPrint\nGuarida\n€\n25,00\nAdd to cart\nThis product is already in your cart\nCart",
+    "hash": "8fed37454cf9ddb6801395fdc55fd0b8",
+    "texto": "Painting\nEl Alazán\n€\n2.100,00\nAdd to cart\nThis product is already in your cart\nCart\nOut of Stock\nPainting\nFind Me In The Air\nSOLD\nOut of Stock\nPainting\nGuarida\nSOLD\nPainting\nLa Sabia\n€\n1.800,00\nAdd to cart\nThis product is already in your cart\nCart\nPainting\nLa Geisha\n€\n1.750,00\nAdd to cart\nThis product is already in your cart\nCart\nOut of Stock\nPainting\nShiva II\nSOLD\nPainting\nLa Llorona\n€\n1.500,00\nAdd to cart\nThis product is already in your cart\nCart\nPainting\nEmerging\n€\n1.500,00\nAdd to cart\nThis product is already in your cart\nCart\nPainting\nLucid Dream\n€\n1.500,00\nAdd to cart\nThis product is already in your cart\nCart\nOut of Stock\nPainting\nAgorafobia\nSOLD\nOut of Stock\nPainting\nRitual tree\nSOLD\nOut of Stock\nPainting\nShiva\nSOLD\nOut of Stock\nPainting\nMagojiro\nSOLD\nPainting\nScorpio Rising\n€\n1.300,00\nAdd to cart\nThis product is already in your cart\nCart\nOut of Stock\nPainting\nExplorador\nSOLD\nOut of Stock\nPainting\nThe Door opens\nSOLD\nOut of Stock\nPainting\nThe Still Center\nSOLD\nOut of Stock\nPainting\nInner Architecture\nSOLD\nDrawing\nLa Pitonisa\n€\n780,00\nAdd to cart\nThis product is already in your cart\nCart\nPainting\nOut of Water\n€\n550,00\nAdd to cart\nThis product is already in your cart\nCart\nOut of Stock\nPainting\nCedar Shakes\nSOLD\nPainting\nA throne Abandoned\n€\n420,00\nAdd to cart\nThis product is already in your cart\nCart\nPainting\nMantis\n€\n420,00\nAdd to cart\nThis product is already in your cart\nCart\nPainting\nLike a Mountain\n€\n340,00\nAdd to cart\nThis product is already in your cart\nCart\nPainting\nObsolith\n€\n340,00\nAdd to cart\nThis product is already in your cart\nCart\nOut of Stock\nPainting\nWaldo\nSOLD\nOut of Stock\nPainting\nSpirits flown\nSOLD\nOut of Stock\nPainting\nArena\nSOLD\nOut of Stock\nPainting\nFire walk with me\nSOLD\nPrint\nGuarida\n€\n80,00\nAdd to cart\nThis product is already in your cart\nCart\nPrint\nAgorafobia\n€\n80,00\nAdd to cart\nThis product is already in your cart\nCart\nPrint\nThe Door opens\n€\n40,00\nAdd to cart\nThis product is already in your cart\nCart\nPrint\nCedar Shakes\n€\n40,00\nAdd to cart\nThis product is already in your cart\nCart\nPrint\nGuarida\n€\n25,00\nAdd to cart\nThis product is already in your cart\nCart",
     "obras": {
       "https://artquemy.com/producto/el-alazan/": {
         "titulo": "El Alazán",
@@ -7163,9 +7163,9 @@
       },
       "https://artquemy.com/producto/guarida/": {
         "titulo": "Guarida",
-        "precio": "€1.900,00",
-        "precio_num": 1900.0,
-        "estado": "disponible",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "estado": "vendido",
         "url": "https://artquemy.com/producto/guarida/"
       },
       "https://artquemy.com/producto/la-sabia/": {
