@@ -9751,5 +9751,77 @@
     "precio_num": 3300.0,
     "url": "https://www.3punts.com/es/shop/artwork/sebastia-marti-cor-de-peluix",
     "fecha": "24/08/2026 22:11"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Liliana Porter",
+    "precio": "1 500,00 €",
+    "precio_num": 1500.0,
+    "url": "https://www.3punts.com/es/shop/artwork/mickey-novia-liliana-porter",
+    "fecha": "25/08/2026 17:59"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Liliana Porter",
+    "precio": "1 500,00 €",
+    "precio_num": 1500.0,
+    "url": "https://www.3punts.com/es/shop/artwork/patito-bailarina-liliana-porter",
+    "fecha": "25/08/2026 17:59"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Liliana Porter",
+    "precio": "1 500,00 €",
+    "precio_num": 1500.0,
+    "url": "https://www.3punts.com/es/shop/artwork/dialogo-con-eso-ii-liliana-porter",
+    "fecha": "25/08/2026 17:59"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Liliana Porter",
+    "precio": "1 500,00 €",
+    "precio_num": 1500.0,
+    "url": "https://www.3punts.com/es/shop/artwork/tres-de-ellos-liliana-porter",
+    "fecha": "25/08/2026 17:59"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Santiago Picatoste",
+    "precio": "Consultar precio",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/santiago-picatoste-atlas-lux-i",
+    "fecha": "25/08/2026 17:59"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Santiago Picatoste",
+    "precio": "Consultar precio",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/santiago-picatoste-atlas-tenebrae-i",
+    "fecha": "25/08/2026 17:59"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Santiago Picatoste",
+    "precio": "Consultar precio",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/santiago-picatoste-oublie-i",
+    "fecha": "25/08/2026 17:59"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Santiago Picatoste",
+    "precio": "Consultar precio",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/santiago-picatoste-chirality-2",
+    "fecha": "25/08/2026 17:59"
   }
 ]
