@@ -12356,5 +12356,44 @@
         "url": "https://artquemy.com/producto/just-soul-016/"
       }
     ]
+  },
+  {
+    "fecha": "25/08/2026 17:56",
+    "artista": "Carola Bagnato",
+    "cambios_obras": [
+      {
+        "tipo": "vendida",
+        "titulo": "Bigotes",
+        "precio": "€390,00",
+        "precio_num": 390.0,
+        "url": "https://artquemy.com/producto/bigotes/"
+      }
+    ]
+  },
+  {
+    "fecha": "25/08/2026 17:56",
+    "artista": "Daniele Verzini",
+    "cambios_obras": [
+      {
+        "tipo": "vendida",
+        "titulo": "Addicted #2",
+        "precio": "€280,00",
+        "precio_num": 280.0,
+        "url": "https://artquemy.com/producto/addicted-2/"
+      }
+    ]
+  },
+  {
+    "fecha": "25/08/2026 17:56",
+    "artista": "Luciana Zamarbide",
+    "cambios_obras": [
+      {
+        "tipo": "vendida",
+        "titulo": "Guarida",
+        "precio": "€1.900,00",
+        "precio_num": 1900.0,
+        "url": "https://artquemy.com/producto/guarida/"
+      }
+    ]
   }
 ]
