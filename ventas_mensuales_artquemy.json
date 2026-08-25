@@ -7748,6 +7748,33 @@
       "precio_num": 200.0,
       "tipo": "vendida",
       "url": "https://artquemy.com/producto/untitled-ill/"
+    },
+    {
+      "fecha": "25/08/2026 17:56",
+      "artista": "Carola Bagnato",
+      "obra": "Bigotes",
+      "precio": "€390,00",
+      "precio_num": 390.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/bigotes/"
+    },
+    {
+      "fecha": "25/08/2026 17:56",
+      "artista": "Daniele Verzini",
+      "obra": "Addicted #2",
+      "precio": "€280,00",
+      "precio_num": 280.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/addicted-2/"
+    },
+    {
+      "fecha": "25/08/2026 17:56",
+      "artista": "Luciana Zamarbide",
+      "obra": "Guarida",
+      "precio": "€1.900,00",
+      "precio_num": 1900.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/guarida/"
     }
   ]
 }
