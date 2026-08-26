@@ -12395,5 +12395,18 @@
         "url": "https://artquemy.com/producto/guarida/"
       }
     ]
+  },
+  {
+    "fecha": "26/08/2026 22:07",
+    "artista": "Luciana Zamarbide",
+    "cambios_obras": [
+      {
+        "tipo": "vendida",
+        "titulo": "Mantis",
+        "precio": "€420,00",
+        "precio_num": 420.0,
+        "url": "https://artquemy.com/producto/mantis/"
+      }
+    ]
   }
 ]
