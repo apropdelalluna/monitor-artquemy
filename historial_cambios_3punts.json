@@ -9823,5 +9823,15 @@
     "precio_num": 0.0,
     "url": "https://www.3punts.com/es/shop/artwork/santiago-picatoste-chirality-2",
     "fecha": "25/08/2026 17:59"
+  },
+  {
+    "tipo": "precio_cambiado",
+    "titulo": "",
+    "artista": "James Rielly",
+    "precio": "12 000,00 €",
+    "precio_num": 12000.0,
+    "precio_anterior": "7 000,00 €",
+    "url": "https://www.3punts.com/es/shop/artwork/or-whitout-god-our-side-james-rielly",
+    "fecha": "26/08/2026 22:10"
   }
 ]
