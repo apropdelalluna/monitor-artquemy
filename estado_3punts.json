@@ -1,5 +1,5 @@
 {
-  "__hash__": "ddb8223c15671fff332f9fb4eddd3607",
+  "__hash__": "c6842968695652366d667ebe0ca5d5ea",
   "obras": {
     "https://www.3punts.com/es/shop/artwork/vincent-vega-pulp-fiction": {
       "titulo": "",
@@ -2332,8 +2332,8 @@
     "https://www.3punts.com/es/shop/artwork/or-whitout-god-our-side-james-rielly": {
       "titulo": "",
       "artista": "James Rielly",
-      "precio": "7 000,00 €",
-      "precio_num": 7000.0,
+      "precio": "12 000,00 €",
+      "precio_num": 12000.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/or-whitout-god-our-side-james-rielly"
     },
