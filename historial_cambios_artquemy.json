@@ -12421,5 +12421,33 @@
         "url": "https://artquemy.com/producto/clasico-instable_2/"
       }
     ]
+  },
+  {
+    "fecha": "29/08/2026 18:44",
+    "artista": "El Xupet Negre",
+    "cambios_obras": [
+      {
+        "tipo": "nueva",
+        "titulo": "Live At Negrelab",
+        "precio": "€2.500,00",
+        "precio_num": 2500.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/live-at-negrelab/"
+      }
+    ]
+  },
+  {
+    "fecha": "29/08/2026 18:44",
+    "artista": "Urban Flowers",
+    "cambios_obras": [
+      {
+        "tipo": "nueva",
+        "titulo": "Entre Tentáculos y Flores",
+        "precio": "€350,00",
+        "precio_num": 350.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/entre-tentaculos-y-flores/"
+      }
+    ]
   }
 ]
