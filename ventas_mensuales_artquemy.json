@@ -7784,6 +7784,15 @@
       "precio_num": 420.0,
       "tipo": "vendida",
       "url": "https://artquemy.com/producto/mantis/"
+    },
+    {
+      "fecha": "29/08/2026 01:09",
+      "artista": "Ciro Marra",
+      "obra": "Clásico instable_2",
+      "precio": "€720,00",
+      "precio_num": 720.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/clasico-instable_2/"
     }
   ]
 }
