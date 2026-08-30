@@ -12449,5 +12449,36 @@
         "url": "https://artquemy.com/producto/entre-tentaculos-y-flores/"
       }
     ]
+  },
+  {
+    "fecha": "30/08/2026 17:02",
+    "artista": "Camil Escruela",
+    "cambios_obras": []
+  },
+  {
+    "fecha": "30/08/2026 17:02",
+    "artista": "Ceci SN",
+    "cambios_obras": [
+      {
+        "tipo": "vendida",
+        "titulo": "Naked swimmers XXII",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "url": "https://artquemy.com/producto/naked-swimmers-xxii/"
+      }
+    ]
+  },
+  {
+    "fecha": "30/08/2026 17:02",
+    "artista": "Qwert",
+    "cambios_obras": [
+      {
+        "tipo": "vendida",
+        "titulo": "the reaL supER herOes – earth",
+        "precio": "€900,00",
+        "precio_num": 900.0,
+        "url": "https://artquemy.com/producto/the-real-super-heroes-earth/"
+      }
+    ]
   }
 ]
