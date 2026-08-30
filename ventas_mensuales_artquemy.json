@@ -7793,6 +7793,24 @@
       "precio_num": 720.0,
       "tipo": "vendida",
       "url": "https://artquemy.com/producto/clasico-instable_2/"
+    },
+    {
+      "fecha": "30/08/2026 17:01",
+      "artista": "Ceci SN",
+      "obra": "Naked swimmers XXII",
+      "precio": "€30,00",
+      "precio_num": 30.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/naked-swimmers-xxii/"
+    },
+    {
+      "fecha": "30/08/2026 17:01",
+      "artista": "Qwert",
+      "obra": "the reaL supER herOes – earth",
+      "precio": "€900,00",
+      "precio_num": 900.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/the-real-super-heroes-earth/"
     }
   ]
 }
