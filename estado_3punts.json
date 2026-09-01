@@ -1,5 +1,5 @@
 {
-  "__hash__": "c6842968695652366d667ebe0ca5d5ea",
+  "__hash__": "918d5bea88d82b9305a3cefe6a0386d9",
   "obras": {
     "https://www.3punts.com/es/shop/artwork/vincent-vega-pulp-fiction": {
       "titulo": "",
@@ -892,24 +892,24 @@
     "https://www.3punts.com/es/shop/artwork/jurji-lantomo": {
       "titulo": "",
       "artista": "Antonella Montes - LANTOMO",
-      "precio": "4 300,00 €",
-      "precio_num": 4300.0,
+      "precio": "4 900,00 €",
+      "precio_num": 4900.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/jurji-lantomo"
     },
     "https://www.3punts.com/es/shop/artwork/blue-contemplation-lantomo": {
       "titulo": "",
       "artista": "Antonella Montes - LANTOMO",
-      "precio": "4 300,00 €",
-      "precio_num": 4300.0,
+      "precio": "4 900,00 €",
+      "precio_num": 4900.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/blue-contemplation-lantomo"
     },
     "https://www.3punts.com/es/shop/artwork/sad-revolution-lantomo": {
       "titulo": "",
       "artista": "Antonella Montes - LANTOMO",
-      "precio": "4 300,00 €",
-      "precio_num": 4300.0,
+      "precio": "4 900,00 €",
+      "precio_num": 4900.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/sad-revolution-lantomo"
     },
@@ -4017,6 +4017,14 @@
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/foeniculum-vulgare-manel-armengol"
     },
+    "https://www.3punts.com/es/shop/artwork/totems-i-manuel-sola": {
+      "titulo": "",
+      "artista": "Manuel Solà",
+      "precio": "1 200,00 €",
+      "precio_num": 1200.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/totems-i-manuel-sola"
+    },
     "https://www.3punts.com/es/shop/artwork/sin-titulo-i-marcel-marti": {
       "titulo": "",
       "artista": "Marcel Marti",
@@ -5752,14 +5760,6 @@
       "precio_num": 0.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/santiago-picatoste-limbo-canvas-fluo-i"
-    },
-    "https://www.3punts.com/es/shop/artwork/santiago-picatoste-between": {
-      "titulo": "Santiago Picatoste Between",
-      "artista": "Santiago Picatoste",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/santiago-picatoste-between"
     }
   }
 }
