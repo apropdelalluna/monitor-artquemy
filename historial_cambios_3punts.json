@@ -9833,5 +9833,53 @@
     "precio_anterior": "7 000,00 €",
     "url": "https://www.3punts.com/es/shop/artwork/or-whitout-god-our-side-james-rielly",
     "fecha": "26/08/2026 22:10"
+  },
+  {
+    "tipo": "precio_cambiado",
+    "titulo": "",
+    "artista": "Antonella Montes - LANTOMO",
+    "precio": "4 900,00 €",
+    "precio_num": 4900.0,
+    "precio_anterior": "4 300,00 €",
+    "url": "https://www.3punts.com/es/shop/artwork/jurji-lantomo",
+    "fecha": "01/09/2026 18:27"
+  },
+  {
+    "tipo": "precio_cambiado",
+    "titulo": "",
+    "artista": "Antonella Montes - LANTOMO",
+    "precio": "4 900,00 €",
+    "precio_num": 4900.0,
+    "precio_anterior": "4 300,00 €",
+    "url": "https://www.3punts.com/es/shop/artwork/blue-contemplation-lantomo",
+    "fecha": "01/09/2026 18:27"
+  },
+  {
+    "tipo": "precio_cambiado",
+    "titulo": "",
+    "artista": "Antonella Montes - LANTOMO",
+    "precio": "4 900,00 €",
+    "precio_num": 4900.0,
+    "precio_anterior": "4 300,00 €",
+    "url": "https://www.3punts.com/es/shop/artwork/sad-revolution-lantomo",
+    "fecha": "01/09/2026 18:27"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Manuel Solà",
+    "precio": "1 200,00 €",
+    "precio_num": 1200.0,
+    "url": "https://www.3punts.com/es/shop/artwork/totems-i-manuel-sola",
+    "fecha": "01/09/2026 18:27"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Santiago Picatoste Between",
+    "artista": "Santiago Picatoste",
+    "precio": "Precio no disponible",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/santiago-picatoste-between",
+    "fecha": "01/09/2026 18:27"
   }
 ]
