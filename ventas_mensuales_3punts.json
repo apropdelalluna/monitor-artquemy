@@ -1780,5 +1780,114 @@
       "url": "https://www.3punts.com/es/shop/artwork/forbbiden-brain-emilio-garcia"
     }
   ],
-  "2026-09": []
+  "2026-09": [
+    {
+      "fecha": "02/09/2026 15:27",
+      "artista": "Antonella Montes - LANTOMO",
+      "obra": "Blue Contemplation Lantomo",
+      "precio": "4 900,00 €",
+      "precio_num": 4900.0,
+      "tipo": "vendida",
+      "url": "https://www.3punts.com/es/shop/artwork/blue-contemplation-lantomo"
+    },
+    {
+      "fecha": "02/09/2026 15:27",
+      "artista": "Nick Veasey",
+      "obra": "Nick Veasey 10",
+      "precio": "Consultar precio",
+      "precio_num": 0.0,
+      "tipo": "vendida",
+      "url": "https://www.3punts.com/es/shop/artwork/nick-veasey-10"
+    },
+    {
+      "fecha": "02/09/2026 15:27",
+      "artista": "Nick Veasey",
+      "obra": "Nick Veasey 7",
+      "precio": "Consultar precio",
+      "precio_num": 0.0,
+      "tipo": "vendida",
+      "url": "https://www.3punts.com/es/shop/artwork/nick-veasey-7"
+    },
+    {
+      "fecha": "02/09/2026 15:27",
+      "artista": "Ramon Surinyac",
+      "obra": "Ramon Surinyacserie Love Letters 7",
+      "precio": "490,00 €",
+      "precio_num": 490.0,
+      "tipo": "vendida",
+      "url": "https://www.3punts.com/es/shop/artwork/ramon-surinyacserie-love-letters-7"
+    },
+    {
+      "fecha": "02/09/2026 15:27",
+      "artista": "Ramon Surinyac",
+      "obra": "Ramon Surinyacimpression",
+      "precio": "490,00 €",
+      "precio_num": 490.0,
+      "tipo": "vendida",
+      "url": "https://www.3punts.com/es/shop/artwork/ramon-surinyacimpression"
+    },
+    {
+      "fecha": "02/09/2026 15:27",
+      "artista": "Ramon Surinyac",
+      "obra": "Ramon Surinyacintention",
+      "precio": "600,00 €",
+      "precio_num": 600.0,
+      "tipo": "vendida",
+      "url": "https://www.3punts.com/es/shop/artwork/ramon-surinyacintention"
+    },
+    {
+      "fecha": "02/09/2026 15:27",
+      "artista": "Ramon Surinyac",
+      "obra": "Ramon Surinyac Skysea And Sand",
+      "precio": "2 900,00 €",
+      "precio_num": 2900.0,
+      "tipo": "vendida",
+      "url": "https://www.3punts.com/es/shop/artwork/ramon-surinyac-skysea-and-sand"
+    },
+    {
+      "fecha": "02/09/2026 15:27",
+      "artista": "Ramon Surinyac",
+      "obra": "Ramon Surinyac375Blue Sky",
+      "precio": "6 200,00 €",
+      "precio_num": 6200.0,
+      "tipo": "vendida",
+      "url": "https://www.3punts.com/es/shop/artwork/ramon-surinyac375blue-sky"
+    },
+    {
+      "fecha": "02/09/2026 15:27",
+      "artista": "Ramon Surinyac",
+      "obra": "Ramon Surinyac",
+      "precio": "2 800,00 €",
+      "precio_num": 2800.0,
+      "tipo": "vendida",
+      "url": "https://www.3punts.com/es/shop/artwork/ramon-surinyac"
+    },
+    {
+      "fecha": "02/09/2026 15:27",
+      "artista": "Ramon Surinyac",
+      "obra": "Ramon Surinyac 0",
+      "precio": "3 300,00 €",
+      "precio_num": 3300.0,
+      "tipo": "vendida",
+      "url": "https://www.3punts.com/es/shop/artwork/ramon-surinyac-0"
+    },
+    {
+      "fecha": "02/09/2026 15:27",
+      "artista": "Ramon Surinyac",
+      "obra": "Ramon Surinyac Wall",
+      "precio": "3 900,00 €",
+      "precio_num": 3900.0,
+      "tipo": "vendida",
+      "url": "https://www.3punts.com/es/shop/artwork/ramon-surinyac-wall"
+    },
+    {
+      "fecha": "02/09/2026 15:27",
+      "artista": "Ramon Surinyac",
+      "obra": "Ramon Surinyac Raw Shelter",
+      "precio": "6 800,00 €",
+      "precio_num": 6800.0,
+      "tipo": "vendida",
+      "url": "https://www.3punts.com/es/shop/artwork/ramon-surinyac-raw-shelter"
+    }
+  ]
 }
