@@ -7812,5 +7812,16 @@
       "tipo": "vendida",
       "url": "https://artquemy.com/producto/the-real-super-heroes-earth/"
     }
+  ],
+  "2026-09": [
+    {
+      "fecha": "02/09/2026 15:23",
+      "artista": "Juncosa",
+      "obra": "Caracol Paseo de Grácia",
+      "precio": "€900,00",
+      "precio_num": 900.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/caracol-paseo-de-gracia/"
+    }
   ]
 }
