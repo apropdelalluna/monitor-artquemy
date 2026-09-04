@@ -10313,5 +10313,23 @@
     "precio_num": 0.0,
     "url": "https://www.3punts.com/es/shop/artwork/santiago-picatoste-limbo-canvas-fluo-i",
     "fecha": "02/09/2026 15:27"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Samuel Salcedo",
+    "precio": "6 000,00 €",
+    "precio_num": 6000.0,
+    "url": "https://www.3punts.com/es/shop/artwork/thoughts-samuel-salcedo",
+    "fecha": "04/09/2026 19:36"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Ramon Surinyacimpression",
+    "artista": "Ramon Surinyac",
+    "precio": "Precio no disponible",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/ramon-surinyacimpression",
+    "fecha": "04/09/2026 19:36"
   }
 ]
