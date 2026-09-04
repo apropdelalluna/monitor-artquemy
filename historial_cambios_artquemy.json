@@ -12493,5 +12493,128 @@
         "url": "https://artquemy.com/producto/caracol-paseo-de-gracia/"
       }
     ]
+  },
+  {
+    "fecha": "04/09/2026 19:32",
+    "artista": "Luz Marie Iturbe",
+    "cambios_obras": [
+      {
+        "tipo": "vendida",
+        "titulo": "Fruit",
+        "precio": "€60,00",
+        "precio_num": 60.0,
+        "url": "https://artquemy.com/producto/fruit/"
+      }
+    ]
+  },
+  {
+    "fecha": "04/09/2026 19:32",
+    "artista": "Cuestión de caracter",
+    "cambios_obras": [
+      {
+        "tipo": "nueva",
+        "titulo": "Los Ojos de Margarita",
+        "precio": "€40,00",
+        "precio_num": 40.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/los-ojos-de-margarita/"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "Yellow Magic",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/yellow-magic/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Red Magic",
+        "precio": "€120,00",
+        "precio_num": 120.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/red-magic/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Blue Magic",
+        "precio": "€120,00",
+        "precio_num": 120.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/blue-magic/"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "Eye",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/eye/"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "fuchsia Madness",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/fuchsia-madness/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Small devil",
+        "precio": "€900,00",
+        "precio_num": 900.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/small-devil/"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "Blue boy",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/blue-boy/"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "Lost Pink Robot",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/pink-robot/"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "Big devil",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/big-devil/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Pájaro-Pez",
+        "precio": "€1.500,00",
+        "precio_num": 1500.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/pajaro-pez/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "OVNI",
+        "precio": "€1.500,00",
+        "precio_num": 1500.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/ovni/"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "Old school",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/old-school/"
+      }
+    ]
   }
 ]
