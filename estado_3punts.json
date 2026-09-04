@@ -1,5 +1,5 @@
 {
-  "__hash__": "84bae478671acccbb363713bd89fe0c1",
+  "__hash__": "73224b8692ffecca42c00b0b90fafc87",
   "obras": {
     "https://www.3punts.com/es/shop/artwork/vincent-vega-pulp-fiction": {
       "titulo": "",
@@ -4489,14 +4489,6 @@
       "estado": "vendido",
       "url": "https://www.3punts.com/es/shop/artwork/ramon-surinyacserie-love-letters-7"
     },
-    "https://www.3punts.com/es/shop/artwork/ramon-surinyacimpression": {
-      "titulo": "Ramon Surinyacimpression",
-      "artista": "Ramon Surinyac",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/ramon-surinyacimpression"
-    },
     "https://www.3punts.com/es/shop/artwork/ramon-surinyacreasons": {
       "titulo": "Ramon Surinyacreasons",
       "artista": "Ramon Surinyac",
@@ -5760,6 +5752,14 @@
       "precio_num": 6000.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/wish-list-samuel-salcedo"
+    },
+    "https://www.3punts.com/es/shop/artwork/thoughts-samuel-salcedo": {
+      "titulo": "",
+      "artista": "Samuel Salcedo",
+      "precio": "6 000,00 €",
+      "precio_num": 6000.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/thoughts-samuel-salcedo"
     }
   }
 }
