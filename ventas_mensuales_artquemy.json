@@ -7822,6 +7822,78 @@
       "precio_num": 900.0,
       "tipo": "vendida",
       "url": "https://artquemy.com/producto/caracol-paseo-de-gracia/"
+    },
+    {
+      "fecha": "04/09/2026 19:32",
+      "artista": "Luz Marie Iturbe",
+      "obra": "Fruit",
+      "precio": "€60,00",
+      "precio_num": 60.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/fruit/"
+    },
+    {
+      "fecha": "04/09/2026 19:32",
+      "artista": "Cuestión de caracter",
+      "obra": "Yellow Magic",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/yellow-magic/"
+    },
+    {
+      "fecha": "04/09/2026 19:32",
+      "artista": "Cuestión de caracter",
+      "obra": "Eye",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/eye/"
+    },
+    {
+      "fecha": "04/09/2026 19:32",
+      "artista": "Cuestión de caracter",
+      "obra": "fuchsia Madness",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/fuchsia-madness/"
+    },
+    {
+      "fecha": "04/09/2026 19:32",
+      "artista": "Cuestión de caracter",
+      "obra": "Blue boy",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/blue-boy/"
+    },
+    {
+      "fecha": "04/09/2026 19:32",
+      "artista": "Cuestión de caracter",
+      "obra": "Lost Pink Robot",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/pink-robot/"
+    },
+    {
+      "fecha": "04/09/2026 19:32",
+      "artista": "Cuestión de caracter",
+      "obra": "Big devil",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/big-devil/"
+    },
+    {
+      "fecha": "04/09/2026 19:32",
+      "artista": "Cuestión de caracter",
+      "obra": "Old school",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/old-school/"
     }
   ]
 }
