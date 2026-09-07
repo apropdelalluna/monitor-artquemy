@@ -10331,5 +10331,59 @@
     "precio_num": 0.0,
     "url": "https://www.3punts.com/es/shop/artwork/ramon-surinyacimpression",
     "fecha": "04/09/2026 19:36"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Pedro Cherino",
+    "precio": "4 800,00 €",
+    "precio_num": 4800.0,
+    "url": "https://www.3punts.com/es/shop/artwork/essentials-ii",
+    "fecha": "07/09/2026 19:11"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Pedro Cherino",
+    "precio": "4 800,00 €",
+    "precio_num": 4800.0,
+    "url": "https://www.3punts.com/es/shop/artwork/aguamarina-con-rosas-oscuras",
+    "fecha": "07/09/2026 19:11"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Pedro Cherino",
+    "precio": "4 800,00 €",
+    "precio_num": 4800.0,
+    "url": "https://www.3punts.com/es/shop/artwork/blue-playground",
+    "fecha": "07/09/2026 19:11"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Samuel Salcedo",
+    "precio": "Consultar precio",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/ill-be-your-mirror-iii-samuel-salcedo",
+    "fecha": "07/09/2026 19:11"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Samuel Salcedo",
+    "precio": "6 000,00 €",
+    "precio_num": 6000.0,
+    "url": "https://www.3punts.com/es/shop/artwork/wish-list-samuel-salcedo",
+    "fecha": "07/09/2026 19:11"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Samuel Salcedo",
+    "precio": "6 000,00 €",
+    "precio_num": 6000.0,
+    "url": "https://www.3punts.com/es/shop/artwork/thoughts-samuel-salcedo",
+    "fecha": "07/09/2026 19:11"
   }
 ]
