@@ -1,5 +1,5 @@
 {
-  "__hash__": "73224b8692ffecca42c00b0b90fafc87",
+  "__hash__": "2401b1ac2d2586ac807bb398d52fdb47",
   "obras": {
     "https://www.3punts.com/es/shop/artwork/vincent-vega-pulp-fiction": {
       "titulo": "",
@@ -4465,6 +4465,30 @@
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/blue-sensation-pedro-cherino"
     },
+    "https://www.3punts.com/es/shop/artwork/essentials-ii": {
+      "titulo": "",
+      "artista": "Pedro Cherino",
+      "precio": "4 800,00 €",
+      "precio_num": 4800.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/essentials-ii"
+    },
+    "https://www.3punts.com/es/shop/artwork/aguamarina-con-rosas-oscuras": {
+      "titulo": "",
+      "artista": "Pedro Cherino",
+      "precio": "4 800,00 €",
+      "precio_num": 4800.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/aguamarina-con-rosas-oscuras"
+    },
+    "https://www.3punts.com/es/shop/artwork/blue-playground": {
+      "titulo": "",
+      "artista": "Pedro Cherino",
+      "precio": "4 800,00 €",
+      "precio_num": 4800.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/blue-playground"
+    },
     "https://www.3punts.com/es/shop/artwork/mia-wallace-pulp-fiction": {
       "titulo": "",
       "artista": "Perishable Rush",
@@ -5736,30 +5760,6 @@
       "precio_num": 0.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/alices-dream-iii-samuel-salcedo"
-    },
-    "https://www.3punts.com/es/shop/artwork/ill-be-your-mirror-iii-samuel-salcedo": {
-      "titulo": "",
-      "artista": "Samuel Salcedo",
-      "precio": "Consultar precio",
-      "precio_num": 0.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/ill-be-your-mirror-iii-samuel-salcedo"
-    },
-    "https://www.3punts.com/es/shop/artwork/wish-list-samuel-salcedo": {
-      "titulo": "",
-      "artista": "Samuel Salcedo",
-      "precio": "6 000,00 €",
-      "precio_num": 6000.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/wish-list-samuel-salcedo"
-    },
-    "https://www.3punts.com/es/shop/artwork/thoughts-samuel-salcedo": {
-      "titulo": "",
-      "artista": "Samuel Salcedo",
-      "precio": "6 000,00 €",
-      "precio_num": 6000.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/thoughts-samuel-salcedo"
     }
   }
 }
