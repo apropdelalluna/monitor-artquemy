@@ -10768,23 +10768,9 @@
     }
   },
   "Various": {
-    "hash": "2296841cb5a24d16356ca9a86352e157",
-    "texto": "Painting\nPrimer Plano\n€\n190,00\nAdd to cart\nThis product is already in your cart\nCart\nPainting\nKeko 01\n€\n190,00\nAdd to cart\nThis product is already in your cart\nCart\nPainting\nElliot\n€\n950,00\nAdd to cart\nThis product is already in your cart\nCart\nOther\nLos Ojos de Margarita\n€\n40,00\nAdd to cart\nThis product is already in your cart\nCart\nOut of Stock\nDrawing\nYellow Magic\nSOLD\nDrawing\nRed Magic\n€\n120,00\nAdd to cart\nThis product is already in your cart\nCart\nDrawing\nBlue Magic\n€\n120,00\nAdd to cart\nThis product is already in your cart\nCart\nOut of Stock\nPainting\nEye\nSOLD\nOut of Stock\nPainting\nfuchsia Madness\nSOLD\nPainting\nSmall devil\n€\n900,00\nAdd to cart\nThis product is already in your cart\nCart\nOut of Stock\nPainting\nBlue boy\nSOLD\nOut of Stock\nPainting\nLost Pink Robot\nSOLD\nOut of Stock\nPainting\nBig devil\nSOLD\nPainting\nPájaro-Pez\n€\n1.500,00\nAdd to cart\nThis product is already in your cart\nCart\nPainting\nOVNI\n€\n1.500,00\nAdd to cart\nThis product is already in your cart\nCart\nOut of Stock\nPainting\nOld school\nSOLD",
+    "hash": "e5a046dd6566e7f753689877a4ff7e22",
+    "texto": "Painting\nElliot\n€\n950,00\nAdd to cart\nThis product is already in your cart\nCart\nOther\nLos Ojos de Margarita\n€\n40,00\nAdd to cart\nThis product is already in your cart\nCart\nOut of Stock\nDrawing\nYellow Magic\nSOLD\nDrawing\nRed Magic\n€\n120,00\nAdd to cart\nThis product is already in your cart\nCart\nDrawing\nBlue Magic\n€\n120,00\nAdd to cart\nThis product is already in your cart\nCart\nOut of Stock\nPainting\nEye\nSOLD\nOut of Stock\nPainting\nfuchsia Madness\nSOLD\nPainting\nSmall devil\n€\n900,00\nAdd to cart\nThis product is already in your cart\nCart\nOut of Stock\nPainting\nBlue boy\nSOLD\nOut of Stock\nPainting\nLost Pink Robot\nSOLD\nOut of Stock\nPainting\nBig devil\nSOLD\nPainting\nPájaro-Pez\n€\n1.500,00\nAdd to cart\nThis product is already in your cart\nCart\nPainting\nOVNI\n€\n1.500,00\nAdd to cart\nThis product is already in your cart\nCart\nOut of Stock\nPainting\nOld school\nSOLD",
     "obras": {
-      "https://artquemy.com/producto/primer-plano/": {
-        "titulo": "Primer Plano",
-        "precio": "€190,00",
-        "precio_num": 190.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/primer-plano/"
-      },
-      "https://artquemy.com/producto/keko-01/": {
-        "titulo": "Keko 01",
-        "precio": "€190,00",
-        "precio_num": 190.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/keko-01/"
-      },
       "https://artquemy.com/producto/elliot/": {
         "titulo": "Elliot",
         "precio": "€950,00",
@@ -10969,8 +10955,8 @@
     }
   },
   "Cuestión de caracter": {
-    "hash": "2296841cb5a24d16356ca9a86352e157",
-    "texto": "Painting\nPrimer Plano\n€\n190,00\nAdd to cart\nThis product is already in your cart\nCart\nPainting\nKeko 01\n€\n190,00\nAdd to cart\nThis product is already in your cart\nCart\nPainting\nElliot\n€\n950,00\nAdd to cart\nThis product is already in your cart\nCart\nOther\nLos Ojos de Margarita\n€\n40,00\nAdd to cart\nThis product is already in your cart\nCart\nOut of Stock\nDrawing\nYellow Magic\nSOLD\nDrawing\nRed Magic\n€\n120,00\nAdd to cart\nThis product is already in your cart\nCart\nDrawing\nBlue Magic\n€\n120,00\nAdd to cart\nThis product is already in your cart\nCart\nOut of Stock\nPainting\nEye\nSOLD\nOut of Stock\nPainting\nfuchsia Madness\nSOLD\nPainting\nSmall devil\n€\n900,00\nAdd to cart\nThis product is already in your cart\nCart\nOut of Stock\nPainting\nBlue boy\nSOLD\nOut of Stock\nPainting\nLost Pink Robot\nSOLD\nOut of Stock\nPainting\nBig devil\nSOLD\nPainting\nPájaro-Pez\n€\n1.500,00\nAdd to cart\nThis product is already in your cart\nCart\nPainting\nOVNI\n€\n1.500,00\nAdd to cart\nThis product is already in your cart\nCart\nOut of Stock\nPainting\nOld school\nSOLD",
+    "hash": "a5282bb89bb4051134e71fd164411893",
+    "texto": "Painting\nPrimer Plano\n€\n190,00\nAdd to cart\nThis product is already in your cart\nCart\nPainting\nKeko 01\n€\n190,00\nAdd to cart\nThis product is already in your cart\nCart",
     "obras": {
       "https://artquemy.com/producto/primer-plano/": {
         "titulo": "Primer Plano",
@@ -10985,104 +10971,6 @@
         "precio_num": 190.0,
         "estado": "disponible",
         "url": "https://artquemy.com/producto/keko-01/"
-      },
-      "https://artquemy.com/producto/elliot/": {
-        "titulo": "Elliot",
-        "precio": "€950,00",
-        "precio_num": 950.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/elliot/"
-      },
-      "https://artquemy.com/producto/los-ojos-de-margarita/": {
-        "titulo": "Los Ojos de Margarita",
-        "precio": "€40,00",
-        "precio_num": 40.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/los-ojos-de-margarita/"
-      },
-      "https://artquemy.com/producto/yellow-magic/": {
-        "titulo": "Yellow Magic",
-        "precio": "Precio no disponible",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/yellow-magic/"
-      },
-      "https://artquemy.com/producto/red-magic/": {
-        "titulo": "Red Magic",
-        "precio": "€120,00",
-        "precio_num": 120.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/red-magic/"
-      },
-      "https://artquemy.com/producto/blue-magic/": {
-        "titulo": "Blue Magic",
-        "precio": "€120,00",
-        "precio_num": 120.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/blue-magic/"
-      },
-      "https://artquemy.com/producto/eye/": {
-        "titulo": "Eye",
-        "precio": "Precio no disponible",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/eye/"
-      },
-      "https://artquemy.com/producto/fuchsia-madness/": {
-        "titulo": "fuchsia Madness",
-        "precio": "Precio no disponible",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/fuchsia-madness/"
-      },
-      "https://artquemy.com/producto/small-devil/": {
-        "titulo": "Small devil",
-        "precio": "€900,00",
-        "precio_num": 900.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/small-devil/"
-      },
-      "https://artquemy.com/producto/blue-boy/": {
-        "titulo": "Blue boy",
-        "precio": "Precio no disponible",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/blue-boy/"
-      },
-      "https://artquemy.com/producto/pink-robot/": {
-        "titulo": "Lost Pink Robot",
-        "precio": "Precio no disponible",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/pink-robot/"
-      },
-      "https://artquemy.com/producto/big-devil/": {
-        "titulo": "Big devil",
-        "precio": "Precio no disponible",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/big-devil/"
-      },
-      "https://artquemy.com/producto/pajaro-pez/": {
-        "titulo": "Pájaro-Pez",
-        "precio": "€1.500,00",
-        "precio_num": 1500.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/pajaro-pez/"
-      },
-      "https://artquemy.com/producto/ovni/": {
-        "titulo": "OVNI",
-        "precio": "€1.500,00",
-        "precio_num": 1500.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/ovni/"
-      },
-      "https://artquemy.com/producto/old-school/": {
-        "titulo": "Old school",
-        "precio": "Precio no disponible",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/old-school/"
       }
     }
   }
