@@ -262,10 +262,20 @@ def guardar_ventas_mensuales(cambios: list) -> None:
         if mes_actual not in acumulado:
             acumulado[mes_actual] = []
 
+        # Deduplicar por URL
+        existentes_url = set((e.get("url",""), e.get("fecha","")[:10]) for e in acumulado[mes_actual] if e.get("url"))
+
         for cambio in cambios:
             artista = cambio["artista"]["nombre"]
             for c in cambio.get("cambios_obras", []):
                 if c["tipo"] in ("vendida", "nueva_vendida") and c.get("precio_num", 0) >= 0:
+                    url_obra = c.get("url", "")
+                    fecha_dia = datetime.now().strftime("%d/%m/%Y")
+                    if url_obra and (url_obra, fecha_dia) in existentes_url:
+                        logging.info("[DEDUP] Saltando duplicado: %s — %s", artista, c["titulo"])
+                        continue
+                    if url_obra:
+                        existentes_url.add((url_obra, fecha_dia))
                     acumulado[mes_actual].append({
                         "fecha":      datetime.now().strftime("%d/%m/%Y %H:%M"),
                         "artista":    artista,
@@ -1323,9 +1333,16 @@ def be_guardar_ventas_mensuales(cambios_list: list) -> None:
         if mes_actual not in ventas:
             ventas[mes_actual] = []
 
+        existentes_url = set((e.get("url",""), e.get("fecha","")[:10]) for e in ventas[mes_actual] if e.get("url"))
+        fecha_dia = datetime.now().strftime("%d/%m/%Y")
         for cambio in cambios_list:
             for c in cambio.get("cambios_obras", []):
                 if c["tipo"] in ("vendida", "nueva_vendida"):
+                    url_obra = c.get("url", "")
+                    if url_obra and (url_obra, fecha_dia) in existentes_url:
+                        continue
+                    if url_obra:
+                        existentes_url.add((url_obra, fecha_dia))
                     ventas[mes_actual].append({
                         "fecha":      c.get("fecha", cambio.get("hora", "")),
                         "artista":    c.get("artista", ""),
@@ -1722,8 +1739,15 @@ def tp_guardar_ventas_mensuales(cambios: list) -> None:
         mes_actual = datetime.now().strftime("%Y-%m")
         if mes_actual not in ventas:
             ventas[mes_actual] = []
+        existentes_url = set((e.get("url",""), e.get("fecha","")[:10]) for e in ventas[mes_actual] if e.get("url"))
+        fecha_dia = datetime.now().strftime("%d/%m/%Y")
         for c in cambios:
             if c["tipo"] in ("vendida", "nueva_vendida"):
+                url_obra = c.get("url", "")
+                if url_obra and (url_obra, fecha_dia) in existentes_url:
+                    continue
+                if url_obra:
+                    existentes_url.add((url_obra, fecha_dia))
                 ventas[mes_actual].append({
                     "fecha":      c.get("fecha", ""),
                     "artista":    c.get("artista", ""),
@@ -2046,8 +2070,15 @@ def ld_guardar_ventas_mensuales(cambios: list) -> None:
         mes_actual = datetime.now().strftime("%Y-%m")
         if mes_actual not in ventas:
             ventas[mes_actual] = []
+        existentes_url = set((e.get("url",""), e.get("fecha","")[:10]) for e in ventas[mes_actual] if e.get("url"))
+        fecha_dia = datetime.now().strftime("%d/%m/%Y")
         for c in cambios:
             if c["tipo"] in ("vendida", "nueva_vendida"):
+                url_obra = c.get("url", "")
+                if url_obra and (url_obra, fecha_dia) in existentes_url:
+                    continue
+                if url_obra:
+                    existentes_url.add((url_obra, fecha_dia))
                 ventas[mes_actual].append({"fecha": c.get("fecha", ""), "artista": c.get("artista", ""), "obra": c.get("titulo", ""), "precio": c.get("precio", ""), "precio_num": c.get("precio_num", 0.0), "tipo": c["tipo"], "url": c.get("url", "")})
         with open(LD_ARCHIVO_MENSUAL, "w", encoding="utf-8") as f:
             json.dump(ventas, f, ensure_ascii=False, indent=2)

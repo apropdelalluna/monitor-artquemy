@@ -1,33 +1,6 @@
 {
   "2026-05": [
     {
-      "fecha": "28/05/2026 13:04",
-      "artista": "Juncosa",
-      "obra": "Panot Gaudí – Verde II",
-      "precio": "€290,00",
-      "precio_num": 290.0,
-      "tipo": "vendida",
-      "url": ""
-    },
-    {
-      "fecha": "28/05/2026 13:04",
-      "artista": "Juncosa",
-      "obra": "Panot Gaudí – Rosa II",
-      "precio": "€290,00",
-      "precio_num": 290.0,
-      "tipo": "vendida",
-      "url": ""
-    },
-    {
-      "fecha": "28/05/2026 13:04",
-      "artista": "Juncosa",
-      "obra": "Panot Gaudí – Lila II",
-      "precio": "€290,00",
-      "precio_num": 290.0,
-      "tipo": "vendida",
-      "url": ""
-    },
-    {
       "fecha": "25/05/2026 20:04",
       "artista": "Alessia Innocenti",
       "obra": "Refluir para fluir",
@@ -2560,6 +2533,16 @@
     {
       "fecha": "25/05/2026 20:04",
       "artista": "Erwtje",
+      "obra": "Frosty",
+      "precio": "€220,00",
+      "precio_num": 220.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/frosty/",
+      "pre_monitor": true
+    },
+    {
+      "fecha": "25/05/2026 20:04",
+      "artista": "Erwtje",
       "obra": "Goldstrike",
       "precio": "€220,00",
       "precio_num": 220.0,
@@ -2815,6 +2798,16 @@
       "precio_num": 120.0,
       "tipo": "nueva_vendida",
       "url": "https://artquemy.com/producto/fish/",
+      "pre_monitor": true
+    },
+    {
+      "fecha": "25/05/2026 20:04",
+      "artista": "Jor Ros",
+      "obra": "Glass",
+      "precio": "€120,00",
+      "precio_num": 120.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/glass-2/",
       "pre_monitor": true
     },
     {
@@ -3860,6 +3853,16 @@
     {
       "fecha": "25/05/2026 20:04",
       "artista": "KST",
+      "obra": "Cabeza de pecera",
+      "precio": "€280,00",
+      "precio_num": 280.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/cabeza-de-pecera-2/",
+      "pre_monitor": true
+    },
+    {
+      "fecha": "25/05/2026 20:04",
+      "artista": "KST",
       "obra": "En el bosque",
       "precio": "€280,00",
       "precio_num": 280.0,
@@ -4380,16 +4383,6 @@
     {
       "fecha": "25/05/2026 20:04",
       "artista": "Laura Gonballes",
-      "obra": "Gaiinbu",
-      "precio": "€245,00",
-      "precio_num": 245.0,
-      "tipo": "nueva_vendida",
-      "url": "https://artquemy.com/producto/gaiinbu/",
-      "pre_monitor": true
-    },
-    {
-      "fecha": "25/05/2026 20:04",
-      "artista": "Laura Gonballes",
       "obra": "Océanicas ll",
       "precio": "€490,00",
       "precio_num": 490.0,
@@ -4405,6 +4398,16 @@
       "precio_num": 490.0,
       "tipo": "nueva_vendida",
       "url": "https://artquemy.com/producto/aladina/",
+      "pre_monitor": true
+    },
+    {
+      "fecha": "25/05/2026 20:04",
+      "artista": "Laura Gonballes",
+      "obra": "Mapuches",
+      "precio": "€490,00",
+      "precio_num": 490.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/mapuches-2/",
       "pre_monitor": true
     },
     {
@@ -4435,6 +4438,16 @@
       "precio_num": 490.0,
       "tipo": "nueva_vendida",
       "url": "https://artquemy.com/producto/hot-flushes-no2/",
+      "pre_monitor": true
+    },
+    {
+      "fecha": "25/05/2026 20:04",
+      "artista": "Laura Gonballes",
+      "obra": "Insomnia",
+      "precio": "€490,00",
+      "precio_num": 490.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/insomnia/",
       "pre_monitor": true
     },
     {
@@ -4505,6 +4518,26 @@
       "precio_num": 490.0,
       "tipo": "nueva_vendida",
       "url": "https://artquemy.com/producto/piel-de-papel-no2/",
+      "pre_monitor": true
+    },
+    {
+      "fecha": "25/05/2026 20:04",
+      "artista": "Laura Gonballes",
+      "obra": "Opium",
+      "precio": "€490,00",
+      "precio_num": 490.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/opium-a4/",
+      "pre_monitor": true
+    },
+    {
+      "fecha": "25/05/2026 20:04",
+      "artista": "Laura Gonballes",
+      "obra": "Negritas",
+      "precio": "€490,00",
+      "precio_num": 490.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/negritas-a4/",
       "pre_monitor": true
     },
     {
@@ -4745,6 +4778,16 @@
       "precio_num": 150.0,
       "tipo": "nueva_vendida",
       "url": "https://artquemy.com/producto/elite-rooftop/",
+      "pre_monitor": true
+    },
+    {
+      "fecha": "25/05/2026 20:04",
+      "artista": "Luz Marie Iturbe",
+      "obra": "Wolf",
+      "precio": "€150,00",
+      "precio_num": 150.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/wolf/",
       "pre_monitor": true
     },
     {
@@ -5910,6 +5953,16 @@
     {
       "fecha": "25/05/2026 20:04",
       "artista": "Tiny",
+      "obra": "Piss Off",
+      "precio": "€150,00",
+      "precio_num": 150.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/piss-off/",
+      "pre_monitor": true
+    },
+    {
+      "fecha": "25/05/2026 20:04",
+      "artista": "Tiny",
       "obra": "Big Cans",
       "precio": "€150,00",
       "precio_num": 150.0,
@@ -6110,16 +6163,6 @@
     {
       "fecha": "25/05/2026 20:04",
       "artista": "Urban Flowers",
-      "obra": "Between bees and flowers",
-      "precio": "€200,00",
-      "precio_num": 200.0,
-      "tipo": "nueva_vendida",
-      "url": "https://artquemy.com/producto/between-bees-and-flowers/",
-      "pre_monitor": true
-    },
-    {
-      "fecha": "25/05/2026 20:04",
-      "artista": "Urban Flowers",
       "obra": "Stoned flowers",
       "precio": "€190,00",
       "precio_num": 190.0,
@@ -6230,16 +6273,6 @@
     {
       "fecha": "25/05/2026 20:04",
       "artista": "Urban Flowers",
-      "obra": "Tiny Flower",
-      "precio": "€150,00",
-      "precio_num": 150.0,
-      "tipo": "nueva_vendida",
-      "url": "https://artquemy.com/producto/tiny-flower/",
-      "pre_monitor": true
-    },
-    {
-      "fecha": "25/05/2026 20:04",
-      "artista": "Urban Flowers",
       "obra": "Flower Ice cream",
       "precio": "€190,00",
       "precio_num": 190.0,
@@ -6275,16 +6308,6 @@
       "precio_num": 190.0,
       "tipo": "nueva_vendida",
       "url": "https://artquemy.com/producto/familia-sagrada/",
-      "pre_monitor": true
-    },
-    {
-      "fecha": "25/05/2026 20:04",
-      "artista": "Urban Flowers",
-      "obra": "Brilli brilli",
-      "precio": "€110,00",
-      "precio_num": 110.0,
-      "tipo": "nueva_vendida",
-      "url": "https://artquemy.com/producto/brilli-brilli/",
       "pre_monitor": true
     },
     {
@@ -6730,11 +6753,31 @@
     {
       "fecha": "25/05/2026 20:04",
       "artista": "Urban Flowers",
+      "obra": "Astro Skater",
+      "precio": "€190,00",
+      "precio_num": 190.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/astro-skater/",
+      "pre_monitor": true
+    },
+    {
+      "fecha": "25/05/2026 20:04",
+      "artista": "Urban Flowers",
       "obra": "Astro en el Born",
       "precio": "€190,00",
       "precio_num": 190.0,
       "tipo": "nueva_vendida",
       "url": "https://artquemy.com/producto/astro-en-el-born/",
+      "pre_monitor": true
+    },
+    {
+      "fecha": "25/05/2026 20:04",
+      "artista": "Urban Flowers",
+      "obra": "Astro en Arco del triunfo",
+      "precio": "€190,00",
+      "precio_num": 190.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/astro-en-arco-del-triunfo/",
       "pre_monitor": true
     },
     {
@@ -6785,6 +6828,16 @@
       "precio_num": 190.0,
       "tipo": "nueva_vendida",
       "url": "https://artquemy.com/producto/p-i-2/",
+      "pre_monitor": true
+    },
+    {
+      "fecha": "25/05/2026 20:04",
+      "artista": "Urban Flowers",
+      "obra": "=P – I",
+      "precio": "€190,00",
+      "precio_num": 190.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/p-i/",
       "pre_monitor": true
     },
     {
@@ -7005,6 +7058,36 @@
       "precio_num": 290.0,
       "tipo": "vendida",
       "url": "https://artquemy.com/producto/panot-gaudi-azul/"
+    },
+    {
+      "fecha": "28/05/2026 13:04",
+      "artista": "Juncosa",
+      "obra": "Panot Gaudí – Lila II",
+      "precio": "€110,00",
+      "precio_num": 110.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/panot-gaudi-lila-ii/",
+      "pre_monitor": true
+    },
+    {
+      "fecha": "28/05/2026 13:04",
+      "artista": "Juncosa",
+      "obra": "Panot Gaudí – Rosa II",
+      "precio": "€110,00",
+      "precio_num": 110.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/panot-gaudi-rosa-ii/",
+      "pre_monitor": true
+    },
+    {
+      "fecha": "28/05/2026 13:04",
+      "artista": "Juncosa",
+      "obra": "Panot Gaudí – Verde II",
+      "precio": "€110,00",
+      "precio_num": 110.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/panot-gaudi-verde-ii/",
+      "pre_monitor": true
     },
     {
       "fecha": "28/05/2026 13:04",
@@ -7434,15 +7517,6 @@
       "precio_num": 40.0,
       "tipo": "vendida",
       "url": "https://artquemy.com/producto/cascada-de-colores/"
-    },
-    {
-      "fecha": "18/07/2026 19:22",
-      "artista": "Laura Gonballes",
-      "obra": "Blue Garden",
-      "precio": "€70,00",
-      "precio_num": 70.0,
-      "tipo": "vendida",
-      "url": "https://artquemy.com/producto/blue-garden/"
     },
     {
       "fecha": "21/07/2026 16:49",
