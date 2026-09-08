@@ -12676,5 +12676,129 @@
         "url": "https://artquemy.com/producto/elliot/"
       }
     ]
+  },
+  {
+    "fecha": "08/09/2026 19:17",
+    "artista": "Various",
+    "cambios_obras": [
+      {
+        "tipo": "vendida",
+        "titulo": "Primer Plano",
+        "precio": "€190,00",
+        "precio_num": 190.0,
+        "url": "https://artquemy.com/producto/primer-plano/"
+      },
+      {
+        "tipo": "vendida",
+        "titulo": "Keko 01",
+        "precio": "€190,00",
+        "precio_num": 190.0,
+        "url": "https://artquemy.com/producto/keko-01/"
+      }
+    ]
+  },
+  {
+    "fecha": "08/09/2026 19:17",
+    "artista": "Cuestión de caracter",
+    "cambios_obras": [
+      {
+        "tipo": "vendida",
+        "titulo": "Elliot",
+        "precio": "€950,00",
+        "precio_num": 950.0,
+        "url": "https://artquemy.com/producto/elliot/"
+      },
+      {
+        "tipo": "vendida",
+        "titulo": "Los Ojos de Margarita",
+        "precio": "€40,00",
+        "precio_num": 40.0,
+        "url": "https://artquemy.com/producto/los-ojos-de-margarita/"
+      },
+      {
+        "tipo": "vendida",
+        "titulo": "Yellow Magic",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/yellow-magic/"
+      },
+      {
+        "tipo": "vendida",
+        "titulo": "Red Magic",
+        "precio": "€120,00",
+        "precio_num": 120.0,
+        "url": "https://artquemy.com/producto/red-magic/"
+      },
+      {
+        "tipo": "vendida",
+        "titulo": "Blue Magic",
+        "precio": "€120,00",
+        "precio_num": 120.0,
+        "url": "https://artquemy.com/producto/blue-magic/"
+      },
+      {
+        "tipo": "vendida",
+        "titulo": "Eye",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/eye/"
+      },
+      {
+        "tipo": "vendida",
+        "titulo": "fuchsia Madness",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/fuchsia-madness/"
+      },
+      {
+        "tipo": "vendida",
+        "titulo": "Small devil",
+        "precio": "€900,00",
+        "precio_num": 900.0,
+        "url": "https://artquemy.com/producto/small-devil/"
+      },
+      {
+        "tipo": "vendida",
+        "titulo": "Blue boy",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/blue-boy/"
+      },
+      {
+        "tipo": "vendida",
+        "titulo": "Lost Pink Robot",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/pink-robot/"
+      },
+      {
+        "tipo": "vendida",
+        "titulo": "Big devil",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/big-devil/"
+      },
+      {
+        "tipo": "vendida",
+        "titulo": "Pájaro-Pez",
+        "precio": "€1.500,00",
+        "precio_num": 1500.0,
+        "url": "https://artquemy.com/producto/pajaro-pez/"
+      },
+      {
+        "tipo": "vendida",
+        "titulo": "OVNI",
+        "precio": "€1.500,00",
+        "precio_num": 1500.0,
+        "url": "https://artquemy.com/producto/ovni/"
+      },
+      {
+        "tipo": "vendida",
+        "titulo": "Old school",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/old-school/"
+      }
+    ]
   }
 ]
