@@ -7894,6 +7894,150 @@
       "precio_num": 0.0,
       "tipo": "nueva_vendida",
       "url": "https://artquemy.com/producto/old-school/"
+    },
+    {
+      "fecha": "08/09/2026 19:17",
+      "artista": "Various",
+      "obra": "Primer Plano",
+      "precio": "€190,00",
+      "precio_num": 190.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/primer-plano/"
+    },
+    {
+      "fecha": "08/09/2026 19:17",
+      "artista": "Various",
+      "obra": "Keko 01",
+      "precio": "€190,00",
+      "precio_num": 190.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/keko-01/"
+    },
+    {
+      "fecha": "08/09/2026 19:17",
+      "artista": "Cuestión de caracter",
+      "obra": "Elliot",
+      "precio": "€950,00",
+      "precio_num": 950.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/elliot/"
+    },
+    {
+      "fecha": "08/09/2026 19:17",
+      "artista": "Cuestión de caracter",
+      "obra": "Los Ojos de Margarita",
+      "precio": "€40,00",
+      "precio_num": 40.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/los-ojos-de-margarita/"
+    },
+    {
+      "fecha": "08/09/2026 19:17",
+      "artista": "Cuestión de caracter",
+      "obra": "Yellow Magic",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/yellow-magic/"
+    },
+    {
+      "fecha": "08/09/2026 19:17",
+      "artista": "Cuestión de caracter",
+      "obra": "Red Magic",
+      "precio": "€120,00",
+      "precio_num": 120.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/red-magic/"
+    },
+    {
+      "fecha": "08/09/2026 19:17",
+      "artista": "Cuestión de caracter",
+      "obra": "Blue Magic",
+      "precio": "€120,00",
+      "precio_num": 120.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/blue-magic/"
+    },
+    {
+      "fecha": "08/09/2026 19:17",
+      "artista": "Cuestión de caracter",
+      "obra": "Eye",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/eye/"
+    },
+    {
+      "fecha": "08/09/2026 19:17",
+      "artista": "Cuestión de caracter",
+      "obra": "fuchsia Madness",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/fuchsia-madness/"
+    },
+    {
+      "fecha": "08/09/2026 19:17",
+      "artista": "Cuestión de caracter",
+      "obra": "Small devil",
+      "precio": "€900,00",
+      "precio_num": 900.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/small-devil/"
+    },
+    {
+      "fecha": "08/09/2026 19:17",
+      "artista": "Cuestión de caracter",
+      "obra": "Blue boy",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/blue-boy/"
+    },
+    {
+      "fecha": "08/09/2026 19:17",
+      "artista": "Cuestión de caracter",
+      "obra": "Lost Pink Robot",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/pink-robot/"
+    },
+    {
+      "fecha": "08/09/2026 19:17",
+      "artista": "Cuestión de caracter",
+      "obra": "Big devil",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/big-devil/"
+    },
+    {
+      "fecha": "08/09/2026 19:17",
+      "artista": "Cuestión de caracter",
+      "obra": "Pájaro-Pez",
+      "precio": "€1.500,00",
+      "precio_num": 1500.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/pajaro-pez/"
+    },
+    {
+      "fecha": "08/09/2026 19:17",
+      "artista": "Cuestión de caracter",
+      "obra": "OVNI",
+      "precio": "€1.500,00",
+      "precio_num": 1500.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/ovni/"
+    },
+    {
+      "fecha": "08/09/2026 19:17",
+      "artista": "Cuestión de caracter",
+      "obra": "Old school",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/old-school/"
     }
   ]
 }
