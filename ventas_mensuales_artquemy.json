@@ -2560,16 +2560,6 @@
     {
       "fecha": "25/05/2026 20:04",
       "artista": "Erwtje",
-      "obra": "Frosty",
-      "precio": "€220,00",
-      "precio_num": 220.0,
-      "tipo": "nueva_vendida",
-      "url": "https://artquemy.com/producto/frosty/",
-      "pre_monitor": true
-    },
-    {
-      "fecha": "25/05/2026 20:04",
-      "artista": "Erwtje",
       "obra": "Goldstrike",
       "precio": "€220,00",
       "precio_num": 220.0,
@@ -2825,16 +2815,6 @@
       "precio_num": 120.0,
       "tipo": "nueva_vendida",
       "url": "https://artquemy.com/producto/fish/",
-      "pre_monitor": true
-    },
-    {
-      "fecha": "25/05/2026 20:04",
-      "artista": "Jor Ros",
-      "obra": "Glass",
-      "precio": "€120,00",
-      "precio_num": 120.0,
-      "tipo": "nueva_vendida",
-      "url": "https://artquemy.com/producto/glass-2/",
       "pre_monitor": true
     },
     {
@@ -3880,16 +3860,6 @@
     {
       "fecha": "25/05/2026 20:04",
       "artista": "KST",
-      "obra": "Cabeza de pecera",
-      "precio": "€280,00",
-      "precio_num": 280.0,
-      "tipo": "nueva_vendida",
-      "url": "https://artquemy.com/producto/cabeza-de-pecera-2/",
-      "pre_monitor": true
-    },
-    {
-      "fecha": "25/05/2026 20:04",
-      "artista": "KST",
       "obra": "En el bosque",
       "precio": "€280,00",
       "precio_num": 280.0,
@@ -4440,16 +4410,6 @@
     {
       "fecha": "25/05/2026 20:04",
       "artista": "Laura Gonballes",
-      "obra": "Mapuches",
-      "precio": "€490,00",
-      "precio_num": 490.0,
-      "tipo": "nueva_vendida",
-      "url": "https://artquemy.com/producto/mapuches-2/",
-      "pre_monitor": true
-    },
-    {
-      "fecha": "25/05/2026 20:04",
-      "artista": "Laura Gonballes",
       "obra": "Negritas",
       "precio": "€490,00",
       "precio_num": 490.0,
@@ -4475,16 +4435,6 @@
       "precio_num": 490.0,
       "tipo": "nueva_vendida",
       "url": "https://artquemy.com/producto/hot-flushes-no2/",
-      "pre_monitor": true
-    },
-    {
-      "fecha": "25/05/2026 20:04",
-      "artista": "Laura Gonballes",
-      "obra": "Insomnia",
-      "precio": "€490,00",
-      "precio_num": 490.0,
-      "tipo": "nueva_vendida",
-      "url": "https://artquemy.com/producto/insomnia/",
       "pre_monitor": true
     },
     {
@@ -4555,26 +4505,6 @@
       "precio_num": 490.0,
       "tipo": "nueva_vendida",
       "url": "https://artquemy.com/producto/piel-de-papel-no2/",
-      "pre_monitor": true
-    },
-    {
-      "fecha": "25/05/2026 20:04",
-      "artista": "Laura Gonballes",
-      "obra": "Opium",
-      "precio": "€490,00",
-      "precio_num": 490.0,
-      "tipo": "nueva_vendida",
-      "url": "https://artquemy.com/producto/opium-a4/",
-      "pre_monitor": true
-    },
-    {
-      "fecha": "25/05/2026 20:04",
-      "artista": "Laura Gonballes",
-      "obra": "Negritas",
-      "precio": "€490,00",
-      "precio_num": 490.0,
-      "tipo": "nueva_vendida",
-      "url": "https://artquemy.com/producto/negritas-a4/",
       "pre_monitor": true
     },
     {
@@ -4815,16 +4745,6 @@
       "precio_num": 150.0,
       "tipo": "nueva_vendida",
       "url": "https://artquemy.com/producto/elite-rooftop/",
-      "pre_monitor": true
-    },
-    {
-      "fecha": "25/05/2026 20:04",
-      "artista": "Luz Marie Iturbe",
-      "obra": "Wolf",
-      "precio": "€150,00",
-      "precio_num": 150.0,
-      "tipo": "nueva_vendida",
-      "url": "https://artquemy.com/producto/wolf/",
       "pre_monitor": true
     },
     {
@@ -5990,16 +5910,6 @@
     {
       "fecha": "25/05/2026 20:04",
       "artista": "Tiny",
-      "obra": "Piss Off",
-      "precio": "€150,00",
-      "precio_num": 150.0,
-      "tipo": "nueva_vendida",
-      "url": "https://artquemy.com/producto/piss-off/",
-      "pre_monitor": true
-    },
-    {
-      "fecha": "25/05/2026 20:04",
-      "artista": "Tiny",
       "obra": "Big Cans",
       "precio": "€150,00",
       "precio_num": 150.0,
@@ -6820,31 +6730,11 @@
     {
       "fecha": "25/05/2026 20:04",
       "artista": "Urban Flowers",
-      "obra": "Astro Skater",
-      "precio": "€190,00",
-      "precio_num": 190.0,
-      "tipo": "nueva_vendida",
-      "url": "https://artquemy.com/producto/astro-skater/",
-      "pre_monitor": true
-    },
-    {
-      "fecha": "25/05/2026 20:04",
-      "artista": "Urban Flowers",
       "obra": "Astro en el Born",
       "precio": "€190,00",
       "precio_num": 190.0,
       "tipo": "nueva_vendida",
       "url": "https://artquemy.com/producto/astro-en-el-born/",
-      "pre_monitor": true
-    },
-    {
-      "fecha": "25/05/2026 20:04",
-      "artista": "Urban Flowers",
-      "obra": "Astro en Arco del triunfo",
-      "precio": "€190,00",
-      "precio_num": 190.0,
-      "tipo": "nueva_vendida",
-      "url": "https://artquemy.com/producto/astro-en-arco-del-triunfo/",
       "pre_monitor": true
     },
     {
@@ -6895,16 +6785,6 @@
       "precio_num": 190.0,
       "tipo": "nueva_vendida",
       "url": "https://artquemy.com/producto/p-i-2/",
-      "pre_monitor": true
-    },
-    {
-      "fecha": "25/05/2026 20:04",
-      "artista": "Urban Flowers",
-      "obra": "=P – I",
-      "precio": "€190,00",
-      "precio_num": 190.0,
-      "tipo": "nueva_vendida",
-      "url": "https://artquemy.com/producto/p-i/",
       "pre_monitor": true
     },
     {
@@ -7125,36 +7005,6 @@
       "precio_num": 290.0,
       "tipo": "vendida",
       "url": "https://artquemy.com/producto/panot-gaudi-azul/"
-    },
-    {
-      "fecha": "28/05/2026 13:04",
-      "artista": "Juncosa",
-      "obra": "Panot Gaudí – Lila II",
-      "precio": "€110,00",
-      "precio_num": 110.0,
-      "tipo": "nueva_vendida",
-      "url": "https://artquemy.com/producto/panot-gaudi-lila-ii/",
-      "pre_monitor": true
-    },
-    {
-      "fecha": "28/05/2026 13:04",
-      "artista": "Juncosa",
-      "obra": "Panot Gaudí – Rosa II",
-      "precio": "€110,00",
-      "precio_num": 110.0,
-      "tipo": "nueva_vendida",
-      "url": "https://artquemy.com/producto/panot-gaudi-rosa-ii/",
-      "pre_monitor": true
-    },
-    {
-      "fecha": "28/05/2026 13:04",
-      "artista": "Juncosa",
-      "obra": "Panot Gaudí – Verde II",
-      "precio": "€110,00",
-      "precio_num": 110.0,
-      "tipo": "nueva_vendida",
-      "url": "https://artquemy.com/producto/panot-gaudi-verde-ii/",
-      "pre_monitor": true
     },
     {
       "fecha": "28/05/2026 13:04",
@@ -7705,15 +7555,6 @@
       "url": "https://artquemy.com/producto/how-did-i-get-here/"
     },
     {
-      "fecha": "08/08/2026 18:55",
-      "artista": "Ceci SN",
-      "obra": "Dancers VIII",
-      "precio": "€50,00",
-      "precio_num": 50.0,
-      "tipo": "vendida",
-      "url": "https://artquemy.com/producto/dancers-viii/"
-    },
-    {
       "fecha": "09/08/2026 20:17",
       "artista": "Tiny",
       "obra": "Shut it out",
@@ -7934,15 +7775,6 @@
     {
       "fecha": "08/09/2026 19:17",
       "artista": "Cuestión de caracter",
-      "obra": "Yellow Magic",
-      "precio": "€950,00",
-      "precio_num": 950.0,
-      "tipo": "vendida",
-      "url": "https://artquemy.com/producto/yellow-magic/"
-    },
-    {
-      "fecha": "08/09/2026 19:17",
-      "artista": "Cuestión de caracter",
       "obra": "Red Magic",
       "precio": "€120,00",
       "precio_num": 120.0,
@@ -7961,56 +7793,11 @@
     {
       "fecha": "08/09/2026 19:17",
       "artista": "Cuestión de caracter",
-      "obra": "Eye",
-      "precio": "€950,00",
-      "precio_num": 950.0,
-      "tipo": "vendida",
-      "url": "https://artquemy.com/producto/eye/"
-    },
-    {
-      "fecha": "08/09/2026 19:17",
-      "artista": "Cuestión de caracter",
-      "obra": "fuchsia Madness",
-      "precio": "€950,00",
-      "precio_num": 950.0,
-      "tipo": "vendida",
-      "url": "https://artquemy.com/producto/fuchsia-madness/"
-    },
-    {
-      "fecha": "08/09/2026 19:17",
-      "artista": "Cuestión de caracter",
       "obra": "Small devil",
       "precio": "€900,00",
       "precio_num": 900.0,
       "tipo": "vendida",
       "url": "https://artquemy.com/producto/small-devil/"
-    },
-    {
-      "fecha": "08/09/2026 19:17",
-      "artista": "Cuestión de caracter",
-      "obra": "Blue boy",
-      "precio": "€950,00",
-      "precio_num": 950.0,
-      "tipo": "vendida",
-      "url": "https://artquemy.com/producto/blue-boy/"
-    },
-    {
-      "fecha": "08/09/2026 19:17",
-      "artista": "Cuestión de caracter",
-      "obra": "Lost Pink Robot",
-      "precio": "€950,00",
-      "precio_num": 950.0,
-      "tipo": "vendida",
-      "url": "https://artquemy.com/producto/pink-robot/"
-    },
-    {
-      "fecha": "08/09/2026 19:17",
-      "artista": "Cuestión de caracter",
-      "obra": "Big devil",
-      "precio": "€950,00",
-      "precio_num": 950.0,
-      "tipo": "vendida",
-      "url": "https://artquemy.com/producto/big-devil/"
     },
     {
       "fecha": "08/09/2026 19:17",
@@ -8029,15 +7816,6 @@
       "precio_num": 1500.0,
       "tipo": "vendida",
       "url": "https://artquemy.com/producto/ovni/"
-    },
-    {
-      "fecha": "08/09/2026 19:17",
-      "artista": "Cuestión de caracter",
-      "obra": "Old school",
-      "precio": "€950,00",
-      "precio_num": 950.0,
-      "tipo": "vendida",
-      "url": "https://artquemy.com/producto/old-school/"
     }
   ]
 }
