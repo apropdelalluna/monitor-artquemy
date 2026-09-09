@@ -1,5 +1,5 @@
 {
-  "__hash__": "2401b1ac2d2586ac807bb398d52fdb47",
+  "__hash__": "9c470662fee19b693def36092ce2cc02",
   "obras": {
     "https://www.3punts.com/es/shop/artwork/vincent-vega-pulp-fiction": {
       "titulo": "",
@@ -1529,6 +1529,22 @@
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/splash-costa-gorel"
     },
+    "https://www.3punts.com/es/shop/artwork/far-far-away": {
+      "titulo": "",
+      "artista": "Costa Gorel",
+      "precio": "5 800,00 €",
+      "precio_num": 5800.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/far-far-away"
+    },
+    "https://www.3punts.com/es/shop/artwork/fidelio": {
+      "titulo": "",
+      "artista": "Costa Gorel",
+      "precio": "5 800,00 €",
+      "precio_num": 5800.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/fidelio"
+    },
     "https://www.3punts.com/es/shop/artwork/teckel-no4-cova-orgaz": {
       "titulo": "",
       "artista": "Cova Orgaz",
@@ -1609,6 +1625,14 @@
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/inquietud-reptil-dominika-berger"
     },
+    "https://www.3punts.com/es/shop/artwork/retrato-de-un-instinto": {
+      "titulo": "",
+      "artista": "Dominika Berger",
+      "precio": "4 200,00 €",
+      "precio_num": 4200.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/retrato-de-un-instinto"
+    },
     "https://www.3punts.com/es/shop/artwork/reflejo-sinuoso-dominika-berger": {
       "titulo": "",
       "artista": "Dominika Berger",
@@ -1640,6 +1664,14 @@
       "precio_num": 5200.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/territorios-sumergidos-dominika-berger"
+    },
+    "https://www.3punts.com/es/shop/artwork/manos-que-sostienen-el-cielo": {
+      "titulo": "",
+      "artista": "Dominika Berger",
+      "precio": "5 300,00 €",
+      "precio_num": 5300.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/manos-que-sostienen-el-cielo"
     },
     "https://www.3punts.com/es/shop/artwork/le-plus-beau-cadeau-eduardo-chillida": {
       "titulo": "",
@@ -5728,38 +5760,6 @@
       "precio_num": 0.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/cast"
-    },
-    "https://www.3punts.com/es/shop/artwork/alchemist": {
-      "titulo": "Alchemist",
-      "artista": "Samuel Salcedo",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/alchemist"
-    },
-    "https://www.3punts.com/es/shop/artwork/arnela-samuel-salcedo": {
-      "titulo": "",
-      "artista": "Samuel Salcedo",
-      "precio": "Consultar precio",
-      "precio_num": 0.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/arnela-samuel-salcedo"
-    },
-    "https://www.3punts.com/es/shop/artwork/concrete-jungle-samuel-salcedo": {
-      "titulo": "",
-      "artista": "Samuel Salcedo",
-      "precio": "Consultar precio",
-      "precio_num": 0.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/concrete-jungle-samuel-salcedo"
-    },
-    "https://www.3punts.com/es/shop/artwork/alices-dream-iii-samuel-salcedo": {
-      "titulo": "",
-      "artista": "Samuel Salcedo",
-      "precio": "Consultar precio",
-      "precio_num": 0.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/alices-dream-iii-samuel-salcedo"
     }
   }
 }
