@@ -10385,5 +10385,77 @@
     "precio_num": 6000.0,
     "url": "https://www.3punts.com/es/shop/artwork/thoughts-samuel-salcedo",
     "fecha": "07/09/2026 19:11"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Costa Gorel",
+    "precio": "5 800,00 €",
+    "precio_num": 5800.0,
+    "url": "https://www.3punts.com/es/shop/artwork/far-far-away",
+    "fecha": "09/09/2026 18:36"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Costa Gorel",
+    "precio": "5 800,00 €",
+    "precio_num": 5800.0,
+    "url": "https://www.3punts.com/es/shop/artwork/fidelio",
+    "fecha": "09/09/2026 18:36"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Dominika Berger",
+    "precio": "4 200,00 €",
+    "precio_num": 4200.0,
+    "url": "https://www.3punts.com/es/shop/artwork/retrato-de-un-instinto",
+    "fecha": "09/09/2026 18:36"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Dominika Berger",
+    "precio": "5 300,00 €",
+    "precio_num": 5300.0,
+    "url": "https://www.3punts.com/es/shop/artwork/manos-que-sostienen-el-cielo",
+    "fecha": "09/09/2026 18:36"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Alchemist",
+    "artista": "Samuel Salcedo",
+    "precio": "Precio no disponible",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/alchemist",
+    "fecha": "09/09/2026 18:36"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Samuel Salcedo",
+    "precio": "Consultar precio",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/arnela-samuel-salcedo",
+    "fecha": "09/09/2026 18:36"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Samuel Salcedo",
+    "precio": "Consultar precio",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/concrete-jungle-samuel-salcedo",
+    "fecha": "09/09/2026 18:36"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Samuel Salcedo",
+    "precio": "Consultar precio",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/alices-dream-iii-samuel-salcedo",
+    "fecha": "09/09/2026 18:36"
   }
 ]
