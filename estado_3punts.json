@@ -1,5 +1,5 @@
 {
-  "__hash__": "9c470662fee19b693def36092ce2cc02",
+  "__hash__": "8c62d146ad9663e7eae5d27dc3be8209",
   "obras": {
     "https://www.3punts.com/es/shop/artwork/vincent-vega-pulp-fiction": {
       "titulo": "",
@@ -392,6 +392,102 @@
       "precio_num": 0.0,
       "estado": "vendido",
       "url": "https://www.3punts.com/es/shop/artwork/offline-alejandro-monge"
+    },
+    "https://www.3punts.com/es/shop/artwork/offline-10": {
+      "titulo": "",
+      "artista": "Alejandro Monge",
+      "precio": "Consultar precio",
+      "precio_num": 0.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/offline-10"
+    },
+    "https://www.3punts.com/es/shop/artwork/still-awake": {
+      "titulo": "",
+      "artista": "Alejandro Monge",
+      "precio": "Consultar precio",
+      "precio_num": 0.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/still-awake"
+    },
+    "https://www.3punts.com/es/shop/artwork/transhumanism-00": {
+      "titulo": "",
+      "artista": "Alejandro Monge",
+      "precio": "5 500,00 €",
+      "precio_num": 5500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/transhumanism-00"
+    },
+    "https://www.3punts.com/es/shop/artwork/core-time-00": {
+      "titulo": "",
+      "artista": "Alejandro Monge",
+      "precio": "5 500,00 €",
+      "precio_num": 5500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/core-time-00"
+    },
+    "https://www.3punts.com/es/shop/artwork/not-alone-20": {
+      "titulo": "",
+      "artista": "Alejandro Monge",
+      "precio": "6 800,00 €",
+      "precio_num": 6800.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/not-alone-20"
+    },
+    "https://www.3punts.com/es/shop/artwork/not-alone-10": {
+      "titulo": "",
+      "artista": "Alejandro Monge",
+      "precio": "7 500,00 €",
+      "precio_num": 7500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/not-alone-10"
+    },
+    "https://www.3punts.com/es/shop/artwork/still-waiting": {
+      "titulo": "",
+      "artista": "Alejandro Monge",
+      "precio": "8 000,00 €",
+      "precio_num": 8000.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/still-waiting"
+    },
+    "https://www.3punts.com/es/shop/artwork/still-waiting-10": {
+      "titulo": "",
+      "artista": "Alejandro Monge",
+      "precio": "8 000,00 €",
+      "precio_num": 8000.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/still-waiting-10"
+    },
+    "https://www.3punts.com/es/shop/artwork/core-time-shell-10": {
+      "titulo": "",
+      "artista": "Alejandro Monge",
+      "precio": "8 800,00 €",
+      "precio_num": 8800.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/core-time-shell-10"
+    },
+    "https://www.3punts.com/es/shop/artwork/offline": {
+      "titulo": "",
+      "artista": "Alejandro Monge",
+      "precio": "9 800,00 €",
+      "precio_num": 9800.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/offline"
+    },
+    "https://www.3punts.com/es/shop/artwork/playlist-mode-00": {
+      "titulo": "",
+      "artista": "Alejandro Monge",
+      "precio": "9 800,00 €",
+      "precio_num": 9800.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/playlist-mode-00"
+    },
+    "https://www.3punts.com/es/shop/artwork/not-alone": {
+      "titulo": "",
+      "artista": "Alejandro Monge",
+      "precio": "9 800,00 €",
+      "precio_num": 9800.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/not-alone"
     },
     "https://www.3punts.com/es/shop/artwork/alejandro-monge-2": {
       "titulo": "Alejandro Monge 2",
@@ -5664,102 +5760,6 @@
       "precio_num": 0.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/metal-metal-ii-samuel-salcedo"
-    },
-    "https://www.3punts.com/es/shop/artwork/about-memories-iv": {
-      "titulo": "",
-      "artista": "Samuel Salcedo",
-      "precio": "Consultar precio",
-      "precio_num": 0.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/about-memories-iv"
-    },
-    "https://www.3punts.com/es/shop/artwork/about-memories-iii": {
-      "titulo": "",
-      "artista": "Samuel Salcedo",
-      "precio": "Consultar precio",
-      "precio_num": 0.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/about-memories-iii"
-    },
-    "https://www.3punts.com/es/shop/artwork/about-memories-i": {
-      "titulo": "",
-      "artista": "Samuel Salcedo",
-      "precio": "Consultar precio",
-      "precio_num": 0.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/about-memories-i"
-    },
-    "https://www.3punts.com/es/shop/artwork/iron-mask-samuel-salcedo": {
-      "titulo": "",
-      "artista": "Samuel Salcedo",
-      "precio": "4 200,00 €",
-      "precio_num": 4200.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/iron-mask-samuel-salcedo"
-    },
-    "https://www.3punts.com/es/shop/artwork/concrete-jungle-ii-samuel-salcedo": {
-      "titulo": "",
-      "artista": "Samuel Salcedo",
-      "precio": "6 000,00 €",
-      "precio_num": 6000.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/concrete-jungle-ii-samuel-salcedo"
-    },
-    "https://www.3punts.com/es/shop/artwork/alices-dream-i": {
-      "titulo": "",
-      "artista": "Samuel Salcedo",
-      "precio": "Consultar precio",
-      "precio_num": 0.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/alices-dream-i"
-    },
-    "https://www.3punts.com/es/shop/artwork/sabela-samuel-salcedo": {
-      "titulo": "",
-      "artista": "Samuel Salcedo",
-      "precio": "7 000,00 €",
-      "precio_num": 7000.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/sabela-samuel-salcedo"
-    },
-    "https://www.3punts.com/es/shop/artwork/rolling-stone-i-samuel-salcedo": {
-      "titulo": "",
-      "artista": "Samuel Salcedo",
-      "precio": "9 500,00 €",
-      "precio_num": 9500.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/rolling-stone-i-samuel-salcedo"
-    },
-    "https://www.3punts.com/es/shop/artwork/rolling-stone-ii-samuel-salcedo": {
-      "titulo": "",
-      "artista": "Samuel Salcedo",
-      "precio": "9 500,00 €",
-      "precio_num": 9500.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/rolling-stone-ii-samuel-salcedo"
-    },
-    "https://www.3punts.com/es/shop/artwork/rolling-stone-iii-samuel-salcedo": {
-      "titulo": "",
-      "artista": "Samuel Salcedo",
-      "precio": "9 500,00 €",
-      "precio_num": 9500.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/rolling-stone-iii-samuel-salcedo"
-    },
-    "https://www.3punts.com/es/shop/artwork/slumberland-samuel-salcedo": {
-      "titulo": "",
-      "artista": "Samuel Salcedo",
-      "precio": "Consultar precio",
-      "precio_num": 0.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/slumberland-samuel-salcedo"
-    },
-    "https://www.3punts.com/es/shop/artwork/cast": {
-      "titulo": "",
-      "artista": "Samuel Salcedo",
-      "precio": "Consultar precio",
-      "precio_num": 0.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/cast"
     }
   }
 }
