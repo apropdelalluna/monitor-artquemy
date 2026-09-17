@@ -555,11 +555,22 @@ def obtener_contenido(artista: dict) -> dict | None:
         obras_totales = {}
         textos = []
         url = artista["url"]
+        # Fallback: si la URL usa /artista/ probar también /artists/
+        if "/artista/" in url:
+            url_fallback = url.replace("/artista/", "/artists/")
+        else:
+            url_fallback = None
         pagina = 1
         max_paginas = 10
 
         while url and pagina <= max_paginas:
             resp = requests.get(url, headers=headers, timeout=20)
+            # Si la URL antigua da 404, probar con la nueva
+            if resp.status_code == 404 and url_fallback:
+                logging.info("URL antigua 404, probando: %s", url_fallback)
+                url = url_fallback
+                url_fallback = None
+                resp = requests.get(url, headers=headers, timeout=20)
             resp.raise_for_status()
             soup = BeautifulSoup(resp.text, "html.parser")
 
