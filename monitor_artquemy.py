@@ -544,13 +544,27 @@ def extraer_obras(soup: BeautifulSoup) -> dict:
 
 def obtener_contenido(artista: dict) -> dict | None:
     headers = {
-        "User-Agent": (
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-            "AppleWebKit/537.36 (KHTML, like Gecko) "
-            "Chrome/124.0.0.0 Safari/537.36"
-        ),
-        "Accept-Language": "es-ES,es;q=0.9",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
+        "Accept-Language": "es-ES,es;q=0.9,en;q=0.8",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Connection": "keep-alive",
+        "Upgrade-Insecure-Requests": "1",
+        "Sec-Fetch-Dest": "document",
+        "Sec-Fetch-Mode": "navigate",
+        "Sec-Fetch-Site": "none",
+        "Sec-Fetch-User": "?1",
+        "Cache-Control": "max-age=0",
     }
+    # Usar sesión para mantener cookies entre peticiones
+    session = requests.Session()
+    session.headers.update(headers)
+    # Primera visita a la home para obtener cookies
+    try:
+        session.get("https://artquemy.com/", timeout=15)
+        time.sleep(2)
+    except Exception:
+        pass
     try:
         obras_totales = {}
         textos = []
@@ -564,18 +578,30 @@ def obtener_contenido(artista: dict) -> dict | None:
         max_paginas = 10
 
         while url and pagina <= max_paginas:
-            resp = requests.get(url, headers=headers, timeout=20)
+            resp = session.get(url, timeout=20)
             # Si la URL antigua da 404, probar con la nueva
             if resp.status_code == 404 and url_fallback:
                 logging.info("URL antigua 404, probando: %s", url_fallback)
                 url = url_fallback
                 url_fallback = None
-                resp = requests.get(url, headers=headers, timeout=20)
+                resp = session.get(url, timeout=20)
             resp.raise_for_status()
             soup = BeautifulSoup(resp.text, "html.parser")
-            # LOG TEMPORAL: mostrar primeros 2000 chars del HTML para diagnóstico
+            # LOG TEMPORAL: buscar selectores en el HTML
             if pagina == 1 and artista["nombre"] == "Alessia Innocenti":
-                logging.info("[DEBUG HTML] %s", resp.text[:2000])
+                html = resp.text
+                logging.info("[DEBUG] HTML length: %d", len(html))
+                logging.info("[DEBUG] li.product found: %s", "li class=\"product" in html or "li class='product'" in html)
+                logging.info("[DEBUG] jupiterx-product found: %s", "jupiterx-product" in html)
+                logging.info("[DEBUG] wc-block found: %s", "wc-block" in html)
+                logging.info("[DEBUG] ul products found: %s", "ul class=\"products" in html)
+                # Show snippet around first product mention
+                idx = html.find("jupiterx-product")
+                if idx > 0:
+                    logging.info("[DEBUG] jupiterx snippet: %s", html[max(0,idx-50):idx+200])
+                idx2 = html.find("li class=\"")
+                if idx2 > 0:
+                    logging.info("[DEBUG] first li snippet: %s", html[idx2:idx2+300])
 
             zona = soup.select_one(".products") or soup.select_one("main") or soup.body
             textos.append(zona.get_text(separator="\n", strip=True))
@@ -1183,13 +1209,27 @@ def be_extraer_obras(soup: BeautifulSoup, nombre_categoria: str) -> dict:
 
 def be_obtener_contenido(categoria: dict) -> dict | None:
     headers = {
-        "User-Agent": (
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-            "AppleWebKit/537.36 (KHTML, like Gecko) "
-            "Chrome/124.0.0.0 Safari/537.36"
-        ),
-        "Accept-Language": "es-ES,es;q=0.9",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
+        "Accept-Language": "es-ES,es;q=0.9,en;q=0.8",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Connection": "keep-alive",
+        "Upgrade-Insecure-Requests": "1",
+        "Sec-Fetch-Dest": "document",
+        "Sec-Fetch-Mode": "navigate",
+        "Sec-Fetch-Site": "none",
+        "Sec-Fetch-User": "?1",
+        "Cache-Control": "max-age=0",
     }
+    # Usar sesión para mantener cookies entre peticiones
+    session = requests.Session()
+    session.headers.update(headers)
+    # Primera visita a la home para obtener cookies
+    try:
+        session.get("https://artquemy.com/", timeout=15)
+        time.sleep(2)
+    except Exception:
+        pass
     try:
         obras_totales = {}
         textos = []
