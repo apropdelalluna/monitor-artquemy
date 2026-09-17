@@ -556,15 +556,10 @@ def obtener_contenido(artista: dict) -> dict | None:
         "Sec-Fetch-User": "?1",
         "Cache-Control": "max-age=0",
     }
-    # Usar sesión para mantener cookies entre peticiones
-    session = requests.Session()
+    # Usar cloudscraper para bypasear protección Cloudflare
+    import cloudscraper
+    session = cloudscraper.create_scraper()
     session.headers.update(headers)
-    # Primera visita a la home para obtener cookies
-    try:
-        session.get("https://artquemy.com/", timeout=15)
-        time.sleep(2)
-    except Exception:
-        pass
     try:
         obras_totales = {}
         textos = []
@@ -1221,15 +1216,10 @@ def be_obtener_contenido(categoria: dict) -> dict | None:
         "Sec-Fetch-User": "?1",
         "Cache-Control": "max-age=0",
     }
-    # Usar sesión para mantener cookies entre peticiones
-    session = requests.Session()
+    # Usar cloudscraper para bypasear protección Cloudflare
+    import cloudscraper
+    session = cloudscraper.create_scraper()
     session.headers.update(headers)
-    # Primera visita a la home para obtener cookies
-    try:
-        session.get("https://artquemy.com/", timeout=15)
-        time.sleep(2)
-    except Exception:
-        pass
     try:
         obras_totales = {}
         textos = []
