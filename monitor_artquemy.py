@@ -573,6 +573,9 @@ def obtener_contenido(artista: dict) -> dict | None:
                 resp = requests.get(url, headers=headers, timeout=20)
             resp.raise_for_status()
             soup = BeautifulSoup(resp.text, "html.parser")
+            # LOG TEMPORAL: mostrar primeros 2000 chars del HTML para diagnóstico
+            if pagina == 1 and artista["nombre"] == "Alessia Innocenti":
+                logging.info("[DEBUG HTML] %s", resp.text[:2000])
 
             zona = soup.select_one(".products") or soup.select_one("main") or soup.body
             textos.append(zona.get_text(separator="\n", strip=True))
