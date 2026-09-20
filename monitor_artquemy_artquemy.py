@@ -157,6 +157,13 @@ def github_guardar_archivo(nombre: str) -> bool:
 
 def obtener_html_playwright(url: str) -> str | None:
     """Obtiene el HTML renderizado de una URL usando Playwright."""
+    import signal
+
+    def _timeout_handler(signum, frame):
+        raise TimeoutError("Playwright timeout duro")
+
+    signal.signal(signal.SIGALRM, _timeout_handler)
+    signal.alarm(25)  # límite duro de 25 segundos por página
     try:
         from playwright.sync_api import sync_playwright
         with sync_playwright() as p:
@@ -175,18 +182,22 @@ def obtener_html_playwright(url: str) -> str | None:
                 locale="es-ES",
             )
             page = context.new_page()
-            page.goto(url, wait_until="domcontentloaded", timeout=20000)
-            # Esperar a que carguen los productos, máximo 8 segundos
+            page.goto(url, wait_until="domcontentloaded", timeout=15000)
             try:
-                page.wait_for_selector("li.product", timeout=8000)
+                page.wait_for_selector("li.product", timeout=6000)
             except Exception:
                 pass
-            # Pequeña pausa para JS adicional
-            page.wait_for_timeout(1000)
+            page.wait_for_timeout(500)
             html = page.content()
             browser.close()
+            signal.alarm(0)
             return html
+    except TimeoutError:
+        signal.alarm(0)
+        logging.warning("Timeout duro en %s — saltando", url)
+        return None
     except Exception as e:
+        signal.alarm(0)
         logging.error("Error Playwright en %s: %s", url, e)
         return None
 
