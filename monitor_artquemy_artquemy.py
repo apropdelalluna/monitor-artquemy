@@ -175,12 +175,14 @@ def obtener_html_playwright(url: str) -> str | None:
                 locale="es-ES",
             )
             page = context.new_page()
-            page.goto(url, wait_until="networkidle", timeout=30000)
-            # Esperar a que carguen los productos
+            page.goto(url, wait_until="domcontentloaded", timeout=20000)
+            # Esperar a que carguen los productos, máximo 8 segundos
             try:
-                page.wait_for_selector("li.product", timeout=10000)
+                page.wait_for_selector("li.product", timeout=8000)
             except Exception:
                 pass
+            # Pequeña pausa para JS adicional
+            page.wait_for_timeout(1000)
             html = page.content()
             browser.close()
             return html
