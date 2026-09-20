@@ -155,50 +155,53 @@ def github_guardar_archivo(nombre: str) -> bool:
 
 # ── Extracción de obras con Playwright ──
 
+_PW_SCRIPT = """
+import sys, os
+os.environ["PLAYWRIGHT_BROWSERS_PATH"] = "/opt/render/project/.playwright"
+from playwright.sync_api import sync_playwright
+url = sys.argv[1]
+try:
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True, args=["--no-sandbox","--disable-setuid-sandbox","--disable-dev-shm-usage","--disable-gpu","--single-process"])
+        ctx = browser.new_context(user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/126.0.0.0 Safari/537.36", locale="es-ES")
+        page = ctx.new_page()
+        page.goto(url, wait_until="domcontentloaded", timeout=15000)
+        try:
+            page.wait_for_selector("li.product", timeout=6000)
+        except Exception:
+            pass
+        page.wait_for_timeout(500)
+        print(page.content())
+        browser.close()
+except Exception as e:
+    import sys; sys.stderr.write(str(e)); sys.exit(1)
+"""
+
+_PW_SCRIPT_PATH = "/tmp/_pw_fetch_artquemy.py"
+
+def _init_pw_script():
+    with open(_PW_SCRIPT_PATH, "w") as f:
+        f.write(_PW_SCRIPT)
+
 def obtener_html_playwright(url: str) -> str | None:
-    """Obtiene el HTML renderizado de una URL usando Playwright."""
-    import signal
-
-    def _timeout_handler(signum, frame):
-        raise TimeoutError("Playwright timeout duro")
-
-    signal.signal(signal.SIGALRM, _timeout_handler)
-    signal.alarm(25)  # límite duro de 25 segundos por página
+    """Ejecuta Playwright en subproceso con timeout duro de 30s."""
+    import subprocess
     try:
-        from playwright.sync_api import sync_playwright
-        with sync_playwright() as p:
-            browser = p.chromium.launch(
-                headless=True,
-                args=[
-                    "--no-sandbox",
-                    "--disable-setuid-sandbox",
-                    "--disable-dev-shm-usage",
-                    "--disable-gpu",
-                    "--single-process",
-                ]
-            )
-            context = browser.new_context(
-                user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-                locale="es-ES",
-            )
-            page = context.new_page()
-            page.goto(url, wait_until="domcontentloaded", timeout=15000)
-            try:
-                page.wait_for_selector("li.product", timeout=6000)
-            except Exception:
-                pass
-            page.wait_for_timeout(500)
-            html = page.content()
-            browser.close()
-            signal.alarm(0)
-            return html
-    except TimeoutError:
-        signal.alarm(0)
-        logging.warning("Timeout duro en %s — saltando", url)
+        result = subprocess.run(
+            ["python3", _PW_SCRIPT_PATH, url],
+            capture_output=True,
+            text=True,
+            timeout=30,
+        )
+        if result.returncode == 0 and result.stdout:
+            return result.stdout
+        logging.warning("Playwright sin resultado para %s: %s", url, result.stderr[:200])
+        return None
+    except subprocess.TimeoutExpired:
+        logging.warning("Timeout duro (30s) en %s — saltando", url)
         return None
     except Exception as e:
-        signal.alarm(0)
-        logging.error("Error Playwright en %s: %s", url, e)
+        logging.error("Error subproceso Playwright en %s: %s", url, e)
         return None
 
 
@@ -499,6 +502,7 @@ def main() -> None:
 
     threading.Thread(target=iniciar_servidor, daemon=True).start()
 
+    _init_pw_script()
     cargar_artistas_github()
     cargar_estado()
 
