@@ -17,6 +17,7 @@ import time
 import logging
 import json
 import os
+os.environ.setdefault("PLAYWRIGHT_BROWSERS_PATH", "/opt/render/project/.playwright")
 import re
 import threading
 from http.server import HTTPServer, BaseHTTPRequestHandler
