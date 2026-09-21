@@ -470,23 +470,52 @@ def cargar_artistas_github() -> None:
 
 # ── Comprobación principal ──
 
+GRUPO_SIZE = 10  # artistas por escaneo
+ARCHIVO_PUNTERO = "puntero_artquemy.json"
+
+
+def cargar_puntero() -> int:
+    contenido = github_cargar_archivo(ARCHIVO_PUNTERO)
+    if contenido:
+        try:
+            return json.loads(contenido).get("inicio", 0)
+        except Exception:
+            pass
+    return 0
+
+
+def guardar_puntero(inicio: int) -> None:
+    try:
+        siguiente = (inicio + GRUPO_SIZE) % len(ARTISTAS)
+        with open(ARCHIVO_PUNTERO, "w") as f:
+            json.dump({"inicio": siguiente}, f)
+        github_guardar_archivo(ARCHIVO_PUNTERO)
+        logging.info("Puntero actualizado: próximo grupo desde artista %d", siguiente)
+    except Exception as e:
+        logging.error("Error guardando puntero: %s", e)
+
+
 def comprobar_todos() -> None:
     global estado, cambios_del_dia
+    
+    inicio = cargar_puntero()
+    grupo = ARTISTAS[inicio:inicio + GRUPO_SIZE]
+    if len(grupo) < GRUPO_SIZE and inicio + GRUPO_SIZE > len(ARTISTAS):
+        # Wrap around al final
+        grupo = ARTISTAS[inicio:] + ARTISTAS[:GRUPO_SIZE - (len(ARTISTAS) - inicio)]
+
     logging.info("=" * 54)
     logging.info("Inicio comprobación — %s", datetime.now().strftime("%d/%m/%Y %H:%M"))
-    logging.info("Artistas a comprobar: %d", len(ARTISTAS))
+    logging.info("Grupo: artistas %d-%d de %d", inicio + 1, inicio + len(grupo), len(ARTISTAS))
 
     cambios_del_dia = []
-    nuevo_estado = {}
 
-    for artista in ARTISTAS:
+    for artista in grupo:
         logging.info("Comprobando: %s", artista["nombre"])
         datos = obtener_contenido(artista)
 
         if datos is None:
             logging.warning("Sin datos para %s — manteniendo estado anterior", artista["nombre"])
-            if artista["nombre"] in estado:
-                nuevo_estado[artista["nombre"]] = estado[artista["nombre"]]
             continue
 
         estado_artista_viejo = estado.get(artista["nombre"], {})
@@ -495,7 +524,7 @@ def comprobar_todos() -> None:
 
         cambios_obras = detectar_cambios_obras(obras_nuevas, obras_viejas, artista["nombre"])
 
-        nuevo_estado[artista["nombre"]] = {
+        estado[artista["nombre"]] = {
             "url": artista["url"],
             "hash": datos["hash"],
             "obras": obras_nuevas,
@@ -508,16 +537,13 @@ def comprobar_todos() -> None:
                 logging.info("    [%s] %s — %s", c["tipo"], c["titulo"], c["precio"])
             cambios_del_dia.append({"artista": artista, "cambios_obras": cambios_obras})
 
-        time.sleep(3)  # Pausa entre artistas para no sobrecargar
+        time.sleep(2)
 
-    estado = nuevo_estado
     guardar_estado()
+    guardar_puntero(inicio)
 
     if cambios_del_dia:
-        cambios_planos = []
-        for c in cambios_del_dia:
-            for obra in c["cambios_obras"]:
-                cambios_planos.append(obra)
+        cambios_planos = [obra for c in cambios_del_dia for obra in c["cambios_obras"]]
         guardar_ventas_mensuales(cambios_del_dia)
         guardar_historial(cambios_planos)
         logging.info("Comprobación finalizada — %d cambios.", len(cambios_planos))
@@ -541,9 +567,9 @@ def main() -> None:
 
     comprobar_todos()
 
-    schedule.every().day.at(HORA_ENVIO).do(comprobar_todos)
+    schedule.every(2).hours.do(comprobar_todos)
 
-    logging.info("Scheduler activo. Comprobación automática a las %s UTC.", HORA_ENVIO)
+    logging.info("Scheduler activo. Comprobación automática cada 2 horas.")
     while True:
         schedule.run_pending()
         time.sleep(60)
