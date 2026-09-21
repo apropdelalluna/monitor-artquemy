@@ -162,15 +162,48 @@ from playwright.sync_api import sync_playwright
 url = sys.argv[1]
 try:
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=True, args=["--no-sandbox","--disable-setuid-sandbox","--disable-dev-shm-usage","--disable-gpu","--single-process"])
-        ctx = browser.new_context(user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/126.0.0.0 Safari/537.36", locale="es-ES")
+        browser = p.chromium.launch(
+            headless=True,
+            args=[
+                "--no-sandbox",
+                "--disable-setuid-sandbox",
+                "--disable-dev-shm-usage",
+                "--disable-gpu",
+                "--single-process",
+                "--disable-blink-features=AutomationControlled",
+                "--disable-infobars",
+                "--window-size=1920,1080",
+            ]
+        )
+        ctx = browser.new_context(
+            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            locale="es-ES",
+            viewport={"width": 1920, "height": 1080},
+            extra_http_headers={
+                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+                "Accept-Language": "es-ES,es;q=0.9,en;q=0.8",
+                "Accept-Encoding": "gzip, deflate, br",
+                "Connection": "keep-alive",
+                "Upgrade-Insecure-Requests": "1",
+                "Sec-Fetch-Dest": "document",
+                "Sec-Fetch-Mode": "navigate",
+                "Sec-Fetch-Site": "none",
+                "Sec-Fetch-User": "?1",
+            }
+        )
+        # Ocultar que es un navegador automatizado
         page = ctx.new_page()
+        page.add_init_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
+        # Visitar home primero para obtener cookies de Cloudflare
+        page.goto("https://artquemy.com/", wait_until="domcontentloaded", timeout=15000)
+        page.wait_for_timeout(3000)
+        # Ahora ir a la página del artista
         page.goto(url, wait_until="domcontentloaded", timeout=15000)
         try:
-            page.wait_for_selector("li.product", timeout=6000)
+            page.wait_for_selector("li.product", timeout=8000)
         except Exception:
             pass
-        page.wait_for_timeout(500)
+        page.wait_for_timeout(1000)
         print(page.content())
         browser.close()
 except Exception as e:
