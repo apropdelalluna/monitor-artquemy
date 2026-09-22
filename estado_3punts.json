@@ -1,5 +1,5 @@
 {
-  "__hash__": "8c62d146ad9663e7eae5d27dc3be8209",
+  "__hash__": "58510f8ed90f0530358ceeaf8edfff25",
   "obras": {
     "https://www.3punts.com/es/shop/artwork/vincent-vega-pulp-fiction": {
       "titulo": "",
@@ -169,6 +169,14 @@
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/jugadors-de-cartes-adria-garcia-surribas"
     },
+    "https://www.3punts.com/es/shop/artwork/espera-verde-alberto-fernandez-hurtado": {
+      "titulo": "",
+      "artista": "Alberto Fernández Hurtado",
+      "precio": "7 200,00 €",
+      "precio_num": 7200.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/espera-verde-alberto-fernandez-hurtado"
+    },
     "https://www.3punts.com/es/shop/artwork/untitled-alberto-fernandez-hurtado": {
       "titulo": "",
       "artista": "Alberto Fernández Hurtado",
@@ -176,14 +184,6 @@
       "precio_num": 7500.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/untitled-alberto-fernandez-hurtado"
-    },
-    "https://www.3punts.com/es/shop/artwork/espera-verde-alberto-fernandez-hurtado": {
-      "titulo": "",
-      "artista": "Alberto Fernández Hurtado",
-      "precio": "7 500,00 €",
-      "precio_num": 7500.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/espera-verde-alberto-fernandez-hurtado"
     },
     "https://www.3punts.com/es/shop/artwork/discernimiento-alberto-fernandez-hurtado": {
       "titulo": "",
@@ -208,6 +208,22 @@
       "precio_num": 7500.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/la-era-del-jabali-blanco-alberto-fernandez-hurtado"
+    },
+    "https://www.3punts.com/es/shop/artwork/el-umbral": {
+      "titulo": "",
+      "artista": "Alberto Fernández Hurtado",
+      "precio": "7 500,00 €",
+      "precio_num": 7500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/el-umbral"
+    },
+    "https://www.3punts.com/es/shop/artwork/hacia-la-libertad": {
+      "titulo": "",
+      "artista": "Alberto Fernández Hurtado",
+      "precio": "7 500,00 €",
+      "precio_num": 7500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/hacia-la-libertad"
     },
     "https://www.3punts.com/es/shop/artwork/hoar-frost-alejandro-monge": {
       "titulo": "",
@@ -393,14 +409,6 @@
       "estado": "vendido",
       "url": "https://www.3punts.com/es/shop/artwork/offline-alejandro-monge"
     },
-    "https://www.3punts.com/es/shop/artwork/offline-10": {
-      "titulo": "",
-      "artista": "Alejandro Monge",
-      "precio": "Consultar precio",
-      "precio_num": 0.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/offline-10"
-    },
     "https://www.3punts.com/es/shop/artwork/still-awake": {
       "titulo": "",
       "artista": "Alejandro Monge",
@@ -408,6 +416,14 @@
       "precio_num": 0.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/still-awake"
+    },
+    "https://www.3punts.com/es/shop/artwork/offline-10-0": {
+      "titulo": "",
+      "artista": "Alejandro Monge",
+      "precio": "Consultar precio",
+      "precio_num": 0.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/offline-10-0"
     },
     "https://www.3punts.com/es/shop/artwork/transhumanism-00": {
       "titulo": "",
@@ -585,6 +601,14 @@
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/green-black-aleksandar-zaar"
     },
+    "https://www.3punts.com/es/shop/artwork/bleu-monte-carlo": {
+      "titulo": "",
+      "artista": "Aleksandar Zaar",
+      "precio": "6 300,00 €",
+      "precio_num": 6300.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/bleu-monte-carlo"
+    },
     "https://www.3punts.com/es/shop/artwork/uoap-c5-alex-palli": {
       "titulo": "",
       "artista": "Alex Pallí",
@@ -649,6 +673,14 @@
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/erasmo-vii-amadeo-gabino"
     },
+    "https://www.3punts.com/es/shop/artwork/escudo-de-venus-xv-amadeo-gabino": {
+      "titulo": "",
+      "artista": "Amadeo Gabino",
+      "precio": "Consultar precio",
+      "precio_num": 0.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/escudo-de-venus-xv-amadeo-gabino"
+    },
     "https://www.3punts.com/es/shop/artwork/st-amadeo-gabino-0": {
       "titulo": "",
       "artista": "Amadeo Gabino",
@@ -680,14 +712,6 @@
       "precio_num": 4000.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/marte-x-amadeo-gabino"
-    },
-    "https://www.3punts.com/es/shop/artwork/escudo-de-venus-xv-amadeo-gabino": {
-      "titulo": "",
-      "artista": "Amadeo Gabino",
-      "precio": "9 000,00 €",
-      "precio_num": 9000.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/escudo-de-venus-xv-amadeo-gabino"
     },
     "https://www.3punts.com/es/shop/artwork/black-braid-lantomo": {
       "titulo": "",
@@ -945,6 +969,14 @@
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/hong-series-ii-5-lantomo"
     },
+    "https://www.3punts.com/es/shop/artwork/huang-15": {
+      "titulo": "",
+      "artista": "Antonella Montes - LANTOMO",
+      "precio": "2 500,00 €",
+      "precio_num": 2500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/huang-15"
+    },
     "https://www.3punts.com/es/shop/artwork/black-graffiti-lantomo": {
       "titulo": "",
       "artista": "Antonella Montes - LANTOMO",
@@ -1008,6 +1040,14 @@
       "precio_num": 4900.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/sad-revolution-lantomo"
+    },
+    "https://www.3punts.com/es/shop/artwork/huang-16": {
+      "titulo": "",
+      "artista": "Antonella Montes - LANTOMO",
+      "precio": "25 000,00 €",
+      "precio_num": 25000.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/huang-16"
     },
     "https://www.3punts.com/es/shop/artwork/space-buns-samurai-lantomo": {
       "titulo": "Space Buns Samurai Lantomo",
@@ -1992,6 +2032,22 @@
       "precio_num": 1500.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/untitled"
+    },
+    "https://www.3punts.com/es/shop/artwork/fantasia-berniniana": {
+      "titulo": "",
+      "artista": "Gerard Mas",
+      "precio": "5 800,00 €",
+      "precio_num": 5800.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/fantasia-berniniana"
+    },
+    "https://www.3punts.com/es/shop/artwork/estatua-ecuestre": {
+      "titulo": "",
+      "artista": "Gerard Mas",
+      "precio": "6 800,00 €",
+      "precio_num": 6800.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/estatua-ecuestre"
     },
     "https://www.3punts.com/es/shop/artwork/tongue-out-lady": {
       "titulo": "",
@@ -5704,62 +5760,6 @@
       "precio_num": 3900.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/emotions-chart-vi-samuel-salcedo"
-    },
-    "https://www.3punts.com/es/shop/artwork/emotions-chart-vii-samuel-salcedo": {
-      "titulo": "",
-      "artista": "Samuel Salcedo",
-      "precio": "3 900,00 €",
-      "precio_num": 3900.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/emotions-chart-vii-samuel-salcedo"
-    },
-    "https://www.3punts.com/es/shop/artwork/emotions-chart-viii-samuel-salcedo": {
-      "titulo": "",
-      "artista": "Samuel Salcedo",
-      "precio": "3 900,00 €",
-      "precio_num": 3900.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/emotions-chart-viii-samuel-salcedo"
-    },
-    "https://www.3punts.com/es/shop/artwork/emotions-chart-ix-samuel-salcedo": {
-      "titulo": "",
-      "artista": "Samuel Salcedo",
-      "precio": "3 900,00 €",
-      "precio_num": 3900.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/emotions-chart-ix-samuel-salcedo"
-    },
-    "https://www.3punts.com/es/shop/artwork/rolling-stones-samuel-salcedo": {
-      "titulo": "",
-      "artista": "Samuel Salcedo",
-      "precio": "Consultar precio",
-      "precio_num": 0.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/rolling-stones-samuel-salcedo"
-    },
-    "https://www.3punts.com/es/shop/artwork/about-memories-i-samuel-salcedo": {
-      "titulo": "",
-      "artista": "Samuel Salcedo",
-      "precio": "Consultar precio",
-      "precio_num": 0.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/about-memories-i-samuel-salcedo"
-    },
-    "https://www.3punts.com/es/shop/artwork/needles-and-pins-samuel-salcedo": {
-      "titulo": "",
-      "artista": "Samuel Salcedo",
-      "precio": "Consultar precio",
-      "precio_num": 0.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/needles-and-pins-samuel-salcedo"
-    },
-    "https://www.3punts.com/es/shop/artwork/metal-metal-ii-samuel-salcedo": {
-      "titulo": "",
-      "artista": "Samuel Salcedo",
-      "precio": "Consultar precio",
-      "precio_num": 0.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/metal-metal-ii-samuel-salcedo"
     }
   }
 }
