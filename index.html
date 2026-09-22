@@ -359,7 +359,10 @@
       <div class="status-bar">
         <div class="status-dot loading" id="statusDot"></div>
         <span class="status-text" id="statusText">Cargando datos...</span>
-        <button class="wake-btn" id="wakeBtn" onclick="despertarServicio()">⚡ Despertar servicio</button>
+        <div style="display:flex;gap:8px;flex-wrap:wrap;">
+          <button class="wake-btn" id="wakeBtn" onclick="despertarServicio()">⚡ Despertar servicio</button>
+          <button class="wake-btn" id="wakeBtnArtquemy" onclick="despertarArtquemy()" style="font-size:10px;">⚡ Despertar Artquemy</button>
+        </div>
       </div>
       <div style="text-align:right; font-size:11px; color:var(--text-dim); margin-top:6px;" id="lastUpdateHeader">—</div>
     </header>
@@ -396,6 +399,7 @@
     const GITHUB_USER = 'apropdelalluna';
     const GITHUB_REPO = 'monitor-artquemy';
     const DEPLOY_HOOK = 'https://api.render.com/deploy/srv-d8a9ouml51nc73cit26g?key=rf4fW3ImMcw';
+    const DEPLOY_HOOK_ARTQUEMY = 'https://api.render.com/deploy/srv-dao21oijnfac73a9ul00?key=NTWjVqIO4_A';
 
     const MESES_ES = {
       'January':'Enero','February':'Febrero','March':'Marzo','April':'Abril',
@@ -637,6 +641,20 @@
         document.getElementById('statusDot').className = 'status-dot error';
         document.getElementById('statusText').textContent = 'Error al cargar datos';
         console.error(e);
+      }
+    }
+
+    async function despertarArtquemy() {
+      document.getElementById('wakeBtnArtquemy').disabled = true;
+      document.getElementById('wakeBtnArtquemy').textContent = '⏳ Despertando...';
+      try {
+        await fetch(DEPLOY_HOOK_ARTQUEMY, { method: 'POST', mode: 'no-cors' });
+        document.getElementById('wakeBtnArtquemy').textContent = '✅ Artquemy despertado';
+        showToast('✅ Monitor Artquemy despertado');
+      } catch(e) {
+        document.getElementById('wakeBtnArtquemy').textContent = '⚡ Despertar Artquemy';
+        document.getElementById('wakeBtnArtquemy').disabled = false;
+        showToast('❌ Error al despertar Artquemy');
       }
     }
 
