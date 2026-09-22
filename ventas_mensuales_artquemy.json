@@ -7926,6 +7926,150 @@
       "precio_num": 280.0,
       "tipo": "vendida",
       "url": "https://artquemy.com/producto/addicted-5/"
+    },
+    {
+      "fecha": "22/09/2026 20:27",
+      "artista": "Qwert",
+      "obra": "ThE gRaND PatrRiota",
+      "precio": "€1.250,00",
+      "precio_num": 1250.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/the-grand-patrriota/"
+    },
+    {
+      "fecha": "22/09/2026 20:27",
+      "artista": "Cuestión de caracter",
+      "obra": "Corderillo",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/corderillo/"
+    },
+    {
+      "fecha": "22/09/2026 20:27",
+      "artista": "Cuestión de caracter",
+      "obra": "Hommage à Las 3 Chimeneas",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/hommage-a-las-3-chimeneas/"
+    },
+    {
+      "fecha": "22/09/2026 20:27",
+      "artista": "Cuestión de caracter",
+      "obra": "Cuestión de carácter",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/cuestion-de-caracter/"
+    },
+    {
+      "fecha": "22/09/2026 20:27",
+      "artista": "Cuestión de caracter",
+      "obra": "Pateando la vida",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/pateando-la-vida/"
+    },
+    {
+      "fecha": "22/09/2026 20:27",
+      "artista": "Cuestión de caracter",
+      "obra": "Almejandria",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/natural-world/"
+    },
+    {
+      "fecha": "22/09/2026 20:27",
+      "artista": "Cuestión de caracter",
+      "obra": "Flower Power",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/flower-power-2/"
+    },
+    {
+      "fecha": "22/09/2026 20:27",
+      "artista": "Cuestión de caracter",
+      "obra": "Spray Club",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/spray-club/"
+    },
+    {
+      "fecha": "22/09/2026 20:27",
+      "artista": "Cuestión de caracter",
+      "obra": "Demon Maly",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/demon-maly/"
+    },
+    {
+      "fecha": "22/09/2026 20:27",
+      "artista": "Cuestión de caracter",
+      "obra": "Rita Von Gata",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/rita-von-gata/"
+    },
+    {
+      "fecha": "22/09/2026 20:27",
+      "artista": "Cuestión de caracter",
+      "obra": "Main",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/main/"
+    },
+    {
+      "fecha": "22/09/2026 20:27",
+      "artista": "Cuestión de caracter",
+      "obra": "Lei",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/lei/"
+    },
+    {
+      "fecha": "22/09/2026 20:27",
+      "artista": "Cuestión de caracter",
+      "obra": "No Toys",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/no-toys/"
+    },
+    {
+      "fecha": "22/09/2026 20:27",
+      "artista": "Cuestión de caracter",
+      "obra": "Café de la mañana",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/cafe-de-la-manana/"
+    },
+    {
+      "fecha": "22/09/2026 20:27",
+      "artista": "Cuestión de caracter",
+      "obra": "The Flying Kiwi",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/the-flying-kiwi/"
+    },
+    {
+      "fecha": "22/09/2026 20:27",
+      "artista": "Cuestión de caracter",
+      "obra": "Keko 01",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/keko-01/"
     }
   ]
 }
