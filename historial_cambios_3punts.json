@@ -10673,5 +10673,159 @@
     "precio_num": 0.0,
     "url": "https://www.3punts.com/es/shop/artwork/cast",
     "fecha": "17/09/2026 15:27"
+  },
+  {
+    "tipo": "precio_cambiado",
+    "titulo": "",
+    "artista": "Alberto Fernández Hurtado",
+    "precio": "7 200,00 €",
+    "precio_num": 7200.0,
+    "precio_anterior": "7 500,00 €",
+    "url": "https://www.3punts.com/es/shop/artwork/espera-verde-alberto-fernandez-hurtado",
+    "fecha": "22/09/2026 20:31"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Alberto Fernández Hurtado",
+    "precio": "7 500,00 €",
+    "precio_num": 7500.0,
+    "url": "https://www.3punts.com/es/shop/artwork/el-umbral",
+    "fecha": "22/09/2026 20:31"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Alberto Fernández Hurtado",
+    "precio": "7 500,00 €",
+    "precio_num": 7500.0,
+    "url": "https://www.3punts.com/es/shop/artwork/hacia-la-libertad",
+    "fecha": "22/09/2026 20:31"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Alejandro Monge",
+    "precio": "Consultar precio",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/offline-10-0",
+    "fecha": "22/09/2026 20:31"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Aleksandar Zaar",
+    "precio": "6 300,00 €",
+    "precio_num": 6300.0,
+    "url": "https://www.3punts.com/es/shop/artwork/bleu-monte-carlo",
+    "fecha": "22/09/2026 20:31"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Antonella Montes - LANTOMO",
+    "precio": "2 500,00 €",
+    "precio_num": 2500.0,
+    "url": "https://www.3punts.com/es/shop/artwork/huang-15",
+    "fecha": "22/09/2026 20:31"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Antonella Montes - LANTOMO",
+    "precio": "25 000,00 €",
+    "precio_num": 25000.0,
+    "url": "https://www.3punts.com/es/shop/artwork/huang-16",
+    "fecha": "22/09/2026 20:31"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Gerard Mas",
+    "precio": "5 800,00 €",
+    "precio_num": 5800.0,
+    "url": "https://www.3punts.com/es/shop/artwork/fantasia-berniniana",
+    "fecha": "22/09/2026 20:31"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Gerard Mas",
+    "precio": "6 800,00 €",
+    "precio_num": 6800.0,
+    "url": "https://www.3punts.com/es/shop/artwork/estatua-ecuestre",
+    "fecha": "22/09/2026 20:31"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Alejandro Monge",
+    "precio": "Consultar precio",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/offline-10",
+    "fecha": "22/09/2026 20:31"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Samuel Salcedo",
+    "precio": "3 900,00 €",
+    "precio_num": 3900.0,
+    "url": "https://www.3punts.com/es/shop/artwork/emotions-chart-vii-samuel-salcedo",
+    "fecha": "22/09/2026 20:31"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Samuel Salcedo",
+    "precio": "3 900,00 €",
+    "precio_num": 3900.0,
+    "url": "https://www.3punts.com/es/shop/artwork/emotions-chart-viii-samuel-salcedo",
+    "fecha": "22/09/2026 20:31"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Samuel Salcedo",
+    "precio": "3 900,00 €",
+    "precio_num": 3900.0,
+    "url": "https://www.3punts.com/es/shop/artwork/emotions-chart-ix-samuel-salcedo",
+    "fecha": "22/09/2026 20:31"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Samuel Salcedo",
+    "precio": "Consultar precio",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/rolling-stones-samuel-salcedo",
+    "fecha": "22/09/2026 20:31"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Samuel Salcedo",
+    "precio": "Consultar precio",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/about-memories-i-samuel-salcedo",
+    "fecha": "22/09/2026 20:31"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Samuel Salcedo",
+    "precio": "Consultar precio",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/needles-and-pins-samuel-salcedo",
+    "fecha": "22/09/2026 20:31"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Samuel Salcedo",
+    "precio": "Consultar precio",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/metal-metal-ii-samuel-salcedo",
+    "fecha": "22/09/2026 20:31"
   }
 ]
