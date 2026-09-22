@@ -7902,6 +7902,30 @@
       "precio_num": 35.0,
       "tipo": "nueva_vendida",
       "url": "https://artquemy.com/producto/blue-love-soldiers/"
+    },
+    {
+      "fecha": "22/09/2026 20:24",
+      "artista": {
+        "nombre": "Ciro Marra",
+        "url": "https://artquemy.com/artists/ciro-marra/"
+      },
+      "obra": "Cheloidi (dentro le cicatrici)",
+      "precio": "€3.800,00",
+      "precio_num": 3800.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/cheloidi-dentro-le-cicatrici/"
+    },
+    {
+      "fecha": "22/09/2026 20:24",
+      "artista": {
+        "nombre": "Daniele Verzini",
+        "url": "https://artquemy.com/artists/daniele-verzini/"
+      },
+      "obra": "Addicted #5",
+      "precio": "€280,00",
+      "precio_num": 280.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/addicted-5/"
     }
   ]
 }
