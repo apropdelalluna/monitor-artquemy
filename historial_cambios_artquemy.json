@@ -16,5 +16,711 @@
     "precio_num": 280.0,
     "url": "https://artquemy.com/producto/addicted-5/",
     "fecha": "22/09/2026 20:22"
+  },
+  {
+    "fecha": "22/09/2026 20:27",
+    "artista": "Alessia Innocenti",
+    "cambios_obras": []
+  },
+  {
+    "fecha": "22/09/2026 20:27",
+    "artista": "Alessia Obinu",
+    "cambios_obras": []
+  },
+  {
+    "fecha": "22/09/2026 20:27",
+    "artista": "Catapop",
+    "cambios_obras": []
+  },
+  {
+    "fecha": "22/09/2026 20:27",
+    "artista": "Camil Escruela",
+    "cambios_obras": []
+  },
+  {
+    "fecha": "22/09/2026 20:27",
+    "artista": "Carola Bagnato",
+    "cambios_obras": []
+  },
+  {
+    "fecha": "22/09/2026 20:27",
+    "artista": "Ceci SN",
+    "cambios_obras": [
+      {
+        "tipo": "nueva",
+        "titulo": "Naked swimmers L",
+        "precio": "€70,00",
+        "precio_num": 70.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/naked-swimmers-l/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Naked swimmers XLIV",
+        "precio": "€70,00",
+        "precio_num": 70.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/naked-swimmers-xliv/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Climbers IV",
+        "precio": "€70,00",
+        "precio_num": 70.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/climbers-iv/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Climbers III",
+        "precio": "€70,00",
+        "precio_num": 70.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/climbers-iii/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Climbers II",
+        "precio": "€70,00",
+        "precio_num": 70.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/climbers-ii/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Climbers I",
+        "precio": "€70,00",
+        "precio_num": 70.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/climbers-i/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Naked swimmers XLIX",
+        "precio": "€65,00",
+        "precio_num": 65.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/naked-swimmers-xlix/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Naked swimmers XLVIII",
+        "precio": "€65,00",
+        "precio_num": 65.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/naked-swimmers-xlviii/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Naked swimmers XLVII",
+        "precio": "€65,00",
+        "precio_num": 65.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/naked-swimmers-xlvii/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Naked swimmers XLVI",
+        "precio": "€65,00",
+        "precio_num": 65.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/naked-swimmers-xlvi/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Naked swimmers XLIII",
+        "precio": "€65,00",
+        "precio_num": 65.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/naked-swimmers-xliii/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Naked swimmers XLV",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/naked-swimmers-xlv/"
+      }
+    ]
+  },
+  {
+    "fecha": "22/09/2026 20:27",
+    "artista": "Ciro Marra",
+    "cambios_obras": [
+      {
+        "tipo": "vendida",
+        "titulo": "Cheloidi (dentro le cicatrici)",
+        "precio": "€3.800,00",
+        "precio_num": 3800.0,
+        "url": "https://artquemy.com/producto/cheloidi-dentro-le-cicatrici/"
+      }
+    ]
+  },
+  {
+    "fecha": "22/09/2026 20:27",
+    "artista": "Collage Volage",
+    "cambios_obras": []
+  },
+  {
+    "fecha": "22/09/2026 20:27",
+    "artista": "Daniele Verzini",
+    "cambios_obras": [
+      {
+        "tipo": "vendida",
+        "titulo": "Addicted #5",
+        "precio": "€280,00",
+        "precio_num": 280.0,
+        "url": "https://artquemy.com/producto/addicted-5/"
+      }
+    ]
+  },
+  {
+    "fecha": "22/09/2026 20:27",
+    "artista": "Elina Cerla",
+    "cambios_obras": []
+  },
+  {
+    "fecha": "22/09/2026 20:27",
+    "artista": "El Xupet Negre",
+    "cambios_obras": []
+  },
+  {
+    "fecha": "22/09/2026 20:27",
+    "artista": "Erwtje",
+    "cambios_obras": []
+  },
+  {
+    "fecha": "22/09/2026 20:27",
+    "artista": "Jor Ros",
+    "cambios_obras": []
+  },
+  {
+    "fecha": "22/09/2026 20:27",
+    "artista": "Jorge Suñer",
+    "cambios_obras": []
+  },
+  {
+    "fecha": "22/09/2026 20:27",
+    "artista": "Juandrés Vera",
+    "cambios_obras": []
+  },
+  {
+    "fecha": "22/09/2026 20:27",
+    "artista": "Juncosa",
+    "cambios_obras": []
+  },
+  {
+    "fecha": "22/09/2026 20:27",
+    "artista": "KST",
+    "cambios_obras": []
+  },
+  {
+    "fecha": "22/09/2026 20:27",
+    "artista": "Laura Gonballes",
+    "cambios_obras": []
+  },
+  {
+    "fecha": "22/09/2026 20:27",
+    "artista": "Laura Plou",
+    "cambios_obras": []
+  },
+  {
+    "fecha": "22/09/2026 20:27",
+    "artista": "Lourdes Villagómez",
+    "cambios_obras": []
+  },
+  {
+    "fecha": "22/09/2026 20:27",
+    "artista": "Luciana Zamarbide",
+    "cambios_obras": []
+  },
+  {
+    "fecha": "22/09/2026 20:27",
+    "artista": "Luz Marie Iturbe",
+    "cambios_obras": []
+  },
+  {
+    "fecha": "22/09/2026 20:27",
+    "artista": "Michelle Andrade",
+    "cambios_obras": []
+  },
+  {
+    "fecha": "22/09/2026 20:27",
+    "artista": "Món Mort",
+    "cambios_obras": [
+      {
+        "tipo": "precio_cambiado",
+        "titulo": "Rurals",
+        "precio": "€1.500,00",
+        "precio_num": 1500.0,
+        "precio_anterior": "€900,00",
+        "url": "https://artquemy.com/producto/rurals/"
+      }
+    ]
+  },
+  {
+    "fecha": "22/09/2026 20:27",
+    "artista": "Okobé",
+    "cambios_obras": []
+  },
+  {
+    "fecha": "22/09/2026 20:27",
+    "artista": "Prëo",
+    "cambios_obras": []
+  },
+  {
+    "fecha": "22/09/2026 20:27",
+    "artista": "Qwert",
+    "cambios_obras": [
+      {
+        "tipo": "vendida",
+        "titulo": "ThE gRaND PatrRiota",
+        "precio": "€1.250,00",
+        "precio_num": 1250.0,
+        "url": "https://artquemy.com/producto/the-grand-patrriota/"
+      }
+    ]
+  },
+  {
+    "fecha": "22/09/2026 20:27",
+    "artista": "Rocco Del Franco",
+    "cambios_obras": []
+  },
+  {
+    "fecha": "22/09/2026 20:27",
+    "artista": "Rocío Iannone",
+    "cambios_obras": []
+  },
+  {
+    "fecha": "22/09/2026 20:27",
+    "artista": "Soy feo pero te amo",
+    "cambios_obras": []
+  },
+  {
+    "fecha": "22/09/2026 20:27",
+    "artista": "Tiny",
+    "cambios_obras": []
+  },
+  {
+    "fecha": "22/09/2026 20:27",
+    "artista": "Urban Flowers",
+    "cambios_obras": []
+  },
+  {
+    "fecha": "22/09/2026 20:27",
+    "artista": "Yilov",
+    "cambios_obras": []
+  },
+  {
+    "fecha": "22/09/2026 20:27",
+    "artista": "Various",
+    "cambios_obras": []
+  },
+  {
+    "fecha": "22/09/2026 20:27",
+    "artista": "Cuestión de caracter",
+    "cambios_obras": [
+      {
+        "tipo": "nueva",
+        "titulo": "A26",
+        "precio": "€500,00",
+        "precio_num": 500.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/a26/"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "Corderillo",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/corderillo/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Üeya",
+        "precio": "€190,00",
+        "precio_num": 190.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/ueya/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Boss",
+        "precio": "€190,00",
+        "precio_num": 190.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/boss-2/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Hommage à Las 3 Chimeneas II",
+        "precio": "€190,00",
+        "precio_num": 190.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/hommage-a-las-3-chimeneas-ii/"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "Hommage à Las 3 Chimeneas",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/hommage-a-las-3-chimeneas/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Flor Pintora Profeta",
+        "precio": "€190,00",
+        "precio_num": 190.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/flor-pintora-profeta/"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "Cuestión de carácter",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/cuestion-de-caracter/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Aguante mi chibchombia",
+        "precio": "€190,00",
+        "precio_num": 190.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/aguante-mi-chibchombia/"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "Pateando la vida",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/pateando-la-vida/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "i love Graffiti",
+        "precio": "€190,00",
+        "precio_num": 190.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/addicted-to-you/"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "Almejandria",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/natural-world/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Mundito reexiste",
+        "precio": "€190,00",
+        "precio_num": 190.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/mundito-reexiste/"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "Flower Power",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/flower-power-2/"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "Spray Club",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/spray-club/"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "Demon Maly",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/demon-maly/"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "Rita Von Gata",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/rita-von-gata/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Cerdo sin diamantes",
+        "precio": "€190,00",
+        "precio_num": 190.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/cerdo-sin-diamantes/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Vampiro",
+        "precio": "€190,00",
+        "precio_num": 190.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/vampiro/"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "Main",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/main/"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "Lei",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/lei/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Lui",
+        "precio": "€190,00",
+        "precio_num": 190.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/boss/"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "No Toys",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/no-toys/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Spray Game",
+        "precio": "€190,00",
+        "precio_num": 190.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/spray-grame/"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "Café de la mañana",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/cafe-de-la-manana/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "95”",
+        "precio": "€190,00",
+        "precio_num": 190.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/95/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Folk",
+        "precio": "€190,00",
+        "precio_num": 190.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/folk/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Fox",
+        "precio": "€190,00",
+        "precio_num": 190.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/fox-2/"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "The Flying Kiwi",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/the-flying-kiwi/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Primer Plano",
+        "precio": "€190,00",
+        "precio_num": 190.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/primer-plano/"
+      },
+      {
+        "tipo": "nueva_vendida",
+        "titulo": "Keko 01",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/keko-01/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Rita Von Gata",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/rita-von-gata-2/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Face",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/face/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Azul",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/azul/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Punk",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/punk/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Saga Uno",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/saga-uno/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Hongos",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/hongos/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Diablito Vandals",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/diablito-vandals/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Silent Ego",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/silent-ego/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "A mi lo que me gusta es dormir",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/a-mi-lo-que-me-gusta-es-dormir/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Acid Juice",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/bonita-2/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Bonita",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/bonita/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Cuidado Perro Triste",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/cuidado-perro-triste/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Vaquita",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/vaquita/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Florecita",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/florecita/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Frijol Aerosol",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/frijol-aerosol/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Señor Konejo",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/senor-konejo/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Florero Gato",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/florero-gato/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Cereza Yo ?",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/cereza-yo/"
+      },
+      {
+        "tipo": "nueva",
+        "titulo": "Dea",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "precio_estimado": false,
+        "url": "https://artquemy.com/producto/dea/"
+      }
+    ]
   }
 ]
