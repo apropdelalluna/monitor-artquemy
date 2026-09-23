@@ -15779,5 +15779,2879 @@
     "precio_num": 50.0,
     "url": "https://artquemy.com/producto/castellers-2/",
     "fecha": "23/09/2026 18:41"
+  },
+  {
+    "fecha": "23/09/2026 18:51",
+    "artista": "Alessia Innocenti",
+    "cambios_obras": [
+      {
+        "tipo": "retirada",
+        "titulo": "Cadencias 2",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/cadencias-2/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Cadencias 1",
+        "precio": "€2.500,00",
+        "precio_num": 2500.0,
+        "url": "https://artquemy.com/producto/cuatro-fragmentos-ll/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Refluir para fluir",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/refluir-para-fluir/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Enraizar",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/enraizar/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Ecos 1",
+        "precio": "€1.700,00",
+        "precio_num": 1700.0,
+        "url": "https://artquemy.com/producto/ecos-1/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Ecos 3",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/ecos-3/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Ecos 2",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/ecos-2/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Unísono",
+        "precio": "€1.500,00",
+        "precio_num": 1500.0,
+        "url": "https://artquemy.com/producto/unisono/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Theronix",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/theronix/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Coralina",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/coralina/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Cuatro fragmentos II",
+        "precio": "€1.200,00",
+        "precio_num": 1200.0,
+        "url": "https://artquemy.com/producto/cuatro-fragmentos-ii/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Bucle 2",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/bucle-2/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Bucle 1",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/bucle-1/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Ascenso en colores",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/ascenso-en-colores/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Conexiones ll",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/conexiones-ll/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Cuatro fragmentos",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/cuatro-fragmentos/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Conexiones",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/conexiones/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Amatistas",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/amatistas/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Remember Rainbows",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/remember-rainbows/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Portal",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/portal/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Rainbow Flower",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/rainbow-flower-2/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Sin Título",
+        "precio": "€350,00",
+        "precio_num": 350.0,
+        "url": "https://artquemy.com/producto/sin-titulo-2/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Pulsación ll",
+        "precio": "€300,00",
+        "precio_num": 300.0,
+        "url": "https://artquemy.com/producto/pulsacion-ll/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Pulsación lV.2",
+        "precio": "€300,00",
+        "precio_num": 300.0,
+        "url": "https://artquemy.com/producto/pulsacion-lv-2/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Pulsación lV.1",
+        "precio": "€300,00",
+        "precio_num": 300.0,
+        "url": "https://artquemy.com/producto/pulsacion-lv-1/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Pulsación lll",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/pulsacion-lll/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Pulsación l",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/pulsacion-l/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Arpegios Florales Pastel IV",
+        "precio": "€245,00",
+        "precio_num": 245.0,
+        "url": "https://artquemy.com/producto/arpegios-florales-pastel-iv/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Arpegios Florales Pastel III",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/arpegios-florales-pastel-iii/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Arpegios Florales Pastel II",
+        "precio": "€245,00",
+        "precio_num": 245.0,
+        "url": "https://artquemy.com/producto/arpegios-florales-pastel-ii/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Arpegios Florales Pastel I",
+        "precio": "€245,00",
+        "precio_num": 245.0,
+        "url": "https://artquemy.com/producto/arpegios-florales-pastel-i/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Arpegios Pastel V",
+        "precio": "€245,00",
+        "precio_num": 245.0,
+        "url": "https://artquemy.com/producto/arpegios-pastel-v/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Arpegios Pastel IV",
+        "precio": "€245,00",
+        "precio_num": 245.0,
+        "url": "https://artquemy.com/producto/arpegios-pastel-iv/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Arpegios Pastel III",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/arpegios-pastel-iii/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Arpegios Pastel II",
+        "precio": "€245,00",
+        "precio_num": 245.0,
+        "url": "https://artquemy.com/producto/arpegios-pastel-ii/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Arpegios Pastel I",
+        "precio": "€245,00",
+        "precio_num": 245.0,
+        "url": "https://artquemy.com/producto/arpegios-pastel-i/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Cálido Rombos",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/calido-rombos/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Alessia Innocenti – Arpegios Florales 5",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/alessia-innocenti-arpegios-florales-5/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Alessia Innocenti – Arpegios Florales 4",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/alessia-innocenti-arpegios-florales-4/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Alessia Innocenti – Arpegios Florales 3",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/alessia-innocenti-arpegios-florales-3/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Alessia Innocenti – Arpegios Florales 2",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/alessia-innocenti-arpegios-florales-1-copy/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Alessia Innocenti – Arpegios Florales 1",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/alessia-innocenti-arpegios-florales-1/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Alessia Innocenti – Arpegios 5",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/alessia-innocenti-arpegios-5/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Alessia Innocenti – Arpegios 4",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/alessia-innocenti-arpegios-4/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Alessia Innocenti – Arpegios 3",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/alessia-innocenti-arpegios-3/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Alessia Innocenti – Arpegios 2",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/alessia-innocenti-arpegios-2/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Alessia Innocenti – Arpegios 1",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/alessia-innocenti-arpegios-1/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Sín Título",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/sin-titulo/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Blue Garden",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/blue-garden/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Gaiinbu",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/gaiinbu/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Jardín del crepúsculo",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/jardin-del-crepusculo/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Carnaval",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/carnaval/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Luz continua",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/luz-continua/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Pájaros en flor",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/pajaros-en-flor/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Floreciente",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/floreciente/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Sinergia",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/libertad-copy/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Destello",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/interaccion/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Libertad",
+        "precio": "€40,00",
+        "precio_num": 40.0,
+        "url": "https://artquemy.com/producto/libertad/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Carnaval Chino",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/carnaval-chino/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Vital",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/vital/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Interacción",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/interaccion-2/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Remolino",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/interaccion-3/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Cascada de colores",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/cascada-de-colores/"
+      }
+    ]
+  },
+  {
+    "fecha": "23/09/2026 18:51",
+    "artista": "Alessia Obinu",
+    "cambios_obras": [
+      {
+        "tipo": "retirada",
+        "titulo": "Lo que sueña el cuerpo",
+        "precio": "€900,00",
+        "precio_num": 900.0,
+        "url": "https://artquemy.com/producto/lo-que-suena-el-cuerpo/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Almas",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/almas/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Cicatrización",
+        "precio": "€240,00",
+        "precio_num": 240.0,
+        "url": "https://artquemy.com/producto/cicatrizacion/"
+      }
+    ]
+  },
+  {
+    "fecha": "23/09/2026 18:51",
+    "artista": "Catapop",
+    "cambios_obras": [
+      {
+        "tipo": "retirada",
+        "titulo": "Sardanes",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/sardanes/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Carmen Amaya",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/carmen-amaya/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Castellers",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/castellers/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Pau Casals",
+        "precio": "€3.200,00",
+        "precio_num": 3200.0,
+        "url": "https://artquemy.com/producto/pau-casals/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Porró",
+        "precio": "€3.200,00",
+        "precio_num": 3200.0,
+        "url": "https://artquemy.com/producto/porro/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Barretina",
+        "precio": "€3.200,00",
+        "precio_num": 3200.0,
+        "url": "https://artquemy.com/producto/barretina/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Montserrat",
+        "precio": "€3.200,00",
+        "precio_num": 3200.0,
+        "url": "https://artquemy.com/producto/montserrat/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Ramon Llull",
+        "precio": "€3.200,00",
+        "precio_num": 3200.0,
+        "url": "https://artquemy.com/producto/ramon-llull/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Espardenyes",
+        "precio": "€3.200,00",
+        "precio_num": 3200.0,
+        "url": "https://artquemy.com/producto/espardenyes/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Mongetes amb botifarra",
+        "precio": "€3.200,00",
+        "precio_num": 3200.0,
+        "url": "https://artquemy.com/producto/mongetes-amb-botifarra/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Pau Casals",
+        "precio": "€50,00",
+        "precio_num": 50.0,
+        "url": "https://artquemy.com/producto/pau-casals-2/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Montserrat",
+        "precio": "€50,00",
+        "precio_num": 50.0,
+        "url": "https://artquemy.com/producto/montserrat-2/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Espardenyes",
+        "precio": "€50,00",
+        "precio_num": 50.0,
+        "url": "https://artquemy.com/producto/espardenyes-2/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Porró",
+        "precio": "€50,00",
+        "precio_num": 50.0,
+        "url": "https://artquemy.com/producto/porro-2/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Ramón Llull",
+        "precio": "€50,00",
+        "precio_num": 50.0,
+        "url": "https://artquemy.com/producto/ramon-llull-2/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Sardanes",
+        "precio": "€50,00",
+        "precio_num": 50.0,
+        "url": "https://artquemy.com/producto/sardanes-2/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Barretina",
+        "precio": "€50,00",
+        "precio_num": 50.0,
+        "url": "https://artquemy.com/producto/barretina-2/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Castellers",
+        "precio": "€50,00",
+        "precio_num": 50.0,
+        "url": "https://artquemy.com/producto/castellers-2/"
+      }
+    ]
+  },
+  {
+    "fecha": "23/09/2026 18:51",
+    "artista": "Rocío Iannone",
+    "cambios_obras": [
+      {
+        "tipo": "retirada",
+        "titulo": "Haciendo espacio",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/haciendo-espacio/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Autorretrato",
+        "precio": "€650,00",
+        "precio_num": 650.0,
+        "url": "https://artquemy.com/producto/autorretrato/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "¿Tanto cuesta dar el salto?",
+        "precio": "€600,00",
+        "precio_num": 600.0,
+        "url": "https://artquemy.com/producto/tanto-cuesta-dar-el-salto/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Sobre las afecciones",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/sobre-las-afecciones/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "La negación",
+        "precio": "€180,00",
+        "precio_num": 180.0,
+        "url": "https://artquemy.com/producto/la-negacion/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Toda la fuerza que llevo en el pecho",
+        "precio": "€180,00",
+        "precio_num": 180.0,
+        "url": "https://artquemy.com/producto/toda-la-fuerza-que-llevo-en-el-pecho/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "El Salto",
+        "precio": "€180,00",
+        "precio_num": 180.0,
+        "url": "https://artquemy.com/producto/el-salto/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Gracias tus manos",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/gracias-tus-manos/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Ni siquiera el pasado se va a quedar quieto",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/ni-siquiera/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Agosto",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/agosto/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Entre el afuera y mi cuerpo",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/entre-el-afuera-y-mi-cuerpo/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "El descanso",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/el-descanso/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Salir del borde",
+        "precio": "€139,00",
+        "precio_num": 139.0,
+        "url": "https://artquemy.com/producto/salir-del-borde/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "El límite está en mis manos",
+        "precio": "€119,00",
+        "precio_num": 119.0,
+        "url": "https://artquemy.com/producto/el-limite-esta-en-mis-manos/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Dejarse afectar",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/dejarse-afectar/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Las malas",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/las-malas/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "La danza",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/la-danza/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Movimientos",
+        "precio": "€110,00",
+        "precio_num": 110.0,
+        "url": "https://artquemy.com/producto/movimientos/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Me muevo para construir mi identidad",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/me-muevo-para-construir-mi-identidad/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Abrazando a la espera",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/abrazando-a-la-espera/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Moverse con alegría nos puede ayudar a luchar",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/moverse-con-alegria-nos-puede-ayudar-a-luchar/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "¿Cómo se contempla una desgracia?",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/como-se-contempla-una-desgracia/"
+      }
+    ]
+  },
+  {
+    "fecha": "23/09/2026 18:51",
+    "artista": "Soy feo pero te amo",
+    "cambios_obras": [
+      {
+        "tipo": "retirada",
+        "titulo": "Okay",
+        "precio": "€1.500,00",
+        "precio_num": 1500.0,
+        "url": "https://artquemy.com/producto/okay/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Con tal que te quedes",
+        "precio": "€1.500,00",
+        "precio_num": 1500.0,
+        "url": "https://artquemy.com/producto/con-tal-que-te-quedes/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Monoblock",
+        "precio": "€1.350,00",
+        "precio_num": 1350.0,
+        "url": "https://artquemy.com/producto/monoblock/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Antes",
+        "precio": "€1.350,00",
+        "precio_num": 1350.0,
+        "url": "https://artquemy.com/producto/antes/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Cajas y cajas",
+        "precio": "€1.350,00",
+        "precio_num": 1350.0,
+        "url": "https://artquemy.com/producto/cajas-y-cajas/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "La clásica",
+        "precio": "€1.350,00",
+        "precio_num": 1350.0,
+        "url": "https://artquemy.com/producto/la-clasica/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Por el honor",
+        "precio": "€1.350,00",
+        "precio_num": 1350.0,
+        "url": "https://artquemy.com/producto/por-el-honor/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Recuerdos",
+        "precio": "€1.350,00",
+        "precio_num": 1350.0,
+        "url": "https://artquemy.com/producto/recuerdos/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Memento Mori",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/memento-mori/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "How long?",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/how-long/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Never again",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/never-again/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Grow",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/grow/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Fine",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/fine/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Hold you",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/hold-you/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Wait right here",
+        "precio": "€400,00",
+        "precio_num": 400.0,
+        "url": "https://artquemy.com/producto/wait-right-here/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Así corazón",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/asi-corazon/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Call mom",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/call-mom/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Burn",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/burn/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Conmigo aca",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/conmigo-aca/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Home with you",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/home-with-you/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Me olvidé",
+        "precio": "€250,00",
+        "precio_num": 250.0,
+        "url": "https://artquemy.com/producto/me-olvide/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Errores",
+        "precio": "€250,00",
+        "precio_num": 250.0,
+        "url": "https://artquemy.com/producto/errores/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Estoy bien",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/estar/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Sentir",
+        "precio": "€250,00",
+        "precio_num": 250.0,
+        "url": "https://artquemy.com/producto/sentir/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Cada vez",
+        "precio": "€250,00",
+        "precio_num": 250.0,
+        "url": "https://artquemy.com/producto/cada-vez/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Wish you were here",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "url": "https://artquemy.com/producto/wish-you-were-here/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Pensé que ibas a llamar",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "url": "https://artquemy.com/producto/pense-que-ibas-a-llamar/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Counting petals",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "url": "https://artquemy.com/producto/loves-me-loves-me-not-2/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "How far?",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "url": "https://artquemy.com/producto/how-far-do-you-want-to-go/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "A veces me encuentro perdiéndome",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "url": "https://artquemy.com/producto/a-veces-me-encuentro-perdiendome/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Cuándo vivo?",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "url": "https://artquemy.com/producto/cuando-vivo/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Up above the clouds",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "url": "https://artquemy.com/producto/up-above-the-clouds/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Do you have a destination?",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "url": "https://artquemy.com/producto/do-you-have-a-destination/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "A veces bien a veces mal",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "url": "https://artquemy.com/producto/what-would-jesus-do/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Why do you need me?",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "url": "https://artquemy.com/producto/why-do-you-need-me/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Decisiones",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "url": "https://artquemy.com/producto/decisiones/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Together",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/together/"
+      }
+    ]
+  },
+  {
+    "fecha": "23/09/2026 18:51",
+    "artista": "Surfia",
+    "cambios_obras": [
+      {
+        "tipo": "retirada",
+        "titulo": "Jorge",
+        "precio": "€50,00",
+        "precio_num": 50.0,
+        "url": "https://artquemy.com/producto/jorge/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "I see you falling",
+        "precio": "€90,00",
+        "precio_num": 90.0,
+        "url": "https://artquemy.com/producto/i-see-you-falling/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Salut!",
+        "precio": "€60,00",
+        "precio_num": 60.0,
+        "url": "https://artquemy.com/producto/salut-3/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Salut!",
+        "precio": "€60,00",
+        "precio_num": 60.0,
+        "url": "https://artquemy.com/producto/salut-2/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Salut!",
+        "precio": "€60,00",
+        "precio_num": 60.0,
+        "url": "https://artquemy.com/producto/salut/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Retrato",
+        "precio": "€90,00",
+        "precio_num": 90.0,
+        "url": "https://artquemy.com/producto/retrato/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Sonrisa falsa",
+        "precio": "€90,00",
+        "precio_num": 90.0,
+        "url": "https://artquemy.com/producto/sonrisa-falsa/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Calle Joaquín Costa",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "url": "https://artquemy.com/producto/calle-joaquin-costa/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "A friend from far East",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "url": "https://artquemy.com/producto/a-friend-from-far-east/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Space Jam",
+        "precio": "€70,00",
+        "precio_num": 70.0,
+        "url": "https://artquemy.com/producto/space-jam-2/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Space Jam",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "url": "https://artquemy.com/producto/space-jam/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Tomando Vermú",
+        "precio": "€70,00",
+        "precio_num": 70.0,
+        "url": "https://artquemy.com/producto/tomando-vermu-2/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Tomando Vermú",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "url": "https://artquemy.com/producto/tomando-vermu/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Skull",
+        "precio": "€250,00",
+        "precio_num": 250.0,
+        "url": "https://artquemy.com/producto/skull/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Carnaval de Miedo",
+        "precio": "€250,00",
+        "precio_num": 250.0,
+        "url": "https://artquemy.com/producto/carnaval-de-miedo/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Autentico Decadente",
+        "precio": "€550,00",
+        "precio_num": 550.0,
+        "url": "https://artquemy.com/producto/autentico-decadente/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Original Sound",
+        "precio": "€300,00",
+        "precio_num": 300.0,
+        "url": "https://artquemy.com/producto/original-sound/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Reflexiones",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "url": "https://artquemy.com/producto/reflexiones/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Rasta",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "url": "https://artquemy.com/producto/rasta/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Ya no confío en ti / Кого ты лечишь?",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "url": "https://artquemy.com/producto/ya-no-confio-en-ti-%d0%ba%d0%be%d0%b3%d0%be-%d1%82%d1%8b-%d0%bb%d0%b5%d1%87%d0%b8%d1%88%d1%8c/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Desconocido",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "url": "https://artquemy.com/producto/desconocido/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Chrome I",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "url": "https://artquemy.com/producto/chrome-i/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Feeling sensations you thought were dead",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "url": "https://artquemy.com/producto/feeling-sensations-you-though-were-dead/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Deal with pain",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "url": "https://artquemy.com/producto/deal-with-pain/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Skeleton Mermaid",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "url": "https://artquemy.com/producto/skeleton-mermaid/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "I’m high next to you",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "url": "https://artquemy.com/producto/im-high-next-to-you/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Skeleton Surfer",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "url": "https://artquemy.com/producto/skeleton-surfer/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Melted Girl",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "url": "https://artquemy.com/producto/melted-girl/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "I have got mad methods delivering my flow",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "url": "https://artquemy.com/producto/i-have-got-mad-methods-delivering-my-flow/"
+      }
+    ]
+  },
+  {
+    "fecha": "23/09/2026 18:51",
+    "artista": "Tiny",
+    "cambios_obras": [
+      {
+        "tipo": "retirada",
+        "titulo": "Not so Tiny",
+        "precio": "€2.500,00",
+        "precio_num": 2500.0,
+        "url": "https://artquemy.com/producto/not-so-tiny/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "I spy",
+        "precio": "€1.700,00",
+        "precio_num": 1700.0,
+        "url": "https://artquemy.com/producto/i-spy/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Summer Loving",
+        "precio": "€1.200,00",
+        "precio_num": 1200.0,
+        "url": "https://artquemy.com/producto/summer-loving/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Tags",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/tags/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Self Love",
+        "precio": "€1.200,00",
+        "precio_num": 1200.0,
+        "url": "https://artquemy.com/producto/self-love/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Grounded",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/grounded/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Time for Reflection",
+        "precio": "€1.200,00",
+        "precio_num": 1200.0,
+        "url": "https://artquemy.com/producto/time-for-reflection/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Takeover",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/takeover/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Tiny callejera",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/tiny-callejera/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "The Ballerina",
+        "precio": "€950,00",
+        "precio_num": 950.0,
+        "url": "https://artquemy.com/producto/the-ballerina/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Stop, you’re making me blush",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/stop-youre-making-me-blush-2/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Street Life",
+        "precio": "€750,00",
+        "precio_num": 750.0,
+        "url": "https://artquemy.com/producto/street-life/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Here Come the Girls",
+        "precio": "€750,00",
+        "precio_num": 750.0,
+        "url": "https://artquemy.com/producto/here-come-the-girls/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Head in the clouds, eye on the prize",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/head-in-the-clouds-eye-on-the-prize/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Sunflowers for Tiny",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/sunflowers-for-tiny/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Badass Tiny",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/badass-tiny/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Free hugs",
+        "precio": "€510,00",
+        "precio_num": 510.0,
+        "url": "https://artquemy.com/producto/free-hugs-2/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Creep",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/creep/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Tiny Flower",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/tiny-flower/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Son of a Beach",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/son-of-a-beach/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Die, Cry, Hate",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/die-cry-hate/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Zen AF",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/stop-youre-making-me-blush-copy/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Hotheaded",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/hotheaded/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Electrifying",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/electrifying/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Graffiti girl",
+        "precio": "€280,00",
+        "precio_num": 280.0,
+        "url": "https://artquemy.com/producto/graffiti-girl/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Flash",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/flash-2/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Piss Off",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/piss-off-2/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Natural Habitat",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/natural-habitat/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Don’t be a dick",
+        "precio": "€190,00",
+        "precio_num": 190.0,
+        "url": "https://artquemy.com/producto/dont-be-a-dick/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "BLAH!",
+        "precio": "€190,00",
+        "precio_num": 190.0,
+        "url": "https://artquemy.com/producto/blah/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Kindly, go FUCK yourself",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/kindly-go-fuck-yourself/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Cheer up, love",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/cheer-up-love/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Piss off Frisbee",
+        "precio": "€160,00",
+        "precio_num": 160.0,
+        "url": "https://artquemy.com/producto/piss-off-frisbee/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Shut it out",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/shut-it-out/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "In the Barrio",
+        "precio": "€150,00",
+        "precio_num": 150.0,
+        "url": "https://artquemy.com/producto/written-in-the-sand/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Toy",
+        "precio": "€150,00",
+        "precio_num": 150.0,
+        "url": "https://artquemy.com/producto/in-the-barrio/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Written in the Sand",
+        "precio": "€150,00",
+        "precio_num": 150.0,
+        "url": "https://artquemy.com/producto/toy/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "She’s a Star",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/shes-a-star/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Not Bothered",
+        "precio": "€150,00",
+        "precio_num": 150.0,
+        "url": "https://artquemy.com/producto/not-bothered/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Do It",
+        "precio": "€150,00",
+        "precio_num": 150.0,
+        "url": "https://artquemy.com/producto/do-it/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Keep Out",
+        "precio": "€150,00",
+        "precio_num": 150.0,
+        "url": "https://artquemy.com/producto/keep-out/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Holely Shit",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/holely-shit/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Googles",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/googles-2/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Victory",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/victory/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Smile",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/smile-2/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "F*** you",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/fck-you/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Queen",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/queen/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Tongue",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/tongue-2/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Disc Licker",
+        "precio": "€140,00",
+        "precio_num": 140.0,
+        "url": "https://artquemy.com/producto/disc-licker/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "On cloud Nine",
+        "precio": "€140,00",
+        "precio_num": 140.0,
+        "url": "https://artquemy.com/producto/on-cloud-nine/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Next in Line",
+        "precio": "€140,00",
+        "precio_num": 140.0,
+        "url": "https://artquemy.com/producto/next-in-line/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Peace or whatever",
+        "precio": "€140,00",
+        "precio_num": 140.0,
+        "url": "https://artquemy.com/producto/peace-or-whatever/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "We listen, and we do judge",
+        "precio": "€140,00",
+        "precio_num": 140.0,
+        "url": "https://artquemy.com/producto/we-listen-and-we-do-judge/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Seeing clearly",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/seeing-clearly/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "From Tiny, with love",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/from-tiny-with-love/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Peace, B**ches",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/kindly-f-you/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "How about, I do what I want",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/how-about-i-do-what-i-want/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "I don’t know",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/i-dont-know/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Emotional support",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/emotional-support/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Fresh as a daisy",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/fresh-as-a-daisy/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Love Heart",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/love-heart/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Funny shape",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/funny-shape/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "I don’t know blue",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/i-dont-know-blue/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "I don’t know yellow",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/i-dont-know-yellow/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Ignorance is bliss",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/ignorance-is-bliss/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Piss Off",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/piss-off/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Big Cans",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/big-cans/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Rose Tinted",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/rose-tinted/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Mood",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/mood/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Shot through the heart",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/shot-through-the-heart/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Peek",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/peek/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Pouty",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/pouty/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Peace B**ches",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/peace-bches/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Cold as ice",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/cold-as-ice/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Background flowers",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/background-flowers/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Loves me, loves me not",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/loves-me-loves-me-not/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Moody",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/moody/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Fat lines",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/fat-lines/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Liberation",
+        "precio": "€70,00",
+        "precio_num": 70.0,
+        "url": "https://artquemy.com/producto/liberation-2/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Trash cans",
+        "precio": "€40,00",
+        "precio_num": 40.0,
+        "url": "https://artquemy.com/producto/trash-cans/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Tabacs",
+        "precio": "€40,00",
+        "precio_num": 40.0,
+        "url": "https://artquemy.com/producto/tabacs/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Stop, you’re making me blush",
+        "precio": "€40,00",
+        "precio_num": 40.0,
+        "url": "https://artquemy.com/producto/stop-youre-making-me-blush/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Peek",
+        "precio": "€40,00",
+        "precio_num": 40.0,
+        "url": "https://artquemy.com/producto/peek-2/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Flash",
+        "precio": "€40,00",
+        "precio_num": 40.0,
+        "url": "https://artquemy.com/producto/flash/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Liberation",
+        "precio": "€40,00",
+        "precio_num": 40.0,
+        "url": "https://artquemy.com/producto/liberation/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Balcony",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/balcony/"
+      }
+    ]
+  },
+  {
+    "fecha": "23/09/2026 18:51",
+    "artista": "Urban Flowers",
+    "cambios_obras": [
+      {
+        "tipo": "retirada",
+        "titulo": "Welcome to my world",
+        "precio": "€1.950,00",
+        "precio_num": 1950.0,
+        "url": "https://artquemy.com/producto/welcome-to-my-world/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Flores enlatadas",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/flores-enlatadas/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Come and look inside",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/come-and-look-inside/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Ups… Te falta magenta !",
+        "precio": "€1.600,00",
+        "precio_num": 1600.0,
+        "url": "https://artquemy.com/producto/ups-te-falta-magenta/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Evolución",
+        "precio": "€1.600,00",
+        "precio_num": 1600.0,
+        "url": "https://artquemy.com/producto/evolucion/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Sorry not sorry",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/sorry-not-sorry/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "El pueblito",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/el-pueblito/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Propera parada: Arc de triomf",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/propera-parada-arc-de-triomf/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Magnetic Kraken",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/magnetic-kraken/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Flower power",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/flower-power/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Between bees and flowers",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/between-bees-and-flowers/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Stoned flowers",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/stoned-flowers/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "T-casual",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/t-casual/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Malecón – Urban Flowers",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/malecon-urban-flowers/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Malecón – Astro",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/malecon-astro/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Malecón – Pulpo",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/malecon-pulpo/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Leaf",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/urban-flowers-leaf/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Grumpy flower",
+        "precio": "€550,00",
+        "precio_num": 550.0,
+        "url": "https://artquemy.com/producto/grumpy-flower/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Tongue",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/tongue/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Patinetera",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/patinetera/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Flower bouquet",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/flower-bouquet/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "El recreo",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/el-recreo/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Free Hugs",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/free-hugs/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Moms’ Flowers",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/moms-flowers/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Tiny Flower",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/tiny-flower/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Flower Ice cream",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/flower-ice-cream/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Entre Tentáculos y Flores",
+        "precio": "€350,00",
+        "precio_num": 350.0,
+        "url": "https://artquemy.com/producto/entre-tentaculos-y-flores/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Rainbow Flower",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/rainbow-flower/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Beso con lengua",
+        "precio": "€350,00",
+        "precio_num": 350.0,
+        "url": "https://artquemy.com/producto/beso-con-lengua/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Descarga",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/descarga/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Familia sagrada",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/familia-sagrada/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Brilli brilli",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/brilli-brilli/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Brillando con luz propia",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/brillando-con-luz-propia/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Smile",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/smile-3/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "El gato con flores",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/el-gato-con-flores/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Flores galácticas",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/flores-galacticas/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Uvita loquita",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/uvita-loquita/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Pink and blue",
+        "precio": "€300,00",
+        "precio_num": 300.0,
+        "url": "https://artquemy.com/producto/urban-flowers-wood/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Lila",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/urban-flowers-lila/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Lilarada",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/lilarada/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Indoors Pink",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/urban-flowers-wood-pink/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Amaricurry",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/amaricurry/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Roserica",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/roserica/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Autocad",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/autocad/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Flor lila",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/flor-lila/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Flor púrpura",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/flor-purpura/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Flor rosa",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/flor/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Bearthday",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/bearthday/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Tabla 10",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/tabla-10/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Tabla 11",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/tabla-9/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Free Hugs Spray Can",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/free-hugs-spray-can/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Flower meeting",
+        "precio": "€190,00",
+        "precio_num": 190.0,
+        "url": "https://artquemy.com/producto/flower-meeting/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Out of the pipe",
+        "precio": "€190,00",
+        "precio_num": 190.0,
+        "url": "https://artquemy.com/producto/out-of-the-pipe/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Wait ! The heart",
+        "precio": "€190,00",
+        "precio_num": 190.0,
+        "url": "https://artquemy.com/producto/wait-the-heart/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Carrer de l’Argenteria",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/carrer-de-largenteria/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Pintando flores",
+        "precio": "€180,00",
+        "precio_num": 180.0,
+        "url": "https://artquemy.com/producto/pintando-flores/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Hey! Gracias",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/hey-gracias-2/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Astro en la Catedral",
+        "precio": "€180,00",
+        "precio_num": 180.0,
+        "url": "https://artquemy.com/producto/astro-en-la-catedral-2/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Astro en el born",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/astro-en-el-born-2/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Astro en Arco del triunfo",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/astro-en-arco-del-triunfo-2/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Astro Skater",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/astro-skater-2/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Tabla 9",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/tabla-9-2/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Tabla 12",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/tabla-12/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Tabla 6",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/tabla-6/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Purple Garden I",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/purple-garden-i/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Blue Flower Spray Can",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/blue-flower-spray-can/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Urban Flowers Spray Can",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/urban-flowers-spray-can/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Calavera",
+        "precio": "€120,00",
+        "precio_num": 120.0,
+        "url": "https://artquemy.com/producto/calavera-2/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Root heads 1",
+        "precio": "€120,00",
+        "precio_num": 120.0,
+        "url": "https://artquemy.com/producto/root-heads-1-2/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Tabla 8",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/tabla-8/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Tabla 7",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/tabla-7/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Tabla 5",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/tabla-5/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Tabla 4",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/tabla-4/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Tabla 3",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/tabla-3/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Tabla 2",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/tabla-2/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Tabla 1",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/tabla-1/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Carrer de l’Argenteria",
+        "precio": "€70,00",
+        "precio_num": 70.0,
+        "url": "https://artquemy.com/producto/carrer-de-largenteria-3/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Pintando flores",
+        "precio": "€70,00",
+        "precio_num": 70.0,
+        "url": "https://artquemy.com/producto/pintando-flores-3/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Flores Entretiempo",
+        "precio": "€70,00",
+        "precio_num": 70.0,
+        "url": "https://artquemy.com/producto/blooming-flowers/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "OG Flower",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/og-flower/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Urban Flowers",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/urban-flowers/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Root heads 1",
+        "precio": "€70,00",
+        "precio_num": 70.0,
+        "url": "https://artquemy.com/producto/root-heads-1/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Calavera",
+        "precio": "€70,00",
+        "precio_num": 70.0,
+        "url": "https://artquemy.com/producto/calavera/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Astro in BCN 2",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/astro-in-bcn-2/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Astro Arco del Triunfo",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/astro-arco-del-triunfo/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Astro in Arco del Triunfo",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/astro-in-arco-del-triunfo/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Mini flower",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/mini-flower/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Mood Runner",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/mood-runner/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Casa Burés",
+        "precio": "€40,00",
+        "precio_num": 40.0,
+        "url": "https://artquemy.com/producto/casa-bures/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Carrer de l’Argenteria",
+        "precio": "€40,00",
+        "precio_num": 40.0,
+        "url": "https://artquemy.com/producto/carrer-de-largenteria-2/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Pintando flores",
+        "precio": "€40,00",
+        "precio_num": 40.0,
+        "url": "https://artquemy.com/producto/pintando-flores-2/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Flores Entretiempo",
+        "precio": "€40,00",
+        "precio_num": 40.0,
+        "url": "https://artquemy.com/producto/blooming-flowers-copy/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Free Hughs",
+        "precio": "€40,00",
+        "precio_num": 40.0,
+        "url": "https://artquemy.com/producto/free-hughs/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Vandal Flower",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/vandal-flower/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Hey! Gracias",
+        "precio": "€40,00",
+        "precio_num": 40.0,
+        "url": "https://artquemy.com/producto/hey-gracias/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Astro Skater",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/astro-skater/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Astro en el Born",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/astro-en-el-born/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Astro en la Catedral",
+        "precio": "€40,00",
+        "precio_num": 40.0,
+        "url": "https://artquemy.com/producto/astro-en-la-catedral/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Astro en Arco del triunfo",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/astro-en-arco-del-triunfo/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "=P – I",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/p-i-3/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": ";P – D",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/p-d-2/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "😛 – I",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/p%e2%9d%a4%ef%b8%8f-d-2/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "😛 – D",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/p-d/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": ";P – I",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/p-i-2/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "=P – I",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/p-i/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Entre nubes",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "url": "https://artquemy.com/producto/entre-nubes/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "=P❤️ – D",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/p%e2%9d%a4%ef%b8%8f-d-3/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": ":P❤️ – D",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/p%e2%9d%a4%ef%b8%8f-d/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Root heads",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "url": "https://artquemy.com/producto/root-heads/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Calavera",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "url": "https://artquemy.com/producto/calavera-4/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Spray Love",
+        "precio": "€20,00",
+        "precio_num": 20.0,
+        "url": "https://artquemy.com/producto/spray-love/"
+      }
+    ]
+  },
+  {
+    "fecha": "23/09/2026 18:51",
+    "artista": "Yilov",
+    "cambios_obras": [
+      {
+        "tipo": "retirada",
+        "titulo": "I feel like the ocean",
+        "precio": "€900,00",
+        "precio_num": 900.0,
+        "url": "https://artquemy.com/producto/i-feel-like-the-ocean-i/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "When nothing makes sense",
+        "precio": "€600,00",
+        "precio_num": 600.0,
+        "url": "https://artquemy.com/producto/when-nothing-makes-sense/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Juan",
+        "precio": "€600,00",
+        "precio_num": 600.0,
+        "url": "https://artquemy.com/producto/juan/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Where did I go?",
+        "precio": "€600,00",
+        "precio_num": 600.0,
+        "url": "https://artquemy.com/producto/what-will-i-become-copy/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "How did I get here?",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/how-did-i-get-here/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "What will I become?",
+        "precio": "€400,00",
+        "precio_num": 400.0,
+        "url": "https://artquemy.com/producto/what-will-i-become/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "What if it’s really that simple",
+        "precio": "€50,00",
+        "precio_num": 50.0,
+        "url": "https://artquemy.com/producto/what-if-its-really-that-simple/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "My journal",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/my-journal/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Life is a wave",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/life-is-a-wave/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Without thought",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/without-thought/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Everything changed",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/everything-changed/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "When all else fails",
+        "precio": "€40,00",
+        "precio_num": 40.0,
+        "url": "https://artquemy.com/producto/when-all-else-fails/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Tortugüita",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/tortuguita/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Free",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/free-2/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "BARcelona",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/barcelona/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "The Hills",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/the-hills/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Spying",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/spying/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "I feel like the ocean",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "url": "https://artquemy.com/producto/i-feel-like-the-ocean/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Where did I go?",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "url": "https://artquemy.com/producto/where-did-i-go/"
+      }
+    ]
+  },
+  {
+    "fecha": "23/09/2026 18:51",
+    "artista": "Various",
+    "cambios_obras": [
+      {
+        "tipo": "retirada",
+        "titulo": "Elliot",
+        "precio": "€950,00",
+        "precio_num": 950.0,
+        "url": "https://artquemy.com/producto/elliot/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Los Ojos de Margarita",
+        "precio": "€40,00",
+        "precio_num": 40.0,
+        "url": "https://artquemy.com/producto/los-ojos-de-margarita/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Yellow Magic",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/yellow-magic/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Red Magic",
+        "precio": "€120,00",
+        "precio_num": 120.0,
+        "url": "https://artquemy.com/producto/red-magic/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Blue Magic",
+        "precio": "€120,00",
+        "precio_num": 120.0,
+        "url": "https://artquemy.com/producto/blue-magic/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Eye",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/eye/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "fuchsia Madness",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/fuchsia-madness/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Small devil",
+        "precio": "€900,00",
+        "precio_num": 900.0,
+        "url": "https://artquemy.com/producto/small-devil/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Blue boy",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/blue-boy/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Lost Pink Robot",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/pink-robot/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Big devil",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/big-devil/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Pájaro-Pez",
+        "precio": "€1.500,00",
+        "precio_num": 1500.0,
+        "url": "https://artquemy.com/producto/pajaro-pez/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "OVNI",
+        "precio": "€1.500,00",
+        "precio_num": 1500.0,
+        "url": "https://artquemy.com/producto/ovni/"
+      },
+      {
+        "tipo": "retirada",
+        "titulo": "Old school",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "url": "https://artquemy.com/producto/old-school/"
+      }
+    ]
   }
 ]
