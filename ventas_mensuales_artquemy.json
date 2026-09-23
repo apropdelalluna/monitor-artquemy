@@ -8082,6 +8082,2766 @@
       "precio_num": 1250.0,
       "tipo": "vendida",
       "url": "https://artquemy.com/producto/the-grand-patrriota/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Rocío Iannone",
+        "url": "https://artquemy.com/artists/rocio-iannone/"
+      },
+      "obra": "Haciendo espacio",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/haciendo-espacio/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Rocío Iannone",
+        "url": "https://artquemy.com/artists/rocio-iannone/"
+      },
+      "obra": "Sobre las afecciones",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/sobre-las-afecciones/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Rocío Iannone",
+        "url": "https://artquemy.com/artists/rocio-iannone/"
+      },
+      "obra": "Gracias tus manos",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/gracias-tus-manos/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Rocío Iannone",
+        "url": "https://artquemy.com/artists/rocio-iannone/"
+      },
+      "obra": "Ni siquiera el pasado se va a quedar quieto",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/ni-siquiera/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Rocío Iannone",
+        "url": "https://artquemy.com/artists/rocio-iannone/"
+      },
+      "obra": "Agosto",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/agosto/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Rocío Iannone",
+        "url": "https://artquemy.com/artists/rocio-iannone/"
+      },
+      "obra": "Entre el afuera y mi cuerpo",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/entre-el-afuera-y-mi-cuerpo/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Rocío Iannone",
+        "url": "https://artquemy.com/artists/rocio-iannone/"
+      },
+      "obra": "El descanso",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/el-descanso/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Rocío Iannone",
+        "url": "https://artquemy.com/artists/rocio-iannone/"
+      },
+      "obra": "Dejarse afectar",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/dejarse-afectar/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Rocío Iannone",
+        "url": "https://artquemy.com/artists/rocio-iannone/"
+      },
+      "obra": "Las malas",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/las-malas/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Rocío Iannone",
+        "url": "https://artquemy.com/artists/rocio-iannone/"
+      },
+      "obra": "La danza",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/la-danza/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Rocío Iannone",
+        "url": "https://artquemy.com/artists/rocio-iannone/"
+      },
+      "obra": "Me muevo para construir mi identidad",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/me-muevo-para-construir-mi-identidad/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Rocío Iannone",
+        "url": "https://artquemy.com/artists/rocio-iannone/"
+      },
+      "obra": "Abrazando a la espera",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/abrazando-a-la-espera/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Rocío Iannone",
+        "url": "https://artquemy.com/artists/rocio-iannone/"
+      },
+      "obra": "Moverse con alegría nos puede ayudar a luchar",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/moverse-con-alegria-nos-puede-ayudar-a-luchar/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Rocío Iannone",
+        "url": "https://artquemy.com/artists/rocio-iannone/"
+      },
+      "obra": "¿Cómo se contempla una desgracia?",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/como-se-contempla-una-desgracia/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Soy feo pero te amo",
+        "url": "https://artquemy.com/artists/soy-feo-pero-te-amo/"
+      },
+      "obra": "Memento Mori",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/memento-mori/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Soy feo pero te amo",
+        "url": "https://artquemy.com/artists/soy-feo-pero-te-amo/"
+      },
+      "obra": "How long?",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/how-long/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Soy feo pero te amo",
+        "url": "https://artquemy.com/artists/soy-feo-pero-te-amo/"
+      },
+      "obra": "Never again",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/never-again/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Soy feo pero te amo",
+        "url": "https://artquemy.com/artists/soy-feo-pero-te-amo/"
+      },
+      "obra": "Grow",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/grow/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Soy feo pero te amo",
+        "url": "https://artquemy.com/artists/soy-feo-pero-te-amo/"
+      },
+      "obra": "Fine",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/fine/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Soy feo pero te amo",
+        "url": "https://artquemy.com/artists/soy-feo-pero-te-amo/"
+      },
+      "obra": "Hold you",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/hold-you/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Soy feo pero te amo",
+        "url": "https://artquemy.com/artists/soy-feo-pero-te-amo/"
+      },
+      "obra": "Así corazón",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/asi-corazon/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Soy feo pero te amo",
+        "url": "https://artquemy.com/artists/soy-feo-pero-te-amo/"
+      },
+      "obra": "Call mom",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/call-mom/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Soy feo pero te amo",
+        "url": "https://artquemy.com/artists/soy-feo-pero-te-amo/"
+      },
+      "obra": "Burn",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/burn/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Soy feo pero te amo",
+        "url": "https://artquemy.com/artists/soy-feo-pero-te-amo/"
+      },
+      "obra": "Conmigo aca",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/conmigo-aca/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Soy feo pero te amo",
+        "url": "https://artquemy.com/artists/soy-feo-pero-te-amo/"
+      },
+      "obra": "Home with you",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/home-with-you/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Soy feo pero te amo",
+        "url": "https://artquemy.com/artists/soy-feo-pero-te-amo/"
+      },
+      "obra": "Estoy bien",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/estar/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Soy feo pero te amo",
+        "url": "https://artquemy.com/artists/soy-feo-pero-te-amo/"
+      },
+      "obra": "Together",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/together/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Tiny",
+        "url": "https://artquemy.com/artists/tiny/"
+      },
+      "obra": "Tags",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/tags/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Tiny",
+        "url": "https://artquemy.com/artists/tiny/"
+      },
+      "obra": "Grounded",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/grounded/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Tiny",
+        "url": "https://artquemy.com/artists/tiny/"
+      },
+      "obra": "Takeover",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/takeover/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Tiny",
+        "url": "https://artquemy.com/artists/tiny/"
+      },
+      "obra": "Tiny callejera",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/tiny-callejera/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Tiny",
+        "url": "https://artquemy.com/artists/tiny/"
+      },
+      "obra": "Stop, you’re making me blush",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/stop-youre-making-me-blush-2/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Tiny",
+        "url": "https://artquemy.com/artists/tiny/"
+      },
+      "obra": "Head in the clouds, eye on the prize",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/head-in-the-clouds-eye-on-the-prize/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Tiny",
+        "url": "https://artquemy.com/artists/tiny/"
+      },
+      "obra": "Sunflowers for Tiny",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/sunflowers-for-tiny/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Tiny",
+        "url": "https://artquemy.com/artists/tiny/"
+      },
+      "obra": "Badass Tiny",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/badass-tiny/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Tiny",
+        "url": "https://artquemy.com/artists/tiny/"
+      },
+      "obra": "Creep",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/creep/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Tiny",
+        "url": "https://artquemy.com/artists/tiny/"
+      },
+      "obra": "Tiny Flower",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/tiny-flower/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Tiny",
+        "url": "https://artquemy.com/artists/tiny/"
+      },
+      "obra": "Son of a Beach",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/son-of-a-beach/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Tiny",
+        "url": "https://artquemy.com/artists/tiny/"
+      },
+      "obra": "Die, Cry, Hate",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/die-cry-hate/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Tiny",
+        "url": "https://artquemy.com/artists/tiny/"
+      },
+      "obra": "Zen AF",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/stop-youre-making-me-blush-copy/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Tiny",
+        "url": "https://artquemy.com/artists/tiny/"
+      },
+      "obra": "Hotheaded",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/hotheaded/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Tiny",
+        "url": "https://artquemy.com/artists/tiny/"
+      },
+      "obra": "Electrifying",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/electrifying/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Tiny",
+        "url": "https://artquemy.com/artists/tiny/"
+      },
+      "obra": "Flash",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/flash-2/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Tiny",
+        "url": "https://artquemy.com/artists/tiny/"
+      },
+      "obra": "Piss Off",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/piss-off-2/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Tiny",
+        "url": "https://artquemy.com/artists/tiny/"
+      },
+      "obra": "Natural Habitat",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/natural-habitat/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Tiny",
+        "url": "https://artquemy.com/artists/tiny/"
+      },
+      "obra": "Kindly, go FUCK yourself",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/kindly-go-fuck-yourself/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Tiny",
+        "url": "https://artquemy.com/artists/tiny/"
+      },
+      "obra": "Cheer up, love",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/cheer-up-love/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Tiny",
+        "url": "https://artquemy.com/artists/tiny/"
+      },
+      "obra": "Shut it out",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/shut-it-out/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Tiny",
+        "url": "https://artquemy.com/artists/tiny/"
+      },
+      "obra": "She’s a Star",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/shes-a-star/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Tiny",
+        "url": "https://artquemy.com/artists/tiny/"
+      },
+      "obra": "Holely Shit",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/holely-shit/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Tiny",
+        "url": "https://artquemy.com/artists/tiny/"
+      },
+      "obra": "Googles",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/googles-2/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Tiny",
+        "url": "https://artquemy.com/artists/tiny/"
+      },
+      "obra": "Victory",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/victory/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Tiny",
+        "url": "https://artquemy.com/artists/tiny/"
+      },
+      "obra": "Smile",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/smile-2/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Tiny",
+        "url": "https://artquemy.com/artists/tiny/"
+      },
+      "obra": "F*** you",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/fck-you/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Tiny",
+        "url": "https://artquemy.com/artists/tiny/"
+      },
+      "obra": "Queen",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/queen/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Tiny",
+        "url": "https://artquemy.com/artists/tiny/"
+      },
+      "obra": "Tongue",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/tongue-2/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Tiny",
+        "url": "https://artquemy.com/artists/tiny/"
+      },
+      "obra": "Seeing clearly",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/seeing-clearly/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Tiny",
+        "url": "https://artquemy.com/artists/tiny/"
+      },
+      "obra": "From Tiny, with love",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/from-tiny-with-love/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Tiny",
+        "url": "https://artquemy.com/artists/tiny/"
+      },
+      "obra": "Peace, B**ches",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/kindly-f-you/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Tiny",
+        "url": "https://artquemy.com/artists/tiny/"
+      },
+      "obra": "How about, I do what I want",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/how-about-i-do-what-i-want/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Tiny",
+        "url": "https://artquemy.com/artists/tiny/"
+      },
+      "obra": "I don’t know",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/i-dont-know/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Tiny",
+        "url": "https://artquemy.com/artists/tiny/"
+      },
+      "obra": "Emotional support",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/emotional-support/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Tiny",
+        "url": "https://artquemy.com/artists/tiny/"
+      },
+      "obra": "Fresh as a daisy",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/fresh-as-a-daisy/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Tiny",
+        "url": "https://artquemy.com/artists/tiny/"
+      },
+      "obra": "Love Heart",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/love-heart/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Tiny",
+        "url": "https://artquemy.com/artists/tiny/"
+      },
+      "obra": "Funny shape",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/funny-shape/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Tiny",
+        "url": "https://artquemy.com/artists/tiny/"
+      },
+      "obra": "I don’t know blue",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/i-dont-know-blue/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Tiny",
+        "url": "https://artquemy.com/artists/tiny/"
+      },
+      "obra": "I don’t know yellow",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/i-dont-know-yellow/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Tiny",
+        "url": "https://artquemy.com/artists/tiny/"
+      },
+      "obra": "Ignorance is bliss",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/ignorance-is-bliss/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Tiny",
+        "url": "https://artquemy.com/artists/tiny/"
+      },
+      "obra": "Piss Off",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/piss-off/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Tiny",
+        "url": "https://artquemy.com/artists/tiny/"
+      },
+      "obra": "Big Cans",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/big-cans/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Tiny",
+        "url": "https://artquemy.com/artists/tiny/"
+      },
+      "obra": "Rose Tinted",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/rose-tinted/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Tiny",
+        "url": "https://artquemy.com/artists/tiny/"
+      },
+      "obra": "Mood",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/mood/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Tiny",
+        "url": "https://artquemy.com/artists/tiny/"
+      },
+      "obra": "Shot through the heart",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/shot-through-the-heart/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Tiny",
+        "url": "https://artquemy.com/artists/tiny/"
+      },
+      "obra": "Peek",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/peek/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Tiny",
+        "url": "https://artquemy.com/artists/tiny/"
+      },
+      "obra": "Pouty",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/pouty/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Tiny",
+        "url": "https://artquemy.com/artists/tiny/"
+      },
+      "obra": "Peace B**ches",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/peace-bches/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Tiny",
+        "url": "https://artquemy.com/artists/tiny/"
+      },
+      "obra": "Cold as ice",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/cold-as-ice/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Tiny",
+        "url": "https://artquemy.com/artists/tiny/"
+      },
+      "obra": "Background flowers",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/background-flowers/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Tiny",
+        "url": "https://artquemy.com/artists/tiny/"
+      },
+      "obra": "Loves me, loves me not",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/loves-me-loves-me-not/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Tiny",
+        "url": "https://artquemy.com/artists/tiny/"
+      },
+      "obra": "Moody",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/moody/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Tiny",
+        "url": "https://artquemy.com/artists/tiny/"
+      },
+      "obra": "Fat lines",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/fat-lines/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Tiny",
+        "url": "https://artquemy.com/artists/tiny/"
+      },
+      "obra": "Balcony",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/balcony/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Flores enlatadas",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/flores-enlatadas/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Come and look inside",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/come-and-look-inside/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Sorry not sorry",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/sorry-not-sorry/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "El pueblito",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/el-pueblito/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Propera parada: Arc de triomf",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/propera-parada-arc-de-triomf/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Magnetic Kraken",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/magnetic-kraken/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Flower power",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/flower-power/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Between bees and flowers",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/between-bees-and-flowers/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Stoned flowers",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/stoned-flowers/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "T-casual",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/t-casual/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Malecón – Urban Flowers",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/malecon-urban-flowers/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Malecón – Astro",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/malecon-astro/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Malecón – Pulpo",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/malecon-pulpo/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Leaf",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/urban-flowers-leaf/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Tongue",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/tongue/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Patinetera",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/patinetera/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Flower bouquet",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/flower-bouquet/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "El recreo",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/el-recreo/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Free Hugs",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/free-hugs/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Moms’ Flowers",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/moms-flowers/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Flower Ice cream",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/flower-ice-cream/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Rainbow Flower",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/rainbow-flower/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Descarga",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/descarga/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Familia sagrada",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/familia-sagrada/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Brilli brilli",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/brilli-brilli/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Brillando con luz propia",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/brillando-con-luz-propia/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Smile",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/smile-3/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "El gato con flores",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/el-gato-con-flores/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Flores galácticas",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/flores-galacticas/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Uvita loquita",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/uvita-loquita/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Lila",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/urban-flowers-lila/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Lilarada",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/lilarada/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Indoors Pink",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/urban-flowers-wood-pink/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Amaricurry",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/amaricurry/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Roserica",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/roserica/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Autocad",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/autocad/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Flor lila",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/flor-lila/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Flor púrpura",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/flor-purpura/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Flor rosa",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/flor/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Bearthday",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/bearthday/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Tabla 10",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/tabla-10/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Tabla 11",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/tabla-9/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Free Hugs Spray Can",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/free-hugs-spray-can/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Carrer de l’Argenteria",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/carrer-de-largenteria/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Hey! Gracias",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/hey-gracias-2/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Astro en el born",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/astro-en-el-born-2/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Astro en Arco del triunfo",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/astro-en-arco-del-triunfo-2/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Astro Skater",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/astro-skater-2/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Tabla 9",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/tabla-9-2/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Tabla 12",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/tabla-12/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Tabla 6",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/tabla-6/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Purple Garden I",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/purple-garden-i/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Blue Flower Spray Can",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/blue-flower-spray-can/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Urban Flowers Spray Can",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/urban-flowers-spray-can/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Tabla 8",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/tabla-8/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Tabla 7",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/tabla-7/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Tabla 5",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/tabla-5/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Tabla 4",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/tabla-4/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Tabla 3",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/tabla-3/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Tabla 2",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/tabla-2/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Tabla 1",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/tabla-1/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "OG Flower",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/og-flower/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Urban Flowers",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/urban-flowers/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Astro in BCN 2",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/astro-in-bcn-2/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Astro Arco del Triunfo",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/astro-arco-del-triunfo/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Astro in Arco del Triunfo",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/astro-in-arco-del-triunfo/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Mini flower",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/mini-flower/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Mood Runner",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/mood-runner/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Vandal Flower",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/vandal-flower/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Astro Skater",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/astro-skater/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Astro en el Born",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/astro-en-el-born/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "Astro en Arco del triunfo",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/astro-en-arco-del-triunfo/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "=P – I",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/p-i-3/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": ";P – D",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/p-d-2/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "😛 – I",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/p%e2%9d%a4%ef%b8%8f-d-2/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "😛 – D",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/p-d/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": ";P – I",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/p-i-2/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "=P – I",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/p-i/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": "=P❤️ – D",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/p%e2%9d%a4%ef%b8%8f-d-3/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Urban Flowers",
+        "url": "https://artquemy.com/artists/urban-flowers/"
+      },
+      "obra": ":P❤️ – D",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/p%e2%9d%a4%ef%b8%8f-d/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Yilov",
+        "url": "https://artquemy.com/artists/yilov/"
+      },
+      "obra": "How did I get here?",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/how-did-i-get-here/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Yilov",
+        "url": "https://artquemy.com/artists/yilov/"
+      },
+      "obra": "My journal",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/my-journal/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Yilov",
+        "url": "https://artquemy.com/artists/yilov/"
+      },
+      "obra": "Life is a wave",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/life-is-a-wave/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Yilov",
+        "url": "https://artquemy.com/artists/yilov/"
+      },
+      "obra": "Without thought",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/without-thought/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Yilov",
+        "url": "https://artquemy.com/artists/yilov/"
+      },
+      "obra": "Everything changed",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/everything-changed/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Yilov",
+        "url": "https://artquemy.com/artists/yilov/"
+      },
+      "obra": "Tortugüita",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/tortuguita/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Yilov",
+        "url": "https://artquemy.com/artists/yilov/"
+      },
+      "obra": "Free",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/free-2/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Yilov",
+        "url": "https://artquemy.com/artists/yilov/"
+      },
+      "obra": "BARcelona",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/barcelona/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Yilov",
+        "url": "https://artquemy.com/artists/yilov/"
+      },
+      "obra": "The Hills",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/the-hills/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Yilov",
+        "url": "https://artquemy.com/artists/yilov/"
+      },
+      "obra": "Spying",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/spying/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Various",
+        "url": "https://artquemy.com/artists/various/"
+      },
+      "obra": "Yellow Magic",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/yellow-magic/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Various",
+        "url": "https://artquemy.com/artists/various/"
+      },
+      "obra": "Eye",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/eye/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Various",
+        "url": "https://artquemy.com/artists/various/"
+      },
+      "obra": "fuchsia Madness",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/fuchsia-madness/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Various",
+        "url": "https://artquemy.com/artists/various/"
+      },
+      "obra": "Blue boy",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/blue-boy/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Various",
+        "url": "https://artquemy.com/artists/various/"
+      },
+      "obra": "Lost Pink Robot",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/pink-robot/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Various",
+        "url": "https://artquemy.com/artists/various/"
+      },
+      "obra": "Big devil",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/big-devil/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Various",
+        "url": "https://artquemy.com/artists/various/"
+      },
+      "obra": "Old school",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/old-school/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Alessia Innocenti",
+        "url": "https://artquemy.com/artists/alessia-innocenti/"
+      },
+      "obra": "Cadencias 2",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/cadencias-2/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Alessia Innocenti",
+        "url": "https://artquemy.com/artists/alessia-innocenti/"
+      },
+      "obra": "Refluir para fluir",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/refluir-para-fluir/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Alessia Innocenti",
+        "url": "https://artquemy.com/artists/alessia-innocenti/"
+      },
+      "obra": "Enraizar",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/enraizar/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Alessia Innocenti",
+        "url": "https://artquemy.com/artists/alessia-innocenti/"
+      },
+      "obra": "Ecos 3",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/ecos-3/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Alessia Innocenti",
+        "url": "https://artquemy.com/artists/alessia-innocenti/"
+      },
+      "obra": "Ecos 2",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/ecos-2/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Alessia Innocenti",
+        "url": "https://artquemy.com/artists/alessia-innocenti/"
+      },
+      "obra": "Theronix",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/theronix/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Alessia Innocenti",
+        "url": "https://artquemy.com/artists/alessia-innocenti/"
+      },
+      "obra": "Coralina",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/coralina/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Alessia Innocenti",
+        "url": "https://artquemy.com/artists/alessia-innocenti/"
+      },
+      "obra": "Bucle 2",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/bucle-2/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Alessia Innocenti",
+        "url": "https://artquemy.com/artists/alessia-innocenti/"
+      },
+      "obra": "Bucle 1",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/bucle-1/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Alessia Innocenti",
+        "url": "https://artquemy.com/artists/alessia-innocenti/"
+      },
+      "obra": "Ascenso en colores",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/ascenso-en-colores/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Alessia Innocenti",
+        "url": "https://artquemy.com/artists/alessia-innocenti/"
+      },
+      "obra": "Conexiones ll",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/conexiones-ll/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Alessia Innocenti",
+        "url": "https://artquemy.com/artists/alessia-innocenti/"
+      },
+      "obra": "Cuatro fragmentos",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/cuatro-fragmentos/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Alessia Innocenti",
+        "url": "https://artquemy.com/artists/alessia-innocenti/"
+      },
+      "obra": "Conexiones",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/conexiones/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Alessia Innocenti",
+        "url": "https://artquemy.com/artists/alessia-innocenti/"
+      },
+      "obra": "Amatistas",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/amatistas/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Alessia Innocenti",
+        "url": "https://artquemy.com/artists/alessia-innocenti/"
+      },
+      "obra": "Remember Rainbows",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/remember-rainbows/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Alessia Innocenti",
+        "url": "https://artquemy.com/artists/alessia-innocenti/"
+      },
+      "obra": "Portal",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/portal/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Alessia Innocenti",
+        "url": "https://artquemy.com/artists/alessia-innocenti/"
+      },
+      "obra": "Rainbow Flower",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/rainbow-flower-2/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Alessia Innocenti",
+        "url": "https://artquemy.com/artists/alessia-innocenti/"
+      },
+      "obra": "Pulsación lll",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/pulsacion-lll/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Alessia Innocenti",
+        "url": "https://artquemy.com/artists/alessia-innocenti/"
+      },
+      "obra": "Pulsación l",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/pulsacion-l/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Alessia Innocenti",
+        "url": "https://artquemy.com/artists/alessia-innocenti/"
+      },
+      "obra": "Arpegios Florales Pastel III",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/arpegios-florales-pastel-iii/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Alessia Innocenti",
+        "url": "https://artquemy.com/artists/alessia-innocenti/"
+      },
+      "obra": "Arpegios Pastel III",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/arpegios-pastel-iii/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Alessia Innocenti",
+        "url": "https://artquemy.com/artists/alessia-innocenti/"
+      },
+      "obra": "Cálido Rombos",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/calido-rombos/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Alessia Innocenti",
+        "url": "https://artquemy.com/artists/alessia-innocenti/"
+      },
+      "obra": "Alessia Innocenti – Arpegios Florales 5",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/alessia-innocenti-arpegios-florales-5/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Alessia Innocenti",
+        "url": "https://artquemy.com/artists/alessia-innocenti/"
+      },
+      "obra": "Alessia Innocenti – Arpegios Florales 4",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/alessia-innocenti-arpegios-florales-4/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Alessia Innocenti",
+        "url": "https://artquemy.com/artists/alessia-innocenti/"
+      },
+      "obra": "Alessia Innocenti – Arpegios Florales 3",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/alessia-innocenti-arpegios-florales-3/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Alessia Innocenti",
+        "url": "https://artquemy.com/artists/alessia-innocenti/"
+      },
+      "obra": "Alessia Innocenti – Arpegios Florales 2",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/alessia-innocenti-arpegios-florales-1-copy/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Alessia Innocenti",
+        "url": "https://artquemy.com/artists/alessia-innocenti/"
+      },
+      "obra": "Alessia Innocenti – Arpegios Florales 1",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/alessia-innocenti-arpegios-florales-1/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Alessia Innocenti",
+        "url": "https://artquemy.com/artists/alessia-innocenti/"
+      },
+      "obra": "Alessia Innocenti – Arpegios 5",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/alessia-innocenti-arpegios-5/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Alessia Innocenti",
+        "url": "https://artquemy.com/artists/alessia-innocenti/"
+      },
+      "obra": "Alessia Innocenti – Arpegios 4",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/alessia-innocenti-arpegios-4/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Alessia Innocenti",
+        "url": "https://artquemy.com/artists/alessia-innocenti/"
+      },
+      "obra": "Alessia Innocenti – Arpegios 3",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/alessia-innocenti-arpegios-3/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Alessia Innocenti",
+        "url": "https://artquemy.com/artists/alessia-innocenti/"
+      },
+      "obra": "Alessia Innocenti – Arpegios 2",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/alessia-innocenti-arpegios-2/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Alessia Innocenti",
+        "url": "https://artquemy.com/artists/alessia-innocenti/"
+      },
+      "obra": "Alessia Innocenti – Arpegios 1",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/alessia-innocenti-arpegios-1/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Alessia Innocenti",
+        "url": "https://artquemy.com/artists/alessia-innocenti/"
+      },
+      "obra": "Sín Título",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/sin-titulo/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Alessia Innocenti",
+        "url": "https://artquemy.com/artists/alessia-innocenti/"
+      },
+      "obra": "Blue Garden",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/blue-garden/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Alessia Innocenti",
+        "url": "https://artquemy.com/artists/alessia-innocenti/"
+      },
+      "obra": "Gaiinbu",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/gaiinbu/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Alessia Innocenti",
+        "url": "https://artquemy.com/artists/alessia-innocenti/"
+      },
+      "obra": "Jardín del crepúsculo",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/jardin-del-crepusculo/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Alessia Innocenti",
+        "url": "https://artquemy.com/artists/alessia-innocenti/"
+      },
+      "obra": "Carnaval",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/carnaval/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Alessia Innocenti",
+        "url": "https://artquemy.com/artists/alessia-innocenti/"
+      },
+      "obra": "Luz continua",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/luz-continua/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Alessia Innocenti",
+        "url": "https://artquemy.com/artists/alessia-innocenti/"
+      },
+      "obra": "Pájaros en flor",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/pajaros-en-flor/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Alessia Innocenti",
+        "url": "https://artquemy.com/artists/alessia-innocenti/"
+      },
+      "obra": "Floreciente",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/floreciente/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Alessia Innocenti",
+        "url": "https://artquemy.com/artists/alessia-innocenti/"
+      },
+      "obra": "Sinergia",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/libertad-copy/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Alessia Innocenti",
+        "url": "https://artquemy.com/artists/alessia-innocenti/"
+      },
+      "obra": "Destello",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/interaccion/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Alessia Innocenti",
+        "url": "https://artquemy.com/artists/alessia-innocenti/"
+      },
+      "obra": "Carnaval Chino",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/carnaval-chino/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Alessia Innocenti",
+        "url": "https://artquemy.com/artists/alessia-innocenti/"
+      },
+      "obra": "Vital",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/vital/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Alessia Innocenti",
+        "url": "https://artquemy.com/artists/alessia-innocenti/"
+      },
+      "obra": "Interacción",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/interaccion-2/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Alessia Innocenti",
+        "url": "https://artquemy.com/artists/alessia-innocenti/"
+      },
+      "obra": "Remolino",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/interaccion-3/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Alessia Innocenti",
+        "url": "https://artquemy.com/artists/alessia-innocenti/"
+      },
+      "obra": "Cascada de colores",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/cascada-de-colores/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Alessia Obinu",
+        "url": "https://artquemy.com/artists/alessia-obinu/"
+      },
+      "obra": "Almas",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/almas/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Catapop",
+        "url": "https://artquemy.com/artists/catapop/"
+      },
+      "obra": "Sardanes",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/sardanes/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Catapop",
+        "url": "https://artquemy.com/artists/catapop/"
+      },
+      "obra": "Carmen Amaya",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/carmen-amaya/"
+    },
+    {
+      "fecha": "23/09/2026 18:41",
+      "artista": {
+        "nombre": "Catapop",
+        "url": "https://artquemy.com/artists/catapop/"
+      },
+      "obra": "Castellers",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/castellers/"
     }
   ]
 }
