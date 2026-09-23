@@ -7767,7 +7767,7 @@
         "url": "https://artquemy.com/producto/grietas/"
       }
     },
-    "ultima_comprobacion": "21/09/2026 20:27"
+    "ultima_comprobacion": "23/09/2026 00:27"
   },
   "Michelle Andrade": {
     "url": "https://artquemy.com/artists/michelle-andrade/",
@@ -7879,28 +7879,28 @@
         "url": "https://artquemy.com/producto/whats-in-your-head/"
       }
     },
-    "ultima_comprobacion": "21/09/2026 20:30"
+    "ultima_comprobacion": "23/09/2026 00:27"
   },
   "Món Mort": {
     "url": "https://artquemy.com/artists/mon-mort/",
-    "hash": "087c6ce8dbfb3f23bf4383c6c3cdc649",
+    "hash": "a9d6b7af60418e2f757ee4fd40ac90eb",
     "obras": {
+      "https://artquemy.com/producto/rurals/": {
+        "titulo": "Rurals",
+        "precio": "€1.500,00",
+        "precio_num": 1500.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/rurals/"
+      },
       "https://artquemy.com/producto/las-monmortinas/": {
         "titulo": "Las Mónmortinas",
         "precio": "SOLD",
         "precio_num": 0.0,
         "estado": "vendido",
         "url": "https://artquemy.com/producto/las-monmortinas/"
-      },
-      "https://artquemy.com/producto/rurals/": {
-        "titulo": "Rurals",
-        "precio": "€900,00",
-        "precio_num": 900.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/rurals/"
       }
     },
-    "ultima_comprobacion": "21/09/2026 20:30"
+    "ultima_comprobacion": "23/09/2026 00:28"
   },
   "Okobé": {
     "url": "https://artquemy.com/artists/okobe/",
@@ -7935,7 +7935,7 @@
         "url": "https://artquemy.com/producto/ellas/"
       }
     },
-    "ultima_comprobacion": "21/09/2026 20:30"
+    "ultima_comprobacion": "23/09/2026 00:28"
   },
   "Prëo": {
     "url": "https://artquemy.com/artists/preo/",
@@ -8012,11 +8012,11 @@
         "url": "https://artquemy.com/producto/quebrada/"
       }
     },
-    "ultima_comprobacion": "21/09/2026 20:31"
+    "ultima_comprobacion": "23/09/2026 00:28"
   },
   "Qwert": {
     "url": "https://artquemy.com/artists/qwert/",
-    "hash": "4f4bf87f946e3091c527c34532361bb5",
+    "hash": "8e5c02f2a3c39b5fa4c8c778cd6b9ed1",
     "obras": {
       "https://artquemy.com/producto/lunch-atop-a-skyscraper/": {
         "titulo": "LuNCH atoP a skYSCRapeR",
@@ -8041,9 +8041,9 @@
       },
       "https://artquemy.com/producto/the-grand-patrriota/": {
         "titulo": "ThE gRaND PatrRiota",
-        "precio": "€1.250,00",
-        "precio_num": 1250.0,
-        "estado": "disponible",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
         "url": "https://artquemy.com/producto/the-grand-patrriota/"
       },
       "https://artquemy.com/producto/nightwatch/": {
@@ -8306,7 +8306,7 @@
         "url": "https://artquemy.com/producto/a-little-traveller-2/"
       }
     },
-    "ultima_comprobacion": "21/09/2026 20:31"
+    "ultima_comprobacion": "23/09/2026 00:29"
   },
   "Rich One": {
     "url": "https://artquemy.com/artists/rich-one/",
@@ -8411,7 +8411,7 @@
         "url": "https://artquemy.com/producto/t-shirt-black/"
       }
     },
-    "ultima_comprobacion": "21/09/2026 20:31"
+    "ultima_comprobacion": "23/09/2026 00:29"
   },
   "Rocco Del Franco": {
     "url": "https://artquemy.com/artists/rocco-del-franco/",
@@ -8635,7 +8635,7 @@
         "url": "https://artquemy.com/producto/classic-orange-vii/"
       }
     },
-    "ultima_comprobacion": "21/09/2026 20:31"
+    "ultima_comprobacion": "23/09/2026 00:29"
   },
   "Rocío Iannone": {
     "url": "https://artquemy.com/artists/rocio-iannone/",
@@ -8796,7 +8796,7 @@
         "url": "https://artquemy.com/producto/como-se-contempla-una-desgracia/"
       }
     },
-    "ultima_comprobacion": "21/09/2026 20:32"
+    "ultima_comprobacion": "23/09/2026 00:29"
   },
   "Soy feo pero te amo": {
     "url": "https://artquemy.com/artists/soy-feo-pero-te-amo/",
@@ -9062,7 +9062,7 @@
         "url": "https://artquemy.com/producto/together/"
       }
     },
-    "ultima_comprobacion": "21/09/2026 20:32"
+    "ultima_comprobacion": "23/09/2026 00:30"
   },
   "Surfia": {
     "url": "https://artquemy.com/artists/surfia/",
