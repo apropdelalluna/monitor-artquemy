@@ -8070,6 +8070,18 @@
       "precio_num": 0.0,
       "tipo": "nueva_vendida",
       "url": "https://artquemy.com/producto/keko-01/"
+    },
+    {
+      "fecha": "23/09/2026 00:30",
+      "artista": {
+        "nombre": "Qwert",
+        "url": "https://artquemy.com/artists/qwert/"
+      },
+      "obra": "ThE gRaND PatrRiota",
+      "precio": "€1.250,00",
+      "precio_num": 1250.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/the-grand-patrriota/"
     }
   ]
 }
