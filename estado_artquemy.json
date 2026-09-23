@@ -1240,7 +1240,7 @@
   },
   "Ceci SN": {
     "url": "https://artquemy.com/artists/ceci-sn/",
-    "hash": "abe5875d95f3ae34dea101bfe65a901f",
+    "hash": "645d05df21955bec40f75e4bba787f0c",
     "obras": {
       "https://artquemy.com/producto/swimmers-jumper/": {
         "titulo": "Swimmers Jumper",
@@ -1248,6 +1248,48 @@
         "precio_num": 80.0,
         "estado": "disponible",
         "url": "https://artquemy.com/producto/swimmers-jumper/"
+      },
+      "https://artquemy.com/producto/naked-swimmers-l/": {
+        "titulo": "Naked swimmers L",
+        "precio": "€70,00",
+        "precio_num": 70.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/naked-swimmers-l/"
+      },
+      "https://artquemy.com/producto/naked-swimmers-xliv/": {
+        "titulo": "Naked swimmers XLIV",
+        "precio": "€70,00",
+        "precio_num": 70.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/naked-swimmers-xliv/"
+      },
+      "https://artquemy.com/producto/climbers-iv/": {
+        "titulo": "Climbers IV",
+        "precio": "€70,00",
+        "precio_num": 70.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/climbers-iv/"
+      },
+      "https://artquemy.com/producto/climbers-iii/": {
+        "titulo": "Climbers III",
+        "precio": "€70,00",
+        "precio_num": 70.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/climbers-iii/"
+      },
+      "https://artquemy.com/producto/climbers-ii/": {
+        "titulo": "Climbers II",
+        "precio": "€70,00",
+        "precio_num": 70.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/climbers-ii/"
+      },
+      "https://artquemy.com/producto/climbers-i/": {
+        "titulo": "Climbers I",
+        "precio": "€70,00",
+        "precio_num": 70.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/climbers-i/"
       },
       "https://artquemy.com/producto/naked-swimmers-xx-2/": {
         "titulo": "Naked swimmers XX",
@@ -1262,6 +1304,41 @@
         "precio_num": 0.0,
         "estado": "vendido",
         "url": "https://artquemy.com/producto/naked-swimmers-xx/"
+      },
+      "https://artquemy.com/producto/naked-swimmers-xlix/": {
+        "titulo": "Naked swimmers XLIX",
+        "precio": "€65,00",
+        "precio_num": 65.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/naked-swimmers-xlix/"
+      },
+      "https://artquemy.com/producto/naked-swimmers-xlviii/": {
+        "titulo": "Naked swimmers XLVIII",
+        "precio": "€65,00",
+        "precio_num": 65.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/naked-swimmers-xlviii/"
+      },
+      "https://artquemy.com/producto/naked-swimmers-xlvii/": {
+        "titulo": "Naked swimmers XLVII",
+        "precio": "€65,00",
+        "precio_num": 65.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/naked-swimmers-xlvii/"
+      },
+      "https://artquemy.com/producto/naked-swimmers-xlvi/": {
+        "titulo": "Naked swimmers XLVI",
+        "precio": "€65,00",
+        "precio_num": 65.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/naked-swimmers-xlvi/"
+      },
+      "https://artquemy.com/producto/naked-swimmers-xliii/": {
+        "titulo": "Naked swimmers XLIII",
+        "precio": "€65,00",
+        "precio_num": 65.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/naked-swimmers-xliii/"
       },
       "https://artquemy.com/producto/golden-naked-swimmers/": {
         "titulo": "Golden Naked swimmers",
@@ -1662,6 +1739,13 @@
         "estado": "vendido",
         "url": "https://artquemy.com/producto/naked-swimmers-2/"
       },
+      "https://artquemy.com/producto/naked-swimmers-xlv/": {
+        "titulo": "Naked swimmers XLV",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/naked-swimmers-xlv/"
+      },
       "https://artquemy.com/producto/lago-de-color/": {
         "titulo": "Lago de color",
         "precio": "€30,00",
@@ -1810,7 +1894,7 @@
         "url": "https://artquemy.com/producto/4-bikini-swimmers/"
       }
     },
-    "ultima_comprobacion": "21/09/2026 20:38"
+    "ultima_comprobacion": "23/09/2026 04:33"
   },
   "Ciro Marra": {
     "url": "https://artquemy.com/artists/ciro-marra/",
@@ -2657,7 +2741,7 @@
         "url": "https://artquemy.com/producto/soul-portait/"
       }
     },
-    "ultima_comprobacion": "22/09/2026 20:21"
+    "ultima_comprobacion": "23/09/2026 04:33"
   },
   "Collage Volage": {
     "url": "https://artquemy.com/artists/collage-volage/",
@@ -2811,7 +2895,7 @@
         "url": "https://artquemy.com/producto/de-la-serie-collage-1/"
       }
     },
-    "ultima_comprobacion": "22/09/2026 20:21"
+    "ultima_comprobacion": "23/09/2026 04:34"
   },
   "Daniele Verzini": {
     "url": "https://artquemy.com/artists/daniele-verzini/",
@@ -2937,7 +3021,7 @@
         "url": "https://artquemy.com/producto/addicted-8-2/"
       }
     },
-    "ultima_comprobacion": "22/09/2026 20:22"
+    "ultima_comprobacion": "23/09/2026 04:34"
   },
   "Droste Delacroix": {
     "url": "https://artquemy.com/artists/droste-de-la-croix/",
@@ -2979,7 +3063,7 @@
         "url": "https://artquemy.com/producto/crisis-magica-oro-viejo/"
       }
     },
-    "ultima_comprobacion": "22/09/2026 20:22"
+    "ultima_comprobacion": "23/09/2026 04:34"
   },
   "Elina Cerla": {
     "url": "https://artquemy.com/artists/elina-cerla/",
@@ -3126,7 +3210,7 @@
         "url": "https://artquemy.com/producto/see-no-evil/"
       }
     },
-    "ultima_comprobacion": "22/09/2026 20:22"
+    "ultima_comprobacion": "23/09/2026 04:35"
   },
   "El Xupet Negre": {
     "url": "https://artquemy.com/artists/el-xupet-negre/",
@@ -3553,7 +3637,7 @@
         "url": "https://artquemy.com/producto/pink-logo-t-shirt/"
       }
     },
-    "ultima_comprobacion": "22/09/2026 20:22"
+    "ultima_comprobacion": "23/09/2026 04:35"
   },
   "Evamik": {
     "url": "https://artquemy.com/artists/evamik/",
@@ -3658,7 +3742,7 @@
         "url": "https://artquemy.com/producto/work-come/"
       }
     },
-    "ultima_comprobacion": "22/09/2026 20:23"
+    "ultima_comprobacion": "23/09/2026 04:35"
   },
   "Erwtje": {
     "url": "https://artquemy.com/artists/erwtje/",
@@ -4029,7 +4113,7 @@
         "url": "https://artquemy.com/producto/t-shirt/"
       }
     },
-    "ultima_comprobacion": "22/09/2026 20:23"
+    "ultima_comprobacion": "23/09/2026 04:35"
   },
   "Irannis Mejias": {
     "url": "https://artquemy.com/artists/irannis/",
@@ -4099,7 +4183,7 @@
         "url": "https://artquemy.com/producto/lo-divino-en-lo-cotidiano/"
       }
     },
-    "ultima_comprobacion": "22/09/2026 20:23"
+    "ultima_comprobacion": "23/09/2026 04:36"
   },
   "Jamso": {
     "url": "https://artquemy.com/artists/jamso/",
