@@ -12161,5 +12161,3623 @@
         "url": "https://artquemy.com/producto/dea/"
       }
     ]
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Haciendo espacio",
+    "artista": "Rocío Iannone",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/haciendo-espacio/",
+    "fecha": "23/09/2026 18:37"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Autorretrato",
+    "artista": "Rocío Iannone",
+    "precio": "€650,00",
+    "precio_num": 650.0,
+    "url": "https://artquemy.com/producto/autorretrato/",
+    "fecha": "23/09/2026 18:37"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "¿Tanto cuesta dar el salto?",
+    "artista": "Rocío Iannone",
+    "precio": "€600,00",
+    "precio_num": 600.0,
+    "url": "https://artquemy.com/producto/tanto-cuesta-dar-el-salto/",
+    "fecha": "23/09/2026 18:37"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Sobre las afecciones",
+    "artista": "Rocío Iannone",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/sobre-las-afecciones/",
+    "fecha": "23/09/2026 18:37"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "La negación",
+    "artista": "Rocío Iannone",
+    "precio": "€180,00",
+    "precio_num": 180.0,
+    "url": "https://artquemy.com/producto/la-negacion/",
+    "fecha": "23/09/2026 18:37"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Toda la fuerza que llevo en el pecho",
+    "artista": "Rocío Iannone",
+    "precio": "€180,00",
+    "precio_num": 180.0,
+    "url": "https://artquemy.com/producto/toda-la-fuerza-que-llevo-en-el-pecho/",
+    "fecha": "23/09/2026 18:37"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "El Salto",
+    "artista": "Rocío Iannone",
+    "precio": "€180,00",
+    "precio_num": 180.0,
+    "url": "https://artquemy.com/producto/el-salto/",
+    "fecha": "23/09/2026 18:37"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Gracias tus manos",
+    "artista": "Rocío Iannone",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/gracias-tus-manos/",
+    "fecha": "23/09/2026 18:37"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Ni siquiera el pasado se va a quedar quieto",
+    "artista": "Rocío Iannone",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/ni-siquiera/",
+    "fecha": "23/09/2026 18:37"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Agosto",
+    "artista": "Rocío Iannone",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/agosto/",
+    "fecha": "23/09/2026 18:37"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Entre el afuera y mi cuerpo",
+    "artista": "Rocío Iannone",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/entre-el-afuera-y-mi-cuerpo/",
+    "fecha": "23/09/2026 18:37"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "El descanso",
+    "artista": "Rocío Iannone",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/el-descanso/",
+    "fecha": "23/09/2026 18:37"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Salir del borde",
+    "artista": "Rocío Iannone",
+    "precio": "€139,00",
+    "precio_num": 139.0,
+    "url": "https://artquemy.com/producto/salir-del-borde/",
+    "fecha": "23/09/2026 18:37"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "El límite está en mis manos",
+    "artista": "Rocío Iannone",
+    "precio": "€119,00",
+    "precio_num": 119.0,
+    "url": "https://artquemy.com/producto/el-limite-esta-en-mis-manos/",
+    "fecha": "23/09/2026 18:37"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Dejarse afectar",
+    "artista": "Rocío Iannone",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/dejarse-afectar/",
+    "fecha": "23/09/2026 18:37"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Las malas",
+    "artista": "Rocío Iannone",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/las-malas/",
+    "fecha": "23/09/2026 18:37"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "La danza",
+    "artista": "Rocío Iannone",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/la-danza/",
+    "fecha": "23/09/2026 18:37"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Movimientos",
+    "artista": "Rocío Iannone",
+    "precio": "€110,00",
+    "precio_num": 110.0,
+    "url": "https://artquemy.com/producto/movimientos/",
+    "fecha": "23/09/2026 18:37"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Me muevo para construir mi identidad",
+    "artista": "Rocío Iannone",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/me-muevo-para-construir-mi-identidad/",
+    "fecha": "23/09/2026 18:37"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Abrazando a la espera",
+    "artista": "Rocío Iannone",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/abrazando-a-la-espera/",
+    "fecha": "23/09/2026 18:37"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Moverse con alegría nos puede ayudar a luchar",
+    "artista": "Rocío Iannone",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/moverse-con-alegria-nos-puede-ayudar-a-luchar/",
+    "fecha": "23/09/2026 18:37"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "¿Cómo se contempla una desgracia?",
+    "artista": "Rocío Iannone",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/como-se-contempla-una-desgracia/",
+    "fecha": "23/09/2026 18:37"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Okay",
+    "artista": "Soy feo pero te amo",
+    "precio": "€1.500,00",
+    "precio_num": 1500.0,
+    "url": "https://artquemy.com/producto/okay/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Con tal que te quedes",
+    "artista": "Soy feo pero te amo",
+    "precio": "€1.500,00",
+    "precio_num": 1500.0,
+    "url": "https://artquemy.com/producto/con-tal-que-te-quedes/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Monoblock",
+    "artista": "Soy feo pero te amo",
+    "precio": "€1.350,00",
+    "precio_num": 1350.0,
+    "url": "https://artquemy.com/producto/monoblock/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Antes",
+    "artista": "Soy feo pero te amo",
+    "precio": "€1.350,00",
+    "precio_num": 1350.0,
+    "url": "https://artquemy.com/producto/antes/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Cajas y cajas",
+    "artista": "Soy feo pero te amo",
+    "precio": "€1.350,00",
+    "precio_num": 1350.0,
+    "url": "https://artquemy.com/producto/cajas-y-cajas/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "La clásica",
+    "artista": "Soy feo pero te amo",
+    "precio": "€1.350,00",
+    "precio_num": 1350.0,
+    "url": "https://artquemy.com/producto/la-clasica/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Por el honor",
+    "artista": "Soy feo pero te amo",
+    "precio": "€1.350,00",
+    "precio_num": 1350.0,
+    "url": "https://artquemy.com/producto/por-el-honor/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Recuerdos",
+    "artista": "Soy feo pero te amo",
+    "precio": "€1.350,00",
+    "precio_num": 1350.0,
+    "url": "https://artquemy.com/producto/recuerdos/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Memento Mori",
+    "artista": "Soy feo pero te amo",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/memento-mori/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "How long?",
+    "artista": "Soy feo pero te amo",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/how-long/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Never again",
+    "artista": "Soy feo pero te amo",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/never-again/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Grow",
+    "artista": "Soy feo pero te amo",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/grow/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Fine",
+    "artista": "Soy feo pero te amo",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/fine/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Hold you",
+    "artista": "Soy feo pero te amo",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/hold-you/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Wait right here",
+    "artista": "Soy feo pero te amo",
+    "precio": "€400,00",
+    "precio_num": 400.0,
+    "url": "https://artquemy.com/producto/wait-right-here/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Así corazón",
+    "artista": "Soy feo pero te amo",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/asi-corazon/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Call mom",
+    "artista": "Soy feo pero te amo",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/call-mom/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Burn",
+    "artista": "Soy feo pero te amo",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/burn/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Conmigo aca",
+    "artista": "Soy feo pero te amo",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/conmigo-aca/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Home with you",
+    "artista": "Soy feo pero te amo",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/home-with-you/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Me olvidé",
+    "artista": "Soy feo pero te amo",
+    "precio": "€250,00",
+    "precio_num": 250.0,
+    "url": "https://artquemy.com/producto/me-olvide/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Errores",
+    "artista": "Soy feo pero te amo",
+    "precio": "€250,00",
+    "precio_num": 250.0,
+    "url": "https://artquemy.com/producto/errores/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Estoy bien",
+    "artista": "Soy feo pero te amo",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/estar/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Sentir",
+    "artista": "Soy feo pero te amo",
+    "precio": "€250,00",
+    "precio_num": 250.0,
+    "url": "https://artquemy.com/producto/sentir/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Cada vez",
+    "artista": "Soy feo pero te amo",
+    "precio": "€250,00",
+    "precio_num": 250.0,
+    "url": "https://artquemy.com/producto/cada-vez/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Wish you were here",
+    "artista": "Soy feo pero te amo",
+    "precio": "€30,00",
+    "precio_num": 30.0,
+    "url": "https://artquemy.com/producto/wish-you-were-here/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Pensé que ibas a llamar",
+    "artista": "Soy feo pero te amo",
+    "precio": "€30,00",
+    "precio_num": 30.0,
+    "url": "https://artquemy.com/producto/pense-que-ibas-a-llamar/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Counting petals",
+    "artista": "Soy feo pero te amo",
+    "precio": "€30,00",
+    "precio_num": 30.0,
+    "url": "https://artquemy.com/producto/loves-me-loves-me-not-2/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "How far?",
+    "artista": "Soy feo pero te amo",
+    "precio": "€30,00",
+    "precio_num": 30.0,
+    "url": "https://artquemy.com/producto/how-far-do-you-want-to-go/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "A veces me encuentro perdiéndome",
+    "artista": "Soy feo pero te amo",
+    "precio": "€30,00",
+    "precio_num": 30.0,
+    "url": "https://artquemy.com/producto/a-veces-me-encuentro-perdiendome/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Cuándo vivo?",
+    "artista": "Soy feo pero te amo",
+    "precio": "€30,00",
+    "precio_num": 30.0,
+    "url": "https://artquemy.com/producto/cuando-vivo/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Up above the clouds",
+    "artista": "Soy feo pero te amo",
+    "precio": "€30,00",
+    "precio_num": 30.0,
+    "url": "https://artquemy.com/producto/up-above-the-clouds/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Do you have a destination?",
+    "artista": "Soy feo pero te amo",
+    "precio": "€30,00",
+    "precio_num": 30.0,
+    "url": "https://artquemy.com/producto/do-you-have-a-destination/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "A veces bien a veces mal",
+    "artista": "Soy feo pero te amo",
+    "precio": "€30,00",
+    "precio_num": 30.0,
+    "url": "https://artquemy.com/producto/what-would-jesus-do/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Why do you need me?",
+    "artista": "Soy feo pero te amo",
+    "precio": "€30,00",
+    "precio_num": 30.0,
+    "url": "https://artquemy.com/producto/why-do-you-need-me/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Decisiones",
+    "artista": "Soy feo pero te amo",
+    "precio": "€30,00",
+    "precio_num": 30.0,
+    "url": "https://artquemy.com/producto/decisiones/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Together",
+    "artista": "Soy feo pero te amo",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/together/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Jorge",
+    "artista": "Surfia",
+    "precio": "€50,00",
+    "precio_num": 50.0,
+    "url": "https://artquemy.com/producto/jorge/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "I see you falling",
+    "artista": "Surfia",
+    "precio": "€90,00",
+    "precio_num": 90.0,
+    "url": "https://artquemy.com/producto/i-see-you-falling/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Salut!",
+    "artista": "Surfia",
+    "precio": "€60,00",
+    "precio_num": 60.0,
+    "url": "https://artquemy.com/producto/salut-3/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Salut!",
+    "artista": "Surfia",
+    "precio": "€60,00",
+    "precio_num": 60.0,
+    "url": "https://artquemy.com/producto/salut-2/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Salut!",
+    "artista": "Surfia",
+    "precio": "€60,00",
+    "precio_num": 60.0,
+    "url": "https://artquemy.com/producto/salut/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Retrato",
+    "artista": "Surfia",
+    "precio": "€90,00",
+    "precio_num": 90.0,
+    "url": "https://artquemy.com/producto/retrato/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Sonrisa falsa",
+    "artista": "Surfia",
+    "precio": "€90,00",
+    "precio_num": 90.0,
+    "url": "https://artquemy.com/producto/sonrisa-falsa/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Calle Joaquín Costa",
+    "artista": "Surfia",
+    "precio": "€30,00",
+    "precio_num": 30.0,
+    "url": "https://artquemy.com/producto/calle-joaquin-costa/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "A friend from far East",
+    "artista": "Surfia",
+    "precio": "€30,00",
+    "precio_num": 30.0,
+    "url": "https://artquemy.com/producto/a-friend-from-far-east/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Space Jam",
+    "artista": "Surfia",
+    "precio": "€70,00",
+    "precio_num": 70.0,
+    "url": "https://artquemy.com/producto/space-jam-2/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Space Jam",
+    "artista": "Surfia",
+    "precio": "€30,00",
+    "precio_num": 30.0,
+    "url": "https://artquemy.com/producto/space-jam/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Tomando Vermú",
+    "artista": "Surfia",
+    "precio": "€70,00",
+    "precio_num": 70.0,
+    "url": "https://artquemy.com/producto/tomando-vermu-2/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Tomando Vermú",
+    "artista": "Surfia",
+    "precio": "€30,00",
+    "precio_num": 30.0,
+    "url": "https://artquemy.com/producto/tomando-vermu/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Skull",
+    "artista": "Surfia",
+    "precio": "€250,00",
+    "precio_num": 250.0,
+    "url": "https://artquemy.com/producto/skull/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Carnaval de Miedo",
+    "artista": "Surfia",
+    "precio": "€250,00",
+    "precio_num": 250.0,
+    "url": "https://artquemy.com/producto/carnaval-de-miedo/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Autentico Decadente",
+    "artista": "Surfia",
+    "precio": "€550,00",
+    "precio_num": 550.0,
+    "url": "https://artquemy.com/producto/autentico-decadente/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Original Sound",
+    "artista": "Surfia",
+    "precio": "€300,00",
+    "precio_num": 300.0,
+    "url": "https://artquemy.com/producto/original-sound/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Reflexiones",
+    "artista": "Surfia",
+    "precio": "€30,00",
+    "precio_num": 30.0,
+    "url": "https://artquemy.com/producto/reflexiones/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Rasta",
+    "artista": "Surfia",
+    "precio": "€30,00",
+    "precio_num": 30.0,
+    "url": "https://artquemy.com/producto/rasta/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Ya no confío en ti / Кого ты лечишь?",
+    "artista": "Surfia",
+    "precio": "€30,00",
+    "precio_num": 30.0,
+    "url": "https://artquemy.com/producto/ya-no-confio-en-ti-%d0%ba%d0%be%d0%b3%d0%be-%d1%82%d1%8b-%d0%bb%d0%b5%d1%87%d0%b8%d1%88%d1%8c/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Desconocido",
+    "artista": "Surfia",
+    "precio": "€30,00",
+    "precio_num": 30.0,
+    "url": "https://artquemy.com/producto/desconocido/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Chrome I",
+    "artista": "Surfia",
+    "precio": "€30,00",
+    "precio_num": 30.0,
+    "url": "https://artquemy.com/producto/chrome-i/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Feeling sensations you thought were dead",
+    "artista": "Surfia",
+    "precio": "€30,00",
+    "precio_num": 30.0,
+    "url": "https://artquemy.com/producto/feeling-sensations-you-though-were-dead/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Deal with pain",
+    "artista": "Surfia",
+    "precio": "€30,00",
+    "precio_num": 30.0,
+    "url": "https://artquemy.com/producto/deal-with-pain/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Skeleton Mermaid",
+    "artista": "Surfia",
+    "precio": "€30,00",
+    "precio_num": 30.0,
+    "url": "https://artquemy.com/producto/skeleton-mermaid/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "I’m high next to you",
+    "artista": "Surfia",
+    "precio": "€30,00",
+    "precio_num": 30.0,
+    "url": "https://artquemy.com/producto/im-high-next-to-you/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Skeleton Surfer",
+    "artista": "Surfia",
+    "precio": "€30,00",
+    "precio_num": 30.0,
+    "url": "https://artquemy.com/producto/skeleton-surfer/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Melted Girl",
+    "artista": "Surfia",
+    "precio": "€30,00",
+    "precio_num": 30.0,
+    "url": "https://artquemy.com/producto/melted-girl/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "I have got mad methods delivering my flow",
+    "artista": "Surfia",
+    "precio": "€30,00",
+    "precio_num": 30.0,
+    "url": "https://artquemy.com/producto/i-have-got-mad-methods-delivering-my-flow/",
+    "fecha": "23/09/2026 18:38"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Not so Tiny",
+    "artista": "Tiny",
+    "precio": "€2.500,00",
+    "precio_num": 2500.0,
+    "url": "https://artquemy.com/producto/not-so-tiny/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "I spy",
+    "artista": "Tiny",
+    "precio": "€1.700,00",
+    "precio_num": 1700.0,
+    "url": "https://artquemy.com/producto/i-spy/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Summer Loving",
+    "artista": "Tiny",
+    "precio": "€1.200,00",
+    "precio_num": 1200.0,
+    "url": "https://artquemy.com/producto/summer-loving/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Tags",
+    "artista": "Tiny",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/tags/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Self Love",
+    "artista": "Tiny",
+    "precio": "€1.200,00",
+    "precio_num": 1200.0,
+    "url": "https://artquemy.com/producto/self-love/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Grounded",
+    "artista": "Tiny",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/grounded/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Time for Reflection",
+    "artista": "Tiny",
+    "precio": "€1.200,00",
+    "precio_num": 1200.0,
+    "url": "https://artquemy.com/producto/time-for-reflection/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Takeover",
+    "artista": "Tiny",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/takeover/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Tiny callejera",
+    "artista": "Tiny",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/tiny-callejera/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "The Ballerina",
+    "artista": "Tiny",
+    "precio": "€950,00",
+    "precio_num": 950.0,
+    "url": "https://artquemy.com/producto/the-ballerina/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Stop, you’re making me blush",
+    "artista": "Tiny",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/stop-youre-making-me-blush-2/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Street Life",
+    "artista": "Tiny",
+    "precio": "€750,00",
+    "precio_num": 750.0,
+    "url": "https://artquemy.com/producto/street-life/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Here Come the Girls",
+    "artista": "Tiny",
+    "precio": "€750,00",
+    "precio_num": 750.0,
+    "url": "https://artquemy.com/producto/here-come-the-girls/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Head in the clouds, eye on the prize",
+    "artista": "Tiny",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/head-in-the-clouds-eye-on-the-prize/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Sunflowers for Tiny",
+    "artista": "Tiny",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/sunflowers-for-tiny/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Badass Tiny",
+    "artista": "Tiny",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/badass-tiny/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Free hugs",
+    "artista": "Tiny",
+    "precio": "€510,00",
+    "precio_num": 510.0,
+    "url": "https://artquemy.com/producto/free-hugs-2/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Creep",
+    "artista": "Tiny",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/creep/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Tiny Flower",
+    "artista": "Tiny",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/tiny-flower/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Son of a Beach",
+    "artista": "Tiny",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/son-of-a-beach/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Die, Cry, Hate",
+    "artista": "Tiny",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/die-cry-hate/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Zen AF",
+    "artista": "Tiny",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/stop-youre-making-me-blush-copy/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Hotheaded",
+    "artista": "Tiny",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/hotheaded/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Electrifying",
+    "artista": "Tiny",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/electrifying/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Graffiti girl",
+    "artista": "Tiny",
+    "precio": "€280,00",
+    "precio_num": 280.0,
+    "url": "https://artquemy.com/producto/graffiti-girl/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Flash",
+    "artista": "Tiny",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/flash-2/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Piss Off",
+    "artista": "Tiny",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/piss-off-2/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Natural Habitat",
+    "artista": "Tiny",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/natural-habitat/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Don’t be a dick",
+    "artista": "Tiny",
+    "precio": "€190,00",
+    "precio_num": 190.0,
+    "url": "https://artquemy.com/producto/dont-be-a-dick/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "BLAH!",
+    "artista": "Tiny",
+    "precio": "€190,00",
+    "precio_num": 190.0,
+    "url": "https://artquemy.com/producto/blah/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Kindly, go FUCK yourself",
+    "artista": "Tiny",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/kindly-go-fuck-yourself/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Cheer up, love",
+    "artista": "Tiny",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/cheer-up-love/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Piss off Frisbee",
+    "artista": "Tiny",
+    "precio": "€160,00",
+    "precio_num": 160.0,
+    "url": "https://artquemy.com/producto/piss-off-frisbee/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Shut it out",
+    "artista": "Tiny",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/shut-it-out/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "In the Barrio",
+    "artista": "Tiny",
+    "precio": "€150,00",
+    "precio_num": 150.0,
+    "url": "https://artquemy.com/producto/written-in-the-sand/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Toy",
+    "artista": "Tiny",
+    "precio": "€150,00",
+    "precio_num": 150.0,
+    "url": "https://artquemy.com/producto/in-the-barrio/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Written in the Sand",
+    "artista": "Tiny",
+    "precio": "€150,00",
+    "precio_num": 150.0,
+    "url": "https://artquemy.com/producto/toy/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "She’s a Star",
+    "artista": "Tiny",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/shes-a-star/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Not Bothered",
+    "artista": "Tiny",
+    "precio": "€150,00",
+    "precio_num": 150.0,
+    "url": "https://artquemy.com/producto/not-bothered/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Do It",
+    "artista": "Tiny",
+    "precio": "€150,00",
+    "precio_num": 150.0,
+    "url": "https://artquemy.com/producto/do-it/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Keep Out",
+    "artista": "Tiny",
+    "precio": "€150,00",
+    "precio_num": 150.0,
+    "url": "https://artquemy.com/producto/keep-out/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Holely Shit",
+    "artista": "Tiny",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/holely-shit/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Googles",
+    "artista": "Tiny",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/googles-2/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Victory",
+    "artista": "Tiny",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/victory/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Smile",
+    "artista": "Tiny",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/smile-2/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "F*** you",
+    "artista": "Tiny",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/fck-you/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Queen",
+    "artista": "Tiny",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/queen/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Tongue",
+    "artista": "Tiny",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/tongue-2/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Disc Licker",
+    "artista": "Tiny",
+    "precio": "€140,00",
+    "precio_num": 140.0,
+    "url": "https://artquemy.com/producto/disc-licker/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "On cloud Nine",
+    "artista": "Tiny",
+    "precio": "€140,00",
+    "precio_num": 140.0,
+    "url": "https://artquemy.com/producto/on-cloud-nine/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Next in Line",
+    "artista": "Tiny",
+    "precio": "€140,00",
+    "precio_num": 140.0,
+    "url": "https://artquemy.com/producto/next-in-line/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Peace or whatever",
+    "artista": "Tiny",
+    "precio": "€140,00",
+    "precio_num": 140.0,
+    "url": "https://artquemy.com/producto/peace-or-whatever/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "We listen, and we do judge",
+    "artista": "Tiny",
+    "precio": "€140,00",
+    "precio_num": 140.0,
+    "url": "https://artquemy.com/producto/we-listen-and-we-do-judge/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Seeing clearly",
+    "artista": "Tiny",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/seeing-clearly/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "From Tiny, with love",
+    "artista": "Tiny",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/from-tiny-with-love/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Peace, B**ches",
+    "artista": "Tiny",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/kindly-f-you/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "How about, I do what I want",
+    "artista": "Tiny",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/how-about-i-do-what-i-want/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "I don’t know",
+    "artista": "Tiny",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/i-dont-know/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Emotional support",
+    "artista": "Tiny",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/emotional-support/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Fresh as a daisy",
+    "artista": "Tiny",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/fresh-as-a-daisy/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Love Heart",
+    "artista": "Tiny",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/love-heart/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Funny shape",
+    "artista": "Tiny",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/funny-shape/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "I don’t know blue",
+    "artista": "Tiny",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/i-dont-know-blue/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "I don’t know yellow",
+    "artista": "Tiny",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/i-dont-know-yellow/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Ignorance is bliss",
+    "artista": "Tiny",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/ignorance-is-bliss/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Piss Off",
+    "artista": "Tiny",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/piss-off/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Big Cans",
+    "artista": "Tiny",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/big-cans/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Rose Tinted",
+    "artista": "Tiny",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/rose-tinted/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Mood",
+    "artista": "Tiny",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/mood/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Shot through the heart",
+    "artista": "Tiny",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/shot-through-the-heart/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Peek",
+    "artista": "Tiny",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/peek/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Pouty",
+    "artista": "Tiny",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/pouty/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Peace B**ches",
+    "artista": "Tiny",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/peace-bches/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Cold as ice",
+    "artista": "Tiny",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/cold-as-ice/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Background flowers",
+    "artista": "Tiny",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/background-flowers/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Loves me, loves me not",
+    "artista": "Tiny",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/loves-me-loves-me-not/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Moody",
+    "artista": "Tiny",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/moody/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Fat lines",
+    "artista": "Tiny",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/fat-lines/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Liberation",
+    "artista": "Tiny",
+    "precio": "€70,00",
+    "precio_num": 70.0,
+    "url": "https://artquemy.com/producto/liberation-2/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Trash cans",
+    "artista": "Tiny",
+    "precio": "€40,00",
+    "precio_num": 40.0,
+    "url": "https://artquemy.com/producto/trash-cans/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Tabacs",
+    "artista": "Tiny",
+    "precio": "€40,00",
+    "precio_num": 40.0,
+    "url": "https://artquemy.com/producto/tabacs/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Stop, you’re making me blush",
+    "artista": "Tiny",
+    "precio": "€40,00",
+    "precio_num": 40.0,
+    "url": "https://artquemy.com/producto/stop-youre-making-me-blush/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Peek",
+    "artista": "Tiny",
+    "precio": "€40,00",
+    "precio_num": 40.0,
+    "url": "https://artquemy.com/producto/peek-2/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Flash",
+    "artista": "Tiny",
+    "precio": "€40,00",
+    "precio_num": 40.0,
+    "url": "https://artquemy.com/producto/flash/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Liberation",
+    "artista": "Tiny",
+    "precio": "€40,00",
+    "precio_num": 40.0,
+    "url": "https://artquemy.com/producto/liberation/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Balcony",
+    "artista": "Tiny",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/balcony/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Welcome to my world",
+    "artista": "Urban Flowers",
+    "precio": "€1.950,00",
+    "precio_num": 1950.0,
+    "url": "https://artquemy.com/producto/welcome-to-my-world/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Flores enlatadas",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/flores-enlatadas/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Come and look inside",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/come-and-look-inside/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Ups… Te falta magenta !",
+    "artista": "Urban Flowers",
+    "precio": "€1.600,00",
+    "precio_num": 1600.0,
+    "url": "https://artquemy.com/producto/ups-te-falta-magenta/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Evolución",
+    "artista": "Urban Flowers",
+    "precio": "€1.600,00",
+    "precio_num": 1600.0,
+    "url": "https://artquemy.com/producto/evolucion/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Sorry not sorry",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/sorry-not-sorry/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "El pueblito",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/el-pueblito/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Propera parada: Arc de triomf",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/propera-parada-arc-de-triomf/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Magnetic Kraken",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/magnetic-kraken/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Flower power",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/flower-power/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Between bees and flowers",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/between-bees-and-flowers/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Stoned flowers",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/stoned-flowers/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "T-casual",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/t-casual/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Malecón – Urban Flowers",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/malecon-urban-flowers/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Malecón – Astro",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/malecon-astro/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Malecón – Pulpo",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/malecon-pulpo/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Leaf",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/urban-flowers-leaf/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Grumpy flower",
+    "artista": "Urban Flowers",
+    "precio": "€550,00",
+    "precio_num": 550.0,
+    "url": "https://artquemy.com/producto/grumpy-flower/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Tongue",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/tongue/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Patinetera",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/patinetera/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Flower bouquet",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/flower-bouquet/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "El recreo",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/el-recreo/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Free Hugs",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/free-hugs/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Moms’ Flowers",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/moms-flowers/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Tiny Flower",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/tiny-flower/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Flower Ice cream",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/flower-ice-cream/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Entre Tentáculos y Flores",
+    "artista": "Urban Flowers",
+    "precio": "€350,00",
+    "precio_num": 350.0,
+    "url": "https://artquemy.com/producto/entre-tentaculos-y-flores/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Rainbow Flower",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/rainbow-flower/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Beso con lengua",
+    "artista": "Urban Flowers",
+    "precio": "€350,00",
+    "precio_num": 350.0,
+    "url": "https://artquemy.com/producto/beso-con-lengua/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Descarga",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/descarga/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Familia sagrada",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/familia-sagrada/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Brilli brilli",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/brilli-brilli/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Brillando con luz propia",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/brillando-con-luz-propia/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Smile",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/smile-3/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "El gato con flores",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/el-gato-con-flores/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Flores galácticas",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/flores-galacticas/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Uvita loquita",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/uvita-loquita/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Pink and blue",
+    "artista": "Urban Flowers",
+    "precio": "€300,00",
+    "precio_num": 300.0,
+    "url": "https://artquemy.com/producto/urban-flowers-wood/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Lila",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/urban-flowers-lila/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Lilarada",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/lilarada/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Indoors Pink",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/urban-flowers-wood-pink/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Amaricurry",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/amaricurry/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Roserica",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/roserica/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Autocad",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/autocad/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Flor lila",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/flor-lila/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Flor púrpura",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/flor-purpura/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Flor rosa",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/flor/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Bearthday",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/bearthday/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Tabla 10",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/tabla-10/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Tabla 11",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/tabla-9/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Free Hugs Spray Can",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/free-hugs-spray-can/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Flower meeting",
+    "artista": "Urban Flowers",
+    "precio": "€190,00",
+    "precio_num": 190.0,
+    "url": "https://artquemy.com/producto/flower-meeting/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Out of the pipe",
+    "artista": "Urban Flowers",
+    "precio": "€190,00",
+    "precio_num": 190.0,
+    "url": "https://artquemy.com/producto/out-of-the-pipe/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Wait ! The heart",
+    "artista": "Urban Flowers",
+    "precio": "€190,00",
+    "precio_num": 190.0,
+    "url": "https://artquemy.com/producto/wait-the-heart/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Carrer de l’Argenteria",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/carrer-de-largenteria/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Pintando flores",
+    "artista": "Urban Flowers",
+    "precio": "€180,00",
+    "precio_num": 180.0,
+    "url": "https://artquemy.com/producto/pintando-flores/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Hey! Gracias",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/hey-gracias-2/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Astro en la Catedral",
+    "artista": "Urban Flowers",
+    "precio": "€180,00",
+    "precio_num": 180.0,
+    "url": "https://artquemy.com/producto/astro-en-la-catedral-2/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Astro en el born",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/astro-en-el-born-2/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Astro en Arco del triunfo",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/astro-en-arco-del-triunfo-2/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Astro Skater",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/astro-skater-2/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Tabla 9",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/tabla-9-2/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Tabla 12",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/tabla-12/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Tabla 6",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/tabla-6/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Purple Garden I",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/purple-garden-i/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Blue Flower Spray Can",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/blue-flower-spray-can/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Urban Flowers Spray Can",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/urban-flowers-spray-can/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Calavera",
+    "artista": "Urban Flowers",
+    "precio": "€120,00",
+    "precio_num": 120.0,
+    "url": "https://artquemy.com/producto/calavera-2/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Root heads 1",
+    "artista": "Urban Flowers",
+    "precio": "€120,00",
+    "precio_num": 120.0,
+    "url": "https://artquemy.com/producto/root-heads-1-2/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Tabla 8",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/tabla-8/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Tabla 7",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/tabla-7/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Tabla 5",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/tabla-5/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Tabla 4",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/tabla-4/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Tabla 3",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/tabla-3/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Tabla 2",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/tabla-2/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Tabla 1",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/tabla-1/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Carrer de l’Argenteria",
+    "artista": "Urban Flowers",
+    "precio": "€70,00",
+    "precio_num": 70.0,
+    "url": "https://artquemy.com/producto/carrer-de-largenteria-3/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Pintando flores",
+    "artista": "Urban Flowers",
+    "precio": "€70,00",
+    "precio_num": 70.0,
+    "url": "https://artquemy.com/producto/pintando-flores-3/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Flores Entretiempo",
+    "artista": "Urban Flowers",
+    "precio": "€70,00",
+    "precio_num": 70.0,
+    "url": "https://artquemy.com/producto/blooming-flowers/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "OG Flower",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/og-flower/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Urban Flowers",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/urban-flowers/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Root heads 1",
+    "artista": "Urban Flowers",
+    "precio": "€70,00",
+    "precio_num": 70.0,
+    "url": "https://artquemy.com/producto/root-heads-1/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Calavera",
+    "artista": "Urban Flowers",
+    "precio": "€70,00",
+    "precio_num": 70.0,
+    "url": "https://artquemy.com/producto/calavera/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Astro in BCN 2",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/astro-in-bcn-2/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Astro Arco del Triunfo",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/astro-arco-del-triunfo/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Astro in Arco del Triunfo",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/astro-in-arco-del-triunfo/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Mini flower",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/mini-flower/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Mood Runner",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/mood-runner/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Casa Burés",
+    "artista": "Urban Flowers",
+    "precio": "€40,00",
+    "precio_num": 40.0,
+    "url": "https://artquemy.com/producto/casa-bures/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Carrer de l’Argenteria",
+    "artista": "Urban Flowers",
+    "precio": "€40,00",
+    "precio_num": 40.0,
+    "url": "https://artquemy.com/producto/carrer-de-largenteria-2/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Pintando flores",
+    "artista": "Urban Flowers",
+    "precio": "€40,00",
+    "precio_num": 40.0,
+    "url": "https://artquemy.com/producto/pintando-flores-2/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Flores Entretiempo",
+    "artista": "Urban Flowers",
+    "precio": "€40,00",
+    "precio_num": 40.0,
+    "url": "https://artquemy.com/producto/blooming-flowers-copy/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Free Hughs",
+    "artista": "Urban Flowers",
+    "precio": "€40,00",
+    "precio_num": 40.0,
+    "url": "https://artquemy.com/producto/free-hughs/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Vandal Flower",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/vandal-flower/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Hey! Gracias",
+    "artista": "Urban Flowers",
+    "precio": "€40,00",
+    "precio_num": 40.0,
+    "url": "https://artquemy.com/producto/hey-gracias/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Astro Skater",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/astro-skater/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Astro en el Born",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/astro-en-el-born/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Astro en la Catedral",
+    "artista": "Urban Flowers",
+    "precio": "€40,00",
+    "precio_num": 40.0,
+    "url": "https://artquemy.com/producto/astro-en-la-catedral/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Astro en Arco del triunfo",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/astro-en-arco-del-triunfo/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "=P – I",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/p-i-3/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": ";P – D",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/p-d-2/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "😛 – I",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/p%e2%9d%a4%ef%b8%8f-d-2/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "😛 – D",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/p-d/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": ";P – I",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/p-i-2/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "=P – I",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/p-i/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Entre nubes",
+    "artista": "Urban Flowers",
+    "precio": "€30,00",
+    "precio_num": 30.0,
+    "url": "https://artquemy.com/producto/entre-nubes/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "=P❤️ – D",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/p%e2%9d%a4%ef%b8%8f-d-3/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": ":P❤️ – D",
+    "artista": "Urban Flowers",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/p%e2%9d%a4%ef%b8%8f-d/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Root heads",
+    "artista": "Urban Flowers",
+    "precio": "€30,00",
+    "precio_num": 30.0,
+    "url": "https://artquemy.com/producto/root-heads/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Calavera",
+    "artista": "Urban Flowers",
+    "precio": "€30,00",
+    "precio_num": 30.0,
+    "url": "https://artquemy.com/producto/calavera-4/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Spray Love",
+    "artista": "Urban Flowers",
+    "precio": "€20,00",
+    "precio_num": 20.0,
+    "url": "https://artquemy.com/producto/spray-love/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "I feel like the ocean",
+    "artista": "Yilov",
+    "precio": "€900,00",
+    "precio_num": 900.0,
+    "url": "https://artquemy.com/producto/i-feel-like-the-ocean-i/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "When nothing makes sense",
+    "artista": "Yilov",
+    "precio": "€600,00",
+    "precio_num": 600.0,
+    "url": "https://artquemy.com/producto/when-nothing-makes-sense/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Juan",
+    "artista": "Yilov",
+    "precio": "€600,00",
+    "precio_num": 600.0,
+    "url": "https://artquemy.com/producto/juan/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Where did I go?",
+    "artista": "Yilov",
+    "precio": "€600,00",
+    "precio_num": 600.0,
+    "url": "https://artquemy.com/producto/what-will-i-become-copy/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "How did I get here?",
+    "artista": "Yilov",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/how-did-i-get-here/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "What will I become?",
+    "artista": "Yilov",
+    "precio": "€400,00",
+    "precio_num": 400.0,
+    "url": "https://artquemy.com/producto/what-will-i-become/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "What if it’s really that simple",
+    "artista": "Yilov",
+    "precio": "€50,00",
+    "precio_num": 50.0,
+    "url": "https://artquemy.com/producto/what-if-its-really-that-simple/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "My journal",
+    "artista": "Yilov",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/my-journal/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Life is a wave",
+    "artista": "Yilov",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/life-is-a-wave/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Without thought",
+    "artista": "Yilov",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/without-thought/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Everything changed",
+    "artista": "Yilov",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/everything-changed/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "When all else fails",
+    "artista": "Yilov",
+    "precio": "€40,00",
+    "precio_num": 40.0,
+    "url": "https://artquemy.com/producto/when-all-else-fails/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Tortugüita",
+    "artista": "Yilov",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/tortuguita/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Free",
+    "artista": "Yilov",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/free-2/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "BARcelona",
+    "artista": "Yilov",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/barcelona/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "The Hills",
+    "artista": "Yilov",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/the-hills/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Spying",
+    "artista": "Yilov",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/spying/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "I feel like the ocean",
+    "artista": "Yilov",
+    "precio": "€30,00",
+    "precio_num": 30.0,
+    "url": "https://artquemy.com/producto/i-feel-like-the-ocean/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Where did I go?",
+    "artista": "Yilov",
+    "precio": "€30,00",
+    "precio_num": 30.0,
+    "url": "https://artquemy.com/producto/where-did-i-go/",
+    "fecha": "23/09/2026 18:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Elliot",
+    "artista": "Various",
+    "precio": "€950,00",
+    "precio_num": 950.0,
+    "url": "https://artquemy.com/producto/elliot/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Los Ojos de Margarita",
+    "artista": "Various",
+    "precio": "€40,00",
+    "precio_num": 40.0,
+    "url": "https://artquemy.com/producto/los-ojos-de-margarita/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Yellow Magic",
+    "artista": "Various",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/yellow-magic/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Red Magic",
+    "artista": "Various",
+    "precio": "€120,00",
+    "precio_num": 120.0,
+    "url": "https://artquemy.com/producto/red-magic/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Blue Magic",
+    "artista": "Various",
+    "precio": "€120,00",
+    "precio_num": 120.0,
+    "url": "https://artquemy.com/producto/blue-magic/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Eye",
+    "artista": "Various",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/eye/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "fuchsia Madness",
+    "artista": "Various",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/fuchsia-madness/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Small devil",
+    "artista": "Various",
+    "precio": "€900,00",
+    "precio_num": 900.0,
+    "url": "https://artquemy.com/producto/small-devil/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Blue boy",
+    "artista": "Various",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/blue-boy/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Lost Pink Robot",
+    "artista": "Various",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/pink-robot/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Big devil",
+    "artista": "Various",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/big-devil/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Pájaro-Pez",
+    "artista": "Various",
+    "precio": "€1.500,00",
+    "precio_num": 1500.0,
+    "url": "https://artquemy.com/producto/pajaro-pez/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "OVNI",
+    "artista": "Various",
+    "precio": "€1.500,00",
+    "precio_num": 1500.0,
+    "url": "https://artquemy.com/producto/ovni/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Old school",
+    "artista": "Various",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/old-school/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Cadencias 2",
+    "artista": "Alessia Innocenti",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/cadencias-2/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Cadencias 1",
+    "artista": "Alessia Innocenti",
+    "precio": "€2.500,00",
+    "precio_num": 2500.0,
+    "url": "https://artquemy.com/producto/cuatro-fragmentos-ll/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Refluir para fluir",
+    "artista": "Alessia Innocenti",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/refluir-para-fluir/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Enraizar",
+    "artista": "Alessia Innocenti",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/enraizar/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Ecos 1",
+    "artista": "Alessia Innocenti",
+    "precio": "€1.700,00",
+    "precio_num": 1700.0,
+    "url": "https://artquemy.com/producto/ecos-1/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Ecos 3",
+    "artista": "Alessia Innocenti",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/ecos-3/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Ecos 2",
+    "artista": "Alessia Innocenti",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/ecos-2/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Unísono",
+    "artista": "Alessia Innocenti",
+    "precio": "€1.500,00",
+    "precio_num": 1500.0,
+    "url": "https://artquemy.com/producto/unisono/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Theronix",
+    "artista": "Alessia Innocenti",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/theronix/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Coralina",
+    "artista": "Alessia Innocenti",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/coralina/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Cuatro fragmentos II",
+    "artista": "Alessia Innocenti",
+    "precio": "€1.200,00",
+    "precio_num": 1200.0,
+    "url": "https://artquemy.com/producto/cuatro-fragmentos-ii/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Bucle 2",
+    "artista": "Alessia Innocenti",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/bucle-2/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Bucle 1",
+    "artista": "Alessia Innocenti",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/bucle-1/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Ascenso en colores",
+    "artista": "Alessia Innocenti",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/ascenso-en-colores/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Conexiones ll",
+    "artista": "Alessia Innocenti",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/conexiones-ll/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Cuatro fragmentos",
+    "artista": "Alessia Innocenti",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/cuatro-fragmentos/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Conexiones",
+    "artista": "Alessia Innocenti",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/conexiones/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Amatistas",
+    "artista": "Alessia Innocenti",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/amatistas/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Remember Rainbows",
+    "artista": "Alessia Innocenti",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/remember-rainbows/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Portal",
+    "artista": "Alessia Innocenti",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/portal/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Rainbow Flower",
+    "artista": "Alessia Innocenti",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/rainbow-flower-2/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Sin Título",
+    "artista": "Alessia Innocenti",
+    "precio": "€350,00",
+    "precio_num": 350.0,
+    "url": "https://artquemy.com/producto/sin-titulo-2/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Pulsación ll",
+    "artista": "Alessia Innocenti",
+    "precio": "€300,00",
+    "precio_num": 300.0,
+    "url": "https://artquemy.com/producto/pulsacion-ll/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Pulsación lV.2",
+    "artista": "Alessia Innocenti",
+    "precio": "€300,00",
+    "precio_num": 300.0,
+    "url": "https://artquemy.com/producto/pulsacion-lv-2/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Pulsación lV.1",
+    "artista": "Alessia Innocenti",
+    "precio": "€300,00",
+    "precio_num": 300.0,
+    "url": "https://artquemy.com/producto/pulsacion-lv-1/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Pulsación lll",
+    "artista": "Alessia Innocenti",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/pulsacion-lll/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Pulsación l",
+    "artista": "Alessia Innocenti",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/pulsacion-l/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Arpegios Florales Pastel IV",
+    "artista": "Alessia Innocenti",
+    "precio": "€245,00",
+    "precio_num": 245.0,
+    "url": "https://artquemy.com/producto/arpegios-florales-pastel-iv/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Arpegios Florales Pastel III",
+    "artista": "Alessia Innocenti",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/arpegios-florales-pastel-iii/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Arpegios Florales Pastel II",
+    "artista": "Alessia Innocenti",
+    "precio": "€245,00",
+    "precio_num": 245.0,
+    "url": "https://artquemy.com/producto/arpegios-florales-pastel-ii/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Arpegios Florales Pastel I",
+    "artista": "Alessia Innocenti",
+    "precio": "€245,00",
+    "precio_num": 245.0,
+    "url": "https://artquemy.com/producto/arpegios-florales-pastel-i/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Arpegios Pastel V",
+    "artista": "Alessia Innocenti",
+    "precio": "€245,00",
+    "precio_num": 245.0,
+    "url": "https://artquemy.com/producto/arpegios-pastel-v/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Arpegios Pastel IV",
+    "artista": "Alessia Innocenti",
+    "precio": "€245,00",
+    "precio_num": 245.0,
+    "url": "https://artquemy.com/producto/arpegios-pastel-iv/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Arpegios Pastel III",
+    "artista": "Alessia Innocenti",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/arpegios-pastel-iii/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Arpegios Pastel II",
+    "artista": "Alessia Innocenti",
+    "precio": "€245,00",
+    "precio_num": 245.0,
+    "url": "https://artquemy.com/producto/arpegios-pastel-ii/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Arpegios Pastel I",
+    "artista": "Alessia Innocenti",
+    "precio": "€245,00",
+    "precio_num": 245.0,
+    "url": "https://artquemy.com/producto/arpegios-pastel-i/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Cálido Rombos",
+    "artista": "Alessia Innocenti",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/calido-rombos/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Alessia Innocenti – Arpegios Florales 5",
+    "artista": "Alessia Innocenti",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/alessia-innocenti-arpegios-florales-5/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Alessia Innocenti – Arpegios Florales 4",
+    "artista": "Alessia Innocenti",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/alessia-innocenti-arpegios-florales-4/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Alessia Innocenti – Arpegios Florales 3",
+    "artista": "Alessia Innocenti",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/alessia-innocenti-arpegios-florales-3/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Alessia Innocenti – Arpegios Florales 2",
+    "artista": "Alessia Innocenti",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/alessia-innocenti-arpegios-florales-1-copy/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Alessia Innocenti – Arpegios Florales 1",
+    "artista": "Alessia Innocenti",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/alessia-innocenti-arpegios-florales-1/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Alessia Innocenti – Arpegios 5",
+    "artista": "Alessia Innocenti",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/alessia-innocenti-arpegios-5/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Alessia Innocenti – Arpegios 4",
+    "artista": "Alessia Innocenti",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/alessia-innocenti-arpegios-4/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Alessia Innocenti – Arpegios 3",
+    "artista": "Alessia Innocenti",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/alessia-innocenti-arpegios-3/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Alessia Innocenti – Arpegios 2",
+    "artista": "Alessia Innocenti",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/alessia-innocenti-arpegios-2/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Alessia Innocenti – Arpegios 1",
+    "artista": "Alessia Innocenti",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/alessia-innocenti-arpegios-1/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Sín Título",
+    "artista": "Alessia Innocenti",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/sin-titulo/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Blue Garden",
+    "artista": "Alessia Innocenti",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/blue-garden/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Gaiinbu",
+    "artista": "Alessia Innocenti",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/gaiinbu/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Jardín del crepúsculo",
+    "artista": "Alessia Innocenti",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/jardin-del-crepusculo/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Carnaval",
+    "artista": "Alessia Innocenti",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/carnaval/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Luz continua",
+    "artista": "Alessia Innocenti",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/luz-continua/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Pájaros en flor",
+    "artista": "Alessia Innocenti",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/pajaros-en-flor/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Floreciente",
+    "artista": "Alessia Innocenti",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/floreciente/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Sinergia",
+    "artista": "Alessia Innocenti",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/libertad-copy/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Destello",
+    "artista": "Alessia Innocenti",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/interaccion/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Libertad",
+    "artista": "Alessia Innocenti",
+    "precio": "€40,00",
+    "precio_num": 40.0,
+    "url": "https://artquemy.com/producto/libertad/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Carnaval Chino",
+    "artista": "Alessia Innocenti",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/carnaval-chino/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Vital",
+    "artista": "Alessia Innocenti",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/vital/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Interacción",
+    "artista": "Alessia Innocenti",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/interaccion-2/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Remolino",
+    "artista": "Alessia Innocenti",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/interaccion-3/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Cascada de colores",
+    "artista": "Alessia Innocenti",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/cascada-de-colores/",
+    "fecha": "23/09/2026 18:40"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Lo que sueña el cuerpo",
+    "artista": "Alessia Obinu",
+    "precio": "€900,00",
+    "precio_num": 900.0,
+    "url": "https://artquemy.com/producto/lo-que-suena-el-cuerpo/",
+    "fecha": "23/09/2026 18:41"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Almas",
+    "artista": "Alessia Obinu",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/almas/",
+    "fecha": "23/09/2026 18:41"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Cicatrización",
+    "artista": "Alessia Obinu",
+    "precio": "€240,00",
+    "precio_num": 240.0,
+    "url": "https://artquemy.com/producto/cicatrizacion/",
+    "fecha": "23/09/2026 18:41"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Sardanes",
+    "artista": "Catapop",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/sardanes/",
+    "fecha": "23/09/2026 18:41"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Carmen Amaya",
+    "artista": "Catapop",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/carmen-amaya/",
+    "fecha": "23/09/2026 18:41"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Castellers",
+    "artista": "Catapop",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/castellers/",
+    "fecha": "23/09/2026 18:41"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Pau Casals",
+    "artista": "Catapop",
+    "precio": "€3.200,00",
+    "precio_num": 3200.0,
+    "url": "https://artquemy.com/producto/pau-casals/",
+    "fecha": "23/09/2026 18:41"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Porró",
+    "artista": "Catapop",
+    "precio": "€3.200,00",
+    "precio_num": 3200.0,
+    "url": "https://artquemy.com/producto/porro/",
+    "fecha": "23/09/2026 18:41"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Barretina",
+    "artista": "Catapop",
+    "precio": "€3.200,00",
+    "precio_num": 3200.0,
+    "url": "https://artquemy.com/producto/barretina/",
+    "fecha": "23/09/2026 18:41"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Montserrat",
+    "artista": "Catapop",
+    "precio": "€3.200,00",
+    "precio_num": 3200.0,
+    "url": "https://artquemy.com/producto/montserrat/",
+    "fecha": "23/09/2026 18:41"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Ramon Llull",
+    "artista": "Catapop",
+    "precio": "€3.200,00",
+    "precio_num": 3200.0,
+    "url": "https://artquemy.com/producto/ramon-llull/",
+    "fecha": "23/09/2026 18:41"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Espardenyes",
+    "artista": "Catapop",
+    "precio": "€3.200,00",
+    "precio_num": 3200.0,
+    "url": "https://artquemy.com/producto/espardenyes/",
+    "fecha": "23/09/2026 18:41"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Mongetes amb botifarra",
+    "artista": "Catapop",
+    "precio": "€3.200,00",
+    "precio_num": 3200.0,
+    "url": "https://artquemy.com/producto/mongetes-amb-botifarra/",
+    "fecha": "23/09/2026 18:41"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Pau Casals",
+    "artista": "Catapop",
+    "precio": "€50,00",
+    "precio_num": 50.0,
+    "url": "https://artquemy.com/producto/pau-casals-2/",
+    "fecha": "23/09/2026 18:41"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Montserrat",
+    "artista": "Catapop",
+    "precio": "€50,00",
+    "precio_num": 50.0,
+    "url": "https://artquemy.com/producto/montserrat-2/",
+    "fecha": "23/09/2026 18:41"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Espardenyes",
+    "artista": "Catapop",
+    "precio": "€50,00",
+    "precio_num": 50.0,
+    "url": "https://artquemy.com/producto/espardenyes-2/",
+    "fecha": "23/09/2026 18:41"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Porró",
+    "artista": "Catapop",
+    "precio": "€50,00",
+    "precio_num": 50.0,
+    "url": "https://artquemy.com/producto/porro-2/",
+    "fecha": "23/09/2026 18:41"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Ramón Llull",
+    "artista": "Catapop",
+    "precio": "€50,00",
+    "precio_num": 50.0,
+    "url": "https://artquemy.com/producto/ramon-llull-2/",
+    "fecha": "23/09/2026 18:41"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Sardanes",
+    "artista": "Catapop",
+    "precio": "€50,00",
+    "precio_num": 50.0,
+    "url": "https://artquemy.com/producto/sardanes-2/",
+    "fecha": "23/09/2026 18:41"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Barretina",
+    "artista": "Catapop",
+    "precio": "€50,00",
+    "precio_num": 50.0,
+    "url": "https://artquemy.com/producto/barretina-2/",
+    "fecha": "23/09/2026 18:41"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Castellers",
+    "artista": "Catapop",
+    "precio": "€50,00",
+    "precio_num": 50.0,
+    "url": "https://artquemy.com/producto/castellers-2/",
+    "fecha": "23/09/2026 18:41"
   }
 ]
