@@ -722,5 +722,24 @@
         "url": "https://artquemy.com/producto/dea/"
       }
     ]
+  },
+  {
+    "tipo": "precio_cambiado",
+    "titulo": "Rurals",
+    "artista": "Món Mort",
+    "precio": "€1.500,00",
+    "precio_num": 1500.0,
+    "precio_anterior": "€900,00",
+    "url": "https://artquemy.com/producto/rurals/",
+    "fecha": "23/09/2026 00:28"
+  },
+  {
+    "tipo": "vendida",
+    "titulo": "ThE gRaND PatrRiota",
+    "artista": "Qwert",
+    "precio": "€1.250,00",
+    "precio_num": 1250.0,
+    "url": "https://artquemy.com/producto/the-grand-patrriota/",
+    "fecha": "23/09/2026 00:29"
   }
 ]
