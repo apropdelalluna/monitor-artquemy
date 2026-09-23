@@ -1,18 +1,612 @@
 {
   "Alessia Innocenti": {
-    "hash": "90befb9deaadd480857155a7fde0bf86",
-    "texto": "Loader\nEspere mientras se verifica su solicitudâ¦",
-    "obras": {}
+    "url": "https://artquemy.com/artists/alessia-innocenti/",
+    "hash": "d5d81d2fc4bc6a6dae4586d0c1289e89",
+    "obras": {
+      "https://artquemy.com/producto/cadencias-2/": {
+        "titulo": "Cadencias 2",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/cadencias-2/"
+      },
+      "https://artquemy.com/producto/cuatro-fragmentos-ll/": {
+        "titulo": "Cadencias 1",
+        "precio": "€2.500,00",
+        "precio_num": 2500.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/cuatro-fragmentos-ll/"
+      },
+      "https://artquemy.com/producto/refluir-para-fluir/": {
+        "titulo": "Refluir para fluir",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/refluir-para-fluir/"
+      },
+      "https://artquemy.com/producto/enraizar/": {
+        "titulo": "Enraizar",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/enraizar/"
+      },
+      "https://artquemy.com/producto/ecos-1/": {
+        "titulo": "Ecos 1",
+        "precio": "€1.700,00",
+        "precio_num": 1700.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/ecos-1/"
+      },
+      "https://artquemy.com/producto/ecos-3/": {
+        "titulo": "Ecos 3",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/ecos-3/"
+      },
+      "https://artquemy.com/producto/ecos-2/": {
+        "titulo": "Ecos 2",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/ecos-2/"
+      },
+      "https://artquemy.com/producto/unisono/": {
+        "titulo": "Unísono",
+        "precio": "€1.500,00",
+        "precio_num": 1500.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/unisono/"
+      },
+      "https://artquemy.com/producto/theronix/": {
+        "titulo": "Theronix",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/theronix/"
+      },
+      "https://artquemy.com/producto/coralina/": {
+        "titulo": "Coralina",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/coralina/"
+      },
+      "https://artquemy.com/producto/cuatro-fragmentos-ii/": {
+        "titulo": "Cuatro fragmentos II",
+        "precio": "€1.200,00",
+        "precio_num": 1200.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/cuatro-fragmentos-ii/"
+      },
+      "https://artquemy.com/producto/bucle-2/": {
+        "titulo": "Bucle 2",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/bucle-2/"
+      },
+      "https://artquemy.com/producto/bucle-1/": {
+        "titulo": "Bucle 1",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/bucle-1/"
+      },
+      "https://artquemy.com/producto/ascenso-en-colores/": {
+        "titulo": "Ascenso en colores",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/ascenso-en-colores/"
+      },
+      "https://artquemy.com/producto/conexiones-ll/": {
+        "titulo": "Conexiones ll",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/conexiones-ll/"
+      },
+      "https://artquemy.com/producto/cuatro-fragmentos/": {
+        "titulo": "Cuatro fragmentos",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/cuatro-fragmentos/"
+      },
+      "https://artquemy.com/producto/conexiones/": {
+        "titulo": "Conexiones",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/conexiones/"
+      },
+      "https://artquemy.com/producto/amatistas/": {
+        "titulo": "Amatistas",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/amatistas/"
+      },
+      "https://artquemy.com/producto/remember-rainbows/": {
+        "titulo": "Remember Rainbows",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/remember-rainbows/"
+      },
+      "https://artquemy.com/producto/portal/": {
+        "titulo": "Portal",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/portal/"
+      },
+      "https://artquemy.com/producto/rainbow-flower-2/": {
+        "titulo": "Rainbow Flower",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/rainbow-flower-2/"
+      },
+      "https://artquemy.com/producto/sin-titulo-2/": {
+        "titulo": "Sin Título",
+        "precio": "€350,00",
+        "precio_num": 350.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/sin-titulo-2/"
+      },
+      "https://artquemy.com/producto/pulsacion-ll/": {
+        "titulo": "Pulsación ll",
+        "precio": "€300,00",
+        "precio_num": 300.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/pulsacion-ll/"
+      },
+      "https://artquemy.com/producto/pulsacion-lv-2/": {
+        "titulo": "Pulsación lV.2",
+        "precio": "€300,00",
+        "precio_num": 300.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/pulsacion-lv-2/"
+      },
+      "https://artquemy.com/producto/pulsacion-lv-1/": {
+        "titulo": "Pulsación lV.1",
+        "precio": "€300,00",
+        "precio_num": 300.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/pulsacion-lv-1/"
+      },
+      "https://artquemy.com/producto/pulsacion-lll/": {
+        "titulo": "Pulsación lll",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/pulsacion-lll/"
+      },
+      "https://artquemy.com/producto/pulsacion-l/": {
+        "titulo": "Pulsación l",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/pulsacion-l/"
+      },
+      "https://artquemy.com/producto/arpegios-florales-pastel-iv/": {
+        "titulo": "Arpegios Florales Pastel IV",
+        "precio": "€245,00",
+        "precio_num": 245.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/arpegios-florales-pastel-iv/"
+      },
+      "https://artquemy.com/producto/arpegios-florales-pastel-iii/": {
+        "titulo": "Arpegios Florales Pastel III",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/arpegios-florales-pastel-iii/"
+      },
+      "https://artquemy.com/producto/arpegios-florales-pastel-ii/": {
+        "titulo": "Arpegios Florales Pastel II",
+        "precio": "€245,00",
+        "precio_num": 245.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/arpegios-florales-pastel-ii/"
+      },
+      "https://artquemy.com/producto/arpegios-florales-pastel-i/": {
+        "titulo": "Arpegios Florales Pastel I",
+        "precio": "€245,00",
+        "precio_num": 245.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/arpegios-florales-pastel-i/"
+      },
+      "https://artquemy.com/producto/arpegios-pastel-v/": {
+        "titulo": "Arpegios Pastel V",
+        "precio": "€245,00",
+        "precio_num": 245.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/arpegios-pastel-v/"
+      },
+      "https://artquemy.com/producto/arpegios-pastel-iv/": {
+        "titulo": "Arpegios Pastel IV",
+        "precio": "€245,00",
+        "precio_num": 245.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/arpegios-pastel-iv/"
+      },
+      "https://artquemy.com/producto/arpegios-pastel-iii/": {
+        "titulo": "Arpegios Pastel III",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/arpegios-pastel-iii/"
+      },
+      "https://artquemy.com/producto/arpegios-pastel-ii/": {
+        "titulo": "Arpegios Pastel II",
+        "precio": "€245,00",
+        "precio_num": 245.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/arpegios-pastel-ii/"
+      },
+      "https://artquemy.com/producto/arpegios-pastel-i/": {
+        "titulo": "Arpegios Pastel I",
+        "precio": "€245,00",
+        "precio_num": 245.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/arpegios-pastel-i/"
+      },
+      "https://artquemy.com/producto/calido-rombos/": {
+        "titulo": "Cálido Rombos",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/calido-rombos/"
+      },
+      "https://artquemy.com/producto/alessia-innocenti-arpegios-florales-5/": {
+        "titulo": "Alessia Innocenti – Arpegios Florales 5",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/alessia-innocenti-arpegios-florales-5/"
+      },
+      "https://artquemy.com/producto/alessia-innocenti-arpegios-florales-4/": {
+        "titulo": "Alessia Innocenti – Arpegios Florales 4",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/alessia-innocenti-arpegios-florales-4/"
+      },
+      "https://artquemy.com/producto/alessia-innocenti-arpegios-florales-3/": {
+        "titulo": "Alessia Innocenti – Arpegios Florales 3",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/alessia-innocenti-arpegios-florales-3/"
+      },
+      "https://artquemy.com/producto/alessia-innocenti-arpegios-florales-1-copy/": {
+        "titulo": "Alessia Innocenti – Arpegios Florales 2",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/alessia-innocenti-arpegios-florales-1-copy/"
+      },
+      "https://artquemy.com/producto/alessia-innocenti-arpegios-florales-1/": {
+        "titulo": "Alessia Innocenti – Arpegios Florales 1",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/alessia-innocenti-arpegios-florales-1/"
+      },
+      "https://artquemy.com/producto/alessia-innocenti-arpegios-5/": {
+        "titulo": "Alessia Innocenti – Arpegios 5",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/alessia-innocenti-arpegios-5/"
+      },
+      "https://artquemy.com/producto/alessia-innocenti-arpegios-4/": {
+        "titulo": "Alessia Innocenti – Arpegios 4",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/alessia-innocenti-arpegios-4/"
+      },
+      "https://artquemy.com/producto/alessia-innocenti-arpegios-3/": {
+        "titulo": "Alessia Innocenti – Arpegios 3",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/alessia-innocenti-arpegios-3/"
+      },
+      "https://artquemy.com/producto/alessia-innocenti-arpegios-2/": {
+        "titulo": "Alessia Innocenti – Arpegios 2",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/alessia-innocenti-arpegios-2/"
+      },
+      "https://artquemy.com/producto/alessia-innocenti-arpegios-1/": {
+        "titulo": "Alessia Innocenti – Arpegios 1",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/alessia-innocenti-arpegios-1/"
+      },
+      "https://artquemy.com/producto/sin-titulo/": {
+        "titulo": "Sín Título",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/sin-titulo/"
+      },
+      "https://artquemy.com/producto/blue-garden/": {
+        "titulo": "Blue Garden",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/blue-garden/"
+      },
+      "https://artquemy.com/producto/gaiinbu/": {
+        "titulo": "Gaiinbu",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/gaiinbu/"
+      },
+      "https://artquemy.com/producto/jardin-del-crepusculo/": {
+        "titulo": "Jardín del crepúsculo",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/jardin-del-crepusculo/"
+      },
+      "https://artquemy.com/producto/carnaval/": {
+        "titulo": "Carnaval",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/carnaval/"
+      },
+      "https://artquemy.com/producto/luz-continua/": {
+        "titulo": "Luz continua",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/luz-continua/"
+      },
+      "https://artquemy.com/producto/pajaros-en-flor/": {
+        "titulo": "Pájaros en flor",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/pajaros-en-flor/"
+      },
+      "https://artquemy.com/producto/floreciente/": {
+        "titulo": "Floreciente",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/floreciente/"
+      },
+      "https://artquemy.com/producto/libertad-copy/": {
+        "titulo": "Sinergia",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/libertad-copy/"
+      },
+      "https://artquemy.com/producto/interaccion/": {
+        "titulo": "Destello",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/interaccion/"
+      },
+      "https://artquemy.com/producto/libertad/": {
+        "titulo": "Libertad",
+        "precio": "€40,00",
+        "precio_num": 40.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/libertad/"
+      },
+      "https://artquemy.com/producto/carnaval-chino/": {
+        "titulo": "Carnaval Chino",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/carnaval-chino/"
+      },
+      "https://artquemy.com/producto/vital/": {
+        "titulo": "Vital",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/vital/"
+      },
+      "https://artquemy.com/producto/interaccion-2/": {
+        "titulo": "Interacción",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/interaccion-2/"
+      },
+      "https://artquemy.com/producto/interaccion-3/": {
+        "titulo": "Remolino",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/interaccion-3/"
+      },
+      "https://artquemy.com/producto/cascada-de-colores/": {
+        "titulo": "Cascada de colores",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/cascada-de-colores/"
+      }
+    },
+    "ultima_comprobacion": "23/09/2026 18:40"
   },
   "Alessia Obinu": {
-    "hash": "90befb9deaadd480857155a7fde0bf86",
-    "texto": "Loader\nEspere mientras se verifica su solicitudâ¦",
-    "obras": {}
+    "url": "https://artquemy.com/artists/alessia-obinu/",
+    "hash": "e79569cde32629b59dfd375617b2a610",
+    "obras": {
+      "https://artquemy.com/producto/lo-que-suena-el-cuerpo/": {
+        "titulo": "Lo que sueña el cuerpo",
+        "precio": "€900,00",
+        "precio_num": 900.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/lo-que-suena-el-cuerpo/"
+      },
+      "https://artquemy.com/producto/almas/": {
+        "titulo": "Almas",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/almas/"
+      },
+      "https://artquemy.com/producto/cicatrizacion/": {
+        "titulo": "Cicatrización",
+        "precio": "€240,00",
+        "precio_num": 240.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/cicatrizacion/"
+      }
+    },
+    "ultima_comprobacion": "23/09/2026 18:41"
   },
   "Catapop": {
-    "hash": "90befb9deaadd480857155a7fde0bf86",
-    "texto": "Loader\nEspere mientras se verifica su solicitudâ¦",
-    "obras": {}
+    "url": "https://artquemy.com/artists/catapop/",
+    "hash": "c1cc7717e5d0afccdd40dde146c0bdf2",
+    "obras": {
+      "https://artquemy.com/producto/sardanes/": {
+        "titulo": "Sardanes",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/sardanes/"
+      },
+      "https://artquemy.com/producto/carmen-amaya/": {
+        "titulo": "Carmen Amaya",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/carmen-amaya/"
+      },
+      "https://artquemy.com/producto/castellers/": {
+        "titulo": "Castellers",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/castellers/"
+      },
+      "https://artquemy.com/producto/pau-casals/": {
+        "titulo": "Pau Casals",
+        "precio": "€3.200,00",
+        "precio_num": 3200.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/pau-casals/"
+      },
+      "https://artquemy.com/producto/porro/": {
+        "titulo": "Porró",
+        "precio": "€3.200,00",
+        "precio_num": 3200.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/porro/"
+      },
+      "https://artquemy.com/producto/barretina/": {
+        "titulo": "Barretina",
+        "precio": "€3.200,00",
+        "precio_num": 3200.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/barretina/"
+      },
+      "https://artquemy.com/producto/montserrat/": {
+        "titulo": "Montserrat",
+        "precio": "€3.200,00",
+        "precio_num": 3200.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/montserrat/"
+      },
+      "https://artquemy.com/producto/ramon-llull/": {
+        "titulo": "Ramon Llull",
+        "precio": "€3.200,00",
+        "precio_num": 3200.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/ramon-llull/"
+      },
+      "https://artquemy.com/producto/espardenyes/": {
+        "titulo": "Espardenyes",
+        "precio": "€3.200,00",
+        "precio_num": 3200.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/espardenyes/"
+      },
+      "https://artquemy.com/producto/mongetes-amb-botifarra/": {
+        "titulo": "Mongetes amb botifarra",
+        "precio": "€3.200,00",
+        "precio_num": 3200.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/mongetes-amb-botifarra/"
+      },
+      "https://artquemy.com/producto/pau-casals-2/": {
+        "titulo": "Pau Casals",
+        "precio": "€50,00",
+        "precio_num": 50.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/pau-casals-2/"
+      },
+      "https://artquemy.com/producto/montserrat-2/": {
+        "titulo": "Montserrat",
+        "precio": "€50,00",
+        "precio_num": 50.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/montserrat-2/"
+      },
+      "https://artquemy.com/producto/espardenyes-2/": {
+        "titulo": "Espardenyes",
+        "precio": "€50,00",
+        "precio_num": 50.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/espardenyes-2/"
+      },
+      "https://artquemy.com/producto/porro-2/": {
+        "titulo": "Porró",
+        "precio": "€50,00",
+        "precio_num": 50.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/porro-2/"
+      },
+      "https://artquemy.com/producto/ramon-llull-2/": {
+        "titulo": "Ramón Llull",
+        "precio": "€50,00",
+        "precio_num": 50.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/ramon-llull-2/"
+      },
+      "https://artquemy.com/producto/sardanes-2/": {
+        "titulo": "Sardanes",
+        "precio": "€50,00",
+        "precio_num": 50.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/sardanes-2/"
+      },
+      "https://artquemy.com/producto/barretina-2/": {
+        "titulo": "Barretina",
+        "precio": "€50,00",
+        "precio_num": 50.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/barretina-2/"
+      },
+      "https://artquemy.com/producto/castellers-2/": {
+        "titulo": "Castellers",
+        "precio": "€50,00",
+        "precio_num": 50.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/castellers-2/"
+      }
+    },
+    "ultima_comprobacion": "23/09/2026 18:41"
   },
   "Camil Escruela": {
     "hash": "90befb9deaadd480857155a7fde0bf86",
@@ -170,39 +764,2279 @@
     "obras": {}
   },
   "Rocío Iannone": {
-    "hash": "90befb9deaadd480857155a7fde0bf86",
-    "texto": "Loader\nEspere mientras se verifica su solicitudâ¦",
-    "obras": {}
+    "url": "https://artquemy.com/artists/rocio-iannone/",
+    "hash": "ff62e9d2ea74fae45263988d54b9d172",
+    "obras": {
+      "https://artquemy.com/producto/haciendo-espacio/": {
+        "titulo": "Haciendo espacio",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/haciendo-espacio/"
+      },
+      "https://artquemy.com/producto/autorretrato/": {
+        "titulo": "Autorretrato",
+        "precio": "€650,00",
+        "precio_num": 650.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/autorretrato/"
+      },
+      "https://artquemy.com/producto/tanto-cuesta-dar-el-salto/": {
+        "titulo": "¿Tanto cuesta dar el salto?",
+        "precio": "€600,00",
+        "precio_num": 600.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/tanto-cuesta-dar-el-salto/"
+      },
+      "https://artquemy.com/producto/sobre-las-afecciones/": {
+        "titulo": "Sobre las afecciones",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/sobre-las-afecciones/"
+      },
+      "https://artquemy.com/producto/la-negacion/": {
+        "titulo": "La negación",
+        "precio": "€180,00",
+        "precio_num": 180.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/la-negacion/"
+      },
+      "https://artquemy.com/producto/toda-la-fuerza-que-llevo-en-el-pecho/": {
+        "titulo": "Toda la fuerza que llevo en el pecho",
+        "precio": "€180,00",
+        "precio_num": 180.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/toda-la-fuerza-que-llevo-en-el-pecho/"
+      },
+      "https://artquemy.com/producto/el-salto/": {
+        "titulo": "El Salto",
+        "precio": "€180,00",
+        "precio_num": 180.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/el-salto/"
+      },
+      "https://artquemy.com/producto/gracias-tus-manos/": {
+        "titulo": "Gracias tus manos",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/gracias-tus-manos/"
+      },
+      "https://artquemy.com/producto/ni-siquiera/": {
+        "titulo": "Ni siquiera el pasado se va a quedar quieto",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/ni-siquiera/"
+      },
+      "https://artquemy.com/producto/agosto/": {
+        "titulo": "Agosto",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/agosto/"
+      },
+      "https://artquemy.com/producto/entre-el-afuera-y-mi-cuerpo/": {
+        "titulo": "Entre el afuera y mi cuerpo",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/entre-el-afuera-y-mi-cuerpo/"
+      },
+      "https://artquemy.com/producto/el-descanso/": {
+        "titulo": "El descanso",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/el-descanso/"
+      },
+      "https://artquemy.com/producto/salir-del-borde/": {
+        "titulo": "Salir del borde",
+        "precio": "€139,00",
+        "precio_num": 139.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/salir-del-borde/"
+      },
+      "https://artquemy.com/producto/el-limite-esta-en-mis-manos/": {
+        "titulo": "El límite está en mis manos",
+        "precio": "€119,00",
+        "precio_num": 119.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/el-limite-esta-en-mis-manos/"
+      },
+      "https://artquemy.com/producto/dejarse-afectar/": {
+        "titulo": "Dejarse afectar",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/dejarse-afectar/"
+      },
+      "https://artquemy.com/producto/las-malas/": {
+        "titulo": "Las malas",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/las-malas/"
+      },
+      "https://artquemy.com/producto/la-danza/": {
+        "titulo": "La danza",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/la-danza/"
+      },
+      "https://artquemy.com/producto/movimientos/": {
+        "titulo": "Movimientos",
+        "precio": "€110,00",
+        "precio_num": 110.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/movimientos/"
+      },
+      "https://artquemy.com/producto/me-muevo-para-construir-mi-identidad/": {
+        "titulo": "Me muevo para construir mi identidad",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/me-muevo-para-construir-mi-identidad/"
+      },
+      "https://artquemy.com/producto/abrazando-a-la-espera/": {
+        "titulo": "Abrazando a la espera",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/abrazando-a-la-espera/"
+      },
+      "https://artquemy.com/producto/moverse-con-alegria-nos-puede-ayudar-a-luchar/": {
+        "titulo": "Moverse con alegría nos puede ayudar a luchar",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/moverse-con-alegria-nos-puede-ayudar-a-luchar/"
+      },
+      "https://artquemy.com/producto/como-se-contempla-una-desgracia/": {
+        "titulo": "¿Cómo se contempla una desgracia?",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/como-se-contempla-una-desgracia/"
+      }
+    },
+    "ultima_comprobacion": "23/09/2026 18:37"
   },
   "Soy feo pero te amo": {
-    "hash": "90befb9deaadd480857155a7fde0bf86",
-    "texto": "Loader\nEspere mientras se verifica su solicitudâ¦",
-    "obras": {}
+    "url": "https://artquemy.com/artists/soy-feo-pero-te-amo/",
+    "hash": "be2a6a0497fa1a08a43c143dc30bdb12",
+    "obras": {
+      "https://artquemy.com/producto/okay/": {
+        "titulo": "Okay",
+        "precio": "€1.500,00",
+        "precio_num": 1500.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/okay/"
+      },
+      "https://artquemy.com/producto/con-tal-que-te-quedes/": {
+        "titulo": "Con tal que te quedes",
+        "precio": "€1.500,00",
+        "precio_num": 1500.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/con-tal-que-te-quedes/"
+      },
+      "https://artquemy.com/producto/monoblock/": {
+        "titulo": "Monoblock",
+        "precio": "€1.350,00",
+        "precio_num": 1350.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/monoblock/"
+      },
+      "https://artquemy.com/producto/antes/": {
+        "titulo": "Antes",
+        "precio": "€1.350,00",
+        "precio_num": 1350.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/antes/"
+      },
+      "https://artquemy.com/producto/cajas-y-cajas/": {
+        "titulo": "Cajas y cajas",
+        "precio": "€1.350,00",
+        "precio_num": 1350.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/cajas-y-cajas/"
+      },
+      "https://artquemy.com/producto/la-clasica/": {
+        "titulo": "La clásica",
+        "precio": "€1.350,00",
+        "precio_num": 1350.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/la-clasica/"
+      },
+      "https://artquemy.com/producto/por-el-honor/": {
+        "titulo": "Por el honor",
+        "precio": "€1.350,00",
+        "precio_num": 1350.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/por-el-honor/"
+      },
+      "https://artquemy.com/producto/recuerdos/": {
+        "titulo": "Recuerdos",
+        "precio": "€1.350,00",
+        "precio_num": 1350.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/recuerdos/"
+      },
+      "https://artquemy.com/producto/memento-mori/": {
+        "titulo": "Memento Mori",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/memento-mori/"
+      },
+      "https://artquemy.com/producto/how-long/": {
+        "titulo": "How long?",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/how-long/"
+      },
+      "https://artquemy.com/producto/never-again/": {
+        "titulo": "Never again",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/never-again/"
+      },
+      "https://artquemy.com/producto/grow/": {
+        "titulo": "Grow",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/grow/"
+      },
+      "https://artquemy.com/producto/fine/": {
+        "titulo": "Fine",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/fine/"
+      },
+      "https://artquemy.com/producto/hold-you/": {
+        "titulo": "Hold you",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/hold-you/"
+      },
+      "https://artquemy.com/producto/wait-right-here/": {
+        "titulo": "Wait right here",
+        "precio": "€400,00",
+        "precio_num": 400.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/wait-right-here/"
+      },
+      "https://artquemy.com/producto/asi-corazon/": {
+        "titulo": "Así corazón",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/asi-corazon/"
+      },
+      "https://artquemy.com/producto/call-mom/": {
+        "titulo": "Call mom",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/call-mom/"
+      },
+      "https://artquemy.com/producto/burn/": {
+        "titulo": "Burn",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/burn/"
+      },
+      "https://artquemy.com/producto/conmigo-aca/": {
+        "titulo": "Conmigo aca",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/conmigo-aca/"
+      },
+      "https://artquemy.com/producto/home-with-you/": {
+        "titulo": "Home with you",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/home-with-you/"
+      },
+      "https://artquemy.com/producto/me-olvide/": {
+        "titulo": "Me olvidé",
+        "precio": "€250,00",
+        "precio_num": 250.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/me-olvide/"
+      },
+      "https://artquemy.com/producto/errores/": {
+        "titulo": "Errores",
+        "precio": "€250,00",
+        "precio_num": 250.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/errores/"
+      },
+      "https://artquemy.com/producto/estar/": {
+        "titulo": "Estoy bien",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/estar/"
+      },
+      "https://artquemy.com/producto/sentir/": {
+        "titulo": "Sentir",
+        "precio": "€250,00",
+        "precio_num": 250.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/sentir/"
+      },
+      "https://artquemy.com/producto/cada-vez/": {
+        "titulo": "Cada vez",
+        "precio": "€250,00",
+        "precio_num": 250.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/cada-vez/"
+      },
+      "https://artquemy.com/producto/wish-you-were-here/": {
+        "titulo": "Wish you were here",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/wish-you-were-here/"
+      },
+      "https://artquemy.com/producto/pense-que-ibas-a-llamar/": {
+        "titulo": "Pensé que ibas a llamar",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/pense-que-ibas-a-llamar/"
+      },
+      "https://artquemy.com/producto/loves-me-loves-me-not-2/": {
+        "titulo": "Counting petals",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/loves-me-loves-me-not-2/"
+      },
+      "https://artquemy.com/producto/how-far-do-you-want-to-go/": {
+        "titulo": "How far?",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/how-far-do-you-want-to-go/"
+      },
+      "https://artquemy.com/producto/a-veces-me-encuentro-perdiendome/": {
+        "titulo": "A veces me encuentro perdiéndome",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/a-veces-me-encuentro-perdiendome/"
+      },
+      "https://artquemy.com/producto/cuando-vivo/": {
+        "titulo": "Cuándo vivo?",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/cuando-vivo/"
+      },
+      "https://artquemy.com/producto/up-above-the-clouds/": {
+        "titulo": "Up above the clouds",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/up-above-the-clouds/"
+      },
+      "https://artquemy.com/producto/do-you-have-a-destination/": {
+        "titulo": "Do you have a destination?",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/do-you-have-a-destination/"
+      },
+      "https://artquemy.com/producto/what-would-jesus-do/": {
+        "titulo": "A veces bien a veces mal",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/what-would-jesus-do/"
+      },
+      "https://artquemy.com/producto/why-do-you-need-me/": {
+        "titulo": "Why do you need me?",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/why-do-you-need-me/"
+      },
+      "https://artquemy.com/producto/decisiones/": {
+        "titulo": "Decisiones",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/decisiones/"
+      },
+      "https://artquemy.com/producto/together/": {
+        "titulo": "Together",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/together/"
+      }
+    },
+    "ultima_comprobacion": "23/09/2026 18:38"
   },
   "Surfia": {
-    "hash": "90befb9deaadd480857155a7fde0bf86",
-    "texto": "Loader\nEspere mientras se verifica su solicitudâ¦",
-    "obras": {}
+    "url": "https://artquemy.com/artists/surfia/",
+    "hash": "a87bae852dc393bcd6e9daabda36f918",
+    "obras": {
+      "https://artquemy.com/producto/jorge/": {
+        "titulo": "Jorge",
+        "precio": "€50,00",
+        "precio_num": 50.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/jorge/"
+      },
+      "https://artquemy.com/producto/i-see-you-falling/": {
+        "titulo": "I see you falling",
+        "precio": "€90,00",
+        "precio_num": 90.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/i-see-you-falling/"
+      },
+      "https://artquemy.com/producto/salut-3/": {
+        "titulo": "Salut!",
+        "precio": "€60,00",
+        "precio_num": 60.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/salut-3/"
+      },
+      "https://artquemy.com/producto/salut-2/": {
+        "titulo": "Salut!",
+        "precio": "€60,00",
+        "precio_num": 60.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/salut-2/"
+      },
+      "https://artquemy.com/producto/salut/": {
+        "titulo": "Salut!",
+        "precio": "€60,00",
+        "precio_num": 60.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/salut/"
+      },
+      "https://artquemy.com/producto/retrato/": {
+        "titulo": "Retrato",
+        "precio": "€90,00",
+        "precio_num": 90.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/retrato/"
+      },
+      "https://artquemy.com/producto/sonrisa-falsa/": {
+        "titulo": "Sonrisa falsa",
+        "precio": "€90,00",
+        "precio_num": 90.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/sonrisa-falsa/"
+      },
+      "https://artquemy.com/producto/calle-joaquin-costa/": {
+        "titulo": "Calle Joaquín Costa",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/calle-joaquin-costa/"
+      },
+      "https://artquemy.com/producto/a-friend-from-far-east/": {
+        "titulo": "A friend from far East",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/a-friend-from-far-east/"
+      },
+      "https://artquemy.com/producto/space-jam-2/": {
+        "titulo": "Space Jam",
+        "precio": "€70,00",
+        "precio_num": 70.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/space-jam-2/"
+      },
+      "https://artquemy.com/producto/space-jam/": {
+        "titulo": "Space Jam",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/space-jam/"
+      },
+      "https://artquemy.com/producto/tomando-vermu-2/": {
+        "titulo": "Tomando Vermú",
+        "precio": "€70,00",
+        "precio_num": 70.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/tomando-vermu-2/"
+      },
+      "https://artquemy.com/producto/tomando-vermu/": {
+        "titulo": "Tomando Vermú",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/tomando-vermu/"
+      },
+      "https://artquemy.com/producto/skull/": {
+        "titulo": "Skull",
+        "precio": "€250,00",
+        "precio_num": 250.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/skull/"
+      },
+      "https://artquemy.com/producto/carnaval-de-miedo/": {
+        "titulo": "Carnaval de Miedo",
+        "precio": "€250,00",
+        "precio_num": 250.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/carnaval-de-miedo/"
+      },
+      "https://artquemy.com/producto/autentico-decadente/": {
+        "titulo": "Autentico Decadente",
+        "precio": "€550,00",
+        "precio_num": 550.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/autentico-decadente/"
+      },
+      "https://artquemy.com/producto/original-sound/": {
+        "titulo": "Original Sound",
+        "precio": "€300,00",
+        "precio_num": 300.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/original-sound/"
+      },
+      "https://artquemy.com/producto/reflexiones/": {
+        "titulo": "Reflexiones",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/reflexiones/"
+      },
+      "https://artquemy.com/producto/rasta/": {
+        "titulo": "Rasta",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/rasta/"
+      },
+      "https://artquemy.com/producto/ya-no-confio-en-ti-%d0%ba%d0%be%d0%b3%d0%be-%d1%82%d1%8b-%d0%bb%d0%b5%d1%87%d0%b8%d1%88%d1%8c/": {
+        "titulo": "Ya no confío en ti / Кого ты лечишь?",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/ya-no-confio-en-ti-%d0%ba%d0%be%d0%b3%d0%be-%d1%82%d1%8b-%d0%bb%d0%b5%d1%87%d0%b8%d1%88%d1%8c/"
+      },
+      "https://artquemy.com/producto/desconocido/": {
+        "titulo": "Desconocido",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/desconocido/"
+      },
+      "https://artquemy.com/producto/chrome-i/": {
+        "titulo": "Chrome I",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/chrome-i/"
+      },
+      "https://artquemy.com/producto/feeling-sensations-you-though-were-dead/": {
+        "titulo": "Feeling sensations you thought were dead",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/feeling-sensations-you-though-were-dead/"
+      },
+      "https://artquemy.com/producto/deal-with-pain/": {
+        "titulo": "Deal with pain",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/deal-with-pain/"
+      },
+      "https://artquemy.com/producto/skeleton-mermaid/": {
+        "titulo": "Skeleton Mermaid",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/skeleton-mermaid/"
+      },
+      "https://artquemy.com/producto/im-high-next-to-you/": {
+        "titulo": "I’m high next to you",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/im-high-next-to-you/"
+      },
+      "https://artquemy.com/producto/skeleton-surfer/": {
+        "titulo": "Skeleton Surfer",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/skeleton-surfer/"
+      },
+      "https://artquemy.com/producto/melted-girl/": {
+        "titulo": "Melted Girl",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/melted-girl/"
+      },
+      "https://artquemy.com/producto/i-have-got-mad-methods-delivering-my-flow/": {
+        "titulo": "I have got mad methods delivering my flow",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/i-have-got-mad-methods-delivering-my-flow/"
+      }
+    },
+    "ultima_comprobacion": "23/09/2026 18:38"
   },
   "Tiny": {
-    "hash": "90befb9deaadd480857155a7fde0bf86",
-    "texto": "Loader\nEspere mientras se verifica su solicitudâ¦",
-    "obras": {}
+    "url": "https://artquemy.com/artists/tiny/",
+    "hash": "6e8f136dc9e244be67caf3647d10cbe2",
+    "obras": {
+      "https://artquemy.com/producto/not-so-tiny/": {
+        "titulo": "Not so Tiny",
+        "precio": "€2.500,00",
+        "precio_num": 2500.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/not-so-tiny/"
+      },
+      "https://artquemy.com/producto/i-spy/": {
+        "titulo": "I spy",
+        "precio": "€1.700,00",
+        "precio_num": 1700.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/i-spy/"
+      },
+      "https://artquemy.com/producto/summer-loving/": {
+        "titulo": "Summer Loving",
+        "precio": "€1.200,00",
+        "precio_num": 1200.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/summer-loving/"
+      },
+      "https://artquemy.com/producto/tags/": {
+        "titulo": "Tags",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/tags/"
+      },
+      "https://artquemy.com/producto/self-love/": {
+        "titulo": "Self Love",
+        "precio": "€1.200,00",
+        "precio_num": 1200.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/self-love/"
+      },
+      "https://artquemy.com/producto/grounded/": {
+        "titulo": "Grounded",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/grounded/"
+      },
+      "https://artquemy.com/producto/time-for-reflection/": {
+        "titulo": "Time for Reflection",
+        "precio": "€1.200,00",
+        "precio_num": 1200.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/time-for-reflection/"
+      },
+      "https://artquemy.com/producto/takeover/": {
+        "titulo": "Takeover",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/takeover/"
+      },
+      "https://artquemy.com/producto/tiny-callejera/": {
+        "titulo": "Tiny callejera",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/tiny-callejera/"
+      },
+      "https://artquemy.com/producto/the-ballerina/": {
+        "titulo": "The Ballerina",
+        "precio": "€950,00",
+        "precio_num": 950.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/the-ballerina/"
+      },
+      "https://artquemy.com/producto/stop-youre-making-me-blush-2/": {
+        "titulo": "Stop, you’re making me blush",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/stop-youre-making-me-blush-2/"
+      },
+      "https://artquemy.com/producto/street-life/": {
+        "titulo": "Street Life",
+        "precio": "€750,00",
+        "precio_num": 750.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/street-life/"
+      },
+      "https://artquemy.com/producto/here-come-the-girls/": {
+        "titulo": "Here Come the Girls",
+        "precio": "€750,00",
+        "precio_num": 750.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/here-come-the-girls/"
+      },
+      "https://artquemy.com/producto/head-in-the-clouds-eye-on-the-prize/": {
+        "titulo": "Head in the clouds, eye on the prize",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/head-in-the-clouds-eye-on-the-prize/"
+      },
+      "https://artquemy.com/producto/sunflowers-for-tiny/": {
+        "titulo": "Sunflowers for Tiny",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/sunflowers-for-tiny/"
+      },
+      "https://artquemy.com/producto/badass-tiny/": {
+        "titulo": "Badass Tiny",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/badass-tiny/"
+      },
+      "https://artquemy.com/producto/free-hugs-2/": {
+        "titulo": "Free hugs",
+        "precio": "€510,00",
+        "precio_num": 510.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/free-hugs-2/"
+      },
+      "https://artquemy.com/producto/creep/": {
+        "titulo": "Creep",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/creep/"
+      },
+      "https://artquemy.com/producto/tiny-flower/": {
+        "titulo": "Tiny Flower",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/tiny-flower/"
+      },
+      "https://artquemy.com/producto/son-of-a-beach/": {
+        "titulo": "Son of a Beach",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/son-of-a-beach/"
+      },
+      "https://artquemy.com/producto/die-cry-hate/": {
+        "titulo": "Die, Cry, Hate",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/die-cry-hate/"
+      },
+      "https://artquemy.com/producto/stop-youre-making-me-blush-copy/": {
+        "titulo": "Zen AF",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/stop-youre-making-me-blush-copy/"
+      },
+      "https://artquemy.com/producto/hotheaded/": {
+        "titulo": "Hotheaded",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/hotheaded/"
+      },
+      "https://artquemy.com/producto/electrifying/": {
+        "titulo": "Electrifying",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/electrifying/"
+      },
+      "https://artquemy.com/producto/graffiti-girl/": {
+        "titulo": "Graffiti girl",
+        "precio": "€280,00",
+        "precio_num": 280.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/graffiti-girl/"
+      },
+      "https://artquemy.com/producto/flash-2/": {
+        "titulo": "Flash",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/flash-2/"
+      },
+      "https://artquemy.com/producto/piss-off-2/": {
+        "titulo": "Piss Off",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/piss-off-2/"
+      },
+      "https://artquemy.com/producto/natural-habitat/": {
+        "titulo": "Natural Habitat",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/natural-habitat/"
+      },
+      "https://artquemy.com/producto/dont-be-a-dick/": {
+        "titulo": "Don’t be a dick",
+        "precio": "€190,00",
+        "precio_num": 190.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/dont-be-a-dick/"
+      },
+      "https://artquemy.com/producto/blah/": {
+        "titulo": "BLAH!",
+        "precio": "€190,00",
+        "precio_num": 190.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/blah/"
+      },
+      "https://artquemy.com/producto/kindly-go-fuck-yourself/": {
+        "titulo": "Kindly, go FUCK yourself",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/kindly-go-fuck-yourself/"
+      },
+      "https://artquemy.com/producto/cheer-up-love/": {
+        "titulo": "Cheer up, love",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/cheer-up-love/"
+      },
+      "https://artquemy.com/producto/piss-off-frisbee/": {
+        "titulo": "Piss off Frisbee",
+        "precio": "€160,00",
+        "precio_num": 160.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/piss-off-frisbee/"
+      },
+      "https://artquemy.com/producto/shut-it-out/": {
+        "titulo": "Shut it out",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/shut-it-out/"
+      },
+      "https://artquemy.com/producto/written-in-the-sand/": {
+        "titulo": "In the Barrio",
+        "precio": "€150,00",
+        "precio_num": 150.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/written-in-the-sand/"
+      },
+      "https://artquemy.com/producto/in-the-barrio/": {
+        "titulo": "Toy",
+        "precio": "€150,00",
+        "precio_num": 150.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/in-the-barrio/"
+      },
+      "https://artquemy.com/producto/toy/": {
+        "titulo": "Written in the Sand",
+        "precio": "€150,00",
+        "precio_num": 150.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/toy/"
+      },
+      "https://artquemy.com/producto/shes-a-star/": {
+        "titulo": "She’s a Star",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/shes-a-star/"
+      },
+      "https://artquemy.com/producto/not-bothered/": {
+        "titulo": "Not Bothered",
+        "precio": "€150,00",
+        "precio_num": 150.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/not-bothered/"
+      },
+      "https://artquemy.com/producto/do-it/": {
+        "titulo": "Do It",
+        "precio": "€150,00",
+        "precio_num": 150.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/do-it/"
+      },
+      "https://artquemy.com/producto/keep-out/": {
+        "titulo": "Keep Out",
+        "precio": "€150,00",
+        "precio_num": 150.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/keep-out/"
+      },
+      "https://artquemy.com/producto/holely-shit/": {
+        "titulo": "Holely Shit",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/holely-shit/"
+      },
+      "https://artquemy.com/producto/googles-2/": {
+        "titulo": "Googles",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/googles-2/"
+      },
+      "https://artquemy.com/producto/victory/": {
+        "titulo": "Victory",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/victory/"
+      },
+      "https://artquemy.com/producto/smile-2/": {
+        "titulo": "Smile",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/smile-2/"
+      },
+      "https://artquemy.com/producto/fck-you/": {
+        "titulo": "F*** you",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/fck-you/"
+      },
+      "https://artquemy.com/producto/queen/": {
+        "titulo": "Queen",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/queen/"
+      },
+      "https://artquemy.com/producto/tongue-2/": {
+        "titulo": "Tongue",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/tongue-2/"
+      },
+      "https://artquemy.com/producto/disc-licker/": {
+        "titulo": "Disc Licker",
+        "precio": "€140,00",
+        "precio_num": 140.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/disc-licker/"
+      },
+      "https://artquemy.com/producto/on-cloud-nine/": {
+        "titulo": "On cloud Nine",
+        "precio": "€140,00",
+        "precio_num": 140.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/on-cloud-nine/"
+      },
+      "https://artquemy.com/producto/next-in-line/": {
+        "titulo": "Next in Line",
+        "precio": "€140,00",
+        "precio_num": 140.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/next-in-line/"
+      },
+      "https://artquemy.com/producto/peace-or-whatever/": {
+        "titulo": "Peace or whatever",
+        "precio": "€140,00",
+        "precio_num": 140.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/peace-or-whatever/"
+      },
+      "https://artquemy.com/producto/we-listen-and-we-do-judge/": {
+        "titulo": "We listen, and we do judge",
+        "precio": "€140,00",
+        "precio_num": 140.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/we-listen-and-we-do-judge/"
+      },
+      "https://artquemy.com/producto/seeing-clearly/": {
+        "titulo": "Seeing clearly",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/seeing-clearly/"
+      },
+      "https://artquemy.com/producto/from-tiny-with-love/": {
+        "titulo": "From Tiny, with love",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/from-tiny-with-love/"
+      },
+      "https://artquemy.com/producto/kindly-f-you/": {
+        "titulo": "Peace, B**ches",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/kindly-f-you/"
+      },
+      "https://artquemy.com/producto/how-about-i-do-what-i-want/": {
+        "titulo": "How about, I do what I want",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/how-about-i-do-what-i-want/"
+      },
+      "https://artquemy.com/producto/i-dont-know/": {
+        "titulo": "I don’t know",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/i-dont-know/"
+      },
+      "https://artquemy.com/producto/emotional-support/": {
+        "titulo": "Emotional support",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/emotional-support/"
+      },
+      "https://artquemy.com/producto/fresh-as-a-daisy/": {
+        "titulo": "Fresh as a daisy",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/fresh-as-a-daisy/"
+      },
+      "https://artquemy.com/producto/love-heart/": {
+        "titulo": "Love Heart",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/love-heart/"
+      },
+      "https://artquemy.com/producto/funny-shape/": {
+        "titulo": "Funny shape",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/funny-shape/"
+      },
+      "https://artquemy.com/producto/i-dont-know-blue/": {
+        "titulo": "I don’t know blue",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/i-dont-know-blue/"
+      },
+      "https://artquemy.com/producto/i-dont-know-yellow/": {
+        "titulo": "I don’t know yellow",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/i-dont-know-yellow/"
+      },
+      "https://artquemy.com/producto/ignorance-is-bliss/": {
+        "titulo": "Ignorance is bliss",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/ignorance-is-bliss/"
+      },
+      "https://artquemy.com/producto/piss-off/": {
+        "titulo": "Piss Off",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/piss-off/"
+      },
+      "https://artquemy.com/producto/big-cans/": {
+        "titulo": "Big Cans",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/big-cans/"
+      },
+      "https://artquemy.com/producto/rose-tinted/": {
+        "titulo": "Rose Tinted",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/rose-tinted/"
+      },
+      "https://artquemy.com/producto/mood/": {
+        "titulo": "Mood",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/mood/"
+      },
+      "https://artquemy.com/producto/shot-through-the-heart/": {
+        "titulo": "Shot through the heart",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/shot-through-the-heart/"
+      },
+      "https://artquemy.com/producto/peek/": {
+        "titulo": "Peek",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/peek/"
+      },
+      "https://artquemy.com/producto/pouty/": {
+        "titulo": "Pouty",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/pouty/"
+      },
+      "https://artquemy.com/producto/peace-bches/": {
+        "titulo": "Peace B**ches",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/peace-bches/"
+      },
+      "https://artquemy.com/producto/cold-as-ice/": {
+        "titulo": "Cold as ice",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/cold-as-ice/"
+      },
+      "https://artquemy.com/producto/background-flowers/": {
+        "titulo": "Background flowers",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/background-flowers/"
+      },
+      "https://artquemy.com/producto/loves-me-loves-me-not/": {
+        "titulo": "Loves me, loves me not",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/loves-me-loves-me-not/"
+      },
+      "https://artquemy.com/producto/moody/": {
+        "titulo": "Moody",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/moody/"
+      },
+      "https://artquemy.com/producto/fat-lines/": {
+        "titulo": "Fat lines",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/fat-lines/"
+      },
+      "https://artquemy.com/producto/liberation-2/": {
+        "titulo": "Liberation",
+        "precio": "€70,00",
+        "precio_num": 70.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/liberation-2/"
+      },
+      "https://artquemy.com/producto/trash-cans/": {
+        "titulo": "Trash cans",
+        "precio": "€40,00",
+        "precio_num": 40.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/trash-cans/"
+      },
+      "https://artquemy.com/producto/tabacs/": {
+        "titulo": "Tabacs",
+        "precio": "€40,00",
+        "precio_num": 40.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/tabacs/"
+      },
+      "https://artquemy.com/producto/stop-youre-making-me-blush/": {
+        "titulo": "Stop, you’re making me blush",
+        "precio": "€40,00",
+        "precio_num": 40.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/stop-youre-making-me-blush/"
+      },
+      "https://artquemy.com/producto/peek-2/": {
+        "titulo": "Peek",
+        "precio": "€40,00",
+        "precio_num": 40.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/peek-2/"
+      },
+      "https://artquemy.com/producto/flash/": {
+        "titulo": "Flash",
+        "precio": "€40,00",
+        "precio_num": 40.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/flash/"
+      },
+      "https://artquemy.com/producto/liberation/": {
+        "titulo": "Liberation",
+        "precio": "€40,00",
+        "precio_num": 40.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/liberation/"
+      },
+      "https://artquemy.com/producto/balcony/": {
+        "titulo": "Balcony",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/balcony/"
+      }
+    },
+    "ultima_comprobacion": "23/09/2026 18:39"
   },
   "Urban Flowers": {
-    "hash": "90befb9deaadd480857155a7fde0bf86",
-    "texto": "Loader\nEspere mientras se verifica su solicitudâ¦",
-    "obras": {}
+    "url": "https://artquemy.com/artists/urban-flowers/",
+    "hash": "06b6842901f33ff5ae38e3f799c005df",
+    "obras": {
+      "https://artquemy.com/producto/welcome-to-my-world/": {
+        "titulo": "Welcome to my world",
+        "precio": "€1.950,00",
+        "precio_num": 1950.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/welcome-to-my-world/"
+      },
+      "https://artquemy.com/producto/flores-enlatadas/": {
+        "titulo": "Flores enlatadas",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/flores-enlatadas/"
+      },
+      "https://artquemy.com/producto/come-and-look-inside/": {
+        "titulo": "Come and look inside",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/come-and-look-inside/"
+      },
+      "https://artquemy.com/producto/ups-te-falta-magenta/": {
+        "titulo": "Ups… Te falta magenta !",
+        "precio": "€1.600,00",
+        "precio_num": 1600.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/ups-te-falta-magenta/"
+      },
+      "https://artquemy.com/producto/evolucion/": {
+        "titulo": "Evolución",
+        "precio": "€1.600,00",
+        "precio_num": 1600.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/evolucion/"
+      },
+      "https://artquemy.com/producto/sorry-not-sorry/": {
+        "titulo": "Sorry not sorry",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/sorry-not-sorry/"
+      },
+      "https://artquemy.com/producto/el-pueblito/": {
+        "titulo": "El pueblito",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/el-pueblito/"
+      },
+      "https://artquemy.com/producto/propera-parada-arc-de-triomf/": {
+        "titulo": "Propera parada: Arc de triomf",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/propera-parada-arc-de-triomf/"
+      },
+      "https://artquemy.com/producto/magnetic-kraken/": {
+        "titulo": "Magnetic Kraken",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/magnetic-kraken/"
+      },
+      "https://artquemy.com/producto/flower-power/": {
+        "titulo": "Flower power",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/flower-power/"
+      },
+      "https://artquemy.com/producto/between-bees-and-flowers/": {
+        "titulo": "Between bees and flowers",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/between-bees-and-flowers/"
+      },
+      "https://artquemy.com/producto/stoned-flowers/": {
+        "titulo": "Stoned flowers",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/stoned-flowers/"
+      },
+      "https://artquemy.com/producto/t-casual/": {
+        "titulo": "T-casual",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/t-casual/"
+      },
+      "https://artquemy.com/producto/malecon-urban-flowers/": {
+        "titulo": "Malecón – Urban Flowers",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/malecon-urban-flowers/"
+      },
+      "https://artquemy.com/producto/malecon-astro/": {
+        "titulo": "Malecón – Astro",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/malecon-astro/"
+      },
+      "https://artquemy.com/producto/malecon-pulpo/": {
+        "titulo": "Malecón – Pulpo",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/malecon-pulpo/"
+      },
+      "https://artquemy.com/producto/urban-flowers-leaf/": {
+        "titulo": "Leaf",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/urban-flowers-leaf/"
+      },
+      "https://artquemy.com/producto/grumpy-flower/": {
+        "titulo": "Grumpy flower",
+        "precio": "€550,00",
+        "precio_num": 550.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/grumpy-flower/"
+      },
+      "https://artquemy.com/producto/tongue/": {
+        "titulo": "Tongue",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/tongue/"
+      },
+      "https://artquemy.com/producto/patinetera/": {
+        "titulo": "Patinetera",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/patinetera/"
+      },
+      "https://artquemy.com/producto/flower-bouquet/": {
+        "titulo": "Flower bouquet",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/flower-bouquet/"
+      },
+      "https://artquemy.com/producto/el-recreo/": {
+        "titulo": "El recreo",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/el-recreo/"
+      },
+      "https://artquemy.com/producto/free-hugs/": {
+        "titulo": "Free Hugs",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/free-hugs/"
+      },
+      "https://artquemy.com/producto/moms-flowers/": {
+        "titulo": "Moms’ Flowers",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/moms-flowers/"
+      },
+      "https://artquemy.com/producto/tiny-flower/": {
+        "titulo": "Tiny Flower",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/tiny-flower/"
+      },
+      "https://artquemy.com/producto/flower-ice-cream/": {
+        "titulo": "Flower Ice cream",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/flower-ice-cream/"
+      },
+      "https://artquemy.com/producto/entre-tentaculos-y-flores/": {
+        "titulo": "Entre Tentáculos y Flores",
+        "precio": "€350,00",
+        "precio_num": 350.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/entre-tentaculos-y-flores/"
+      },
+      "https://artquemy.com/producto/rainbow-flower/": {
+        "titulo": "Rainbow Flower",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/rainbow-flower/"
+      },
+      "https://artquemy.com/producto/beso-con-lengua/": {
+        "titulo": "Beso con lengua",
+        "precio": "€350,00",
+        "precio_num": 350.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/beso-con-lengua/"
+      },
+      "https://artquemy.com/producto/descarga/": {
+        "titulo": "Descarga",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/descarga/"
+      },
+      "https://artquemy.com/producto/familia-sagrada/": {
+        "titulo": "Familia sagrada",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/familia-sagrada/"
+      },
+      "https://artquemy.com/producto/brilli-brilli/": {
+        "titulo": "Brilli brilli",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/brilli-brilli/"
+      },
+      "https://artquemy.com/producto/brillando-con-luz-propia/": {
+        "titulo": "Brillando con luz propia",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/brillando-con-luz-propia/"
+      },
+      "https://artquemy.com/producto/smile-3/": {
+        "titulo": "Smile",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/smile-3/"
+      },
+      "https://artquemy.com/producto/el-gato-con-flores/": {
+        "titulo": "El gato con flores",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/el-gato-con-flores/"
+      },
+      "https://artquemy.com/producto/flores-galacticas/": {
+        "titulo": "Flores galácticas",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/flores-galacticas/"
+      },
+      "https://artquemy.com/producto/uvita-loquita/": {
+        "titulo": "Uvita loquita",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/uvita-loquita/"
+      },
+      "https://artquemy.com/producto/urban-flowers-wood/": {
+        "titulo": "Pink and blue",
+        "precio": "€300,00",
+        "precio_num": 300.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/urban-flowers-wood/"
+      },
+      "https://artquemy.com/producto/urban-flowers-lila/": {
+        "titulo": "Lila",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/urban-flowers-lila/"
+      },
+      "https://artquemy.com/producto/lilarada/": {
+        "titulo": "Lilarada",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/lilarada/"
+      },
+      "https://artquemy.com/producto/urban-flowers-wood-pink/": {
+        "titulo": "Indoors Pink",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/urban-flowers-wood-pink/"
+      },
+      "https://artquemy.com/producto/amaricurry/": {
+        "titulo": "Amaricurry",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/amaricurry/"
+      },
+      "https://artquemy.com/producto/roserica/": {
+        "titulo": "Roserica",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/roserica/"
+      },
+      "https://artquemy.com/producto/autocad/": {
+        "titulo": "Autocad",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/autocad/"
+      },
+      "https://artquemy.com/producto/flor-lila/": {
+        "titulo": "Flor lila",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/flor-lila/"
+      },
+      "https://artquemy.com/producto/flor-purpura/": {
+        "titulo": "Flor púrpura",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/flor-purpura/"
+      },
+      "https://artquemy.com/producto/flor/": {
+        "titulo": "Flor rosa",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/flor/"
+      },
+      "https://artquemy.com/producto/bearthday/": {
+        "titulo": "Bearthday",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/bearthday/"
+      },
+      "https://artquemy.com/producto/tabla-10/": {
+        "titulo": "Tabla 10",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/tabla-10/"
+      },
+      "https://artquemy.com/producto/tabla-9/": {
+        "titulo": "Tabla 11",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/tabla-9/"
+      },
+      "https://artquemy.com/producto/free-hugs-spray-can/": {
+        "titulo": "Free Hugs Spray Can",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/free-hugs-spray-can/"
+      },
+      "https://artquemy.com/producto/flower-meeting/": {
+        "titulo": "Flower meeting",
+        "precio": "€190,00",
+        "precio_num": 190.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/flower-meeting/"
+      },
+      "https://artquemy.com/producto/out-of-the-pipe/": {
+        "titulo": "Out of the pipe",
+        "precio": "€190,00",
+        "precio_num": 190.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/out-of-the-pipe/"
+      },
+      "https://artquemy.com/producto/wait-the-heart/": {
+        "titulo": "Wait ! The heart",
+        "precio": "€190,00",
+        "precio_num": 190.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/wait-the-heart/"
+      },
+      "https://artquemy.com/producto/carrer-de-largenteria/": {
+        "titulo": "Carrer de l’Argenteria",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/carrer-de-largenteria/"
+      },
+      "https://artquemy.com/producto/pintando-flores/": {
+        "titulo": "Pintando flores",
+        "precio": "€180,00",
+        "precio_num": 180.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/pintando-flores/"
+      },
+      "https://artquemy.com/producto/hey-gracias-2/": {
+        "titulo": "Hey! Gracias",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/hey-gracias-2/"
+      },
+      "https://artquemy.com/producto/astro-en-la-catedral-2/": {
+        "titulo": "Astro en la Catedral",
+        "precio": "€180,00",
+        "precio_num": 180.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/astro-en-la-catedral-2/"
+      },
+      "https://artquemy.com/producto/astro-en-el-born-2/": {
+        "titulo": "Astro en el born",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/astro-en-el-born-2/"
+      },
+      "https://artquemy.com/producto/astro-en-arco-del-triunfo-2/": {
+        "titulo": "Astro en Arco del triunfo",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/astro-en-arco-del-triunfo-2/"
+      },
+      "https://artquemy.com/producto/astro-skater-2/": {
+        "titulo": "Astro Skater",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/astro-skater-2/"
+      },
+      "https://artquemy.com/producto/tabla-9-2/": {
+        "titulo": "Tabla 9",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/tabla-9-2/"
+      },
+      "https://artquemy.com/producto/tabla-12/": {
+        "titulo": "Tabla 12",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/tabla-12/"
+      },
+      "https://artquemy.com/producto/tabla-6/": {
+        "titulo": "Tabla 6",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/tabla-6/"
+      },
+      "https://artquemy.com/producto/purple-garden-i/": {
+        "titulo": "Purple Garden I",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/purple-garden-i/"
+      },
+      "https://artquemy.com/producto/blue-flower-spray-can/": {
+        "titulo": "Blue Flower Spray Can",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/blue-flower-spray-can/"
+      },
+      "https://artquemy.com/producto/urban-flowers-spray-can/": {
+        "titulo": "Urban Flowers Spray Can",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/urban-flowers-spray-can/"
+      },
+      "https://artquemy.com/producto/calavera-2/": {
+        "titulo": "Calavera",
+        "precio": "€120,00",
+        "precio_num": 120.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/calavera-2/"
+      },
+      "https://artquemy.com/producto/root-heads-1-2/": {
+        "titulo": "Root heads 1",
+        "precio": "€120,00",
+        "precio_num": 120.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/root-heads-1-2/"
+      },
+      "https://artquemy.com/producto/tabla-8/": {
+        "titulo": "Tabla 8",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/tabla-8/"
+      },
+      "https://artquemy.com/producto/tabla-7/": {
+        "titulo": "Tabla 7",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/tabla-7/"
+      },
+      "https://artquemy.com/producto/tabla-5/": {
+        "titulo": "Tabla 5",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/tabla-5/"
+      },
+      "https://artquemy.com/producto/tabla-4/": {
+        "titulo": "Tabla 4",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/tabla-4/"
+      },
+      "https://artquemy.com/producto/tabla-3/": {
+        "titulo": "Tabla 3",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/tabla-3/"
+      },
+      "https://artquemy.com/producto/tabla-2/": {
+        "titulo": "Tabla 2",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/tabla-2/"
+      },
+      "https://artquemy.com/producto/tabla-1/": {
+        "titulo": "Tabla 1",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/tabla-1/"
+      },
+      "https://artquemy.com/producto/carrer-de-largenteria-3/": {
+        "titulo": "Carrer de l’Argenteria",
+        "precio": "€70,00",
+        "precio_num": 70.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/carrer-de-largenteria-3/"
+      },
+      "https://artquemy.com/producto/pintando-flores-3/": {
+        "titulo": "Pintando flores",
+        "precio": "€70,00",
+        "precio_num": 70.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/pintando-flores-3/"
+      },
+      "https://artquemy.com/producto/blooming-flowers/": {
+        "titulo": "Flores Entretiempo",
+        "precio": "€70,00",
+        "precio_num": 70.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/blooming-flowers/"
+      },
+      "https://artquemy.com/producto/og-flower/": {
+        "titulo": "OG Flower",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/og-flower/"
+      },
+      "https://artquemy.com/producto/urban-flowers/": {
+        "titulo": "Urban Flowers",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/urban-flowers/"
+      },
+      "https://artquemy.com/producto/root-heads-1/": {
+        "titulo": "Root heads 1",
+        "precio": "€70,00",
+        "precio_num": 70.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/root-heads-1/"
+      },
+      "https://artquemy.com/producto/calavera/": {
+        "titulo": "Calavera",
+        "precio": "€70,00",
+        "precio_num": 70.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/calavera/"
+      },
+      "https://artquemy.com/producto/astro-in-bcn-2/": {
+        "titulo": "Astro in BCN 2",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/astro-in-bcn-2/"
+      },
+      "https://artquemy.com/producto/astro-arco-del-triunfo/": {
+        "titulo": "Astro Arco del Triunfo",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/astro-arco-del-triunfo/"
+      },
+      "https://artquemy.com/producto/astro-in-arco-del-triunfo/": {
+        "titulo": "Astro in Arco del Triunfo",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/astro-in-arco-del-triunfo/"
+      },
+      "https://artquemy.com/producto/mini-flower/": {
+        "titulo": "Mini flower",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/mini-flower/"
+      },
+      "https://artquemy.com/producto/mood-runner/": {
+        "titulo": "Mood Runner",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/mood-runner/"
+      },
+      "https://artquemy.com/producto/casa-bures/": {
+        "titulo": "Casa Burés",
+        "precio": "€40,00",
+        "precio_num": 40.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/casa-bures/"
+      },
+      "https://artquemy.com/producto/carrer-de-largenteria-2/": {
+        "titulo": "Carrer de l’Argenteria",
+        "precio": "€40,00",
+        "precio_num": 40.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/carrer-de-largenteria-2/"
+      },
+      "https://artquemy.com/producto/pintando-flores-2/": {
+        "titulo": "Pintando flores",
+        "precio": "€40,00",
+        "precio_num": 40.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/pintando-flores-2/"
+      },
+      "https://artquemy.com/producto/blooming-flowers-copy/": {
+        "titulo": "Flores Entretiempo",
+        "precio": "€40,00",
+        "precio_num": 40.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/blooming-flowers-copy/"
+      },
+      "https://artquemy.com/producto/free-hughs/": {
+        "titulo": "Free Hughs",
+        "precio": "€40,00",
+        "precio_num": 40.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/free-hughs/"
+      },
+      "https://artquemy.com/producto/vandal-flower/": {
+        "titulo": "Vandal Flower",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/vandal-flower/"
+      },
+      "https://artquemy.com/producto/hey-gracias/": {
+        "titulo": "Hey! Gracias",
+        "precio": "€40,00",
+        "precio_num": 40.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/hey-gracias/"
+      },
+      "https://artquemy.com/producto/astro-skater/": {
+        "titulo": "Astro Skater",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/astro-skater/"
+      },
+      "https://artquemy.com/producto/astro-en-el-born/": {
+        "titulo": "Astro en el Born",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/astro-en-el-born/"
+      },
+      "https://artquemy.com/producto/astro-en-la-catedral/": {
+        "titulo": "Astro en la Catedral",
+        "precio": "€40,00",
+        "precio_num": 40.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/astro-en-la-catedral/"
+      },
+      "https://artquemy.com/producto/astro-en-arco-del-triunfo/": {
+        "titulo": "Astro en Arco del triunfo",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/astro-en-arco-del-triunfo/"
+      },
+      "https://artquemy.com/producto/p-i-3/": {
+        "titulo": "=P – I",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/p-i-3/"
+      },
+      "https://artquemy.com/producto/p-d-2/": {
+        "titulo": ";P – D",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/p-d-2/"
+      },
+      "https://artquemy.com/producto/p%e2%9d%a4%ef%b8%8f-d-2/": {
+        "titulo": "😛 – I",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/p%e2%9d%a4%ef%b8%8f-d-2/"
+      },
+      "https://artquemy.com/producto/p-d/": {
+        "titulo": "😛 – D",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/p-d/"
+      },
+      "https://artquemy.com/producto/p-i-2/": {
+        "titulo": ";P – I",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/p-i-2/"
+      },
+      "https://artquemy.com/producto/p-i/": {
+        "titulo": "=P – I",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/p-i/"
+      },
+      "https://artquemy.com/producto/entre-nubes/": {
+        "titulo": "Entre nubes",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/entre-nubes/"
+      },
+      "https://artquemy.com/producto/p%e2%9d%a4%ef%b8%8f-d-3/": {
+        "titulo": "=P❤️ – D",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/p%e2%9d%a4%ef%b8%8f-d-3/"
+      },
+      "https://artquemy.com/producto/p%e2%9d%a4%ef%b8%8f-d/": {
+        "titulo": ":P❤️ – D",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/p%e2%9d%a4%ef%b8%8f-d/"
+      },
+      "https://artquemy.com/producto/root-heads/": {
+        "titulo": "Root heads",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/root-heads/"
+      },
+      "https://artquemy.com/producto/calavera-4/": {
+        "titulo": "Calavera",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/calavera-4/"
+      },
+      "https://artquemy.com/producto/spray-love/": {
+        "titulo": "Spray Love",
+        "precio": "€20,00",
+        "precio_num": 20.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/spray-love/"
+      }
+    },
+    "ultima_comprobacion": "23/09/2026 18:39"
   },
   "Yilov": {
-    "hash": "90befb9deaadd480857155a7fde0bf86",
-    "texto": "Loader\nEspere mientras se verifica su solicitudâ¦",
-    "obras": {}
+    "url": "https://artquemy.com/artists/yilov/",
+    "hash": "12404be4350ee8447694cb6cf2ec63af",
+    "obras": {
+      "https://artquemy.com/producto/i-feel-like-the-ocean-i/": {
+        "titulo": "I feel like the ocean",
+        "precio": "€900,00",
+        "precio_num": 900.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/i-feel-like-the-ocean-i/"
+      },
+      "https://artquemy.com/producto/when-nothing-makes-sense/": {
+        "titulo": "When nothing makes sense",
+        "precio": "€600,00",
+        "precio_num": 600.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/when-nothing-makes-sense/"
+      },
+      "https://artquemy.com/producto/juan/": {
+        "titulo": "Juan",
+        "precio": "€600,00",
+        "precio_num": 600.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/juan/"
+      },
+      "https://artquemy.com/producto/what-will-i-become-copy/": {
+        "titulo": "Where did I go?",
+        "precio": "€600,00",
+        "precio_num": 600.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/what-will-i-become-copy/"
+      },
+      "https://artquemy.com/producto/how-did-i-get-here/": {
+        "titulo": "How did I get here?",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/how-did-i-get-here/"
+      },
+      "https://artquemy.com/producto/what-will-i-become/": {
+        "titulo": "What will I become?",
+        "precio": "€400,00",
+        "precio_num": 400.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/what-will-i-become/"
+      },
+      "https://artquemy.com/producto/what-if-its-really-that-simple/": {
+        "titulo": "What if it’s really that simple",
+        "precio": "€50,00",
+        "precio_num": 50.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/what-if-its-really-that-simple/"
+      },
+      "https://artquemy.com/producto/my-journal/": {
+        "titulo": "My journal",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/my-journal/"
+      },
+      "https://artquemy.com/producto/life-is-a-wave/": {
+        "titulo": "Life is a wave",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/life-is-a-wave/"
+      },
+      "https://artquemy.com/producto/without-thought/": {
+        "titulo": "Without thought",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/without-thought/"
+      },
+      "https://artquemy.com/producto/everything-changed/": {
+        "titulo": "Everything changed",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/everything-changed/"
+      },
+      "https://artquemy.com/producto/when-all-else-fails/": {
+        "titulo": "When all else fails",
+        "precio": "€40,00",
+        "precio_num": 40.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/when-all-else-fails/"
+      },
+      "https://artquemy.com/producto/tortuguita/": {
+        "titulo": "Tortugüita",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/tortuguita/"
+      },
+      "https://artquemy.com/producto/free-2/": {
+        "titulo": "Free",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/free-2/"
+      },
+      "https://artquemy.com/producto/barcelona/": {
+        "titulo": "BARcelona",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/barcelona/"
+      },
+      "https://artquemy.com/producto/the-hills/": {
+        "titulo": "The Hills",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/the-hills/"
+      },
+      "https://artquemy.com/producto/spying/": {
+        "titulo": "Spying",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/spying/"
+      },
+      "https://artquemy.com/producto/i-feel-like-the-ocean/": {
+        "titulo": "I feel like the ocean",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/i-feel-like-the-ocean/"
+      },
+      "https://artquemy.com/producto/where-did-i-go/": {
+        "titulo": "Where did I go?",
+        "precio": "€30,00",
+        "precio_num": 30.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/where-did-i-go/"
+      }
+    },
+    "ultima_comprobacion": "23/09/2026 18:39"
   },
   "Various": {
-    "hash": "90befb9deaadd480857155a7fde0bf86",
-    "texto": "Loader\nEspere mientras se verifica su solicitudâ¦",
-    "obras": {}
+    "url": "https://artquemy.com/artists/various/",
+    "hash": "9e731343acc281fd6a2bbb752063896b",
+    "obras": {
+      "https://artquemy.com/producto/elliot/": {
+        "titulo": "Elliot",
+        "precio": "€950,00",
+        "precio_num": 950.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/elliot/"
+      },
+      "https://artquemy.com/producto/los-ojos-de-margarita/": {
+        "titulo": "Los Ojos de Margarita",
+        "precio": "€40,00",
+        "precio_num": 40.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/los-ojos-de-margarita/"
+      },
+      "https://artquemy.com/producto/yellow-magic/": {
+        "titulo": "Yellow Magic",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/yellow-magic/"
+      },
+      "https://artquemy.com/producto/red-magic/": {
+        "titulo": "Red Magic",
+        "precio": "€120,00",
+        "precio_num": 120.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/red-magic/"
+      },
+      "https://artquemy.com/producto/blue-magic/": {
+        "titulo": "Blue Magic",
+        "precio": "€120,00",
+        "precio_num": 120.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/blue-magic/"
+      },
+      "https://artquemy.com/producto/eye/": {
+        "titulo": "Eye",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/eye/"
+      },
+      "https://artquemy.com/producto/fuchsia-madness/": {
+        "titulo": "fuchsia Madness",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/fuchsia-madness/"
+      },
+      "https://artquemy.com/producto/small-devil/": {
+        "titulo": "Small devil",
+        "precio": "€900,00",
+        "precio_num": 900.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/small-devil/"
+      },
+      "https://artquemy.com/producto/blue-boy/": {
+        "titulo": "Blue boy",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/blue-boy/"
+      },
+      "https://artquemy.com/producto/pink-robot/": {
+        "titulo": "Lost Pink Robot",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/pink-robot/"
+      },
+      "https://artquemy.com/producto/big-devil/": {
+        "titulo": "Big devil",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/big-devil/"
+      },
+      "https://artquemy.com/producto/pajaro-pez/": {
+        "titulo": "Pájaro-Pez",
+        "precio": "€1.500,00",
+        "precio_num": 1500.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/pajaro-pez/"
+      },
+      "https://artquemy.com/producto/ovni/": {
+        "titulo": "OVNI",
+        "precio": "€1.500,00",
+        "precio_num": 1500.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/ovni/"
+      },
+      "https://artquemy.com/producto/old-school/": {
+        "titulo": "Old school",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/old-school/"
+      }
+    },
+    "ultima_comprobacion": "23/09/2026 18:40"
   },
   "Cuestión de caracter": {
     "hash": "90befb9deaadd480857155a7fde0bf86",
