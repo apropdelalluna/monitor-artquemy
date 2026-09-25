@@ -17430,6 +17430,42 @@
       "precio_num": 0.0,
       "tipo": "nueva_vendida",
       "url": "https://artquemy.com/producto/a-little-traveller-2/"
+    },
+    {
+      "fecha": "25/09/2026 01:04",
+      "artista": {
+        "nombre": "Rocco Del Franco",
+        "url": "https://artquemy.com/artists/rocco-del-franco/"
+      },
+      "obra": "Psico Orange",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/psico-orange/"
+    },
+    {
+      "fecha": "25/09/2026 01:04",
+      "artista": {
+        "nombre": "Rocco Del Franco",
+        "url": "https://artquemy.com/artists/rocco-del-franco/"
+      },
+      "obra": "La Nube series",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/la-nube-series/"
+    },
+    {
+      "fecha": "25/09/2026 01:04",
+      "artista": {
+        "nombre": "Rocco Del Franco",
+        "url": "https://artquemy.com/artists/rocco-del-franco/"
+      },
+      "obra": "Classic Orange II",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/classic-orange-ii/"
     }
   ]
 }
