@@ -445,7 +445,7 @@
         "url": "https://artquemy.com/producto/cascada-de-colores/"
       }
     },
-    "ultima_comprobacion": "23/09/2026 18:40"
+    "ultima_comprobacion": "25/09/2026 01:04"
   },
   "Alessia Obinu": {
     "url": "https://artquemy.com/artists/alessia-obinu/",
@@ -473,7 +473,7 @@
         "url": "https://artquemy.com/producto/cicatrizacion/"
       }
     },
-    "ultima_comprobacion": "23/09/2026 18:41"
+    "ultima_comprobacion": "25/09/2026 01:04"
   },
   "Catapop": {
     "url": "https://artquemy.com/artists/catapop/",
@@ -8420,9 +8420,228 @@
     "ultima_comprobacion": "24/09/2026 23:00"
   },
   "Rocco Del Franco": {
-    "hash": "90befb9deaadd480857155a7fde0bf86",
-    "texto": "Loader\nEspere mientras se verifica su solicitudâ¦",
-    "obras": {}
+    "url": "https://artquemy.com/artists/rocco-del-franco/",
+    "hash": "ad8d5a330e12332f9d3497aa91513fc0",
+    "obras": {
+      "https://artquemy.com/producto/psico-orange/": {
+        "titulo": "Psico Orange",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/psico-orange/"
+      },
+      "https://artquemy.com/producto/serie-naranjas-candy/": {
+        "titulo": "Serie Naranjas – Candy",
+        "precio": "€35,00",
+        "precio_num": 35.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/serie-naranjas-candy/"
+      },
+      "https://artquemy.com/producto/serie-naranjas-sanguinella/": {
+        "titulo": "Serie Naranjas – Sanguinella",
+        "precio": "€35,00",
+        "precio_num": 35.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/serie-naranjas-sanguinella/"
+      },
+      "https://artquemy.com/producto/violeta/": {
+        "titulo": "Serie Naranjas – Violeta",
+        "precio": "€35,00",
+        "precio_num": 35.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/violeta/"
+      },
+      "https://artquemy.com/producto/amarillo-2/": {
+        "titulo": "Serie Naranjas – Amarillo",
+        "precio": "€35,00",
+        "precio_num": 35.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/amarillo-2/"
+      },
+      "https://artquemy.com/producto/candy/": {
+        "titulo": "Serie Naranjas – Candy",
+        "precio": "€70,00",
+        "precio_num": 70.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/candy/"
+      },
+      "https://artquemy.com/producto/candy-black/": {
+        "titulo": "Serie Naranjas – Candy Black",
+        "precio": "€70,00",
+        "precio_num": 70.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/candy-black/"
+      },
+      "https://artquemy.com/producto/flores-y-nubes-white-2/": {
+        "titulo": "Flores y Nubes White",
+        "precio": "€35,00",
+        "precio_num": 35.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/flores-y-nubes-white-2/"
+      },
+      "https://artquemy.com/producto/flores-y-nubes-white/": {
+        "titulo": "Flores y Nubes White",
+        "precio": "€70,00",
+        "precio_num": 70.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/flores-y-nubes-white/"
+      },
+      "https://artquemy.com/producto/flores-y-nubes-black-2/": {
+        "titulo": "Flores y Nubes Black",
+        "precio": "€35,00",
+        "precio_num": 35.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/flores-y-nubes-black-2/"
+      },
+      "https://artquemy.com/producto/flores-y-nubes-black/": {
+        "titulo": "Flores y Nubes Black",
+        "precio": "€70,00",
+        "precio_num": 70.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/flores-y-nubes-black/"
+      },
+      "https://artquemy.com/producto/la-nube-x-series/": {
+        "titulo": "La Nube X series",
+        "precio": "€120,00",
+        "precio_num": 120.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/la-nube-x-series/"
+      },
+      "https://artquemy.com/producto/la-nube-ix-series/": {
+        "titulo": "La Nube IX series",
+        "precio": "€120,00",
+        "precio_num": 120.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/la-nube-ix-series/"
+      },
+      "https://artquemy.com/producto/la-nube-viii-series/": {
+        "titulo": "La Nube VIII series",
+        "precio": "€120,00",
+        "precio_num": 120.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/la-nube-viii-series/"
+      },
+      "https://artquemy.com/producto/la-nube-vii-series/": {
+        "titulo": "La Nube VII series",
+        "precio": "€120,00",
+        "precio_num": 120.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/la-nube-vii-series/"
+      },
+      "https://artquemy.com/producto/la-nube-v-series-2/": {
+        "titulo": "La Nube VI series",
+        "precio": "€120,00",
+        "precio_num": 120.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/la-nube-v-series-2/"
+      },
+      "https://artquemy.com/producto/flores-y-nubes/": {
+        "titulo": "Flores y Nubes",
+        "precio": "€490,00",
+        "precio_num": 490.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/flores-y-nubes/"
+      },
+      "https://artquemy.com/producto/la-nube-v-series/": {
+        "titulo": "La Nube V series",
+        "precio": "€120,00",
+        "precio_num": 120.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/la-nube-v-series/"
+      },
+      "https://artquemy.com/producto/la-nube-iiii-series/": {
+        "titulo": "La Nube IV series",
+        "precio": "€120,00",
+        "precio_num": 120.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/la-nube-iiii-series/"
+      },
+      "https://artquemy.com/producto/la-nube-iii-series/": {
+        "titulo": "La Nube III series",
+        "precio": "€120,00",
+        "precio_num": 120.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/la-nube-iii-series/"
+      },
+      "https://artquemy.com/producto/la-nube-2-series/": {
+        "titulo": "La Nube II series",
+        "precio": "€240,00",
+        "precio_num": 240.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/la-nube-2-series/"
+      },
+      "https://artquemy.com/producto/la-nube-series/": {
+        "titulo": "La Nube series",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/la-nube-series/"
+      },
+      "https://artquemy.com/producto/distorted-orange-ii/": {
+        "titulo": "Distorted Orange II",
+        "precio": "€110,00",
+        "precio_num": 110.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/distorted-orange-ii/"
+      },
+      "https://artquemy.com/producto/distorted-orange/": {
+        "titulo": "Distorted Orange",
+        "precio": "€110,00",
+        "precio_num": 110.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/distorted-orange/"
+      },
+      "https://artquemy.com/producto/classic-orange-i/": {
+        "titulo": "Classic Orange I",
+        "precio": "€110,00",
+        "precio_num": 110.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/classic-orange-i/"
+      },
+      "https://artquemy.com/producto/classic-orange-ii/": {
+        "titulo": "Classic Orange II",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/classic-orange-ii/"
+      },
+      "https://artquemy.com/producto/classic-orange-iii/": {
+        "titulo": "Classic Orange III",
+        "precio": "€110,00",
+        "precio_num": 110.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/classic-orange-iii/"
+      },
+      "https://artquemy.com/producto/classic-orange-iv/": {
+        "titulo": "Classic Orange IV",
+        "precio": "€110,00",
+        "precio_num": 110.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/classic-orange-iv/"
+      },
+      "https://artquemy.com/producto/classic-orange-v/": {
+        "titulo": "Classic Orange V",
+        "precio": "€110,00",
+        "precio_num": 110.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/classic-orange-v/"
+      },
+      "https://artquemy.com/producto/classic-orange-vi/": {
+        "titulo": "Classic Orange VI",
+        "precio": "€110,00",
+        "precio_num": 110.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/classic-orange-vi/"
+      },
+      "https://artquemy.com/producto/classic-orange-vii/": {
+        "titulo": "Classic Orange VII",
+        "precio": "€110,00",
+        "precio_num": 110.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/classic-orange-vii/"
+      }
+    },
+    "ultima_comprobacion": "25/09/2026 01:01"
   },
   "Rocío Iannone": {
     "url": "https://artquemy.com/artists/rocio-iannone/",
@@ -8583,7 +8802,7 @@
         "url": "https://artquemy.com/producto/como-se-contempla-una-desgracia/"
       }
     },
-    "ultima_comprobacion": "23/09/2026 18:37"
+    "ultima_comprobacion": "25/09/2026 01:01"
   },
   "Soy feo pero te amo": {
     "url": "https://artquemy.com/artists/soy-feo-pero-te-amo/",
@@ -8849,7 +9068,7 @@
         "url": "https://artquemy.com/producto/together/"
       }
     },
-    "ultima_comprobacion": "23/09/2026 18:38"
+    "ultima_comprobacion": "25/09/2026 01:01"
   },
   "Surfia": {
     "url": "https://artquemy.com/artists/surfia/",
@@ -9059,7 +9278,7 @@
         "url": "https://artquemy.com/producto/i-have-got-mad-methods-delivering-my-flow/"
       }
     },
-    "ultima_comprobacion": "23/09/2026 18:38"
+    "ultima_comprobacion": "25/09/2026 01:02"
   },
   "Tiny": {
     "url": "https://artquemy.com/artists/tiny/",
@@ -9668,7 +9887,7 @@
         "url": "https://artquemy.com/producto/balcony/"
       }
     },
-    "ultima_comprobacion": "23/09/2026 18:39"
+    "ultima_comprobacion": "25/09/2026 01:02"
   },
   "Urban Flowers": {
     "url": "https://artquemy.com/artists/urban-flowers/",
@@ -10452,7 +10671,7 @@
         "url": "https://artquemy.com/producto/spray-love/"
       }
     },
-    "ultima_comprobacion": "23/09/2026 18:39"
+    "ultima_comprobacion": "25/09/2026 01:03"
   },
   "Yilov": {
     "url": "https://artquemy.com/artists/yilov/",
@@ -10592,7 +10811,7 @@
         "url": "https://artquemy.com/producto/where-did-i-go/"
       }
     },
-    "ultima_comprobacion": "23/09/2026 18:39"
+    "ultima_comprobacion": "25/09/2026 01:03"
   },
   "Various": {
     "url": "https://artquemy.com/artists/various/",
@@ -10697,7 +10916,7 @@
         "url": "https://artquemy.com/producto/old-school/"
       }
     },
-    "ultima_comprobacion": "23/09/2026 18:40"
+    "ultima_comprobacion": "25/09/2026 01:03"
   },
   "Cuestión de caracter": {
     "hash": "90befb9deaadd480857155a7fde0bf86",
