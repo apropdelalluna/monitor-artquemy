@@ -17466,6 +17466,30 @@
       "precio_num": 0.0,
       "tipo": "nueva_vendida",
       "url": "https://artquemy.com/producto/classic-orange-ii/"
+    },
+    {
+      "fecha": "25/09/2026 03:08",
+      "artista": {
+        "nombre": "Ceci SN",
+        "url": "https://artquemy.com/artists/ceci-sn/"
+      },
+      "obra": "Climbers III",
+      "precio": "€70,00",
+      "precio_num": 70.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/climbers-iii/"
+    },
+    {
+      "fecha": "25/09/2026 03:08",
+      "artista": {
+        "nombre": "Ceci SN",
+        "url": "https://artquemy.com/artists/ceci-sn/"
+      },
+      "obra": "Climbers I",
+      "precio": "€70,00",
+      "precio_num": 70.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/climbers-i/"
     }
   ]
 }
