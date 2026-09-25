@@ -28427,5 +28427,284 @@
     "precio_num": 60.0,
     "url": "https://artquemy.com/producto/t-shirt-black/",
     "fecha": "24/09/2026 23:00"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Psico Orange",
+    "artista": "Rocco Del Franco",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/psico-orange/",
+    "fecha": "25/09/2026 01:01"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Serie Naranjas – Candy",
+    "artista": "Rocco Del Franco",
+    "precio": "€35,00",
+    "precio_num": 35.0,
+    "url": "https://artquemy.com/producto/serie-naranjas-candy/",
+    "fecha": "25/09/2026 01:01"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Serie Naranjas – Sanguinella",
+    "artista": "Rocco Del Franco",
+    "precio": "€35,00",
+    "precio_num": 35.0,
+    "url": "https://artquemy.com/producto/serie-naranjas-sanguinella/",
+    "fecha": "25/09/2026 01:01"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Serie Naranjas – Violeta",
+    "artista": "Rocco Del Franco",
+    "precio": "€35,00",
+    "precio_num": 35.0,
+    "url": "https://artquemy.com/producto/violeta/",
+    "fecha": "25/09/2026 01:01"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Serie Naranjas – Amarillo",
+    "artista": "Rocco Del Franco",
+    "precio": "€35,00",
+    "precio_num": 35.0,
+    "url": "https://artquemy.com/producto/amarillo-2/",
+    "fecha": "25/09/2026 01:01"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Serie Naranjas – Candy",
+    "artista": "Rocco Del Franco",
+    "precio": "€70,00",
+    "precio_num": 70.0,
+    "url": "https://artquemy.com/producto/candy/",
+    "fecha": "25/09/2026 01:01"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Serie Naranjas – Candy Black",
+    "artista": "Rocco Del Franco",
+    "precio": "€70,00",
+    "precio_num": 70.0,
+    "url": "https://artquemy.com/producto/candy-black/",
+    "fecha": "25/09/2026 01:01"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Flores y Nubes White",
+    "artista": "Rocco Del Franco",
+    "precio": "€35,00",
+    "precio_num": 35.0,
+    "url": "https://artquemy.com/producto/flores-y-nubes-white-2/",
+    "fecha": "25/09/2026 01:01"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Flores y Nubes White",
+    "artista": "Rocco Del Franco",
+    "precio": "€70,00",
+    "precio_num": 70.0,
+    "url": "https://artquemy.com/producto/flores-y-nubes-white/",
+    "fecha": "25/09/2026 01:01"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Flores y Nubes Black",
+    "artista": "Rocco Del Franco",
+    "precio": "€35,00",
+    "precio_num": 35.0,
+    "url": "https://artquemy.com/producto/flores-y-nubes-black-2/",
+    "fecha": "25/09/2026 01:01"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Flores y Nubes Black",
+    "artista": "Rocco Del Franco",
+    "precio": "€70,00",
+    "precio_num": 70.0,
+    "url": "https://artquemy.com/producto/flores-y-nubes-black/",
+    "fecha": "25/09/2026 01:01"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "La Nube X series",
+    "artista": "Rocco Del Franco",
+    "precio": "€120,00",
+    "precio_num": 120.0,
+    "url": "https://artquemy.com/producto/la-nube-x-series/",
+    "fecha": "25/09/2026 01:01"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "La Nube IX series",
+    "artista": "Rocco Del Franco",
+    "precio": "€120,00",
+    "precio_num": 120.0,
+    "url": "https://artquemy.com/producto/la-nube-ix-series/",
+    "fecha": "25/09/2026 01:01"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "La Nube VIII series",
+    "artista": "Rocco Del Franco",
+    "precio": "€120,00",
+    "precio_num": 120.0,
+    "url": "https://artquemy.com/producto/la-nube-viii-series/",
+    "fecha": "25/09/2026 01:01"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "La Nube VII series",
+    "artista": "Rocco Del Franco",
+    "precio": "€120,00",
+    "precio_num": 120.0,
+    "url": "https://artquemy.com/producto/la-nube-vii-series/",
+    "fecha": "25/09/2026 01:01"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "La Nube VI series",
+    "artista": "Rocco Del Franco",
+    "precio": "€120,00",
+    "precio_num": 120.0,
+    "url": "https://artquemy.com/producto/la-nube-v-series-2/",
+    "fecha": "25/09/2026 01:01"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Flores y Nubes",
+    "artista": "Rocco Del Franco",
+    "precio": "€490,00",
+    "precio_num": 490.0,
+    "url": "https://artquemy.com/producto/flores-y-nubes/",
+    "fecha": "25/09/2026 01:01"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "La Nube V series",
+    "artista": "Rocco Del Franco",
+    "precio": "€120,00",
+    "precio_num": 120.0,
+    "url": "https://artquemy.com/producto/la-nube-v-series/",
+    "fecha": "25/09/2026 01:01"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "La Nube IV series",
+    "artista": "Rocco Del Franco",
+    "precio": "€120,00",
+    "precio_num": 120.0,
+    "url": "https://artquemy.com/producto/la-nube-iiii-series/",
+    "fecha": "25/09/2026 01:01"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "La Nube III series",
+    "artista": "Rocco Del Franco",
+    "precio": "€120,00",
+    "precio_num": 120.0,
+    "url": "https://artquemy.com/producto/la-nube-iii-series/",
+    "fecha": "25/09/2026 01:01"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "La Nube II series",
+    "artista": "Rocco Del Franco",
+    "precio": "€240,00",
+    "precio_num": 240.0,
+    "url": "https://artquemy.com/producto/la-nube-2-series/",
+    "fecha": "25/09/2026 01:01"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "La Nube series",
+    "artista": "Rocco Del Franco",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/la-nube-series/",
+    "fecha": "25/09/2026 01:01"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Distorted Orange II",
+    "artista": "Rocco Del Franco",
+    "precio": "€110,00",
+    "precio_num": 110.0,
+    "url": "https://artquemy.com/producto/distorted-orange-ii/",
+    "fecha": "25/09/2026 01:01"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Distorted Orange",
+    "artista": "Rocco Del Franco",
+    "precio": "€110,00",
+    "precio_num": 110.0,
+    "url": "https://artquemy.com/producto/distorted-orange/",
+    "fecha": "25/09/2026 01:01"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Classic Orange I",
+    "artista": "Rocco Del Franco",
+    "precio": "€110,00",
+    "precio_num": 110.0,
+    "url": "https://artquemy.com/producto/classic-orange-i/",
+    "fecha": "25/09/2026 01:01"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Classic Orange II",
+    "artista": "Rocco Del Franco",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/classic-orange-ii/",
+    "fecha": "25/09/2026 01:01"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Classic Orange III",
+    "artista": "Rocco Del Franco",
+    "precio": "€110,00",
+    "precio_num": 110.0,
+    "url": "https://artquemy.com/producto/classic-orange-iii/",
+    "fecha": "25/09/2026 01:01"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Classic Orange IV",
+    "artista": "Rocco Del Franco",
+    "precio": "€110,00",
+    "precio_num": 110.0,
+    "url": "https://artquemy.com/producto/classic-orange-iv/",
+    "fecha": "25/09/2026 01:01"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Classic Orange V",
+    "artista": "Rocco Del Franco",
+    "precio": "€110,00",
+    "precio_num": 110.0,
+    "url": "https://artquemy.com/producto/classic-orange-v/",
+    "fecha": "25/09/2026 01:01"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Classic Orange VI",
+    "artista": "Rocco Del Franco",
+    "precio": "€110,00",
+    "precio_num": 110.0,
+    "url": "https://artquemy.com/producto/classic-orange-vi/",
+    "fecha": "25/09/2026 01:01"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Classic Orange VII",
+    "artista": "Rocco Del Franco",
+    "precio": "€110,00",
+    "precio_num": 110.0,
+    "url": "https://artquemy.com/producto/classic-orange-vii/",
+    "fecha": "25/09/2026 01:01"
   }
 ]
