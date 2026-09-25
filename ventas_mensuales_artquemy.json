@@ -17490,6 +17490,18 @@
       "precio_num": 70.0,
       "tipo": "vendida",
       "url": "https://artquemy.com/producto/climbers-i/"
+    },
+    {
+      "fecha": "25/09/2026 07:14",
+      "artista": {
+        "nombre": "Prëo",
+        "url": "https://artquemy.com/artists/preo/"
+      },
+      "obra": "Lluvia milagrosa",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/lluvia-milagrosa/"
     }
   ]
 }
