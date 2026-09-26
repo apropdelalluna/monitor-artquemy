@@ -17502,6 +17502,18 @@
       "precio_num": 0.0,
       "tipo": "nueva_vendida",
       "url": "https://artquemy.com/producto/lluvia-milagrosa/"
+    },
+    {
+      "fecha": "26/09/2026 20:18",
+      "artista": {
+        "nombre": "Collage Volage",
+        "url": "https://artquemy.com/artists/collage-volage/"
+      },
+      "obra": "Miséricorde",
+      "precio": "€50,00",
+      "precio_num": 50.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/de-la-serie-collage-1/"
     }
   ]
 }
