@@ -3207,430 +3207,9 @@
   },
   "El Xupet Negre": {
     "url": "https://artquemy.com/artists/el-xupet-negre/",
-    "hash": "c7a760054c6cad4f394f756115b43931",
-    "obras": {
-      "https://artquemy.com/producto/live-at-negrelab/": {
-        "titulo": "Live At Negrelab",
-        "precio": "€2.500,00",
-        "precio_num": 2500.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/live-at-negrelab/"
-      },
-      "https://artquemy.com/producto/supper-with-the-crew/": {
-        "titulo": "Supper with the crew",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/supper-with-the-crew/"
-      },
-      "https://artquemy.com/producto/roman-writer/": {
-        "titulo": "Roman Writer",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/roman-writer/"
-      },
-      "https://artquemy.com/producto/golden-piece/": {
-        "titulo": "Golden Piece",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/golden-piece/"
-      },
-      "https://artquemy.com/producto/walls-hunter/": {
-        "titulo": "Walls hunter",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/walls-hunter/"
-      },
-      "https://artquemy.com/producto/street-artists-customs/": {
-        "titulo": "Street artists customs",
-        "precio": "€1.600,00",
-        "precio_num": 1600.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/street-artists-customs/"
-      },
-      "https://artquemy.com/producto/one-dopepope/": {
-        "titulo": "One Dopepope",
-        "precio": "€1.600,00",
-        "precio_num": 1600.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/one-dopepope/"
-      },
-      "https://artquemy.com/producto/las-santas/": {
-        "titulo": "Las Santas",
-        "precio": "€1.500,00",
-        "precio_num": 1500.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/las-santas/"
-      },
-      "https://artquemy.com/producto/san-cristobal/": {
-        "titulo": "San Cristóbal",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/san-cristobal/"
-      },
-      "https://artquemy.com/producto/apparition-2/": {
-        "titulo": "Apparition",
-        "precio": "€1.300,00",
-        "precio_num": 1300.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/apparition-2/"
-      },
-      "https://artquemy.com/producto/pacifiers-parade/": {
-        "titulo": "Pacifiers parade",
-        "precio": "€1.300,00",
-        "precio_num": 1300.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/pacifiers-parade/"
-      },
-      "https://artquemy.com/producto/la-venus-de-xupet/": {
-        "titulo": "La Venus de Xupet",
-        "precio": "€1.300,00",
-        "precio_num": 1300.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/la-venus-de-xupet/"
-      },
-      "https://artquemy.com/producto/black-king/": {
-        "titulo": "Black King",
-        "precio": "€1.300,00",
-        "precio_num": 1300.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/black-king/"
-      },
-      "https://artquemy.com/producto/holly-xupet-2/": {
-        "titulo": "Holly Xupet I",
-        "precio": "€1.300,00",
-        "precio_num": 1300.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/holly-xupet-2/"
-      },
-      "https://artquemy.com/producto/la-madre-del-divino-amor/": {
-        "titulo": "La madre del divino amor",
-        "precio": "€1.300,00",
-        "precio_num": 1300.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/la-madre-del-divino-amor/"
-      },
-      "https://artquemy.com/producto/king-of-heaven/": {
-        "titulo": "King of heaven",
-        "precio": "€1.300,00",
-        "precio_num": 1300.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/king-of-heaven/"
-      },
-      "https://artquemy.com/producto/holly-xupet/": {
-        "titulo": "Holly Xupet II",
-        "precio": "€1.300,00",
-        "precio_num": 1300.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/holly-xupet/"
-      },
-      "https://artquemy.com/producto/black-cherubs/": {
-        "titulo": "Black Cherubs",
-        "precio": "€1.300,00",
-        "precio_num": 1300.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/black-cherubs/"
-      },
-      "https://artquemy.com/producto/orange-ink-bautism/": {
-        "titulo": "Orange ink bautism",
-        "precio": "€1.300,00",
-        "precio_num": 1300.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/orange-ink-bautism/"
-      },
-      "https://artquemy.com/producto/black-boutism/": {
-        "titulo": "Black boutism",
-        "precio": "€1.300,00",
-        "precio_num": 1300.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/black-boutism/"
-      },
-      "https://artquemy.com/producto/lord-xupet/": {
-        "titulo": "Lord Xupet",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/lord-xupet/"
-      },
-      "https://artquemy.com/producto/pope/": {
-        "titulo": "Pope",
-        "precio": "€1.200,00",
-        "precio_num": 1200.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/pope/"
-      },
-      "https://artquemy.com/producto/black-pope/": {
-        "titulo": "Black Pope",
-        "precio": "€1.200,00",
-        "precio_num": 1200.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/black-pope/"
-      },
-      "https://artquemy.com/producto/la-tetine-noir/": {
-        "titulo": "La tétine noir",
-        "precio": "€1.190,00",
-        "precio_num": 1190.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/la-tetine-noir/"
-      },
-      "https://artquemy.com/producto/el-rey-pacificado/": {
-        "titulo": "El rey pacificado",
-        "precio": "€1.080,00",
-        "precio_num": 1080.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/el-rey-pacificado/"
-      },
-      "https://artquemy.com/producto/piano-lesson/": {
-        "titulo": "Piano Lesson",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/piano-lesson/"
-      },
-      "https://artquemy.com/producto/lady/": {
-        "titulo": "Miss black",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/lady/"
-      },
-      "https://artquemy.com/producto/pritcher/": {
-        "titulo": "Pritcher",
-        "precio": "€890,00",
-        "precio_num": 890.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/pritcher/"
-      },
-      "https://artquemy.com/producto/police-down/": {
-        "titulo": "Police down",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/police-down/"
-      },
-      "https://artquemy.com/producto/queen-mother/": {
-        "titulo": "Queen Mother",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/queen-mother/"
-      },
-      "https://artquemy.com/producto/pic-nic-with-the-pacifier/": {
-        "titulo": "Picnic with the pacifier",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/pic-nic-with-the-pacifier/"
-      },
-      "https://artquemy.com/producto/bu/": {
-        "titulo": "BU",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/bu/"
-      },
-      "https://artquemy.com/producto/flow-one/": {
-        "titulo": "Flow One",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/flow-one/"
-      },
-      "https://artquemy.com/producto/na-s-a-de-la-paz-copy/": {
-        "titulo": "La virgen de Montserrat",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/na-s-a-de-la-paz-copy/"
-      },
-      "https://artquemy.com/producto/na-s-a-de-la-paz/": {
-        "titulo": "Na. S.a de la Paz",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/na-s-a-de-la-paz/"
-      },
-      "https://artquemy.com/producto/sacred-logo/": {
-        "titulo": "Sacred logo",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/sacred-logo/"
-      },
-      "https://artquemy.com/producto/hip-pope/": {
-        "titulo": "Hip Pope",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/hip-pope/"
-      },
-      "https://artquemy.com/producto/born-to-spray/": {
-        "titulo": "Born to spray",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/born-to-spray/"
-      },
-      "https://artquemy.com/producto/noir/": {
-        "titulo": "Noir",
-        "precio": "€350,00",
-        "precio_num": 350.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/noir/"
-      },
-      "https://artquemy.com/producto/black-colors/": {
-        "titulo": "Black Colors",
-        "precio": "€350,00",
-        "precio_num": 350.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/black-colors/"
-      },
-      "https://artquemy.com/producto/black/": {
-        "titulo": "Black",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/black/"
-      },
-      "https://artquemy.com/producto/lucky-xupet/": {
-        "titulo": "Lucky Xupet",
-        "precio": "€300,00",
-        "precio_num": 300.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/lucky-xupet/"
-      },
-      "https://artquemy.com/producto/ltd-aqy-skateboard/": {
-        "titulo": "LTD AQY Skateboard",
-        "precio": "€250,00",
-        "precio_num": 250.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/ltd-aqy-skateboard/"
-      },
-      "https://artquemy.com/producto/art-toy-serie-two-blue/": {
-        "titulo": "Art Toy Serie Two (Blue)",
-        "precio": "€250,00",
-        "precio_num": 250.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/art-toy-serie-two-blue/"
-      },
-      "https://artquemy.com/producto/pink-pacifier/": {
-        "titulo": "Art Toy Serie Two (Pink)",
-        "precio": "€250,00",
-        "precio_num": 250.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/pink-pacifier/"
-      },
-      "https://artquemy.com/producto/ruski-god/": {
-        "titulo": "Ruski God",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/ruski-god/"
-      },
-      "https://artquemy.com/producto/amazing-flow/": {
-        "titulo": "Amazing Flow",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/amazing-flow/"
-      },
-      "https://artquemy.com/producto/dope-mom/": {
-        "titulo": "Dope mom",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/dope-mom/"
-      },
-      "https://artquemy.com/producto/baby-jesus-black/": {
-        "titulo": "Baby Jesus Black",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/baby-jesus-black/"
-      },
-      "https://artquemy.com/producto/black-angel/": {
-        "titulo": "Black Angel",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/black-angel/"
-      },
-      "https://artquemy.com/producto/art-toy-purple/": {
-        "titulo": "Art Toy Purple",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/art-toy-purple/"
-      },
-      "https://artquemy.com/producto/art-toy-orange/": {
-        "titulo": "Art Toy Orange",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/art-toy-orange/"
-      },
-      "https://artquemy.com/producto/art-toy-green/": {
-        "titulo": "Art Toy Green",
-        "precio": "€199,00",
-        "precio_num": 199.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/art-toy-green/"
-      },
-      "https://artquemy.com/producto/meninas-iii/": {
-        "titulo": "Meninas III",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/meninas-iii/"
-      },
-      "https://artquemy.com/producto/meninas-ii/": {
-        "titulo": "Meninas II",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/meninas-ii/"
-      },
-      "https://artquemy.com/producto/meninas-i/": {
-        "titulo": "Meninas I",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/meninas-i/"
-      },
-      "https://artquemy.com/producto/yellow-logo-t-shirt-2/": {
-        "titulo": "Yellow Logo T-Shirt",
-        "precio": "€40,00",
-        "precio_num": 40.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/yellow-logo-t-shirt-2/"
-      },
-      "https://artquemy.com/producto/yellow-logo-t-shirt/": {
-        "titulo": "Yellow Logo T-Shirt",
-        "precio": "€40,00",
-        "precio_num": 40.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/yellow-logo-t-shirt/"
-      },
-      "https://artquemy.com/producto/pink-logo-t-shirt-2/": {
-        "titulo": "Pink Logo T-Shirt",
-        "precio": "€40,00",
-        "precio_num": 40.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/pink-logo-t-shirt-2/"
-      },
-      "https://artquemy.com/producto/pink-logo-t-shirt/": {
-        "titulo": "Pink Logo T-Shirt",
-        "precio": "€40,00",
-        "precio_num": 40.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/pink-logo-t-shirt/"
-      }
-    },
-    "ultima_comprobacion": "25/09/2026 03:08"
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "obras": {},
+    "ultima_comprobacion": "26/09/2026 17:07"
   },
   "Evamik": {
     "url": "https://artquemy.com/artists/evamik/",
@@ -3735,7 +3314,7 @@
         "url": "https://artquemy.com/producto/work-come/"
       }
     },
-    "ultima_comprobacion": "25/09/2026 05:09"
+    "ultima_comprobacion": "26/09/2026 17:07"
   },
   "Erwtje": {
     "url": "https://artquemy.com/artists/erwtje/",
@@ -4106,7 +3685,7 @@
         "url": "https://artquemy.com/producto/t-shirt/"
       }
     },
-    "ultima_comprobacion": "25/09/2026 05:09"
+    "ultima_comprobacion": "26/09/2026 17:08"
   },
   "Irannis Mejias": {
     "url": "https://artquemy.com/artists/irannis/",
@@ -4176,7 +3755,7 @@
         "url": "https://artquemy.com/producto/lo-divino-en-lo-cotidiano/"
       }
     },
-    "ultima_comprobacion": "25/09/2026 05:09"
+    "ultima_comprobacion": "26/09/2026 17:08"
   },
   "Jamso": {
     "url": "https://artquemy.com/artists/jamso/",
@@ -4225,7 +3804,7 @@
         "url": "https://artquemy.com/producto/calavera-3/"
       }
     },
-    "ultima_comprobacion": "25/09/2026 05:10"
+    "ultima_comprobacion": "26/09/2026 17:08"
   },
   "Jor Ros": {
     "url": "https://artquemy.com/artists/jor-ros/",
@@ -4694,7 +4273,7 @@
         "url": "https://artquemy.com/producto/tiger-snake-i/"
       }
     },
-    "ultima_comprobacion": "25/09/2026 05:10"
+    "ultima_comprobacion": "26/09/2026 17:09"
   },
   "Jorge Suñer": {
     "url": "https://artquemy.com/artists/jorge-suner/",
@@ -4813,7 +4392,7 @@
         "url": "https://artquemy.com/producto/el-oleaje-de-verano/"
       }
     },
-    "ultima_comprobacion": "25/09/2026 05:10"
+    "ultima_comprobacion": "26/09/2026 17:09"
   },
   "Juandrés Vera": {
     "url": "https://artquemy.com/artists/juandres-vera/",
@@ -4897,7 +4476,7 @@
         "url": "https://artquemy.com/producto/loop/"
       }
     },
-    "ultima_comprobacion": "25/09/2026 05:10"
+    "ultima_comprobacion": "26/09/2026 17:09"
   },
   "Juncosa": {
     "url": "https://artquemy.com/artists/juncosa/",
@@ -6073,7 +5652,7 @@
         "url": "https://artquemy.com/producto/flor-de-barcelona-amarilla/"
       }
     },
-    "ultima_comprobacion": "25/09/2026 05:11"
+    "ultima_comprobacion": "26/09/2026 17:10"
   },
   "KST": {
     "url": "https://artquemy.com/artists/kst/",
@@ -6297,7 +5876,7 @@
         "url": "https://artquemy.com/producto/en-el-bosque-2/"
       }
     },
-    "ultima_comprobacion": "25/09/2026 05:11"
+    "ultima_comprobacion": "26/09/2026 17:10"
   },
   "Laura Gonballes": {
     "url": "https://artquemy.com/artists/laura-gonballes/",
