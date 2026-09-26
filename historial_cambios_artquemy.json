@@ -12716,5 +12716,14 @@
         "url": "https://artquemy.com/producto/old-school/"
       }
     ]
+  },
+  {
+    "tipo": "vendida",
+    "titulo": "Miséricorde",
+    "artista": "Collage Volage",
+    "precio": "€50,00",
+    "precio_num": 50.0,
+    "url": "https://artquemy.com/producto/de-la-serie-collage-1/",
+    "fecha": "26/09/2026 20:17"
   }
 ]
