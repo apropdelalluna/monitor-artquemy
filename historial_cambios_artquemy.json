@@ -28814,5 +28814,545 @@
     "precio_num": 100.0,
     "url": "https://artquemy.com/producto/quebrada/",
     "fecha": "25/09/2026 07:14"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Live At Negrelab",
+    "artista": "El Xupet Negre",
+    "precio": "€2.500,00",
+    "precio_num": 2500.0,
+    "url": "https://artquemy.com/producto/live-at-negrelab/",
+    "fecha": "26/09/2026 17:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Supper with the crew",
+    "artista": "El Xupet Negre",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/supper-with-the-crew/",
+    "fecha": "26/09/2026 17:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Roman Writer",
+    "artista": "El Xupet Negre",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/roman-writer/",
+    "fecha": "26/09/2026 17:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Golden Piece",
+    "artista": "El Xupet Negre",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/golden-piece/",
+    "fecha": "26/09/2026 17:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Walls hunter",
+    "artista": "El Xupet Negre",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/walls-hunter/",
+    "fecha": "26/09/2026 17:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Street artists customs",
+    "artista": "El Xupet Negre",
+    "precio": "€1.600,00",
+    "precio_num": 1600.0,
+    "url": "https://artquemy.com/producto/street-artists-customs/",
+    "fecha": "26/09/2026 17:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "One Dopepope",
+    "artista": "El Xupet Negre",
+    "precio": "€1.600,00",
+    "precio_num": 1600.0,
+    "url": "https://artquemy.com/producto/one-dopepope/",
+    "fecha": "26/09/2026 17:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Las Santas",
+    "artista": "El Xupet Negre",
+    "precio": "€1.500,00",
+    "precio_num": 1500.0,
+    "url": "https://artquemy.com/producto/las-santas/",
+    "fecha": "26/09/2026 17:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "San Cristóbal",
+    "artista": "El Xupet Negre",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/san-cristobal/",
+    "fecha": "26/09/2026 17:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Apparition",
+    "artista": "El Xupet Negre",
+    "precio": "€1.300,00",
+    "precio_num": 1300.0,
+    "url": "https://artquemy.com/producto/apparition-2/",
+    "fecha": "26/09/2026 17:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Pacifiers parade",
+    "artista": "El Xupet Negre",
+    "precio": "€1.300,00",
+    "precio_num": 1300.0,
+    "url": "https://artquemy.com/producto/pacifiers-parade/",
+    "fecha": "26/09/2026 17:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "La Venus de Xupet",
+    "artista": "El Xupet Negre",
+    "precio": "€1.300,00",
+    "precio_num": 1300.0,
+    "url": "https://artquemy.com/producto/la-venus-de-xupet/",
+    "fecha": "26/09/2026 17:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Black King",
+    "artista": "El Xupet Negre",
+    "precio": "€1.300,00",
+    "precio_num": 1300.0,
+    "url": "https://artquemy.com/producto/black-king/",
+    "fecha": "26/09/2026 17:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Holly Xupet I",
+    "artista": "El Xupet Negre",
+    "precio": "€1.300,00",
+    "precio_num": 1300.0,
+    "url": "https://artquemy.com/producto/holly-xupet-2/",
+    "fecha": "26/09/2026 17:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "La madre del divino amor",
+    "artista": "El Xupet Negre",
+    "precio": "€1.300,00",
+    "precio_num": 1300.0,
+    "url": "https://artquemy.com/producto/la-madre-del-divino-amor/",
+    "fecha": "26/09/2026 17:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "King of heaven",
+    "artista": "El Xupet Negre",
+    "precio": "€1.300,00",
+    "precio_num": 1300.0,
+    "url": "https://artquemy.com/producto/king-of-heaven/",
+    "fecha": "26/09/2026 17:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Holly Xupet II",
+    "artista": "El Xupet Negre",
+    "precio": "€1.300,00",
+    "precio_num": 1300.0,
+    "url": "https://artquemy.com/producto/holly-xupet/",
+    "fecha": "26/09/2026 17:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Black Cherubs",
+    "artista": "El Xupet Negre",
+    "precio": "€1.300,00",
+    "precio_num": 1300.0,
+    "url": "https://artquemy.com/producto/black-cherubs/",
+    "fecha": "26/09/2026 17:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Orange ink bautism",
+    "artista": "El Xupet Negre",
+    "precio": "€1.300,00",
+    "precio_num": 1300.0,
+    "url": "https://artquemy.com/producto/orange-ink-bautism/",
+    "fecha": "26/09/2026 17:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Black boutism",
+    "artista": "El Xupet Negre",
+    "precio": "€1.300,00",
+    "precio_num": 1300.0,
+    "url": "https://artquemy.com/producto/black-boutism/",
+    "fecha": "26/09/2026 17:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Lord Xupet",
+    "artista": "El Xupet Negre",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/lord-xupet/",
+    "fecha": "26/09/2026 17:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Pope",
+    "artista": "El Xupet Negre",
+    "precio": "€1.200,00",
+    "precio_num": 1200.0,
+    "url": "https://artquemy.com/producto/pope/",
+    "fecha": "26/09/2026 17:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Black Pope",
+    "artista": "El Xupet Negre",
+    "precio": "€1.200,00",
+    "precio_num": 1200.0,
+    "url": "https://artquemy.com/producto/black-pope/",
+    "fecha": "26/09/2026 17:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "La tétine noir",
+    "artista": "El Xupet Negre",
+    "precio": "€1.190,00",
+    "precio_num": 1190.0,
+    "url": "https://artquemy.com/producto/la-tetine-noir/",
+    "fecha": "26/09/2026 17:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "El rey pacificado",
+    "artista": "El Xupet Negre",
+    "precio": "€1.080,00",
+    "precio_num": 1080.0,
+    "url": "https://artquemy.com/producto/el-rey-pacificado/",
+    "fecha": "26/09/2026 17:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Piano Lesson",
+    "artista": "El Xupet Negre",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/piano-lesson/",
+    "fecha": "26/09/2026 17:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Miss black",
+    "artista": "El Xupet Negre",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/lady/",
+    "fecha": "26/09/2026 17:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Pritcher",
+    "artista": "El Xupet Negre",
+    "precio": "€890,00",
+    "precio_num": 890.0,
+    "url": "https://artquemy.com/producto/pritcher/",
+    "fecha": "26/09/2026 17:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Police down",
+    "artista": "El Xupet Negre",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/police-down/",
+    "fecha": "26/09/2026 17:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Queen Mother",
+    "artista": "El Xupet Negre",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/queen-mother/",
+    "fecha": "26/09/2026 17:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Picnic with the pacifier",
+    "artista": "El Xupet Negre",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/pic-nic-with-the-pacifier/",
+    "fecha": "26/09/2026 17:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "BU",
+    "artista": "El Xupet Negre",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/bu/",
+    "fecha": "26/09/2026 17:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Flow One",
+    "artista": "El Xupet Negre",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/flow-one/",
+    "fecha": "26/09/2026 17:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "La virgen de Montserrat",
+    "artista": "El Xupet Negre",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/na-s-a-de-la-paz-copy/",
+    "fecha": "26/09/2026 17:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Na. S.a de la Paz",
+    "artista": "El Xupet Negre",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/na-s-a-de-la-paz/",
+    "fecha": "26/09/2026 17:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Sacred logo",
+    "artista": "El Xupet Negre",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/sacred-logo/",
+    "fecha": "26/09/2026 17:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Hip Pope",
+    "artista": "El Xupet Negre",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/hip-pope/",
+    "fecha": "26/09/2026 17:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Born to spray",
+    "artista": "El Xupet Negre",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/born-to-spray/",
+    "fecha": "26/09/2026 17:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Noir",
+    "artista": "El Xupet Negre",
+    "precio": "€350,00",
+    "precio_num": 350.0,
+    "url": "https://artquemy.com/producto/noir/",
+    "fecha": "26/09/2026 17:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Black Colors",
+    "artista": "El Xupet Negre",
+    "precio": "€350,00",
+    "precio_num": 350.0,
+    "url": "https://artquemy.com/producto/black-colors/",
+    "fecha": "26/09/2026 17:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Black",
+    "artista": "El Xupet Negre",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/black/",
+    "fecha": "26/09/2026 17:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Lucky Xupet",
+    "artista": "El Xupet Negre",
+    "precio": "€300,00",
+    "precio_num": 300.0,
+    "url": "https://artquemy.com/producto/lucky-xupet/",
+    "fecha": "26/09/2026 17:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "LTD AQY Skateboard",
+    "artista": "El Xupet Negre",
+    "precio": "€250,00",
+    "precio_num": 250.0,
+    "url": "https://artquemy.com/producto/ltd-aqy-skateboard/",
+    "fecha": "26/09/2026 17:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Art Toy Serie Two (Blue)",
+    "artista": "El Xupet Negre",
+    "precio": "€250,00",
+    "precio_num": 250.0,
+    "url": "https://artquemy.com/producto/art-toy-serie-two-blue/",
+    "fecha": "26/09/2026 17:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Art Toy Serie Two (Pink)",
+    "artista": "El Xupet Negre",
+    "precio": "€250,00",
+    "precio_num": 250.0,
+    "url": "https://artquemy.com/producto/pink-pacifier/",
+    "fecha": "26/09/2026 17:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Ruski God",
+    "artista": "El Xupet Negre",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/ruski-god/",
+    "fecha": "26/09/2026 17:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Amazing Flow",
+    "artista": "El Xupet Negre",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/amazing-flow/",
+    "fecha": "26/09/2026 17:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Dope mom",
+    "artista": "El Xupet Negre",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/dope-mom/",
+    "fecha": "26/09/2026 17:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Baby Jesus Black",
+    "artista": "El Xupet Negre",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/baby-jesus-black/",
+    "fecha": "26/09/2026 17:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Black Angel",
+    "artista": "El Xupet Negre",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/black-angel/",
+    "fecha": "26/09/2026 17:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Art Toy Purple",
+    "artista": "El Xupet Negre",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/art-toy-purple/",
+    "fecha": "26/09/2026 17:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Art Toy Orange",
+    "artista": "El Xupet Negre",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/art-toy-orange/",
+    "fecha": "26/09/2026 17:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Art Toy Green",
+    "artista": "El Xupet Negre",
+    "precio": "€199,00",
+    "precio_num": 199.0,
+    "url": "https://artquemy.com/producto/art-toy-green/",
+    "fecha": "26/09/2026 17:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Meninas III",
+    "artista": "El Xupet Negre",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/meninas-iii/",
+    "fecha": "26/09/2026 17:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Meninas II",
+    "artista": "El Xupet Negre",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/meninas-ii/",
+    "fecha": "26/09/2026 17:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Meninas I",
+    "artista": "El Xupet Negre",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/meninas-i/",
+    "fecha": "26/09/2026 17:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Yellow Logo T-Shirt",
+    "artista": "El Xupet Negre",
+    "precio": "€40,00",
+    "precio_num": 40.0,
+    "url": "https://artquemy.com/producto/yellow-logo-t-shirt-2/",
+    "fecha": "26/09/2026 17:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Yellow Logo T-Shirt",
+    "artista": "El Xupet Negre",
+    "precio": "€40,00",
+    "precio_num": 40.0,
+    "url": "https://artquemy.com/producto/yellow-logo-t-shirt/",
+    "fecha": "26/09/2026 17:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Pink Logo T-Shirt",
+    "artista": "El Xupet Negre",
+    "precio": "€40,00",
+    "precio_num": 40.0,
+    "url": "https://artquemy.com/producto/pink-logo-t-shirt-2/",
+    "fecha": "26/09/2026 17:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Pink Logo T-Shirt",
+    "artista": "El Xupet Negre",
+    "precio": "€40,00",
+    "precio_num": 40.0,
+    "url": "https://artquemy.com/producto/pink-logo-t-shirt/",
+    "fecha": "26/09/2026 17:07"
   }
 ]
