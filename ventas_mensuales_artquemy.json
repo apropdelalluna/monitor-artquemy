@@ -7881,6 +7881,60 @@
       "precio_num": 950.0,
       "tipo": "vendida",
       "url": "https://artquemy.com/producto/old-school/"
+    },
+    {
+      "fecha": "13/09/2026 00:00",
+      "artista": "Ciro Marra",
+      "obra": "Cheloidi (dentro le cicatrici)",
+      "precio": "€3.800,00",
+      "precio_num": 3800.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/cheloidi-dentro-le-cicatrici/"
+    },
+    {
+      "fecha": "13/09/2026 00:00",
+      "artista": "Collage Volage",
+      "obra": "13/12",
+      "precio": "€50,00",
+      "precio_num": 50.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/13-12/"
+    },
+    {
+      "fecha": "13/09/2026 00:00",
+      "artista": "Daniele Verzini",
+      "obra": "Addicted #5",
+      "precio": "€280,00",
+      "precio_num": 280.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/addicted-5/"
+    },
+    {
+      "fecha": "13/09/2026 00:00",
+      "artista": "Jor Ros",
+      "obra": "Nue / ぬえ",
+      "precio": "€500,00",
+      "precio_num": 500.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/nue-%e3%81%ac%e3%81%88/"
+    },
+    {
+      "fecha": "13/09/2026 00:00",
+      "artista": "Laura Gonballes",
+      "obra": "Alguitas azules",
+      "precio": "€1.350,00",
+      "precio_num": 1350.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/alguitas-azules/"
+    },
+    {
+      "fecha": "13/09/2026 00:00",
+      "artista": "Qwert",
+      "obra": "ThE gRaND PatrRiota",
+      "precio": "€1.250,00",
+      "precio_num": 1250.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/the-grand-patrriota/"
     }
   ]
 }
