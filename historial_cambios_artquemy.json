@@ -13265,5 +13265,15 @@
     "precio_num": 40.0,
     "url": "https://artquemy.com/producto/pink-logo-t-shirt/",
     "fecha": "27/09/2026 08:00"
+  },
+  {
+    "tipo": "precio_cambiado",
+    "titulo": "NiGHTwaTCH",
+    "artista": "Qwert",
+    "precio": "€1.500,00",
+    "precio_num": 1500.0,
+    "precio_anterior": "€1.200,00",
+    "url": "https://artquemy.com/producto/nightwatch/",
+    "fecha": "27/09/2026 12:06"
   }
 ]
