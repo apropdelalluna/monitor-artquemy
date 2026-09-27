@@ -17862,6 +17862,18 @@
       "precio_num": 0.0,
       "tipo": "nueva_vendida",
       "url": "https://artquemy.com/producto/meninas-i/"
+    },
+    {
+      "fecha": "27/09/2026 14:14",
+      "artista": {
+        "nombre": "Collage Volage",
+        "url": "https://artquemy.com/artists/collage-volage/"
+      },
+      "obra": "Mi sangre",
+      "precio": "€90,00",
+      "precio_num": 90.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/mi-sangre/"
     }
   ]
 }
