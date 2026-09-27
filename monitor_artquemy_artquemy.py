@@ -420,22 +420,24 @@ def guardar_ventas_mensuales(cambios: list) -> None:
         for cambio in cambios:
             artista = cambio["artista"]
             for c in cambio.get("cambios_obras", []):
-                if c["tipo"] in ("vendida", "nueva_vendida") and c.get("precio_num", 0) >= 0:
-                    url_obra = c.get("url", "")
-                    fecha_dia = datetime.now().strftime("%d/%m/%Y")
-                    if url_obra and (url_obra, fecha_dia) in existentes_url:
-                        continue
-                    if url_obra:
-                        existentes_url.add((url_obra, fecha_dia))
-                    acumulado[mes_actual].append({
-                        "fecha": datetime.now().strftime("%d/%m/%Y %H:%M"),
-                        "artista": artista,
-                        "obra": c["titulo"],
-                        "precio": c["precio"],
-                        "precio_num": c.get("precio_num", 0.0),
-                        "tipo": c["tipo"],
-                        "url": url_obra,
-                    })
+                # Solo registrar ventas detectadas en tiempo real (disponible -> vendido)
+                if c["tipo"] != "vendida":
+                    continue
+                url_obra = c.get("url", "")
+                fecha_dia = datetime.now().strftime("%d/%m/%Y")
+                if url_obra and (url_obra, fecha_dia) in existentes_url:
+                    continue
+                if url_obra:
+                    existentes_url.add((url_obra, fecha_dia))
+                acumulado[mes_actual].append({
+                    "fecha": datetime.now().strftime("%d/%m/%Y %H:%M"),
+                    "artista": artista,
+                    "obra": c["titulo"],
+                    "precio": c["precio"],
+                    "precio_num": c.get("precio_num", 0.0),
+                    "tipo": c["tipo"],
+                    "url": url_obra,
+                })
 
         with open(ARCHIVO_MENSUAL, "w", encoding="utf-8") as f:
             json.dump(acumulado, f, ensure_ascii=False, indent=2)
