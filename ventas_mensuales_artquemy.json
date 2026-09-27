@@ -17514,6 +17514,354 @@
       "precio_num": 50.0,
       "tipo": "vendida",
       "url": "https://artquemy.com/producto/de-la-serie-collage-1/"
+    },
+    {
+      "fecha": "27/09/2026 08:02",
+      "artista": {
+        "nombre": "El Xupet Negre",
+        "url": "https://artquemy.com/artists/el-xupet-negre/"
+      },
+      "obra": "Supper with the crew",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/supper-with-the-crew/"
+    },
+    {
+      "fecha": "27/09/2026 08:02",
+      "artista": {
+        "nombre": "El Xupet Negre",
+        "url": "https://artquemy.com/artists/el-xupet-negre/"
+      },
+      "obra": "Roman Writer",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/roman-writer/"
+    },
+    {
+      "fecha": "27/09/2026 08:02",
+      "artista": {
+        "nombre": "El Xupet Negre",
+        "url": "https://artquemy.com/artists/el-xupet-negre/"
+      },
+      "obra": "Golden Piece",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/golden-piece/"
+    },
+    {
+      "fecha": "27/09/2026 08:02",
+      "artista": {
+        "nombre": "El Xupet Negre",
+        "url": "https://artquemy.com/artists/el-xupet-negre/"
+      },
+      "obra": "Walls hunter",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/walls-hunter/"
+    },
+    {
+      "fecha": "27/09/2026 08:02",
+      "artista": {
+        "nombre": "El Xupet Negre",
+        "url": "https://artquemy.com/artists/el-xupet-negre/"
+      },
+      "obra": "San Cristóbal",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/san-cristobal/"
+    },
+    {
+      "fecha": "27/09/2026 08:02",
+      "artista": {
+        "nombre": "El Xupet Negre",
+        "url": "https://artquemy.com/artists/el-xupet-negre/"
+      },
+      "obra": "Lord Xupet",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/lord-xupet/"
+    },
+    {
+      "fecha": "27/09/2026 08:02",
+      "artista": {
+        "nombre": "El Xupet Negre",
+        "url": "https://artquemy.com/artists/el-xupet-negre/"
+      },
+      "obra": "Piano Lesson",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/piano-lesson/"
+    },
+    {
+      "fecha": "27/09/2026 08:02",
+      "artista": {
+        "nombre": "El Xupet Negre",
+        "url": "https://artquemy.com/artists/el-xupet-negre/"
+      },
+      "obra": "Miss black",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/lady/"
+    },
+    {
+      "fecha": "27/09/2026 08:02",
+      "artista": {
+        "nombre": "El Xupet Negre",
+        "url": "https://artquemy.com/artists/el-xupet-negre/"
+      },
+      "obra": "Police down",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/police-down/"
+    },
+    {
+      "fecha": "27/09/2026 08:02",
+      "artista": {
+        "nombre": "El Xupet Negre",
+        "url": "https://artquemy.com/artists/el-xupet-negre/"
+      },
+      "obra": "Queen Mother",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/queen-mother/"
+    },
+    {
+      "fecha": "27/09/2026 08:02",
+      "artista": {
+        "nombre": "El Xupet Negre",
+        "url": "https://artquemy.com/artists/el-xupet-negre/"
+      },
+      "obra": "Picnic with the pacifier",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/pic-nic-with-the-pacifier/"
+    },
+    {
+      "fecha": "27/09/2026 08:02",
+      "artista": {
+        "nombre": "El Xupet Negre",
+        "url": "https://artquemy.com/artists/el-xupet-negre/"
+      },
+      "obra": "BU",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/bu/"
+    },
+    {
+      "fecha": "27/09/2026 08:02",
+      "artista": {
+        "nombre": "El Xupet Negre",
+        "url": "https://artquemy.com/artists/el-xupet-negre/"
+      },
+      "obra": "Flow One",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/flow-one/"
+    },
+    {
+      "fecha": "27/09/2026 08:02",
+      "artista": {
+        "nombre": "El Xupet Negre",
+        "url": "https://artquemy.com/artists/el-xupet-negre/"
+      },
+      "obra": "La virgen de Montserrat",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/na-s-a-de-la-paz-copy/"
+    },
+    {
+      "fecha": "27/09/2026 08:02",
+      "artista": {
+        "nombre": "El Xupet Negre",
+        "url": "https://artquemy.com/artists/el-xupet-negre/"
+      },
+      "obra": "Na. S.a de la Paz",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/na-s-a-de-la-paz/"
+    },
+    {
+      "fecha": "27/09/2026 08:02",
+      "artista": {
+        "nombre": "El Xupet Negre",
+        "url": "https://artquemy.com/artists/el-xupet-negre/"
+      },
+      "obra": "Sacred logo",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/sacred-logo/"
+    },
+    {
+      "fecha": "27/09/2026 08:02",
+      "artista": {
+        "nombre": "El Xupet Negre",
+        "url": "https://artquemy.com/artists/el-xupet-negre/"
+      },
+      "obra": "Hip Pope",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/hip-pope/"
+    },
+    {
+      "fecha": "27/09/2026 08:02",
+      "artista": {
+        "nombre": "El Xupet Negre",
+        "url": "https://artquemy.com/artists/el-xupet-negre/"
+      },
+      "obra": "Born to spray",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/born-to-spray/"
+    },
+    {
+      "fecha": "27/09/2026 08:02",
+      "artista": {
+        "nombre": "El Xupet Negre",
+        "url": "https://artquemy.com/artists/el-xupet-negre/"
+      },
+      "obra": "Black",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/black/"
+    },
+    {
+      "fecha": "27/09/2026 08:02",
+      "artista": {
+        "nombre": "El Xupet Negre",
+        "url": "https://artquemy.com/artists/el-xupet-negre/"
+      },
+      "obra": "Ruski God",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/ruski-god/"
+    },
+    {
+      "fecha": "27/09/2026 08:02",
+      "artista": {
+        "nombre": "El Xupet Negre",
+        "url": "https://artquemy.com/artists/el-xupet-negre/"
+      },
+      "obra": "Amazing Flow",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/amazing-flow/"
+    },
+    {
+      "fecha": "27/09/2026 08:02",
+      "artista": {
+        "nombre": "El Xupet Negre",
+        "url": "https://artquemy.com/artists/el-xupet-negre/"
+      },
+      "obra": "Dope mom",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/dope-mom/"
+    },
+    {
+      "fecha": "27/09/2026 08:02",
+      "artista": {
+        "nombre": "El Xupet Negre",
+        "url": "https://artquemy.com/artists/el-xupet-negre/"
+      },
+      "obra": "Baby Jesus Black",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/baby-jesus-black/"
+    },
+    {
+      "fecha": "27/09/2026 08:02",
+      "artista": {
+        "nombre": "El Xupet Negre",
+        "url": "https://artquemy.com/artists/el-xupet-negre/"
+      },
+      "obra": "Black Angel",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/black-angel/"
+    },
+    {
+      "fecha": "27/09/2026 08:02",
+      "artista": {
+        "nombre": "El Xupet Negre",
+        "url": "https://artquemy.com/artists/el-xupet-negre/"
+      },
+      "obra": "Art Toy Purple",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/art-toy-purple/"
+    },
+    {
+      "fecha": "27/09/2026 08:02",
+      "artista": {
+        "nombre": "El Xupet Negre",
+        "url": "https://artquemy.com/artists/el-xupet-negre/"
+      },
+      "obra": "Art Toy Orange",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/art-toy-orange/"
+    },
+    {
+      "fecha": "27/09/2026 08:02",
+      "artista": {
+        "nombre": "El Xupet Negre",
+        "url": "https://artquemy.com/artists/el-xupet-negre/"
+      },
+      "obra": "Meninas III",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/meninas-iii/"
+    },
+    {
+      "fecha": "27/09/2026 08:02",
+      "artista": {
+        "nombre": "El Xupet Negre",
+        "url": "https://artquemy.com/artists/el-xupet-negre/"
+      },
+      "obra": "Meninas II",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/meninas-ii/"
+    },
+    {
+      "fecha": "27/09/2026 08:02",
+      "artista": {
+        "nombre": "El Xupet Negre",
+        "url": "https://artquemy.com/artists/el-xupet-negre/"
+      },
+      "obra": "Meninas I",
+      "precio": "SOLD",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://artquemy.com/producto/meninas-i/"
     }
   ]
 }
