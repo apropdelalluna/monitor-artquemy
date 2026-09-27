@@ -7818,6 +7818,69 @@
       "precio_num": 1500.0,
       "tipo": "vendida",
       "url": "https://artquemy.com/producto/ovni/"
+    },
+    {
+      "fecha": "04/09/2026 19:32",
+      "artista": "Cuestión de caracter",
+      "obra": "Yellow Magic",
+      "precio": "€950,00",
+      "precio_num": 950.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/yellow-magic/"
+    },
+    {
+      "fecha": "04/09/2026 19:32",
+      "artista": "Cuestión de caracter",
+      "obra": "Eye",
+      "precio": "€950,00",
+      "precio_num": 950.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/eye/"
+    },
+    {
+      "fecha": "04/09/2026 19:32",
+      "artista": "Cuestión de caracter",
+      "obra": "fuchsia Madness",
+      "precio": "€950,00",
+      "precio_num": 950.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/fuchsia-madness/"
+    },
+    {
+      "fecha": "04/09/2026 19:32",
+      "artista": "Cuestión de caracter",
+      "obra": "Blue boy",
+      "precio": "€950,00",
+      "precio_num": 950.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/blue-boy/"
+    },
+    {
+      "fecha": "04/09/2026 19:32",
+      "artista": "Cuestión de caracter",
+      "obra": "Lost Pink Robot",
+      "precio": "€950,00",
+      "precio_num": 950.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/pink-robot/"
+    },
+    {
+      "fecha": "04/09/2026 19:32",
+      "artista": "Cuestión de caracter",
+      "obra": "Big devil",
+      "precio": "€950,00",
+      "precio_num": 950.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/big-devil/"
+    },
+    {
+      "fecha": "04/09/2026 19:32",
+      "artista": "Cuestión de caracter",
+      "obra": "Old school",
+      "precio": "€950,00",
+      "precio_num": 950.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/old-school/"
     }
   ]
 }
