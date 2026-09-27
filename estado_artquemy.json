@@ -445,7 +445,7 @@
         "url": "https://artquemy.com/producto/cascada-de-colores/"
       }
     },
-    "ultima_comprobacion": "26/09/2026 20:14"
+    "ultima_comprobacion": "27/09/2026 14:10"
   },
   "Alessia Obinu": {
     "url": "https://artquemy.com/artists/alessia-obinu/",
@@ -473,7 +473,7 @@
         "url": "https://artquemy.com/producto/cicatrizacion/"
       }
     },
-    "ultima_comprobacion": "26/09/2026 20:15"
+    "ultima_comprobacion": "27/09/2026 14:11"
   },
   "Catapop": {
     "url": "https://artquemy.com/artists/catapop/",
@@ -606,7 +606,7 @@
         "url": "https://artquemy.com/producto/castellers-2/"
       }
     },
-    "ultima_comprobacion": "26/09/2026 20:15"
+    "ultima_comprobacion": "27/09/2026 14:11"
   },
   "Camil Escruela": {
     "url": "https://artquemy.com/artists/camil-escruela/",
@@ -1159,7 +1159,7 @@
         "url": "https://artquemy.com/producto/homenatge-a-miro-2/"
       }
     },
-    "ultima_comprobacion": "26/09/2026 20:16"
+    "ultima_comprobacion": "27/09/2026 14:12"
   },
   "Carola Bagnato": {
     "url": "https://artquemy.com/artists/carola-bagnato/",
@@ -1229,7 +1229,7 @@
         "url": "https://artquemy.com/producto/lo-divino-en-lo-cotidiano/"
       }
     },
-    "ultima_comprobacion": "26/09/2026 20:16"
+    "ultima_comprobacion": "27/09/2026 14:12"
   },
   "Ceci SN": {
     "url": "https://artquemy.com/artists/ceci-sn/",
@@ -1887,7 +1887,7 @@
         "url": "https://artquemy.com/producto/4-bikini-swimmers/"
       }
     },
-    "ultima_comprobacion": "26/09/2026 20:16"
+    "ultima_comprobacion": "27/09/2026 14:12"
   },
   "Ciro Marra": {
     "url": "https://artquemy.com/artists/ciro-marra/",
@@ -2734,11 +2734,11 @@
         "url": "https://artquemy.com/producto/soul-portait/"
       }
     },
-    "ultima_comprobacion": "26/09/2026 20:17"
+    "ultima_comprobacion": "27/09/2026 14:13"
   },
   "Collage Volage": {
     "url": "https://artquemy.com/artists/collage-volage/",
-    "hash": "6a478891b3890b8308a754736fd6d629",
+    "hash": "c3e584495dfecc77e0e7eaf16386f5ba",
     "obras": {
       "https://artquemy.com/producto/africa/": {
         "titulo": "Africa",
@@ -2763,9 +2763,9 @@
       },
       "https://artquemy.com/producto/mi-sangre/": {
         "titulo": "Mi sangre",
-        "precio": "€90,00",
-        "precio_num": 90.0,
-        "estado": "disponible",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
         "url": "https://artquemy.com/producto/mi-sangre/"
       },
       "https://artquemy.com/producto/sueno-divino/": {
@@ -2888,7 +2888,7 @@
         "url": "https://artquemy.com/producto/de-la-serie-collage-1/"
       }
     },
-    "ultima_comprobacion": "26/09/2026 20:17"
+    "ultima_comprobacion": "27/09/2026 14:13"
   },
   "Daniele Verzini": {
     "url": "https://artquemy.com/artists/daniele-verzini/",
@@ -3014,7 +3014,7 @@
         "url": "https://artquemy.com/producto/addicted-8-2/"
       }
     },
-    "ultima_comprobacion": "26/09/2026 20:18"
+    "ultima_comprobacion": "27/09/2026 14:14"
   },
   "Droste Delacroix": {
     "url": "https://artquemy.com/artists/droste-de-la-croix/",
@@ -10987,7 +10987,7 @@
         "url": "https://artquemy.com/producto/old-school/"
       }
     },
-    "ultima_comprobacion": "26/09/2026 18:14"
+    "ultima_comprobacion": "27/09/2026 14:10"
   },
   "Cuestión de caracter": {
     "hash": "90befb9deaadd480857155a7fde0bf86",
