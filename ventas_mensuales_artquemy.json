@@ -8061,6 +8061,18 @@
       "precio_num": 0.0,
       "tipo": "vendida",
       "url": "https://artquemy.com/producto/the-flying-kiwi/"
+    },
+    {
+      "fecha": "28/09/2026 23:06",
+      "artista": {
+        "nombre": "Juncosa",
+        "url": "https://artquemy.com/artists/juncosa/"
+      },
+      "obra": "Panot Gaudí – Verde",
+      "precio": "€290,00",
+      "precio_num": 290.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/panot-gaudi-verde/"
     }
   ]
 }
