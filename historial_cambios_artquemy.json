@@ -13293,5 +13293,14 @@
     "precio_num": 1500.0,
     "url": "https://artquemy.com/producto/uncle-qwert/",
     "fecha": "28/09/2026 16:53"
+  },
+  {
+    "tipo": "vendida",
+    "titulo": "Panot Gaudí – Verde",
+    "artista": "Juncosa",
+    "precio": "€290,00",
+    "precio_num": 290.0,
+    "url": "https://artquemy.com/producto/panot-gaudi-verde/",
+    "fecha": "28/09/2026 23:04"
   }
 ]
