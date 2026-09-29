@@ -10827,5 +10827,170 @@
     "precio_num": 0.0,
     "url": "https://www.3punts.com/es/shop/artwork/metal-metal-ii-samuel-salcedo",
     "fecha": "22/09/2026 20:31"
+  },
+  {
+    "tipo": "vendida",
+    "titulo": "Black Braid Lantomo",
+    "artista": "Antonella Montes - LANTOMO",
+    "precio": "2 500,00 €",
+    "precio_num": 2500.0,
+    "url": "https://www.3punts.com/es/shop/artwork/black-braid-lantomo",
+    "fecha": "29/09/2026 18:07"
+  },
+  {
+    "tipo": "vendida",
+    "titulo": "White Collar 2 Lantomo",
+    "artista": "Antonella Montes - LANTOMO",
+    "precio": "2 500,00 €",
+    "precio_num": 2500.0,
+    "url": "https://www.3punts.com/es/shop/artwork/white-collar-2-lantomo",
+    "fecha": "29/09/2026 18:07"
+  },
+  {
+    "tipo": "vendida",
+    "titulo": "Far Far Away",
+    "artista": "Costa Gorel",
+    "precio": "5 800,00 €",
+    "precio_num": 5800.0,
+    "url": "https://www.3punts.com/es/shop/artwork/far-far-away",
+    "fecha": "29/09/2026 18:07"
+  },
+  {
+    "tipo": "precio_cambiado",
+    "titulo": "",
+    "artista": "Luis Feo",
+    "precio": "500,00 €",
+    "precio_num": 500.0,
+    "precio_anterior": "1 200,00 €",
+    "url": "https://www.3punts.com/es/shop/artwork/bisonte-ii-luis-feo",
+    "fecha": "29/09/2026 18:07"
+  },
+  {
+    "tipo": "precio_cambiado",
+    "titulo": "",
+    "artista": "Luis Feo",
+    "precio": "500,00 €",
+    "precio_num": 500.0,
+    "precio_anterior": "1 200,00 €",
+    "url": "https://www.3punts.com/es/shop/artwork/st-ii-luis-feo",
+    "fecha": "29/09/2026 18:07"
+  },
+  {
+    "tipo": "precio_cambiado",
+    "titulo": "",
+    "artista": "Luis Feo",
+    "precio": "800,00 €",
+    "precio_num": 800.0,
+    "precio_anterior": "2 900,00 €",
+    "url": "https://www.3punts.com/es/shop/artwork/polar-bear-luis-feo",
+    "fecha": "29/09/2026 18:07"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Samuel Salcedo",
+    "precio": "3 900,00 €",
+    "precio_num": 3900.0,
+    "url": "https://www.3punts.com/es/shop/artwork/emotions-chart-vii-samuel-salcedo",
+    "fecha": "29/09/2026 18:07"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Samuel Salcedo",
+    "precio": "3 900,00 €",
+    "precio_num": 3900.0,
+    "url": "https://www.3punts.com/es/shop/artwork/emotions-chart-viii-samuel-salcedo",
+    "fecha": "29/09/2026 18:07"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Samuel Salcedo",
+    "precio": "3 900,00 €",
+    "precio_num": 3900.0,
+    "url": "https://www.3punts.com/es/shop/artwork/emotions-chart-ix-samuel-salcedo",
+    "fecha": "29/09/2026 18:07"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Samuel Salcedo",
+    "precio": "Consultar precio",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/rolling-stones-samuel-salcedo",
+    "fecha": "29/09/2026 18:07"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Samuel Salcedo",
+    "precio": "Consultar precio",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/about-memories-i-samuel-salcedo",
+    "fecha": "29/09/2026 18:07"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Samuel Salcedo",
+    "precio": "Consultar precio",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/needles-and-pins-samuel-salcedo",
+    "fecha": "29/09/2026 18:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Adrià Garcia Surribas",
+    "precio": "200,00 €",
+    "precio_num": 200.0,
+    "url": "https://www.3punts.com/es/shop/artwork/pessic-de-papallona",
+    "fecha": "29/09/2026 18:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Adrià Garcia Surribas",
+    "precio": "200,00 €",
+    "precio_num": 200.0,
+    "url": "https://www.3punts.com/es/shop/artwork/senyors-adria-garcia-surribas",
+    "fecha": "29/09/2026 18:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Adrià Garcia Surribas",
+    "precio": "1 200,00 €",
+    "precio_num": 1200.0,
+    "url": "https://www.3punts.com/es/shop/artwork/dos-homes-i-una-papallona",
+    "fecha": "29/09/2026 18:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Luis Feo",
+    "precio": "1 100,00 €",
+    "precio_num": 1100.0,
+    "url": "https://www.3punts.com/es/shop/artwork/tintero",
+    "fecha": "29/09/2026 18:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Luis Feo",
+    "precio": "1 100,00 €",
+    "precio_num": 1100.0,
+    "url": "https://www.3punts.com/es/shop/artwork/bocina",
+    "fecha": "29/09/2026 18:07"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Luis Feo",
+    "precio": "1 100,00 €",
+    "precio_num": 1100.0,
+    "url": "https://www.3punts.com/es/shop/artwork/lavabo-luis-feo",
+    "fecha": "29/09/2026 18:07"
   }
 ]
