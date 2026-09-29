@@ -1888,6 +1888,33 @@
       "precio_num": 6800.0,
       "tipo": "vendida",
       "url": "https://www.3punts.com/es/shop/artwork/ramon-surinyac-raw-shelter"
+    },
+    {
+      "fecha": "29/09/2026 18:07",
+      "artista": "Antonella Montes - LANTOMO",
+      "obra": "Black Braid Lantomo",
+      "precio": "2 500,00 €",
+      "precio_num": 2500.0,
+      "tipo": "vendida",
+      "url": "https://www.3punts.com/es/shop/artwork/black-braid-lantomo"
+    },
+    {
+      "fecha": "29/09/2026 18:07",
+      "artista": "Antonella Montes - LANTOMO",
+      "obra": "White Collar 2 Lantomo",
+      "precio": "2 500,00 €",
+      "precio_num": 2500.0,
+      "tipo": "vendida",
+      "url": "https://www.3punts.com/es/shop/artwork/white-collar-2-lantomo"
+    },
+    {
+      "fecha": "29/09/2026 18:07",
+      "artista": "Costa Gorel",
+      "obra": "Far Far Away",
+      "precio": "5 800,00 €",
+      "precio_num": 5800.0,
+      "tipo": "vendida",
+      "url": "https://www.3punts.com/es/shop/artwork/far-far-away"
     }
   ]
 }
