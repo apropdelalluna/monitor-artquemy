@@ -8073,6 +8073,18 @@
       "precio_num": 290.0,
       "tipo": "vendida",
       "url": "https://artquemy.com/producto/panot-gaudi-verde/"
+    },
+    {
+      "fecha": "29/09/2026 17:28",
+      "artista": {
+        "nombre": "Erwtje",
+        "url": "https://artquemy.com/artists/erwtje/"
+      },
+      "obra": "Out of Service",
+      "precio": "€1.950,00",
+      "precio_num": 1950.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/out-of-service-2/"
     }
   ]
 }
