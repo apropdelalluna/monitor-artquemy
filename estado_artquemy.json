@@ -2888,7 +2888,7 @@
         "url": "https://artquemy.com/producto/de-la-serie-collage-1/"
       }
     },
-    "ultima_comprobacion": "28/09/2026 19:00"
+    "ultima_comprobacion": "29/09/2026 17:24"
   },
   "Daniele Verzini": {
     "url": "https://artquemy.com/artists/daniele-verzini/",
@@ -3014,7 +3014,7 @@
         "url": "https://artquemy.com/producto/addicted-8-2/"
       }
     },
-    "ultima_comprobacion": "28/09/2026 21:00"
+    "ultima_comprobacion": "29/09/2026 17:24"
   },
   "Droste Delacroix": {
     "url": "https://artquemy.com/artists/droste-de-la-croix/",
@@ -3056,7 +3056,7 @@
         "url": "https://artquemy.com/producto/crisis-magica-oro-viejo/"
       }
     },
-    "ultima_comprobacion": "28/09/2026 21:00"
+    "ultima_comprobacion": "29/09/2026 17:25"
   },
   "Elina Cerla": {
     "url": "https://artquemy.com/artists/elina-cerla/",
@@ -3203,7 +3203,7 @@
         "url": "https://artquemy.com/producto/see-no-evil/"
       }
     },
-    "ultima_comprobacion": "28/09/2026 21:01"
+    "ultima_comprobacion": "29/09/2026 17:25"
   },
   "El Xupet Negre": {
     "url": "https://artquemy.com/artists/el-xupet-negre/",
@@ -3630,7 +3630,7 @@
         "url": "https://artquemy.com/producto/pink-logo-t-shirt/"
       }
     },
-    "ultima_comprobacion": "28/09/2026 21:01"
+    "ultima_comprobacion": "29/09/2026 17:26"
   },
   "Evamik": {
     "url": "https://artquemy.com/artists/evamik/",
@@ -3735,17 +3735,24 @@
         "url": "https://artquemy.com/producto/work-come/"
       }
     },
-    "ultima_comprobacion": "28/09/2026 21:01"
+    "ultima_comprobacion": "29/09/2026 17:26"
   },
   "Erwtje": {
     "url": "https://artquemy.com/artists/erwtje/",
-    "hash": "dd50d35b6893a8552552e1a92ac4826e",
+    "hash": "022fe1bd855d4bb2a1c54afe5d1239f1",
     "obras": {
+      "https://artquemy.com/producto/odd-sounds/": {
+        "titulo": "Odd sounds",
+        "precio": "€2.500,00",
+        "precio_num": 2500.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/odd-sounds/"
+      },
       "https://artquemy.com/producto/out-of-service-2/": {
         "titulo": "Out of Service",
-        "precio": "€1.950,00",
-        "precio_num": 1950.0,
-        "estado": "disponible",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
         "url": "https://artquemy.com/producto/out-of-service-2/"
       },
       "https://artquemy.com/producto/detour/": {
@@ -3761,13 +3768,6 @@
         "precio_num": 1950.0,
         "estado": "disponible",
         "url": "https://artquemy.com/producto/out-of-service/"
-      },
-      "https://artquemy.com/producto/odd-sounds/": {
-        "titulo": "Odd sounds",
-        "precio": "€1.950,00",
-        "precio_num": 1950.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/odd-sounds/"
       },
       "https://artquemy.com/producto/after-part/": {
         "titulo": "After Party",
@@ -4106,7 +4106,7 @@
         "url": "https://artquemy.com/producto/t-shirt/"
       }
     },
-    "ultima_comprobacion": "28/09/2026 21:02"
+    "ultima_comprobacion": "29/09/2026 17:26"
   },
   "Irannis Mejias": {
     "url": "https://artquemy.com/artists/irannis/",
@@ -4176,7 +4176,7 @@
         "url": "https://artquemy.com/producto/lo-divino-en-lo-cotidiano/"
       }
     },
-    "ultima_comprobacion": "28/09/2026 21:02"
+    "ultima_comprobacion": "29/09/2026 17:27"
   },
   "Jamso": {
     "url": "https://artquemy.com/artists/jamso/",
@@ -4225,7 +4225,7 @@
         "url": "https://artquemy.com/producto/calavera-3/"
       }
     },
-    "ultima_comprobacion": "28/09/2026 21:02"
+    "ultima_comprobacion": "29/09/2026 17:27"
   },
   "Jor Ros": {
     "url": "https://artquemy.com/artists/jor-ros/",
@@ -4694,7 +4694,7 @@
         "url": "https://artquemy.com/producto/tiger-snake-i/"
       }
     },
-    "ultima_comprobacion": "28/09/2026 21:03"
+    "ultima_comprobacion": "29/09/2026 17:28"
   },
   "Jorge Suñer": {
     "url": "https://artquemy.com/artists/jorge-suner/",
