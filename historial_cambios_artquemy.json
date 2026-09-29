@@ -13302,5 +13302,24 @@
     "precio_num": 290.0,
     "url": "https://artquemy.com/producto/panot-gaudi-verde/",
     "fecha": "28/09/2026 23:04"
+  },
+  {
+    "tipo": "precio_cambiado",
+    "titulo": "Odd sounds",
+    "artista": "Erwtje",
+    "precio": "€2.500,00",
+    "precio_num": 2500.0,
+    "precio_anterior": "€1.950,00",
+    "url": "https://artquemy.com/producto/odd-sounds/",
+    "fecha": "29/09/2026 17:26"
+  },
+  {
+    "tipo": "vendida",
+    "titulo": "Out of Service",
+    "artista": "Erwtje",
+    "precio": "€1.950,00",
+    "precio_num": 1950.0,
+    "url": "https://artquemy.com/producto/out-of-service-2/",
+    "fecha": "29/09/2026 17:26"
   }
 ]
