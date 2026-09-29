@@ -1,5 +1,5 @@
 {
-  "__hash__": "58510f8ed90f0530358ceeaf8edfff25",
+  "__hash__": "bae3a3e2b17ebd6f0415e8feb6bf44d4",
   "obras": {
     "https://www.3punts.com/es/shop/artwork/vincent-vega-pulp-fiction": {
       "titulo": "",
@@ -97,14 +97,6 @@
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/papallones-i-paneroles-adria-garcia-surribas"
     },
-    "https://www.3punts.com/es/shop/artwork/pessic-de-papallona": {
-      "titulo": "",
-      "artista": "Adrià Garcia Surribas",
-      "precio": "200,00 €",
-      "precio_num": 200.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/pessic-de-papallona"
-    },
     "https://www.3punts.com/es/shop/artwork/quatre-paios-adria-garcia-surribas": {
       "titulo": "",
       "artista": "Adrià Garcia Surribas",
@@ -136,22 +128,6 @@
       "precio_num": 200.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/sense-titol-adria-garcia-surribas-0"
-    },
-    "https://www.3punts.com/es/shop/artwork/senyors-adria-garcia-surribas": {
-      "titulo": "",
-      "artista": "Adrià Garcia Surribas",
-      "precio": "200,00 €",
-      "precio_num": 200.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/senyors-adria-garcia-surribas"
-    },
-    "https://www.3punts.com/es/shop/artwork/dos-homes-i-una-papallona": {
-      "titulo": "",
-      "artista": "Adrià Garcia Surribas",
-      "precio": "1 200,00 €",
-      "precio_num": 1200.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/dos-homes-i-una-papallona"
     },
     "https://www.3punts.com/es/shop/artwork/els-enamorats-adria-garcia-surribas": {
       "titulo": "",
@@ -714,11 +690,11 @@
       "url": "https://www.3punts.com/es/shop/artwork/marte-x-amadeo-gabino"
     },
     "https://www.3punts.com/es/shop/artwork/black-braid-lantomo": {
-      "titulo": "",
+      "titulo": "Black Braid Lantomo",
       "artista": "Antonella Montes - LANTOMO",
-      "precio": "2 500,00 €",
-      "precio_num": 2500.0,
-      "estado": "disponible",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "estado": "vendido",
       "url": "https://www.3punts.com/es/shop/artwork/black-braid-lantomo"
     },
     "https://www.3punts.com/es/shop/artwork/hong-series-2-fluo-5-lantomo": {
@@ -834,11 +810,11 @@
       "url": "https://www.3punts.com/es/shop/artwork/expectation-lantomo"
     },
     "https://www.3punts.com/es/shop/artwork/white-collar-2-lantomo": {
-      "titulo": "",
+      "titulo": "White Collar 2 Lantomo",
       "artista": "Antonella Montes - LANTOMO",
-      "precio": "2 500,00 €",
-      "precio_num": 2500.0,
-      "estado": "disponible",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "estado": "vendido",
       "url": "https://www.3punts.com/es/shop/artwork/white-collar-2-lantomo"
     },
     "https://www.3punts.com/es/shop/artwork/hong-series-2-lantomo": {
@@ -1666,11 +1642,11 @@
       "url": "https://www.3punts.com/es/shop/artwork/splash-costa-gorel"
     },
     "https://www.3punts.com/es/shop/artwork/far-far-away": {
-      "titulo": "",
+      "titulo": "Far Far Away",
       "artista": "Costa Gorel",
-      "precio": "5 800,00 €",
-      "precio_num": 5800.0,
-      "estado": "disponible",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "estado": "vendido",
       "url": "https://www.3punts.com/es/shop/artwork/far-far-away"
     },
     "https://www.3punts.com/es/shop/artwork/fidelio": {
@@ -4017,37 +3993,29 @@
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/loretta-lux-hugo-dylan"
     },
-    "https://www.3punts.com/es/shop/artwork/tintero": {
-      "titulo": "",
-      "artista": "Luis Feo",
-      "precio": "1 100,00 €",
-      "precio_num": 1100.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/tintero"
-    },
-    "https://www.3punts.com/es/shop/artwork/bocina": {
-      "titulo": "",
-      "artista": "Luis Feo",
-      "precio": "1 100,00 €",
-      "precio_num": 1100.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/bocina"
-    },
-    "https://www.3punts.com/es/shop/artwork/lavabo-luis-feo": {
-      "titulo": "",
-      "artista": "Luis Feo",
-      "precio": "1 100,00 €",
-      "precio_num": 1100.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/lavabo-luis-feo"
-    },
     "https://www.3punts.com/es/shop/artwork/bisonte-ii-luis-feo": {
       "titulo": "",
       "artista": "Luis Feo",
-      "precio": "1 200,00 €",
-      "precio_num": 1200.0,
+      "precio": "500,00 €",
+      "precio_num": 500.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/bisonte-ii-luis-feo"
+    },
+    "https://www.3punts.com/es/shop/artwork/st-ii-luis-feo": {
+      "titulo": "",
+      "artista": "Luis Feo",
+      "precio": "500,00 €",
+      "precio_num": 500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/st-ii-luis-feo"
+    },
+    "https://www.3punts.com/es/shop/artwork/polar-bear-luis-feo": {
+      "titulo": "",
+      "artista": "Luis Feo",
+      "precio": "800,00 €",
+      "precio_num": 800.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/polar-bear-luis-feo"
     },
     "https://www.3punts.com/es/shop/artwork/st-luis-feo": {
       "titulo": "St Luis Feo",
@@ -4056,22 +4024,6 @@
       "precio_num": 0.0,
       "estado": "vendido",
       "url": "https://www.3punts.com/es/shop/artwork/st-luis-feo"
-    },
-    "https://www.3punts.com/es/shop/artwork/st-ii-luis-feo": {
-      "titulo": "",
-      "artista": "Luis Feo",
-      "precio": "1 200,00 €",
-      "precio_num": 1200.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/st-ii-luis-feo"
-    },
-    "https://www.3punts.com/es/shop/artwork/polar-bear-luis-feo": {
-      "titulo": "",
-      "artista": "Luis Feo",
-      "precio": "2 900,00 €",
-      "precio_num": 2900.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/polar-bear-luis-feo"
     },
     "https://www.3punts.com/es/shop/artwork/head-luis-vidal": {
       "titulo": "",
@@ -5760,6 +5712,54 @@
       "precio_num": 3900.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/emotions-chart-vi-samuel-salcedo"
+    },
+    "https://www.3punts.com/es/shop/artwork/emotions-chart-vii-samuel-salcedo": {
+      "titulo": "",
+      "artista": "Samuel Salcedo",
+      "precio": "3 900,00 €",
+      "precio_num": 3900.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/emotions-chart-vii-samuel-salcedo"
+    },
+    "https://www.3punts.com/es/shop/artwork/emotions-chart-viii-samuel-salcedo": {
+      "titulo": "",
+      "artista": "Samuel Salcedo",
+      "precio": "3 900,00 €",
+      "precio_num": 3900.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/emotions-chart-viii-samuel-salcedo"
+    },
+    "https://www.3punts.com/es/shop/artwork/emotions-chart-ix-samuel-salcedo": {
+      "titulo": "",
+      "artista": "Samuel Salcedo",
+      "precio": "3 900,00 €",
+      "precio_num": 3900.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/emotions-chart-ix-samuel-salcedo"
+    },
+    "https://www.3punts.com/es/shop/artwork/rolling-stones-samuel-salcedo": {
+      "titulo": "",
+      "artista": "Samuel Salcedo",
+      "precio": "Consultar precio",
+      "precio_num": 0.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/rolling-stones-samuel-salcedo"
+    },
+    "https://www.3punts.com/es/shop/artwork/about-memories-i-samuel-salcedo": {
+      "titulo": "",
+      "artista": "Samuel Salcedo",
+      "precio": "Consultar precio",
+      "precio_num": 0.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/about-memories-i-samuel-salcedo"
+    },
+    "https://www.3punts.com/es/shop/artwork/needles-and-pins-samuel-salcedo": {
+      "titulo": "",
+      "artista": "Samuel Salcedo",
+      "precio": "Consultar precio",
+      "precio_num": 0.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/needles-and-pins-samuel-salcedo"
     }
   }
 }
