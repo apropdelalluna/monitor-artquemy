@@ -8086,5 +8086,19 @@
       "tipo": "vendida",
       "url": "https://artquemy.com/producto/out-of-service-2/"
     }
+  ],
+  "2026-10": [
+    {
+      "fecha": "01/10/2026 22:37",
+      "artista": {
+        "nombre": "KST",
+        "url": "https://artquemy.com/artists/kst/"
+      },
+      "obra": "Hice compras",
+      "precio": "€280,00",
+      "precio_num": 280.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/hice-compras/"
+    }
   ]
 }
