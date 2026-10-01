@@ -24439,5 +24439,14 @@
     "precio_num": 60.0,
     "url": "https://artquemy.com/producto/t-shirt-black/",
     "fecha": "29/09/2026 21:35"
+  },
+  {
+    "tipo": "vendida",
+    "titulo": "Hice compras",
+    "artista": "KST",
+    "precio": "€280,00",
+    "precio_num": 280.0,
+    "url": "https://artquemy.com/producto/hice-compras/",
+    "fecha": "01/10/2026 22:35"
   }
 ]
