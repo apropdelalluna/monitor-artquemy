@@ -7844,7 +7844,7 @@
         "url": "https://artquemy.com/producto/grietas/"
       }
     },
-    "ultima_comprobacion": "29/09/2026 19:32"
+    "ultima_comprobacion": "02/10/2026 00:38"
   },
   "Michelle Andrade": {
     "url": "https://artquemy.com/artists/michelle-andrade/",
@@ -7956,7 +7956,7 @@
         "url": "https://artquemy.com/producto/whats-in-your-head/"
       }
     },
-    "ultima_comprobacion": "29/09/2026 21:32"
+    "ultima_comprobacion": "02/10/2026 00:38"
   },
   "Món Mort": {
     "url": "https://artquemy.com/artists/mon-mort/",
@@ -7977,13 +7977,42 @@
         "url": "https://artquemy.com/producto/las-monmortinas/"
       }
     },
-    "ultima_comprobacion": "29/09/2026 21:33"
+    "ultima_comprobacion": "02/10/2026 00:38"
   },
   "Okobé": {
     "url": "https://artquemy.com/artists/okobe/",
-    "hash": "d41d8cd98f00b204e9800998ecf8427e",
-    "obras": {},
-    "ultima_comprobacion": "29/09/2026 21:33"
+    "hash": "6b638503dd38c5c54cb4d92104ba3861",
+    "obras": {
+      "https://artquemy.com/producto/ostrich/": {
+        "titulo": "Ostrich",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/ostrich/"
+      },
+      "https://artquemy.com/producto/spain/": {
+        "titulo": "Spain",
+        "precio": "€710,00",
+        "precio_num": 710.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/spain/"
+      },
+      "https://artquemy.com/producto/dream/": {
+        "titulo": "Dream",
+        "precio": "€710,00",
+        "precio_num": 710.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/dream/"
+      },
+      "https://artquemy.com/producto/ellas/": {
+        "titulo": "Ellas",
+        "precio": "€710,00",
+        "precio_num": 710.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/ellas/"
+      }
+    },
+    "ultima_comprobacion": "02/10/2026 00:39"
   },
   "Prëo": {
     "url": "https://artquemy.com/artists/preo/",
@@ -8060,7 +8089,7 @@
         "url": "https://artquemy.com/producto/quebrada/"
       }
     },
-    "ultima_comprobacion": "29/09/2026 21:34"
+    "ultima_comprobacion": "02/10/2026 00:39"
   },
   "Qwert": {
     "url": "https://artquemy.com/artists/qwert/",
@@ -8361,13 +8390,112 @@
         "url": "https://artquemy.com/producto/a-little-traveller-2/"
       }
     },
-    "ultima_comprobacion": "29/09/2026 21:34"
+    "ultima_comprobacion": "02/10/2026 00:40"
   },
   "Rich One": {
     "url": "https://artquemy.com/artists/rich-one/",
-    "hash": "d41d8cd98f00b204e9800998ecf8427e",
-    "obras": {},
-    "ultima_comprobacion": "29/09/2026 21:35"
+    "hash": "178d597adb2e7019229b38d1868d5522",
+    "obras": {
+      "https://artquemy.com/producto/designer-con-skateboards/": {
+        "titulo": "Designer Con Skateboards",
+        "precio": "€400,00",
+        "precio_num": 400.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/designer-con-skateboards/"
+      },
+      "https://artquemy.com/producto/bouros-embellished-skateboards/": {
+        "titulo": "Bouros Embellished Skateboards",
+        "precio": "€400,00",
+        "precio_num": 400.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/bouros-embellished-skateboards/"
+      },
+      "https://artquemy.com/producto/chester-cheetah/": {
+        "titulo": "Chester Cheetah",
+        "precio": "€85,00",
+        "precio_num": 85.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/chester-cheetah/"
+      },
+      "https://artquemy.com/producto/mickey/": {
+        "titulo": "Mickey",
+        "precio": "€85,00",
+        "precio_num": 85.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/mickey/"
+      },
+      "https://artquemy.com/producto/genie/": {
+        "titulo": "Genie",
+        "precio": "€85,00",
+        "precio_num": 85.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/genie/"
+      },
+      "https://artquemy.com/producto/garfield/": {
+        "titulo": "Garfield",
+        "precio": "€85,00",
+        "precio_num": 85.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/garfield/"
+      },
+      "https://artquemy.com/producto/bugs-bunny/": {
+        "titulo": "Bugs Bunny",
+        "precio": "€85,00",
+        "precio_num": 85.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/bugs-bunny/"
+      },
+      "https://artquemy.com/producto/bart/": {
+        "titulo": "Bart",
+        "precio": "€85,00",
+        "precio_num": 85.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/bart/"
+      },
+      "https://artquemy.com/producto/asif-mods-hoodie/": {
+        "titulo": "ASIF “MODS” Hoodie",
+        "precio": "€80,00",
+        "precio_num": 80.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/asif-mods-hoodie/"
+      },
+      "https://artquemy.com/producto/asif-bad-habits-hoodie/": {
+        "titulo": "ASIF “Bad Habits” Hoodie",
+        "precio": "€80,00",
+        "precio_num": 80.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/asif-bad-habits-hoodie/"
+      },
+      "https://artquemy.com/producto/t-shirt-grey/": {
+        "titulo": "T-Shirt Grey",
+        "precio": "€60,00",
+        "precio_num": 60.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/t-shirt-grey/"
+      },
+      "https://artquemy.com/producto/t-shirt-white/": {
+        "titulo": "T-Shirt White",
+        "precio": "€60,00",
+        "precio_num": 60.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/t-shirt-white/"
+      },
+      "https://artquemy.com/producto/t-shirt-biege/": {
+        "titulo": "T-Shirt Biege",
+        "precio": "€60,00",
+        "precio_num": 60.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/t-shirt-biege/"
+      },
+      "https://artquemy.com/producto/t-shirt-black/": {
+        "titulo": "T-Shirt Black",
+        "precio": "€60,00",
+        "precio_num": 60.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/t-shirt-black/"
+      }
+    },
+    "ultima_comprobacion": "02/10/2026 00:40"
   },
   "Rocco Del Franco": {
     "url": "https://artquemy.com/artists/rocco-del-franco/",
@@ -8591,7 +8719,7 @@
         "url": "https://artquemy.com/producto/classic-orange-vii/"
       }
     },
-    "ultima_comprobacion": "29/09/2026 21:35"
+    "ultima_comprobacion": "02/10/2026 00:40"
   },
   "Rocío Iannone": {
     "url": "https://artquemy.com/artists/rocio-iannone/",
@@ -8752,7 +8880,7 @@
         "url": "https://artquemy.com/producto/como-se-contempla-una-desgracia/"
       }
     },
-    "ultima_comprobacion": "29/09/2026 21:35"
+    "ultima_comprobacion": "02/10/2026 00:41"
   },
   "Soy feo pero te amo": {
     "url": "https://artquemy.com/artists/soy-feo-pero-te-amo/",
@@ -9018,7 +9146,7 @@
         "url": "https://artquemy.com/producto/together/"
       }
     },
-    "ultima_comprobacion": "29/09/2026 21:36"
+    "ultima_comprobacion": "02/10/2026 00:41"
   },
   "Surfia": {
     "url": "https://artquemy.com/artists/surfia/",
