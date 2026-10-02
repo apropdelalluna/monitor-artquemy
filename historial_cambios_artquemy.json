@@ -24448,5 +24448,167 @@
     "precio_num": 280.0,
     "url": "https://artquemy.com/producto/hice-compras/",
     "fecha": "01/10/2026 22:35"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Ostrich",
+    "artista": "Okobé",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/ostrich/",
+    "fecha": "02/10/2026 00:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Spain",
+    "artista": "Okobé",
+    "precio": "€710,00",
+    "precio_num": 710.0,
+    "url": "https://artquemy.com/producto/spain/",
+    "fecha": "02/10/2026 00:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Dream",
+    "artista": "Okobé",
+    "precio": "€710,00",
+    "precio_num": 710.0,
+    "url": "https://artquemy.com/producto/dream/",
+    "fecha": "02/10/2026 00:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Ellas",
+    "artista": "Okobé",
+    "precio": "€710,00",
+    "precio_num": 710.0,
+    "url": "https://artquemy.com/producto/ellas/",
+    "fecha": "02/10/2026 00:39"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Designer Con Skateboards",
+    "artista": "Rich One",
+    "precio": "€400,00",
+    "precio_num": 400.0,
+    "url": "https://artquemy.com/producto/designer-con-skateboards/",
+    "fecha": "02/10/2026 00:40"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Bouros Embellished Skateboards",
+    "artista": "Rich One",
+    "precio": "€400,00",
+    "precio_num": 400.0,
+    "url": "https://artquemy.com/producto/bouros-embellished-skateboards/",
+    "fecha": "02/10/2026 00:40"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Chester Cheetah",
+    "artista": "Rich One",
+    "precio": "€85,00",
+    "precio_num": 85.0,
+    "url": "https://artquemy.com/producto/chester-cheetah/",
+    "fecha": "02/10/2026 00:40"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Mickey",
+    "artista": "Rich One",
+    "precio": "€85,00",
+    "precio_num": 85.0,
+    "url": "https://artquemy.com/producto/mickey/",
+    "fecha": "02/10/2026 00:40"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Genie",
+    "artista": "Rich One",
+    "precio": "€85,00",
+    "precio_num": 85.0,
+    "url": "https://artquemy.com/producto/genie/",
+    "fecha": "02/10/2026 00:40"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Garfield",
+    "artista": "Rich One",
+    "precio": "€85,00",
+    "precio_num": 85.0,
+    "url": "https://artquemy.com/producto/garfield/",
+    "fecha": "02/10/2026 00:40"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Bugs Bunny",
+    "artista": "Rich One",
+    "precio": "€85,00",
+    "precio_num": 85.0,
+    "url": "https://artquemy.com/producto/bugs-bunny/",
+    "fecha": "02/10/2026 00:40"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Bart",
+    "artista": "Rich One",
+    "precio": "€85,00",
+    "precio_num": 85.0,
+    "url": "https://artquemy.com/producto/bart/",
+    "fecha": "02/10/2026 00:40"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "ASIF “MODS” Hoodie",
+    "artista": "Rich One",
+    "precio": "€80,00",
+    "precio_num": 80.0,
+    "url": "https://artquemy.com/producto/asif-mods-hoodie/",
+    "fecha": "02/10/2026 00:40"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "ASIF “Bad Habits” Hoodie",
+    "artista": "Rich One",
+    "precio": "€80,00",
+    "precio_num": 80.0,
+    "url": "https://artquemy.com/producto/asif-bad-habits-hoodie/",
+    "fecha": "02/10/2026 00:40"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "T-Shirt Grey",
+    "artista": "Rich One",
+    "precio": "€60,00",
+    "precio_num": 60.0,
+    "url": "https://artquemy.com/producto/t-shirt-grey/",
+    "fecha": "02/10/2026 00:40"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "T-Shirt White",
+    "artista": "Rich One",
+    "precio": "€60,00",
+    "precio_num": 60.0,
+    "url": "https://artquemy.com/producto/t-shirt-white/",
+    "fecha": "02/10/2026 00:40"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "T-Shirt Biege",
+    "artista": "Rich One",
+    "precio": "€60,00",
+    "precio_num": 60.0,
+    "url": "https://artquemy.com/producto/t-shirt-biege/",
+    "fecha": "02/10/2026 00:40"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "T-Shirt Black",
+    "artista": "Rich One",
+    "precio": "€60,00",
+    "precio_num": 60.0,
+    "url": "https://artquemy.com/producto/t-shirt-black/",
+    "fecha": "02/10/2026 00:40"
   }
 ]
