@@ -2892,129 +2892,9 @@
   },
   "Daniele Verzini": {
     "url": "https://artquemy.com/artists/daniele-verzini/",
-    "hash": "feb8c6a9415b6602e183e6d234454377",
-    "obras": {
-      "https://artquemy.com/producto/cranberry/": {
-        "titulo": "Cranberry",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/cranberry/"
-      },
-      "https://artquemy.com/producto/addicted-8/": {
-        "titulo": "Addicted #8",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/addicted-8/"
-      },
-      "https://artquemy.com/producto/addicted-7/": {
-        "titulo": "Addicted #7",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/addicted-7/"
-      },
-      "https://artquemy.com/producto/addicted-6/": {
-        "titulo": "Addicted #6",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/addicted-6/"
-      },
-      "https://artquemy.com/producto/addicted-5/": {
-        "titulo": "Addicted #5",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/addicted-5/"
-      },
-      "https://artquemy.com/producto/addicted-4/": {
-        "titulo": "Addicted #4",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/addicted-4/"
-      },
-      "https://artquemy.com/producto/addicted-3/": {
-        "titulo": "Addicted #3",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/addicted-3/"
-      },
-      "https://artquemy.com/producto/addicted-2/": {
-        "titulo": "Addicted #2",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/addicted-2/"
-      },
-      "https://artquemy.com/producto/addicted-1/": {
-        "titulo": "Addicted #1",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/addicted-1/"
-      },
-      "https://artquemy.com/producto/addicted-1-2/": {
-        "titulo": "Addicted #1",
-        "precio": "€40,00",
-        "precio_num": 40.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/addicted-1-2/"
-      },
-      "https://artquemy.com/producto/addicted-2-2/": {
-        "titulo": "Addicted #2",
-        "precio": "€40,00",
-        "precio_num": 40.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/addicted-2-2/"
-      },
-      "https://artquemy.com/producto/addicted-3-2/": {
-        "titulo": "Addicted #3",
-        "precio": "€40,00",
-        "precio_num": 40.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/addicted-3-2/"
-      },
-      "https://artquemy.com/producto/addicted-4-2/": {
-        "titulo": "Addicted #4",
-        "precio": "€40,00",
-        "precio_num": 40.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/addicted-4-2/"
-      },
-      "https://artquemy.com/producto/addicted-5-copy/": {
-        "titulo": "Addicted #5",
-        "precio": "€40,00",
-        "precio_num": 40.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/addicted-5-copy/"
-      },
-      "https://artquemy.com/producto/addicted-6-2/": {
-        "titulo": "Addicted #6",
-        "precio": "€40,00",
-        "precio_num": 40.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/addicted-6-2/"
-      },
-      "https://artquemy.com/producto/addicted-7-2/": {
-        "titulo": "Addicted #7",
-        "precio": "€40,00",
-        "precio_num": 40.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/addicted-7-2/"
-      },
-      "https://artquemy.com/producto/addicted-8-2/": {
-        "titulo": "Addicted #8",
-        "precio": "€40,00",
-        "precio_num": 40.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/addicted-8-2/"
-      }
-    },
-    "ultima_comprobacion": "04/10/2026 10:02"
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "obras": {},
+    "ultima_comprobacion": "04/10/2026 22:52"
   },
   "Droste Delacroix": {
     "url": "https://artquemy.com/artists/droste-de-la-croix/",
@@ -3056,7 +2936,7 @@
         "url": "https://artquemy.com/producto/crisis-magica-oro-viejo/"
       }
     },
-    "ultima_comprobacion": "04/10/2026 12:02"
+    "ultima_comprobacion": "04/10/2026 22:52"
   },
   "Elina Cerla": {
     "url": "https://artquemy.com/artists/elina-cerla/",
@@ -3203,7 +3083,7 @@
         "url": "https://artquemy.com/producto/see-no-evil/"
       }
     },
-    "ultima_comprobacion": "04/10/2026 12:02"
+    "ultima_comprobacion": "04/10/2026 22:53"
   },
   "El Xupet Negre": {
     "url": "https://artquemy.com/artists/el-xupet-negre/",
@@ -3630,7 +3510,7 @@
         "url": "https://artquemy.com/producto/pink-logo-t-shirt/"
       }
     },
-    "ultima_comprobacion": "04/10/2026 12:03"
+    "ultima_comprobacion": "04/10/2026 22:53"
   },
   "Evamik": {
     "url": "https://artquemy.com/artists/evamik/",
@@ -3735,7 +3615,7 @@
         "url": "https://artquemy.com/producto/work-come/"
       }
     },
-    "ultima_comprobacion": "04/10/2026 12:03"
+    "ultima_comprobacion": "04/10/2026 22:53"
   },
   "Erwtje": {
     "url": "https://artquemy.com/artists/erwtje/",
@@ -4106,7 +3986,7 @@
         "url": "https://artquemy.com/producto/t-shirt/"
       }
     },
-    "ultima_comprobacion": "04/10/2026 12:03"
+    "ultima_comprobacion": "04/10/2026 22:54"
   },
   "Irannis Mejias": {
     "url": "https://artquemy.com/artists/irannis/",
@@ -4176,7 +4056,7 @@
         "url": "https://artquemy.com/producto/lo-divino-en-lo-cotidiano/"
       }
     },
-    "ultima_comprobacion": "04/10/2026 12:04"
+    "ultima_comprobacion": "04/10/2026 22:54"
   },
   "Jamso": {
     "url": "https://artquemy.com/artists/jamso/",
@@ -4225,7 +4105,7 @@
         "url": "https://artquemy.com/producto/calavera-3/"
       }
     },
-    "ultima_comprobacion": "04/10/2026 12:04"
+    "ultima_comprobacion": "04/10/2026 22:54"
   },
   "Jor Ros": {
     "url": "https://artquemy.com/artists/jor-ros/",
@@ -4694,7 +4574,7 @@
         "url": "https://artquemy.com/producto/tiger-snake-i/"
       }
     },
-    "ultima_comprobacion": "04/10/2026 12:04"
+    "ultima_comprobacion": "04/10/2026 22:55"
   },
   "Jorge Suñer": {
     "url": "https://artquemy.com/artists/jorge-suner/",
@@ -4813,7 +4693,7 @@
         "url": "https://artquemy.com/producto/el-oleaje-de-verano/"
       }
     },
-    "ultima_comprobacion": "04/10/2026 12:04"
+    "ultima_comprobacion": "04/10/2026 22:55"
   },
   "Juandrés Vera": {
     "url": "https://artquemy.com/artists/juandres-vera/",
