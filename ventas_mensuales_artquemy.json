@@ -8099,6 +8099,18 @@
       "precio_num": 280.0,
       "tipo": "vendida",
       "url": "https://artquemy.com/producto/hice-compras/"
+    },
+    {
+      "fecha": "05/10/2026 05:37",
+      "artista": {
+        "nombre": "Luciana Zamarbide",
+        "url": "https://artquemy.com/artists/luciana-zamarbide/"
+      },
+      "obra": "La Geisha",
+      "precio": "€1.750,00",
+      "precio_num": 1750.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/la-geisha/"
     }
   ]
 }
