@@ -25541,5 +25541,158 @@
         "url": "https://artquemy.com/producto/dea/"
       }
     ]
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Cranberry",
+    "artista": "Daniele Verzini",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/cranberry/",
+    "fecha": "05/10/2026 11:36"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Addicted #8",
+    "artista": "Daniele Verzini",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/addicted-8/",
+    "fecha": "05/10/2026 11:36"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Addicted #7",
+    "artista": "Daniele Verzini",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/addicted-7/",
+    "fecha": "05/10/2026 11:36"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Addicted #6",
+    "artista": "Daniele Verzini",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/addicted-6/",
+    "fecha": "05/10/2026 11:36"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Addicted #5",
+    "artista": "Daniele Verzini",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/addicted-5/",
+    "fecha": "05/10/2026 11:36"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Addicted #4",
+    "artista": "Daniele Verzini",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/addicted-4/",
+    "fecha": "05/10/2026 11:36"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Addicted #3",
+    "artista": "Daniele Verzini",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/addicted-3/",
+    "fecha": "05/10/2026 11:36"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Addicted #2",
+    "artista": "Daniele Verzini",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/addicted-2/",
+    "fecha": "05/10/2026 11:36"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Addicted #1",
+    "artista": "Daniele Verzini",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/addicted-1/",
+    "fecha": "05/10/2026 11:36"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Addicted #1",
+    "artista": "Daniele Verzini",
+    "precio": "€40,00",
+    "precio_num": 40.0,
+    "url": "https://artquemy.com/producto/addicted-1-2/",
+    "fecha": "05/10/2026 11:36"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Addicted #2",
+    "artista": "Daniele Verzini",
+    "precio": "€40,00",
+    "precio_num": 40.0,
+    "url": "https://artquemy.com/producto/addicted-2-2/",
+    "fecha": "05/10/2026 11:36"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Addicted #3",
+    "artista": "Daniele Verzini",
+    "precio": "€40,00",
+    "precio_num": 40.0,
+    "url": "https://artquemy.com/producto/addicted-3-2/",
+    "fecha": "05/10/2026 11:36"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Addicted #4",
+    "artista": "Daniele Verzini",
+    "precio": "€40,00",
+    "precio_num": 40.0,
+    "url": "https://artquemy.com/producto/addicted-4-2/",
+    "fecha": "05/10/2026 11:36"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Addicted #5",
+    "artista": "Daniele Verzini",
+    "precio": "€40,00",
+    "precio_num": 40.0,
+    "url": "https://artquemy.com/producto/addicted-5-copy/",
+    "fecha": "05/10/2026 11:36"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Addicted #6",
+    "artista": "Daniele Verzini",
+    "precio": "€40,00",
+    "precio_num": 40.0,
+    "url": "https://artquemy.com/producto/addicted-6-2/",
+    "fecha": "05/10/2026 11:36"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Addicted #7",
+    "artista": "Daniele Verzini",
+    "precio": "€40,00",
+    "precio_num": 40.0,
+    "url": "https://artquemy.com/producto/addicted-7-2/",
+    "fecha": "05/10/2026 11:36"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Addicted #8",
+    "artista": "Daniele Verzini",
+    "precio": "€40,00",
+    "precio_num": 40.0,
+    "url": "https://artquemy.com/producto/addicted-8-2/",
+    "fecha": "05/10/2026 11:36"
   }
 ]
