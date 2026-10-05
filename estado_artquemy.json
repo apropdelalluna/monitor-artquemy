@@ -4777,7 +4777,7 @@
         "url": "https://artquemy.com/producto/loop/"
       }
     },
-    "ultima_comprobacion": "04/10/2026 12:05"
+    "ultima_comprobacion": "05/10/2026 05:34"
   },
   "Juncosa": {
     "url": "https://artquemy.com/artists/juncosa/",
@@ -5953,7 +5953,7 @@
         "url": "https://artquemy.com/producto/flor-de-barcelona-amarilla/"
       }
     },
-    "ultima_comprobacion": "04/10/2026 14:05"
+    "ultima_comprobacion": "05/10/2026 05:34"
   },
   "KST": {
     "url": "https://artquemy.com/artists/kst/",
@@ -6177,7 +6177,7 @@
         "url": "https://artquemy.com/producto/en-el-bosque-2/"
       }
     },
-    "ultima_comprobacion": "04/10/2026 14:06"
+    "ultima_comprobacion": "05/10/2026 05:35"
   },
   "Laura Gonballes": {
     "url": "https://artquemy.com/artists/laura-gonballes/",
@@ -6940,7 +6940,7 @@
         "url": "https://artquemy.com/producto/hasta-el-alba-2/"
       }
     },
-    "ultima_comprobacion": "04/10/2026 14:06"
+    "ultima_comprobacion": "05/10/2026 05:35"
   },
   "Laura Plou": {
     "url": "https://artquemy.com/artists/laura-plou/",
@@ -6989,7 +6989,7 @@
         "url": "https://artquemy.com/producto/modelo-sa/"
       }
     },
-    "ultima_comprobacion": "04/10/2026 14:06"
+    "ultima_comprobacion": "05/10/2026 05:35"
   },
   "Lourdes Villagómez": {
     "url": "https://artquemy.com/artists/lourdes-villagomez/",
@@ -7129,11 +7129,11 @@
         "url": "https://artquemy.com/producto/el-jaguar-y-las-pinas/"
       }
     },
-    "ultima_comprobacion": "04/10/2026 14:06"
+    "ultima_comprobacion": "05/10/2026 05:36"
   },
   "Luciana Zamarbide": {
     "url": "https://artquemy.com/artists/luciana-zamarbide/",
-    "hash": "970598bd1456bd82e5f341519e0b6e7a",
+    "hash": "3f88501bf8f82f9871cc29798f83309c",
     "obras": {
       "https://artquemy.com/producto/el-alazan/": {
         "titulo": "El Alazán",
@@ -7165,9 +7165,9 @@
       },
       "https://artquemy.com/producto/la-geisha/": {
         "titulo": "La Geisha",
-        "precio": "€1.750,00",
-        "precio_num": 1750.0,
-        "estado": "disponible",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
         "url": "https://artquemy.com/producto/la-geisha/"
       },
       "https://artquemy.com/producto/shiva-ii/": {
@@ -7374,7 +7374,7 @@
         "url": "https://artquemy.com/producto/guarida-2/"
       }
     },
-    "ultima_comprobacion": "04/10/2026 14:07"
+    "ultima_comprobacion": "05/10/2026 05:36"
   },
   "Luz Marie Iturbe": {
     "url": "https://artquemy.com/artists/luz-marie-iturbe/",
@@ -7668,7 +7668,7 @@
         "url": "https://artquemy.com/producto/mooses/"
       }
     },
-    "ultima_comprobacion": "04/10/2026 14:07"
+    "ultima_comprobacion": "05/10/2026 05:36"
   },
   "Manuel Enríquez": {
     "url": "https://artquemy.com/artists/manuel-enriquez/",
@@ -7724,7 +7724,7 @@
         "url": "https://artquemy.com/producto/grietas/"
       }
     },
-    "ultima_comprobacion": "04/10/2026 14:07"
+    "ultima_comprobacion": "05/10/2026 05:37"
   },
   "Michelle Andrade": {
     "url": "https://artquemy.com/artists/michelle-andrade/",
@@ -7836,7 +7836,7 @@
         "url": "https://artquemy.com/producto/whats-in-your-head/"
       }
     },
-    "ultima_comprobacion": "04/10/2026 14:08"
+    "ultima_comprobacion": "05/10/2026 05:37"
   },
   "Món Mort": {
     "url": "https://artquemy.com/artists/mon-mort/",
