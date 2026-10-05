@@ -1,5 +1,5 @@
 {
-  "__hash__": "bae3a3e2b17ebd6f0415e8feb6bf44d4",
+  "__hash__": "ae920e6eb3e781ef109b9a04911eba3a",
   "obras": {
     "https://www.3punts.com/es/shop/artwork/vincent-vega-pulp-fiction": {
       "titulo": "",
@@ -24,126 +24,6 @@
       "precio_num": 4800.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/cash-add-fuel"
-    },
-    "https://www.3punts.com/es/shop/artwork/chet-baker-paris-1976-adria-garcia-surribas": {
-      "titulo": "",
-      "artista": "Adrià Garcia Surribas",
-      "precio": "200,00 €",
-      "precio_num": 200.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/chet-baker-paris-1976-adria-garcia-surribas"
-    },
-    "https://www.3punts.com/es/shop/artwork/crisantemo-adria-garcia-surribas": {
-      "titulo": "",
-      "artista": "Adrià Garcia Surribas",
-      "precio": "200,00 €",
-      "precio_num": 200.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/crisantemo-adria-garcia-surribas"
-    },
-    "https://www.3punts.com/es/shop/artwork/dialeg-adria-garcia-surribas": {
-      "titulo": "",
-      "artista": "Adrià Garcia Surribas",
-      "precio": "200,00 €",
-      "precio_num": 200.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/dialeg-adria-garcia-surribas"
-    },
-    "https://www.3punts.com/es/shop/artwork/home-en-una-branca-adria-garcia-surribas": {
-      "titulo": "",
-      "artista": "Adrià Garcia Surribas",
-      "precio": "200,00 €",
-      "precio_num": 200.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/home-en-una-branca-adria-garcia-surribas"
-    },
-    "https://www.3punts.com/es/shop/artwork/jeune-adria-garcia-surribas": {
-      "titulo": "",
-      "artista": "Adrià Garcia Surribas",
-      "precio": "200,00 €",
-      "precio_num": 200.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/jeune-adria-garcia-surribas"
-    },
-    "https://www.3punts.com/es/shop/artwork/jugador-de-cartes-en-un-bar-adria-garcia-surribas": {
-      "titulo": "",
-      "artista": "Adrià Garcia Surribas",
-      "precio": "200,00 €",
-      "precio_num": 200.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/jugador-de-cartes-en-un-bar-adria-garcia-surribas"
-    },
-    "https://www.3punts.com/es/shop/artwork/lhome-que-treballa-fent-de-gos-adria-garcia-surribas": {
-      "titulo": "",
-      "artista": "Adrià Garcia Surribas",
-      "precio": "200,00 €",
-      "precio_num": 200.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/lhome-que-treballa-fent-de-gos-adria-garcia-surribas"
-    },
-    "https://www.3punts.com/es/shop/artwork/mico-pintor-adria-garcia-surribas": {
-      "titulo": "",
-      "artista": "Adrià Garcia Surribas",
-      "precio": "200,00 €",
-      "precio_num": 200.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/mico-pintor-adria-garcia-surribas"
-    },
-    "https://www.3punts.com/es/shop/artwork/papallones-i-paneroles-adria-garcia-surribas": {
-      "titulo": "",
-      "artista": "Adrià Garcia Surribas",
-      "precio": "200,00 €",
-      "precio_num": 200.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/papallones-i-paneroles-adria-garcia-surribas"
-    },
-    "https://www.3punts.com/es/shop/artwork/quatre-paios-adria-garcia-surribas": {
-      "titulo": "",
-      "artista": "Adrià Garcia Surribas",
-      "precio": "200,00 €",
-      "precio_num": 200.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/quatre-paios-adria-garcia-surribas"
-    },
-    "https://www.3punts.com/es/shop/artwork/sa-excremencia-adria-garcia-surribas": {
-      "titulo": "",
-      "artista": "Adrià Garcia Surribas",
-      "precio": "200,00 €",
-      "precio_num": 200.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/sa-excremencia-adria-garcia-surribas"
-    },
-    "https://www.3punts.com/es/shop/artwork/sense-titol-adria-garcia-surribas": {
-      "titulo": "",
-      "artista": "Adrià Garcia Surribas",
-      "precio": "200,00 €",
-      "precio_num": 200.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/sense-titol-adria-garcia-surribas"
-    },
-    "https://www.3punts.com/es/shop/artwork/sense-titol-adria-garcia-surribas-0": {
-      "titulo": "",
-      "artista": "Adrià Garcia Surribas",
-      "precio": "200,00 €",
-      "precio_num": 200.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/sense-titol-adria-garcia-surribas-0"
-    },
-    "https://www.3punts.com/es/shop/artwork/els-enamorats-adria-garcia-surribas": {
-      "titulo": "",
-      "artista": "Adrià Garcia Surribas",
-      "precio": "1 300,00 €",
-      "precio_num": 1300.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/els-enamorats-adria-garcia-surribas"
-    },
-    "https://www.3punts.com/es/shop/artwork/jugadors-de-cartes-adria-garcia-surribas": {
-      "titulo": "",
-      "artista": "Adrià Garcia Surribas",
-      "precio": "1 500,00 €",
-      "precio_num": 1500.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/jugadors-de-cartes-adria-garcia-surribas"
     },
     "https://www.3punts.com/es/shop/artwork/espera-verde-alberto-fernandez-hurtado": {
       "titulo": "",
@@ -200,6 +80,38 @@
       "precio_num": 7500.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/hacia-la-libertad"
+    },
+    "https://www.3punts.com/es/shop/artwork/kainos-alberto-fernandez-hurtado": {
+      "titulo": "",
+      "artista": "Alberto Fernández Hurtado",
+      "precio": "7 500,00 €",
+      "precio_num": 7500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/kainos-alberto-fernandez-hurtado"
+    },
+    "https://www.3punts.com/es/shop/artwork/vaca-roja-alberto-fernandez-hurtado": {
+      "titulo": "",
+      "artista": "Alberto Fernández Hurtado",
+      "precio": "7 500,00 €",
+      "precio_num": 7500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/vaca-roja-alberto-fernandez-hurtado"
+    },
+    "https://www.3punts.com/es/shop/artwork/mirari-alberto-fernandez-hurtado": {
+      "titulo": "",
+      "artista": "Alberto Fernández Hurtado",
+      "precio": "7 500,00 €",
+      "precio_num": 7500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/mirari-alberto-fernandez-hurtado"
+    },
+    "https://www.3punts.com/es/shop/artwork/individuum": {
+      "titulo": "",
+      "artista": "Alberto Fernández Hurtado",
+      "precio": "7 500,00 €",
+      "precio_num": 7500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/individuum"
     },
     "https://www.3punts.com/es/shop/artwork/hoar-frost-alejandro-monge": {
       "titulo": "",
@@ -953,6 +865,14 @@
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/huang-15"
     },
+    "https://www.3punts.com/es/shop/artwork/hei-4-lantomo": {
+      "titulo": "",
+      "artista": "Antonella Montes - LANTOMO",
+      "precio": "2 500,00 €",
+      "precio_num": 2500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/hei-4-lantomo"
+    },
     "https://www.3punts.com/es/shop/artwork/black-graffiti-lantomo": {
       "titulo": "",
       "artista": "Antonella Montes - LANTOMO",
@@ -1016,6 +936,22 @@
       "precio_num": 4900.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/sad-revolution-lantomo"
+    },
+    "https://www.3punts.com/es/shop/artwork/dong-bang-ja-lantomo": {
+      "titulo": "",
+      "artista": "Antonella Montes - LANTOMO",
+      "precio": "4 900,00 €",
+      "precio_num": 4900.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/dong-bang-ja-lantomo"
+    },
+    "https://www.3punts.com/es/shop/artwork/blue-inked-queen-lantomo": {
+      "titulo": "",
+      "artista": "Antonella Montes - LANTOMO",
+      "precio": "9 800,00 €",
+      "precio_num": 9800.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/blue-inked-queen-lantomo"
     },
     "https://www.3punts.com/es/shop/artwork/huang-16": {
       "titulo": "",
@@ -3817,6 +3753,22 @@
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/game-red-black-lara-padilla"
     },
+    "https://www.3punts.com/es/shop/artwork/ivory-tetris-lara-padilla": {
+      "titulo": "",
+      "artista": "Lara Padilla",
+      "precio": "5 000,00 €",
+      "precio_num": 5000.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/ivory-tetris-lara-padilla"
+    },
+    "https://www.3punts.com/es/shop/artwork/onyx-tetris-lara-padilla": {
+      "titulo": "",
+      "artista": "Lara Padilla",
+      "precio": "5 000,00 €",
+      "precio_num": 5000.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/onyx-tetris-lara-padilla"
+    },
     "https://www.3punts.com/es/shop/artwork/black-white-agape-toy": {
       "titulo": "",
       "artista": "Lara Padilla",
@@ -4386,11 +4338,11 @@
       "url": "https://www.3punts.com/es/shop/artwork/nick-veasey-7"
     },
     "https://www.3punts.com/es/shop/artwork/nick-veasey-11": {
-      "titulo": "",
+      "titulo": "Nick Veasey 11",
       "artista": "Nick Veasey",
-      "precio": "Consultar precio",
+      "precio": "Precio no disponible",
       "precio_num": 0.0,
-      "estado": "disponible",
+      "estado": "vendido",
       "url": "https://www.3punts.com/es/shop/artwork/nick-veasey-11"
     },
     "https://www.3punts.com/es/shop/artwork/nick-veasy": {
@@ -4576,6 +4528,14 @@
       "precio_num": 0.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/african-digital-mask"
+    },
+    "https://www.3punts.com/es/shop/artwork/okuda": {
+      "titulo": "",
+      "artista": "OKUDA SAN MIGUEL",
+      "precio": "7 900,00 €",
+      "precio_num": 7900.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/okuda"
     },
     "https://www.3punts.com/es/shop/artwork/lola": {
       "titulo": "",
@@ -5760,6 +5720,46 @@
       "precio_num": 0.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/needles-and-pins-samuel-salcedo"
+    },
+    "https://www.3punts.com/es/shop/artwork/metal-metal-ii-samuel-salcedo": {
+      "titulo": "",
+      "artista": "Samuel Salcedo",
+      "precio": "Consultar precio",
+      "precio_num": 0.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/metal-metal-ii-samuel-salcedo"
+    },
+    "https://www.3punts.com/es/shop/artwork/about-memories-iv": {
+      "titulo": "",
+      "artista": "Samuel Salcedo",
+      "precio": "Consultar precio",
+      "precio_num": 0.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/about-memories-iv"
+    },
+    "https://www.3punts.com/es/shop/artwork/about-memories-iii": {
+      "titulo": "",
+      "artista": "Samuel Salcedo",
+      "precio": "Consultar precio",
+      "precio_num": 0.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/about-memories-iii"
+    },
+    "https://www.3punts.com/es/shop/artwork/about-memories-i": {
+      "titulo": "",
+      "artista": "Samuel Salcedo",
+      "precio": "Consultar precio",
+      "precio_num": 0.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/about-memories-i"
+    },
+    "https://www.3punts.com/es/shop/artwork/iron-mask-samuel-salcedo": {
+      "titulo": "",
+      "artista": "Samuel Salcedo",
+      "precio": "4 200,00 €",
+      "precio_num": 4200.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/iron-mask-samuel-salcedo"
     }
   }
 }
