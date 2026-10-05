@@ -24763,5 +24763,14 @@
     "precio_num": 40.0,
     "url": "https://artquemy.com/producto/addicted-8-2/",
     "fecha": "04/10/2026 22:52"
+  },
+  {
+    "tipo": "vendida",
+    "titulo": "La Geisha",
+    "artista": "Luciana Zamarbide",
+    "precio": "€1.750,00",
+    "precio_num": 1750.0,
+    "url": "https://artquemy.com/producto/la-geisha/",
+    "fecha": "05/10/2026 05:36"
   }
 ]
