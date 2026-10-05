@@ -606,6 +606,8 @@
         const historialPlano = [];
         historial.forEach(entrada => {
           (entrada.cambios_obras || []).forEach(cam => {
+            // Filtrar nueva_vendida sin precio (obras ya vendidas antes del monitor)
+            if (cam.tipo === 'nueva_vendida' && !(cam.precio_num > 0)) return;
             historialPlano.push({
               fecha:    entrada.fecha || cam.fecha || '',
               artista:  cam.artista || entrada.artista || '',
