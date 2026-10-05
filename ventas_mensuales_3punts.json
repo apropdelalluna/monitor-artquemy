@@ -1916,5 +1916,16 @@
       "tipo": "vendida",
       "url": "https://www.3punts.com/es/shop/artwork/far-far-away"
     }
+  ],
+  "2026-10": [
+    {
+      "fecha": "05/10/2026 11:13",
+      "artista": "Nick Veasey",
+      "obra": "Nick Veasey 11",
+      "precio": "Consultar precio",
+      "precio_num": 0.0,
+      "tipo": "vendida",
+      "url": "https://www.3punts.com/es/shop/artwork/nick-veasey-11"
+    }
   ]
 }
