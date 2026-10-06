@@ -7253,248 +7253,9 @@
   },
   "Luciana Zamarbide": {
     "url": "https://artquemy.com/artists/luciana-zamarbide/",
-    "hash": "3f88501bf8f82f9871cc29798f83309c",
-    "obras": {
-      "https://artquemy.com/producto/el-alazan/": {
-        "titulo": "El Alazán",
-        "precio": "€2.100,00",
-        "precio_num": 2100.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/el-alazan/"
-      },
-      "https://artquemy.com/producto/find-me-in-the-air/": {
-        "titulo": "Find Me In The Air",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/find-me-in-the-air/"
-      },
-      "https://artquemy.com/producto/guarida/": {
-        "titulo": "Guarida",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/guarida/"
-      },
-      "https://artquemy.com/producto/la-sabia/": {
-        "titulo": "La Sabia",
-        "precio": "€1.800,00",
-        "precio_num": 1800.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/la-sabia/"
-      },
-      "https://artquemy.com/producto/la-geisha/": {
-        "titulo": "La Geisha",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/la-geisha/"
-      },
-      "https://artquemy.com/producto/shiva-ii/": {
-        "titulo": "Shiva II",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/shiva-ii/"
-      },
-      "https://artquemy.com/producto/la-llorona/": {
-        "titulo": "La Llorona",
-        "precio": "€1.500,00",
-        "precio_num": 1500.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/la-llorona/"
-      },
-      "https://artquemy.com/producto/emerging/": {
-        "titulo": "Emerging",
-        "precio": "€1.500,00",
-        "precio_num": 1500.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/emerging/"
-      },
-      "https://artquemy.com/producto/lucid-dream/": {
-        "titulo": "Lucid Dream",
-        "precio": "€1.500,00",
-        "precio_num": 1500.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/lucid-dream/"
-      },
-      "https://artquemy.com/producto/agorafobia/": {
-        "titulo": "Agorafobia",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/agorafobia/"
-      },
-      "https://artquemy.com/producto/ritual-tree/": {
-        "titulo": "Ritual tree",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/ritual-tree/"
-      },
-      "https://artquemy.com/producto/shiva/": {
-        "titulo": "Shiva",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/shiva/"
-      },
-      "https://artquemy.com/producto/magojiro/": {
-        "titulo": "Magojiro",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/magojiro/"
-      },
-      "https://artquemy.com/producto/scorpio-rising/": {
-        "titulo": "Scorpio Rising",
-        "precio": "€1.300,00",
-        "precio_num": 1300.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/scorpio-rising/"
-      },
-      "https://artquemy.com/producto/explorador/": {
-        "titulo": "Explorador",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/explorador/"
-      },
-      "https://artquemy.com/producto/the-door-opens/": {
-        "titulo": "The Door opens",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/the-door-opens/"
-      },
-      "https://artquemy.com/producto/the-still-center/": {
-        "titulo": "The Still Center",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/the-still-center/"
-      },
-      "https://artquemy.com/producto/inner-architecture/": {
-        "titulo": "Inner Architecture",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/inner-architecture/"
-      },
-      "https://artquemy.com/producto/la-pitonisa/": {
-        "titulo": "La Pitonisa",
-        "precio": "€780,00",
-        "precio_num": 780.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/la-pitonisa/"
-      },
-      "https://artquemy.com/producto/out-of-water/": {
-        "titulo": "Out of Water",
-        "precio": "€550,00",
-        "precio_num": 550.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/out-of-water/"
-      },
-      "https://artquemy.com/producto/cedar-shakes/": {
-        "titulo": "Cedar Shakes",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/cedar-shakes/"
-      },
-      "https://artquemy.com/producto/a-throne-abandoned/": {
-        "titulo": "A throne Abandoned",
-        "precio": "€420,00",
-        "precio_num": 420.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/a-throne-abandoned/"
-      },
-      "https://artquemy.com/producto/mantis/": {
-        "titulo": "Mantis",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/mantis/"
-      },
-      "https://artquemy.com/producto/like-a-mountain/": {
-        "titulo": "Like a Mountain",
-        "precio": "€340,00",
-        "precio_num": 340.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/like-a-mountain/"
-      },
-      "https://artquemy.com/producto/obsolith/": {
-        "titulo": "Obsolith",
-        "precio": "€340,00",
-        "precio_num": 340.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/obsolith/"
-      },
-      "https://artquemy.com/producto/waldo/": {
-        "titulo": "Waldo",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/waldo/"
-      },
-      "https://artquemy.com/producto/spirits-flown/": {
-        "titulo": "Spirits flown",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/spirits-flown/"
-      },
-      "https://artquemy.com/producto/arena/": {
-        "titulo": "Arena",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/arena/"
-      },
-      "https://artquemy.com/producto/fire-walk-with-me/": {
-        "titulo": "Fire walk with me",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/fire-walk-with-me/"
-      },
-      "https://artquemy.com/producto/guarida-3/": {
-        "titulo": "Guarida",
-        "precio": "€80,00",
-        "precio_num": 80.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/guarida-3/"
-      },
-      "https://artquemy.com/producto/agorafobia-2/": {
-        "titulo": "Agorafobia",
-        "precio": "€80,00",
-        "precio_num": 80.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/agorafobia-2/"
-      },
-      "https://artquemy.com/producto/the-door-opens-2/": {
-        "titulo": "The Door opens",
-        "precio": "€40,00",
-        "precio_num": 40.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/the-door-opens-2/"
-      },
-      "https://artquemy.com/producto/cedar-shakes-2/": {
-        "titulo": "Cedar Shakes",
-        "precio": "€40,00",
-        "precio_num": 40.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/cedar-shakes-2/"
-      },
-      "https://artquemy.com/producto/guarida-2/": {
-        "titulo": "Guarida",
-        "precio": "€25,00",
-        "precio_num": 25.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/guarida-2/"
-      }
-    },
-    "ultima_comprobacion": "06/10/2026 08:28"
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "obras": {},
+    "ultima_comprobacion": "06/10/2026 17:04"
   },
   "Luz Marie Iturbe": {
     "url": "https://artquemy.com/artists/luz-marie-iturbe/",
@@ -7788,7 +7549,7 @@
         "url": "https://artquemy.com/producto/mooses/"
       }
     },
-    "ultima_comprobacion": "06/10/2026 10:29"
+    "ultima_comprobacion": "06/10/2026 17:04"
   },
   "Manuel Enríquez": {
     "url": "https://artquemy.com/artists/manuel-enriquez/",
@@ -7844,7 +7605,7 @@
         "url": "https://artquemy.com/producto/grietas/"
       }
     },
-    "ultima_comprobacion": "06/10/2026 10:29"
+    "ultima_comprobacion": "06/10/2026 17:04"
   },
   "Michelle Andrade": {
     "url": "https://artquemy.com/artists/michelle-andrade/",
@@ -7956,7 +7717,7 @@
         "url": "https://artquemy.com/producto/whats-in-your-head/"
       }
     },
-    "ultima_comprobacion": "06/10/2026 10:29"
+    "ultima_comprobacion": "06/10/2026 17:05"
   },
   "Món Mort": {
     "url": "https://artquemy.com/artists/mon-mort/",
@@ -7977,7 +7738,7 @@
         "url": "https://artquemy.com/producto/las-monmortinas/"
       }
     },
-    "ultima_comprobacion": "06/10/2026 10:30"
+    "ultima_comprobacion": "06/10/2026 17:05"
   },
   "Okobé": {
     "url": "https://artquemy.com/artists/okobe/",
@@ -8012,7 +7773,7 @@
         "url": "https://artquemy.com/producto/ellas/"
       }
     },
-    "ultima_comprobacion": "06/10/2026 10:30"
+    "ultima_comprobacion": "06/10/2026 17:06"
   },
   "Prëo": {
     "url": "https://artquemy.com/artists/preo/",
@@ -8089,7 +7850,7 @@
         "url": "https://artquemy.com/producto/quebrada/"
       }
     },
-    "ultima_comprobacion": "06/10/2026 10:30"
+    "ultima_comprobacion": "06/10/2026 17:06"
   },
   "Qwert": {
     "url": "https://artquemy.com/artists/qwert/",
@@ -8390,7 +8151,7 @@
         "url": "https://artquemy.com/producto/a-little-traveller-2/"
       }
     },
-    "ultima_comprobacion": "06/10/2026 10:30"
+    "ultima_comprobacion": "06/10/2026 17:06"
   },
   "Rich One": {
     "url": "https://artquemy.com/artists/rich-one/",
@@ -8495,7 +8256,7 @@
         "url": "https://artquemy.com/producto/t-shirt-black/"
       }
     },
-    "ultima_comprobacion": "06/10/2026 10:31"
+    "ultima_comprobacion": "06/10/2026 17:07"
   },
   "Rocco Del Franco": {
     "url": "https://artquemy.com/artists/rocco-del-franco/",
@@ -8719,7 +8480,7 @@
         "url": "https://artquemy.com/producto/classic-orange-vii/"
       }
     },
-    "ultima_comprobacion": "06/10/2026 10:31"
+    "ultima_comprobacion": "06/10/2026 17:07"
   },
   "Rocío Iannone": {
     "url": "https://artquemy.com/artists/rocio-iannone/",
