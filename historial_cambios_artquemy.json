@@ -26468,5 +26468,311 @@
     "precio_num": 0.0,
     "url": "https://artquemy.com/producto/t-shirt/",
     "fecha": "06/10/2026 23:16"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "El Alazán",
+    "artista": "Luciana Zamarbide",
+    "precio": "€2.100,00",
+    "precio_num": 2100.0,
+    "url": "https://artquemy.com/producto/el-alazan/",
+    "fecha": "07/10/2026 01:20"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Find Me In The Air",
+    "artista": "Luciana Zamarbide",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/find-me-in-the-air/",
+    "fecha": "07/10/2026 01:20"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Guarida",
+    "artista": "Luciana Zamarbide",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/guarida/",
+    "fecha": "07/10/2026 01:20"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "La Sabia",
+    "artista": "Luciana Zamarbide",
+    "precio": "€1.800,00",
+    "precio_num": 1800.0,
+    "url": "https://artquemy.com/producto/la-sabia/",
+    "fecha": "07/10/2026 01:20"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "La Geisha",
+    "artista": "Luciana Zamarbide",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/la-geisha/",
+    "fecha": "07/10/2026 01:20"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Shiva II",
+    "artista": "Luciana Zamarbide",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/shiva-ii/",
+    "fecha": "07/10/2026 01:20"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "La Llorona",
+    "artista": "Luciana Zamarbide",
+    "precio": "€1.500,00",
+    "precio_num": 1500.0,
+    "url": "https://artquemy.com/producto/la-llorona/",
+    "fecha": "07/10/2026 01:20"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Emerging",
+    "artista": "Luciana Zamarbide",
+    "precio": "€1.500,00",
+    "precio_num": 1500.0,
+    "url": "https://artquemy.com/producto/emerging/",
+    "fecha": "07/10/2026 01:20"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Lucid Dream",
+    "artista": "Luciana Zamarbide",
+    "precio": "€1.500,00",
+    "precio_num": 1500.0,
+    "url": "https://artquemy.com/producto/lucid-dream/",
+    "fecha": "07/10/2026 01:20"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Agorafobia",
+    "artista": "Luciana Zamarbide",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/agorafobia/",
+    "fecha": "07/10/2026 01:20"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Ritual tree",
+    "artista": "Luciana Zamarbide",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/ritual-tree/",
+    "fecha": "07/10/2026 01:20"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Shiva",
+    "artista": "Luciana Zamarbide",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/shiva/",
+    "fecha": "07/10/2026 01:20"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Magojiro",
+    "artista": "Luciana Zamarbide",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/magojiro/",
+    "fecha": "07/10/2026 01:20"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Scorpio Rising",
+    "artista": "Luciana Zamarbide",
+    "precio": "€1.300,00",
+    "precio_num": 1300.0,
+    "url": "https://artquemy.com/producto/scorpio-rising/",
+    "fecha": "07/10/2026 01:20"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Explorador",
+    "artista": "Luciana Zamarbide",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/explorador/",
+    "fecha": "07/10/2026 01:20"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "The Door opens",
+    "artista": "Luciana Zamarbide",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/the-door-opens/",
+    "fecha": "07/10/2026 01:20"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "The Still Center",
+    "artista": "Luciana Zamarbide",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/the-still-center/",
+    "fecha": "07/10/2026 01:20"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Inner Architecture",
+    "artista": "Luciana Zamarbide",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/inner-architecture/",
+    "fecha": "07/10/2026 01:20"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "La Pitonisa",
+    "artista": "Luciana Zamarbide",
+    "precio": "€780,00",
+    "precio_num": 780.0,
+    "url": "https://artquemy.com/producto/la-pitonisa/",
+    "fecha": "07/10/2026 01:20"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Out of Water",
+    "artista": "Luciana Zamarbide",
+    "precio": "€550,00",
+    "precio_num": 550.0,
+    "url": "https://artquemy.com/producto/out-of-water/",
+    "fecha": "07/10/2026 01:20"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Cedar Shakes",
+    "artista": "Luciana Zamarbide",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/cedar-shakes/",
+    "fecha": "07/10/2026 01:20"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "A throne Abandoned",
+    "artista": "Luciana Zamarbide",
+    "precio": "€420,00",
+    "precio_num": 420.0,
+    "url": "https://artquemy.com/producto/a-throne-abandoned/",
+    "fecha": "07/10/2026 01:20"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Mantis",
+    "artista": "Luciana Zamarbide",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/mantis/",
+    "fecha": "07/10/2026 01:20"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Like a Mountain",
+    "artista": "Luciana Zamarbide",
+    "precio": "€340,00",
+    "precio_num": 340.0,
+    "url": "https://artquemy.com/producto/like-a-mountain/",
+    "fecha": "07/10/2026 01:20"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Obsolith",
+    "artista": "Luciana Zamarbide",
+    "precio": "€340,00",
+    "precio_num": 340.0,
+    "url": "https://artquemy.com/producto/obsolith/",
+    "fecha": "07/10/2026 01:20"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Waldo",
+    "artista": "Luciana Zamarbide",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/waldo/",
+    "fecha": "07/10/2026 01:20"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Spirits flown",
+    "artista": "Luciana Zamarbide",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/spirits-flown/",
+    "fecha": "07/10/2026 01:20"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Arena",
+    "artista": "Luciana Zamarbide",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/arena/",
+    "fecha": "07/10/2026 01:20"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Fire walk with me",
+    "artista": "Luciana Zamarbide",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/fire-walk-with-me/",
+    "fecha": "07/10/2026 01:20"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Guarida",
+    "artista": "Luciana Zamarbide",
+    "precio": "€80,00",
+    "precio_num": 80.0,
+    "url": "https://artquemy.com/producto/guarida-3/",
+    "fecha": "07/10/2026 01:20"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Agorafobia",
+    "artista": "Luciana Zamarbide",
+    "precio": "€80,00",
+    "precio_num": 80.0,
+    "url": "https://artquemy.com/producto/agorafobia-2/",
+    "fecha": "07/10/2026 01:20"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "The Door opens",
+    "artista": "Luciana Zamarbide",
+    "precio": "€40,00",
+    "precio_num": 40.0,
+    "url": "https://artquemy.com/producto/the-door-opens-2/",
+    "fecha": "07/10/2026 01:20"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Cedar Shakes",
+    "artista": "Luciana Zamarbide",
+    "precio": "€40,00",
+    "precio_num": 40.0,
+    "url": "https://artquemy.com/producto/cedar-shakes-2/",
+    "fecha": "07/10/2026 01:20"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Guarida",
+    "artista": "Luciana Zamarbide",
+    "precio": "€25,00",
+    "precio_num": 25.0,
+    "url": "https://artquemy.com/producto/guarida-2/",
+    "fecha": "07/10/2026 01:20"
   }
 ]
