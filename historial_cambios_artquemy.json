@@ -27521,5 +27521,284 @@
     "precio_num": 0.0,
     "url": "https://artquemy.com/producto/en-el-bosque-2/",
     "fecha": "11/10/2026 07:42"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Tuk Tuk Nananjas",
+    "artista": "KST",
+    "precio": "€280,00",
+    "precio_num": 280.0,
+    "url": "https://artquemy.com/producto/tuk-tuk-nananjas/",
+    "fecha": "11/10/2026 14:24"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Auto rojo",
+    "artista": "KST",
+    "precio": "€280,00",
+    "precio_num": 280.0,
+    "url": "https://artquemy.com/producto/auto-rojo/",
+    "fecha": "11/10/2026 14:24"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Por qué hice eso?",
+    "artista": "KST",
+    "precio": "€280,00",
+    "precio_num": 280.0,
+    "url": "https://artquemy.com/producto/por-que-hice-eso/",
+    "fecha": "11/10/2026 14:24"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Despeinada",
+    "artista": "KST",
+    "precio": "€280,00",
+    "precio_num": 280.0,
+    "url": "https://artquemy.com/producto/despeinada/",
+    "fecha": "11/10/2026 14:24"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Mira mamá",
+    "artista": "KST",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/mira-mama/",
+    "fecha": "11/10/2026 14:24"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Hice compras",
+    "artista": "KST",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/hice-compras/",
+    "fecha": "11/10/2026 14:24"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Abierta al sol",
+    "artista": "KST",
+    "precio": "€280,00",
+    "precio_num": 280.0,
+    "url": "https://artquemy.com/producto/abierta-al-sol/",
+    "fecha": "11/10/2026 14:24"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Mira arriba",
+    "artista": "KST",
+    "precio": "€280,00",
+    "precio_num": 280.0,
+    "url": "https://artquemy.com/producto/mira-arriba/",
+    "fecha": "11/10/2026 14:24"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "No te vayas!",
+    "artista": "KST",
+    "precio": "€280,00",
+    "precio_num": 280.0,
+    "url": "https://artquemy.com/producto/no-te-vayas/",
+    "fecha": "11/10/2026 14:24"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Y si se acaba el verano, se acaba la playa?",
+    "artista": "KST",
+    "precio": "€280,00",
+    "precio_num": 280.0,
+    "url": "https://artquemy.com/producto/y-si-se-acaba-el-verano-se-acaba-la-playa/",
+    "fecha": "11/10/2026 14:24"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "En compañía",
+    "artista": "KST",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/en-compania/",
+    "fecha": "11/10/2026 14:24"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Deminase Iglesia",
+    "artista": "KST",
+    "precio": "€240,00",
+    "precio_num": 240.0,
+    "url": "https://artquemy.com/producto/deminase-iglesia/",
+    "fecha": "11/10/2026 14:24"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Güell Onírico",
+    "artista": "KST",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/guell-onirico/",
+    "fecha": "11/10/2026 14:24"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Milà Onírica",
+    "artista": "KST",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/mila-onirica/",
+    "fecha": "11/10/2026 14:24"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Ángel Que no GUARDA II",
+    "artista": "KST",
+    "precio": "€190,00",
+    "precio_num": 190.0,
+    "url": "https://artquemy.com/producto/angel-que-no-guarda-ii/",
+    "fecha": "11/10/2026 14:24"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Ángel Que no GUARDA I",
+    "artista": "KST",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/angel-que-no-guarda-i/",
+    "fecha": "11/10/2026 14:24"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Ángel de la Guarda",
+    "artista": "KST",
+    "precio": "€190,00",
+    "precio_num": 190.0,
+    "url": "https://artquemy.com/producto/angel-de-la-guarda/",
+    "fecha": "11/10/2026 14:24"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Sunbath V",
+    "artista": "KST",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/sunbath-v/",
+    "fecha": "11/10/2026 14:24"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Sunbath IV",
+    "artista": "KST",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/sunbath-iv/",
+    "fecha": "11/10/2026 14:24"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Sunbath III",
+    "artista": "KST",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/sunbath-iii/",
+    "fecha": "11/10/2026 14:24"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Sunbath II",
+    "artista": "KST",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/sunbath-ii/",
+    "fecha": "11/10/2026 14:24"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Sunbath I",
+    "artista": "KST",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/sunbath-i/",
+    "fecha": "11/10/2026 14:24"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Catedral sobre el agua",
+    "artista": "KST",
+    "precio": "€70,00",
+    "precio_num": 70.0,
+    "url": "https://artquemy.com/producto/mercado-andino/",
+    "fecha": "11/10/2026 14:24"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Festival Fantástico del Fosque",
+    "artista": "KST",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/festival-fantastico-del-fosque/",
+    "fecha": "11/10/2026 14:24"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "En el bosque",
+    "artista": "KST",
+    "precio": "€70,00",
+    "precio_num": 70.0,
+    "url": "https://artquemy.com/producto/en-el-bosque/",
+    "fecha": "11/10/2026 14:24"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Cabeza de pecera",
+    "artista": "KST",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/cabeza-de-pecera/",
+    "fecha": "11/10/2026 14:24"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Viajero y medusa",
+    "artista": "KST",
+    "precio": "€70,00",
+    "precio_num": 70.0,
+    "url": "https://artquemy.com/producto/viajero-y-medusa/",
+    "fecha": "11/10/2026 14:24"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Viajeros de cuerdas y tambores",
+    "artista": "KST",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/viajeros-de-cuerdas-y-tambores/",
+    "fecha": "11/10/2026 14:24"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Viajero y medusa",
+    "artista": "KST",
+    "precio": "€40,00",
+    "precio_num": 40.0,
+    "url": "https://artquemy.com/producto/viajero-y-medusa-2/",
+    "fecha": "11/10/2026 14:24"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Cabeza de pecera",
+    "artista": "KST",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/cabeza-de-pecera-2/",
+    "fecha": "11/10/2026 14:24"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "En el bosque",
+    "artista": "KST",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/en-el-bosque-2/",
+    "fecha": "11/10/2026 14:24"
   }
 ]
