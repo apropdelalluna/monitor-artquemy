@@ -6073,13 +6073,231 @@
         "url": "https://artquemy.com/producto/flor-de-barcelona-amarilla/"
       }
     },
-    "ultima_comprobacion": "11/10/2026 06:14"
+    "ultima_comprobacion": "11/10/2026 14:24"
   },
   "KST": {
     "url": "https://artquemy.com/artists/kst/",
-    "hash": "d41d8cd98f00b204e9800998ecf8427e",
-    "obras": {},
-    "ultima_comprobacion": "11/10/2026 07:42"
+    "hash": "f87a18235b02c88fc1776830c0d4f03e",
+    "obras": {
+      "https://artquemy.com/producto/tuk-tuk-nananjas/": {
+        "titulo": "Tuk Tuk Nananjas",
+        "precio": "€280,00",
+        "precio_num": 280.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/tuk-tuk-nananjas/"
+      },
+      "https://artquemy.com/producto/auto-rojo/": {
+        "titulo": "Auto rojo",
+        "precio": "€280,00",
+        "precio_num": 280.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/auto-rojo/"
+      },
+      "https://artquemy.com/producto/por-que-hice-eso/": {
+        "titulo": "Por qué hice eso?",
+        "precio": "€280,00",
+        "precio_num": 280.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/por-que-hice-eso/"
+      },
+      "https://artquemy.com/producto/despeinada/": {
+        "titulo": "Despeinada",
+        "precio": "€280,00",
+        "precio_num": 280.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/despeinada/"
+      },
+      "https://artquemy.com/producto/mira-mama/": {
+        "titulo": "Mira mamá",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/mira-mama/"
+      },
+      "https://artquemy.com/producto/hice-compras/": {
+        "titulo": "Hice compras",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/hice-compras/"
+      },
+      "https://artquemy.com/producto/abierta-al-sol/": {
+        "titulo": "Abierta al sol",
+        "precio": "€280,00",
+        "precio_num": 280.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/abierta-al-sol/"
+      },
+      "https://artquemy.com/producto/mira-arriba/": {
+        "titulo": "Mira arriba",
+        "precio": "€280,00",
+        "precio_num": 280.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/mira-arriba/"
+      },
+      "https://artquemy.com/producto/no-te-vayas/": {
+        "titulo": "No te vayas!",
+        "precio": "€280,00",
+        "precio_num": 280.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/no-te-vayas/"
+      },
+      "https://artquemy.com/producto/y-si-se-acaba-el-verano-se-acaba-la-playa/": {
+        "titulo": "Y si se acaba el verano, se acaba la playa?",
+        "precio": "€280,00",
+        "precio_num": 280.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/y-si-se-acaba-el-verano-se-acaba-la-playa/"
+      },
+      "https://artquemy.com/producto/en-compania/": {
+        "titulo": "En compañía",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/en-compania/"
+      },
+      "https://artquemy.com/producto/deminase-iglesia/": {
+        "titulo": "Deminase Iglesia",
+        "precio": "€240,00",
+        "precio_num": 240.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/deminase-iglesia/"
+      },
+      "https://artquemy.com/producto/guell-onirico/": {
+        "titulo": "Güell Onírico",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/guell-onirico/"
+      },
+      "https://artquemy.com/producto/mila-onirica/": {
+        "titulo": "Milà Onírica",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/mila-onirica/"
+      },
+      "https://artquemy.com/producto/angel-que-no-guarda-ii/": {
+        "titulo": "Ángel Que no GUARDA II",
+        "precio": "€190,00",
+        "precio_num": 190.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/angel-que-no-guarda-ii/"
+      },
+      "https://artquemy.com/producto/angel-que-no-guarda-i/": {
+        "titulo": "Ángel Que no GUARDA I",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/angel-que-no-guarda-i/"
+      },
+      "https://artquemy.com/producto/angel-de-la-guarda/": {
+        "titulo": "Ángel de la Guarda",
+        "precio": "€190,00",
+        "precio_num": 190.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/angel-de-la-guarda/"
+      },
+      "https://artquemy.com/producto/sunbath-v/": {
+        "titulo": "Sunbath V",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/sunbath-v/"
+      },
+      "https://artquemy.com/producto/sunbath-iv/": {
+        "titulo": "Sunbath IV",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/sunbath-iv/"
+      },
+      "https://artquemy.com/producto/sunbath-iii/": {
+        "titulo": "Sunbath III",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/sunbath-iii/"
+      },
+      "https://artquemy.com/producto/sunbath-ii/": {
+        "titulo": "Sunbath II",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/sunbath-ii/"
+      },
+      "https://artquemy.com/producto/sunbath-i/": {
+        "titulo": "Sunbath I",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/sunbath-i/"
+      },
+      "https://artquemy.com/producto/mercado-andino/": {
+        "titulo": "Catedral sobre el agua",
+        "precio": "€70,00",
+        "precio_num": 70.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/mercado-andino/"
+      },
+      "https://artquemy.com/producto/festival-fantastico-del-fosque/": {
+        "titulo": "Festival Fantástico del Fosque",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/festival-fantastico-del-fosque/"
+      },
+      "https://artquemy.com/producto/en-el-bosque/": {
+        "titulo": "En el bosque",
+        "precio": "€70,00",
+        "precio_num": 70.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/en-el-bosque/"
+      },
+      "https://artquemy.com/producto/cabeza-de-pecera/": {
+        "titulo": "Cabeza de pecera",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/cabeza-de-pecera/"
+      },
+      "https://artquemy.com/producto/viajero-y-medusa/": {
+        "titulo": "Viajero y medusa",
+        "precio": "€70,00",
+        "precio_num": 70.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/viajero-y-medusa/"
+      },
+      "https://artquemy.com/producto/viajeros-de-cuerdas-y-tambores/": {
+        "titulo": "Viajeros de cuerdas y tambores",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/viajeros-de-cuerdas-y-tambores/"
+      },
+      "https://artquemy.com/producto/viajero-y-medusa-2/": {
+        "titulo": "Viajero y medusa",
+        "precio": "€40,00",
+        "precio_num": 40.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/viajero-y-medusa-2/"
+      },
+      "https://artquemy.com/producto/cabeza-de-pecera-2/": {
+        "titulo": "Cabeza de pecera",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/cabeza-de-pecera-2/"
+      },
+      "https://artquemy.com/producto/en-el-bosque-2/": {
+        "titulo": "En el bosque",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/en-el-bosque-2/"
+      }
+    },
+    "ultima_comprobacion": "11/10/2026 14:24"
   },
   "Laura Gonballes": {
     "url": "https://artquemy.com/artists/laura-gonballes/",
@@ -6842,7 +7060,7 @@
         "url": "https://artquemy.com/producto/hasta-el-alba-2/"
       }
     },
-    "ultima_comprobacion": "11/10/2026 07:43"
+    "ultima_comprobacion": "11/10/2026 14:25"
   },
   "Laura Plou": {
     "url": "https://artquemy.com/artists/laura-plou/",
@@ -6891,7 +7109,7 @@
         "url": "https://artquemy.com/producto/modelo-sa/"
       }
     },
-    "ultima_comprobacion": "11/10/2026 07:43"
+    "ultima_comprobacion": "11/10/2026 14:25"
   },
   "Lourdes Villagómez": {
     "url": "https://artquemy.com/artists/lourdes-villagomez/",
@@ -7031,7 +7249,7 @@
         "url": "https://artquemy.com/producto/el-jaguar-y-las-pinas/"
       }
     },
-    "ultima_comprobacion": "11/10/2026 07:43"
+    "ultima_comprobacion": "11/10/2026 14:25"
   },
   "Luciana Zamarbide": {
     "url": "https://artquemy.com/artists/luciana-zamarbide/",
@@ -7276,7 +7494,7 @@
         "url": "https://artquemy.com/producto/guarida-2/"
       }
     },
-    "ultima_comprobacion": "11/10/2026 07:44"
+    "ultima_comprobacion": "11/10/2026 14:26"
   },
   "Luz Marie Iturbe": {
     "url": "https://artquemy.com/artists/luz-marie-iturbe/",
@@ -7570,7 +7788,7 @@
         "url": "https://artquemy.com/producto/mooses/"
       }
     },
-    "ultima_comprobacion": "11/10/2026 07:44"
+    "ultima_comprobacion": "11/10/2026 14:26"
   },
   "Manuel Enríquez": {
     "url": "https://artquemy.com/artists/manuel-enriquez/",
@@ -7626,7 +7844,7 @@
         "url": "https://artquemy.com/producto/grietas/"
       }
     },
-    "ultima_comprobacion": "11/10/2026 07:45"
+    "ultima_comprobacion": "11/10/2026 14:26"
   },
   "Michelle Andrade": {
     "url": "https://artquemy.com/artists/michelle-andrade/",
@@ -7738,7 +7956,7 @@
         "url": "https://artquemy.com/producto/whats-in-your-head/"
       }
     },
-    "ultima_comprobacion": "11/10/2026 07:45"
+    "ultima_comprobacion": "11/10/2026 14:27"
   },
   "Món Mort": {
     "url": "https://artquemy.com/artists/mon-mort/",
@@ -7759,7 +7977,7 @@
         "url": "https://artquemy.com/producto/las-monmortinas/"
       }
     },
-    "ultima_comprobacion": "11/10/2026 07:45"
+    "ultima_comprobacion": "11/10/2026 14:27"
   },
   "Okobé": {
     "url": "https://artquemy.com/artists/okobe/",
