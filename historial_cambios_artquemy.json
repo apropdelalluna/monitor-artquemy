@@ -27899,5 +27899,104 @@
     "precio_num": 50.0,
     "url": "https://artquemy.com/producto/loop/",
     "fecha": "12/10/2026 07:05"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Road to Nowhere VI",
+    "artista": "Juandrés Vera",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/road-to-nowhere-vi/",
+    "fecha": "12/10/2026 20:24"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Road to Nowhere VII",
+    "artista": "Juandrés Vera",
+    "precio": "€3.800,00",
+    "precio_num": 3800.0,
+    "url": "https://artquemy.com/producto/road-to-nowhere-vii/",
+    "fecha": "12/10/2026 20:24"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Odisea de papel sustentado en el vacío",
+    "artista": "Juandrés Vera",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/odisea-de-papel-sustentado-en-el-vacio/",
+    "fecha": "12/10/2026 20:24"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Amarillo",
+    "artista": "Juandrés Vera",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/amarillo/",
+    "fecha": "12/10/2026 20:24"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "El círculo V (La Rosa)",
+    "artista": "Juandrés Vera",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/el-circulo-v-la-rosa/",
+    "fecha": "12/10/2026 20:24"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Coffee Landscape",
+    "artista": "Juandrés Vera",
+    "precio": "€1.000,00",
+    "precio_num": 1000.0,
+    "url": "https://artquemy.com/producto/coffee-landscape/",
+    "fecha": "12/10/2026 20:24"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Bite a byte",
+    "artista": "Juandrés Vera",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/bite-a-byte/",
+    "fecha": "12/10/2026 20:24"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Road to nowhere l",
+    "artista": "Juandrés Vera",
+    "precio": "€50,00",
+    "precio_num": 50.0,
+    "url": "https://artquemy.com/producto/road-to-nowhere-l/",
+    "fecha": "12/10/2026 20:24"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Gratitud",
+    "artista": "Juandrés Vera",
+    "precio": "€50,00",
+    "precio_num": 50.0,
+    "url": "https://artquemy.com/producto/gratitud/",
+    "fecha": "12/10/2026 20:24"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "The mind is the beast (me , myself and I)",
+    "artista": "Juandrés Vera",
+    "precio": "€50,00",
+    "precio_num": 50.0,
+    "url": "https://artquemy.com/producto/the-mind-is-the-beast-me-myself-and-i/",
+    "fecha": "12/10/2026 20:24"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Loop",
+    "artista": "Juandrés Vera",
+    "precio": "€50,00",
+    "precio_num": 50.0,
+    "url": "https://artquemy.com/producto/loop/",
+    "fecha": "12/10/2026 20:24"
   }
 ]
