@@ -4813,13 +4813,91 @@
         "url": "https://artquemy.com/producto/el-oleaje-de-verano/"
       }
     },
-    "ultima_comprobacion": "11/10/2026 20:36"
+    "ultima_comprobacion": "12/10/2026 20:24"
   },
   "Juandrés Vera": {
     "url": "https://artquemy.com/artists/juandres-vera/",
-    "hash": "d41d8cd98f00b204e9800998ecf8427e",
-    "obras": {},
-    "ultima_comprobacion": "12/10/2026 07:05"
+    "hash": "c084245ecacd7c76b7bb1bd3535201a5",
+    "obras": {
+      "https://artquemy.com/producto/road-to-nowhere-vi/": {
+        "titulo": "Road to Nowhere VI",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/road-to-nowhere-vi/"
+      },
+      "https://artquemy.com/producto/road-to-nowhere-vii/": {
+        "titulo": "Road to Nowhere VII",
+        "precio": "€3.800,00",
+        "precio_num": 3800.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/road-to-nowhere-vii/"
+      },
+      "https://artquemy.com/producto/odisea-de-papel-sustentado-en-el-vacio/": {
+        "titulo": "Odisea de papel sustentado en el vacío",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/odisea-de-papel-sustentado-en-el-vacio/"
+      },
+      "https://artquemy.com/producto/amarillo/": {
+        "titulo": "Amarillo",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/amarillo/"
+      },
+      "https://artquemy.com/producto/el-circulo-v-la-rosa/": {
+        "titulo": "El círculo V (La Rosa)",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/el-circulo-v-la-rosa/"
+      },
+      "https://artquemy.com/producto/coffee-landscape/": {
+        "titulo": "Coffee Landscape",
+        "precio": "€1.000,00",
+        "precio_num": 1000.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/coffee-landscape/"
+      },
+      "https://artquemy.com/producto/bite-a-byte/": {
+        "titulo": "Bite a byte",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/bite-a-byte/"
+      },
+      "https://artquemy.com/producto/road-to-nowhere-l/": {
+        "titulo": "Road to nowhere l",
+        "precio": "€50,00",
+        "precio_num": 50.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/road-to-nowhere-l/"
+      },
+      "https://artquemy.com/producto/gratitud/": {
+        "titulo": "Gratitud",
+        "precio": "€50,00",
+        "precio_num": 50.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/gratitud/"
+      },
+      "https://artquemy.com/producto/the-mind-is-the-beast-me-myself-and-i/": {
+        "titulo": "The mind is the beast (me , myself and I)",
+        "precio": "€50,00",
+        "precio_num": 50.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/the-mind-is-the-beast-me-myself-and-i/"
+      },
+      "https://artquemy.com/producto/loop/": {
+        "titulo": "Loop",
+        "precio": "€50,00",
+        "precio_num": 50.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/loop/"
+      }
+    },
+    "ultima_comprobacion": "12/10/2026 20:24"
   },
   "Juncosa": {
     "url": "https://artquemy.com/artists/juncosa/",
@@ -5995,7 +6073,7 @@
         "url": "https://artquemy.com/producto/flor-de-barcelona-amarilla/"
       }
     },
-    "ultima_comprobacion": "12/10/2026 07:06"
+    "ultima_comprobacion": "12/10/2026 20:24"
   },
   "KST": {
     "url": "https://artquemy.com/artists/kst/",
@@ -6219,7 +6297,7 @@
         "url": "https://artquemy.com/producto/en-el-bosque-2/"
       }
     },
-    "ultima_comprobacion": "12/10/2026 07:06"
+    "ultima_comprobacion": "12/10/2026 20:25"
   },
   "Laura Gonballes": {
     "url": "https://artquemy.com/artists/laura-gonballes/",
@@ -6982,7 +7060,7 @@
         "url": "https://artquemy.com/producto/hasta-el-alba-2/"
       }
     },
-    "ultima_comprobacion": "12/10/2026 07:07"
+    "ultima_comprobacion": "12/10/2026 20:25"
   },
   "Laura Plou": {
     "url": "https://artquemy.com/artists/laura-plou/",
@@ -7031,7 +7109,7 @@
         "url": "https://artquemy.com/producto/modelo-sa/"
       }
     },
-    "ultima_comprobacion": "12/10/2026 07:07"
+    "ultima_comprobacion": "12/10/2026 20:26"
   },
   "Lourdes Villagómez": {
     "url": "https://artquemy.com/artists/lourdes-villagomez/",
@@ -7171,7 +7249,7 @@
         "url": "https://artquemy.com/producto/el-jaguar-y-las-pinas/"
       }
     },
-    "ultima_comprobacion": "12/10/2026 07:08"
+    "ultima_comprobacion": "12/10/2026 20:26"
   },
   "Luciana Zamarbide": {
     "url": "https://artquemy.com/artists/luciana-zamarbide/",
@@ -7416,7 +7494,7 @@
         "url": "https://artquemy.com/producto/guarida-2/"
       }
     },
-    "ultima_comprobacion": "12/10/2026 07:08"
+    "ultima_comprobacion": "12/10/2026 20:26"
   },
   "Luz Marie Iturbe": {
     "url": "https://artquemy.com/artists/luz-marie-iturbe/",
@@ -7710,7 +7788,7 @@
         "url": "https://artquemy.com/producto/mooses/"
       }
     },
-    "ultima_comprobacion": "12/10/2026 07:08"
+    "ultima_comprobacion": "12/10/2026 20:27"
   },
   "Manuel Enríquez": {
     "url": "https://artquemy.com/artists/manuel-enriquez/",
@@ -7766,7 +7844,7 @@
         "url": "https://artquemy.com/producto/grietas/"
       }
     },
-    "ultima_comprobacion": "12/10/2026 07:09"
+    "ultima_comprobacion": "12/10/2026 20:27"
   },
   "Michelle Andrade": {
     "url": "https://artquemy.com/artists/michelle-andrade/",
