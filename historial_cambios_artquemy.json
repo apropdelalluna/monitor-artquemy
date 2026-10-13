@@ -28664,5 +28664,77 @@
     "precio_num": 120.0,
     "url": "https://artquemy.com/producto/work-come/",
     "fecha": "13/10/2026 15:49"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "El atardecer",
+    "artista": "KST",
+    "precio": "€2.500,00",
+    "precio_num": 2500.0,
+    "url": "https://artquemy.com/producto/el-atardecer/",
+    "fecha": "13/10/2026 17:52"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Mirada de ave Turquesa",
+    "artista": "KST",
+    "precio": "€400,00",
+    "precio_num": 400.0,
+    "url": "https://artquemy.com/producto/mirada-de-ave-turquesa/",
+    "fecha": "13/10/2026 17:52"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Mirada de ave Verde",
+    "artista": "KST",
+    "precio": "€400,00",
+    "precio_num": 400.0,
+    "url": "https://artquemy.com/producto/mirada-de-ave-verde/",
+    "fecha": "13/10/2026 17:52"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Mirada de ave Morada",
+    "artista": "KST",
+    "precio": "€400,00",
+    "precio_num": 400.0,
+    "url": "https://artquemy.com/producto/mirada-de-ave-morada/",
+    "fecha": "13/10/2026 17:52"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Ramen box",
+    "artista": "KST",
+    "precio": "€250,00",
+    "precio_num": 250.0,
+    "url": "https://artquemy.com/producto/ramen-box/",
+    "fecha": "13/10/2026 17:52"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Bolsa de naranjas",
+    "artista": "KST",
+    "precio": "€250,00",
+    "precio_num": 250.0,
+    "url": "https://artquemy.com/producto/bolsa-de-naranjas/",
+    "fecha": "13/10/2026 17:52"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Ave estática",
+    "artista": "KST",
+    "precio": "€250,00",
+    "precio_num": 250.0,
+    "url": "https://artquemy.com/producto/ave-estatica/",
+    "fecha": "13/10/2026 17:52"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Enchufe de pared",
+    "artista": "KST",
+    "precio": "€250,00",
+    "precio_num": 250.0,
+    "url": "https://artquemy.com/producto/enchufe-de-pared/",
+    "fecha": "13/10/2026 17:52"
   }
 ]
