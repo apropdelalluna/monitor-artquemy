@@ -445,7 +445,7 @@
         "url": "https://artquemy.com/producto/cascada-de-colores/"
       }
     },
-    "ultima_comprobacion": "15/10/2026 07:07"
+    "ultima_comprobacion": "15/10/2026 14:38"
   },
   "Alessia Obinu": {
     "url": "https://artquemy.com/artists/alessia-obinu/",
@@ -473,144 +473,17 @@
         "url": "https://artquemy.com/producto/cicatrizacion/"
       }
     },
-    "ultima_comprobacion": "15/10/2026 07:07"
+    "ultima_comprobacion": "15/10/2026 14:38"
   },
   "Catapop": {
     "url": "https://artquemy.com/artists/catapop/",
-    "hash": "c1cc7717e5d0afccdd40dde146c0bdf2",
-    "obras": {
-      "https://artquemy.com/producto/sardanes/": {
-        "titulo": "Sardanes",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/sardanes/"
-      },
-      "https://artquemy.com/producto/carmen-amaya/": {
-        "titulo": "Carmen Amaya",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/carmen-amaya/"
-      },
-      "https://artquemy.com/producto/castellers/": {
-        "titulo": "Castellers",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/castellers/"
-      },
-      "https://artquemy.com/producto/pau-casals/": {
-        "titulo": "Pau Casals",
-        "precio": "€3.200,00",
-        "precio_num": 3200.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/pau-casals/"
-      },
-      "https://artquemy.com/producto/porro/": {
-        "titulo": "Porró",
-        "precio": "€3.200,00",
-        "precio_num": 3200.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/porro/"
-      },
-      "https://artquemy.com/producto/barretina/": {
-        "titulo": "Barretina",
-        "precio": "€3.200,00",
-        "precio_num": 3200.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/barretina/"
-      },
-      "https://artquemy.com/producto/montserrat/": {
-        "titulo": "Montserrat",
-        "precio": "€3.200,00",
-        "precio_num": 3200.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/montserrat/"
-      },
-      "https://artquemy.com/producto/ramon-llull/": {
-        "titulo": "Ramon Llull",
-        "precio": "€3.200,00",
-        "precio_num": 3200.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/ramon-llull/"
-      },
-      "https://artquemy.com/producto/espardenyes/": {
-        "titulo": "Espardenyes",
-        "precio": "€3.200,00",
-        "precio_num": 3200.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/espardenyes/"
-      },
-      "https://artquemy.com/producto/mongetes-amb-botifarra/": {
-        "titulo": "Mongetes amb botifarra",
-        "precio": "€3.200,00",
-        "precio_num": 3200.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/mongetes-amb-botifarra/"
-      },
-      "https://artquemy.com/producto/pau-casals-2/": {
-        "titulo": "Pau Casals",
-        "precio": "€50,00",
-        "precio_num": 50.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/pau-casals-2/"
-      },
-      "https://artquemy.com/producto/montserrat-2/": {
-        "titulo": "Montserrat",
-        "precio": "€50,00",
-        "precio_num": 50.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/montserrat-2/"
-      },
-      "https://artquemy.com/producto/espardenyes-2/": {
-        "titulo": "Espardenyes",
-        "precio": "€50,00",
-        "precio_num": 50.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/espardenyes-2/"
-      },
-      "https://artquemy.com/producto/porro-2/": {
-        "titulo": "Porró",
-        "precio": "€50,00",
-        "precio_num": 50.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/porro-2/"
-      },
-      "https://artquemy.com/producto/ramon-llull-2/": {
-        "titulo": "Ramón Llull",
-        "precio": "€50,00",
-        "precio_num": 50.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/ramon-llull-2/"
-      },
-      "https://artquemy.com/producto/sardanes-2/": {
-        "titulo": "Sardanes",
-        "precio": "€50,00",
-        "precio_num": 50.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/sardanes-2/"
-      },
-      "https://artquemy.com/producto/barretina-2/": {
-        "titulo": "Barretina",
-        "precio": "€50,00",
-        "precio_num": 50.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/barretina-2/"
-      },
-      "https://artquemy.com/producto/castellers-2/": {
-        "titulo": "Castellers",
-        "precio": "€50,00",
-        "precio_num": 50.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/castellers-2/"
-      }
-    },
-    "ultima_comprobacion": "15/10/2026 07:08"
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "obras": {},
+    "ultima_comprobacion": "15/10/2026 14:39"
   },
   "Camil Escruela": {
     "url": "https://artquemy.com/artists/camil-escruela/",
-    "hash": "1a0719aacdad92dc94641f2282657f08",
+    "hash": "6cbc1eb37b778db2cb77ac044c416023",
     "obras": {
       "https://artquemy.com/producto/train-party/": {
         "titulo": "Train game",
@@ -618,6 +491,13 @@
         "precio_num": 0.0,
         "estado": "vendido",
         "url": "https://artquemy.com/producto/train-party/"
+      },
+      "https://artquemy.com/producto/homatge-a-basquiat/": {
+        "titulo": "Homenatge a Basquiat",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/homatge-a-basquiat/"
       },
       "https://artquemy.com/producto/eke-dream-in-history-of-art/": {
         "titulo": "Eke Dream in History of Art",
@@ -1159,7 +1039,7 @@
         "url": "https://artquemy.com/producto/homenatge-a-miro-2/"
       }
     },
-    "ultima_comprobacion": "15/10/2026 07:08"
+    "ultima_comprobacion": "15/10/2026 14:39"
   },
   "Carola Bagnato": {
     "url": "https://artquemy.com/artists/carola-bagnato/",
@@ -1229,7 +1109,7 @@
         "url": "https://artquemy.com/producto/lo-divino-en-lo-cotidiano/"
       }
     },
-    "ultima_comprobacion": "15/10/2026 07:08"
+    "ultima_comprobacion": "15/10/2026 14:39"
   },
   "Ceci SN": {
     "url": "https://artquemy.com/artists/ceci-sn/",
@@ -1887,7 +1767,7 @@
         "url": "https://artquemy.com/producto/4-bikini-swimmers/"
       }
     },
-    "ultima_comprobacion": "15/10/2026 07:08"
+    "ultima_comprobacion": "15/10/2026 14:40"
   },
   "Ciro Marra": {
     "url": "https://artquemy.com/artists/ciro-marra/",
@@ -2734,7 +2614,7 @@
         "url": "https://artquemy.com/producto/soul-portait/"
       }
     },
-    "ultima_comprobacion": "15/10/2026 07:09"
+    "ultima_comprobacion": "15/10/2026 14:40"
   },
   "Collage Volage": {
     "url": "https://artquemy.com/artists/collage-volage/",
@@ -2888,7 +2768,7 @@
         "url": "https://artquemy.com/producto/de-la-serie-collage-1/"
       }
     },
-    "ultima_comprobacion": "15/10/2026 07:09"
+    "ultima_comprobacion": "15/10/2026 14:41"
   },
   "Daniele Verzini": {
     "url": "https://artquemy.com/artists/daniele-verzini/",
@@ -3014,7 +2894,7 @@
         "url": "https://artquemy.com/producto/addicted-8-2/"
       }
     },
-    "ultima_comprobacion": "15/10/2026 07:09"
+    "ultima_comprobacion": "15/10/2026 14:41"
   },
   "Droste Delacroix": {
     "url": "https://artquemy.com/artists/droste-de-la-croix/",
@@ -11064,7 +10944,7 @@
         "url": "https://artquemy.com/producto/old-school/"
       }
     },
-    "ultima_comprobacion": "14/10/2026 19:05"
+    "ultima_comprobacion": "15/10/2026 14:37"
   },
   "Cuestión de caracter": {
     "hash": "90befb9deaadd480857155a7fde0bf86",
