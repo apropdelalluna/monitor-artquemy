@@ -8086,9 +8086,80 @@
   },
   "Prëo": {
     "url": "https://artquemy.com/artists/preo/",
-    "hash": "d41d8cd98f00b204e9800998ecf8427e",
-    "obras": {},
-    "ultima_comprobacion": "14/10/2026 18:36"
+    "hash": "cc4751ccf28f02b19a3a42e57e1d80f7",
+    "obras": {
+      "https://artquemy.com/producto/as-vezes-quando-chove/": {
+        "titulo": "As vezes, Quando chove…",
+        "precio": "€1.800,00",
+        "precio_num": 1800.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/as-vezes-quando-chove/"
+      },
+      "https://artquemy.com/producto/rain-combines-with-yellow/": {
+        "titulo": "Rain combines with yellow",
+        "precio": "€750,00",
+        "precio_num": 750.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/rain-combines-with-yellow/"
+      },
+      "https://artquemy.com/producto/over-flow/": {
+        "titulo": "Over Flow",
+        "precio": "€750,00",
+        "precio_num": 750.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/over-flow/"
+      },
+      "https://artquemy.com/producto/lluvia-milagrosa/": {
+        "titulo": "Lluvia milagrosa",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/lluvia-milagrosa/"
+      },
+      "https://artquemy.com/producto/as-baianas/": {
+        "titulo": "As Baianas",
+        "precio": "€500,00",
+        "precio_num": 500.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/as-baianas/"
+      },
+      "https://artquemy.com/producto/roda-de-samba/": {
+        "titulo": "Roda de Samba",
+        "precio": "€500,00",
+        "precio_num": 500.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/roda-de-samba/"
+      },
+      "https://artquemy.com/producto/chicos-de-la-pelota/": {
+        "titulo": "Chicos de la pelota",
+        "precio": "€200,00",
+        "precio_num": 200.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/chicos-de-la-pelota/"
+      },
+      "https://artquemy.com/producto/hojas-de-jabon/": {
+        "titulo": "Hojas de jabón",
+        "precio": "€200,00",
+        "precio_num": 200.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/hojas-de-jabon/"
+      },
+      "https://artquemy.com/producto/correfoc/": {
+        "titulo": "Correfoc",
+        "precio": "€200,00",
+        "precio_num": 200.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/correfoc/"
+      },
+      "https://artquemy.com/producto/quebrada/": {
+        "titulo": "Quebrada",
+        "precio": "€100,00",
+        "precio_num": 100.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/quebrada/"
+      }
+    },
+    "ultima_comprobacion": "15/10/2026 12:33"
   },
   "Qwert": {
     "url": "https://artquemy.com/artists/qwert/",
@@ -8389,7 +8460,7 @@
         "url": "https://artquemy.com/producto/a-little-traveller-2/"
       }
     },
-    "ultima_comprobacion": "14/10/2026 19:02"
+    "ultima_comprobacion": "15/10/2026 12:33"
   },
   "Rich One": {
     "url": "https://artquemy.com/artists/rich-one/",
@@ -8494,7 +8565,7 @@
         "url": "https://artquemy.com/producto/t-shirt-black/"
       }
     },
-    "ultima_comprobacion": "14/10/2026 19:02"
+    "ultima_comprobacion": "15/10/2026 12:34"
   },
   "Rocco Del Franco": {
     "url": "https://artquemy.com/artists/rocco-del-franco/",
@@ -8718,7 +8789,7 @@
         "url": "https://artquemy.com/producto/classic-orange-vii/"
       }
     },
-    "ultima_comprobacion": "14/10/2026 19:03"
+    "ultima_comprobacion": "15/10/2026 12:34"
   },
   "Rocío Iannone": {
     "url": "https://artquemy.com/artists/rocio-iannone/",
@@ -8879,7 +8950,7 @@
         "url": "https://artquemy.com/producto/como-se-contempla-una-desgracia/"
       }
     },
-    "ultima_comprobacion": "14/10/2026 19:03"
+    "ultima_comprobacion": "15/10/2026 12:34"
   },
   "Soy feo pero te amo": {
     "url": "https://artquemy.com/artists/soy-feo-pero-te-amo/",
@@ -9145,7 +9216,7 @@
         "url": "https://artquemy.com/producto/together/"
       }
     },
-    "ultima_comprobacion": "14/10/2026 19:03"
+    "ultima_comprobacion": "15/10/2026 12:35"
   },
   "Surfia": {
     "url": "https://artquemy.com/artists/surfia/",
@@ -9355,7 +9426,7 @@
         "url": "https://artquemy.com/producto/i-have-got-mad-methods-delivering-my-flow/"
       }
     },
-    "ultima_comprobacion": "14/10/2026 19:04"
+    "ultima_comprobacion": "15/10/2026 12:35"
   },
   "Tiny": {
     "url": "https://artquemy.com/artists/tiny/",
@@ -9964,7 +10035,7 @@
         "url": "https://artquemy.com/producto/balcony/"
       }
     },
-    "ultima_comprobacion": "14/10/2026 19:04"
+    "ultima_comprobacion": "15/10/2026 12:36"
   },
   "Urban Flowers": {
     "url": "https://artquemy.com/artists/urban-flowers/",
@@ -10748,7 +10819,7 @@
         "url": "https://artquemy.com/producto/spray-love/"
       }
     },
-    "ultima_comprobacion": "14/10/2026 19:04"
+    "ultima_comprobacion": "15/10/2026 12:36"
   },
   "Yilov": {
     "url": "https://artquemy.com/artists/yilov/",
@@ -10888,7 +10959,7 @@
         "url": "https://artquemy.com/producto/where-did-i-go/"
       }
     },
-    "ultima_comprobacion": "14/10/2026 19:04"
+    "ultima_comprobacion": "15/10/2026 12:37"
   },
   "Various": {
     "url": "https://artquemy.com/artists/various/",
