@@ -31274,5 +31274,167 @@
     "precio_num": 0.0,
     "url": "https://artquemy.com/producto/flor-de-barcelona-amarilla/",
     "fecha": "15/10/2026 18:46"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Sardanes",
+    "artista": "Catapop",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/sardanes/",
+    "fecha": "15/10/2026 22:30"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Carmen Amaya",
+    "artista": "Catapop",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/carmen-amaya/",
+    "fecha": "15/10/2026 22:30"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Castellers",
+    "artista": "Catapop",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/castellers/",
+    "fecha": "15/10/2026 22:30"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Pau Casals",
+    "artista": "Catapop",
+    "precio": "€3.200,00",
+    "precio_num": 3200.0,
+    "url": "https://artquemy.com/producto/pau-casals/",
+    "fecha": "15/10/2026 22:30"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Porró",
+    "artista": "Catapop",
+    "precio": "€3.200,00",
+    "precio_num": 3200.0,
+    "url": "https://artquemy.com/producto/porro/",
+    "fecha": "15/10/2026 22:30"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Barretina",
+    "artista": "Catapop",
+    "precio": "€3.200,00",
+    "precio_num": 3200.0,
+    "url": "https://artquemy.com/producto/barretina/",
+    "fecha": "15/10/2026 22:30"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Montserrat",
+    "artista": "Catapop",
+    "precio": "€3.200,00",
+    "precio_num": 3200.0,
+    "url": "https://artquemy.com/producto/montserrat/",
+    "fecha": "15/10/2026 22:30"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Ramon Llull",
+    "artista": "Catapop",
+    "precio": "€3.200,00",
+    "precio_num": 3200.0,
+    "url": "https://artquemy.com/producto/ramon-llull/",
+    "fecha": "15/10/2026 22:30"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Espardenyes",
+    "artista": "Catapop",
+    "precio": "€3.200,00",
+    "precio_num": 3200.0,
+    "url": "https://artquemy.com/producto/espardenyes/",
+    "fecha": "15/10/2026 22:30"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Mongetes amb botifarra",
+    "artista": "Catapop",
+    "precio": "€3.200,00",
+    "precio_num": 3200.0,
+    "url": "https://artquemy.com/producto/mongetes-amb-botifarra/",
+    "fecha": "15/10/2026 22:30"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Pau Casals",
+    "artista": "Catapop",
+    "precio": "€50,00",
+    "precio_num": 50.0,
+    "url": "https://artquemy.com/producto/pau-casals-2/",
+    "fecha": "15/10/2026 22:30"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Montserrat",
+    "artista": "Catapop",
+    "precio": "€50,00",
+    "precio_num": 50.0,
+    "url": "https://artquemy.com/producto/montserrat-2/",
+    "fecha": "15/10/2026 22:30"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Espardenyes",
+    "artista": "Catapop",
+    "precio": "€50,00",
+    "precio_num": 50.0,
+    "url": "https://artquemy.com/producto/espardenyes-2/",
+    "fecha": "15/10/2026 22:30"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Porró",
+    "artista": "Catapop",
+    "precio": "€50,00",
+    "precio_num": 50.0,
+    "url": "https://artquemy.com/producto/porro-2/",
+    "fecha": "15/10/2026 22:30"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Ramón Llull",
+    "artista": "Catapop",
+    "precio": "€50,00",
+    "precio_num": 50.0,
+    "url": "https://artquemy.com/producto/ramon-llull-2/",
+    "fecha": "15/10/2026 22:30"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Sardanes",
+    "artista": "Catapop",
+    "precio": "€50,00",
+    "precio_num": 50.0,
+    "url": "https://artquemy.com/producto/sardanes-2/",
+    "fecha": "15/10/2026 22:30"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Barretina",
+    "artista": "Catapop",
+    "precio": "€50,00",
+    "precio_num": 50.0,
+    "url": "https://artquemy.com/producto/barretina-2/",
+    "fecha": "15/10/2026 22:30"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Castellers",
+    "artista": "Catapop",
+    "precio": "€50,00",
+    "precio_num": 50.0,
+    "url": "https://artquemy.com/producto/castellers-2/",
+    "fecha": "15/10/2026 22:30"
   }
 ]
