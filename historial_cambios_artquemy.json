@@ -31436,5 +31436,1508 @@
     "precio_num": 50.0,
     "url": "https://artquemy.com/producto/castellers-2/",
     "fecha": "15/10/2026 22:30"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Romano",
+    "artista": "Juncosa",
+    "precio": "€9.500,00",
+    "precio_num": 9500.0,
+    "url": "https://artquemy.com/producto/romano/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Barcelona Medallion 1910",
+    "artista": "Juncosa",
+    "precio": "€8.900,00",
+    "precio_num": 8900.0,
+    "url": "https://artquemy.com/producto/barcelona-medallion-1910/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Medallón 1875",
+    "artista": "Juncosa",
+    "precio": "€7.500,00",
+    "precio_num": 7500.0,
+    "url": "https://artquemy.com/producto/medallon-1875/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Suelo Casa",
+    "artista": "Juncosa",
+    "precio": "€6.000,00",
+    "precio_num": 6000.0,
+    "url": "https://artquemy.com/producto/suelo-casa/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Barcelona Medallion",
+    "artista": "Juncosa",
+    "precio": "€6.000,00",
+    "precio_num": 6000.0,
+    "url": "https://artquemy.com/producto/barcelona-medallion/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "BUSTOS ROMANOS",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/bustos-romanos/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Busto Massa",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/busto-massa/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Cosme Azul y Rosa",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/cosme-azul-y-rosa/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Jardín de las delicias",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/jardin-de-las-delicias/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Disco",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/disco/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Infinity box",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/infinity-box/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Correos",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/correos/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Hidráulico Lila y verde",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/hidraulico-lila-y-verde/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Balmes 160",
+    "artista": "Juncosa",
+    "precio": "€2.600,00",
+    "precio_num": 2600.0,
+    "url": "https://artquemy.com/producto/balmes-160/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Out of order",
+    "artista": "Juncosa",
+    "precio": "€2.500,00",
+    "precio_num": 2500.0,
+    "url": "https://artquemy.com/producto/out-of-order/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Terracota",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/terracota/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Caracol Paseo de Gràcia",
+    "artista": "Juncosa",
+    "precio": "€2.100,00",
+    "precio_num": 2100.0,
+    "url": "https://artquemy.com/producto/caracol-paseo-de-gracia-2/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Javier",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/javier/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Versailles",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/versailles/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Origen Fosfo",
+    "artista": "Juncosa",
+    "precio": "€1.800,00",
+    "precio_num": 1800.0,
+    "url": "https://artquemy.com/producto/origen-fosfo/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Origen verde y rosa",
+    "artista": "Juncosa",
+    "precio": "€1.800,00",
+    "precio_num": 1800.0,
+    "url": "https://artquemy.com/producto/origen-verde-y-rosa/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Origen verde y azul",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/origen-verde-y-azul/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Night",
+    "artista": "Juncosa",
+    "precio": "€1.800,00",
+    "precio_num": 1800.0,
+    "url": "https://artquemy.com/producto/night/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Day",
+    "artista": "Juncosa",
+    "precio": "€1.800,00",
+    "precio_num": 1800.0,
+    "url": "https://artquemy.com/producto/day/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Techos Ramblas Principal  II",
+    "artista": "Juncosa",
+    "precio": "€1.500,00",
+    "precio_num": 1500.0,
+    "url": "https://artquemy.com/producto/techos-ramblas-principal-ii/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Techos Ramblas Principal",
+    "artista": "Juncosa",
+    "precio": "€1.500,00",
+    "precio_num": 1500.0,
+    "url": "https://artquemy.com/producto/techos-ramblas-principal/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Veneciana Azul y Amarillo",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/veneciana-azul-y-amarillo/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Cosme Verde y Rosa",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/cosme-verde-y-rosa/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Origen Azul",
+    "artista": "Juncosa",
+    "precio": "€1.300,00",
+    "precio_num": 1300.0,
+    "url": "https://artquemy.com/producto/origen-azul/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Origen Rosa",
+    "artista": "Juncosa",
+    "precio": "€1.300,00",
+    "precio_num": 1300.0,
+    "url": "https://artquemy.com/producto/origen-rosa/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Origen Naranja",
+    "artista": "Juncosa",
+    "precio": "€1.300,00",
+    "precio_num": 1300.0,
+    "url": "https://artquemy.com/producto/origen-naranja/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Origen Verde",
+    "artista": "Juncosa",
+    "precio": "€1.300,00",
+    "precio_num": 1300.0,
+    "url": "https://artquemy.com/producto/origen-verde/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Jardín de las delicias blue 2 III",
+    "artista": "Juncosa",
+    "precio": "€1.200,00",
+    "precio_num": 1200.0,
+    "url": "https://artquemy.com/producto/jardin-de-las-delicias-blue-2-iii/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Jardín de las delicias blue 2 II",
+    "artista": "Juncosa",
+    "precio": "€1.200,00",
+    "precio_num": 1200.0,
+    "url": "https://artquemy.com/producto/jardin-de-las-delicias-blue-2-ii/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Jardín de las delicias blue 2 I",
+    "artista": "Juncosa",
+    "precio": "€1.200,00",
+    "precio_num": 1200.0,
+    "url": "https://artquemy.com/producto/jardin-de-las-delicias-blue-2/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Diagonal Púrpura ll",
+    "artista": "Juncosa",
+    "precio": "€1.200,00",
+    "precio_num": 1200.0,
+    "url": "https://artquemy.com/producto/diagonal-purpura-ll/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Diagonal Púrpura l",
+    "artista": "Juncosa",
+    "precio": "€1.200,00",
+    "precio_num": 1200.0,
+    "url": "https://artquemy.com/producto/diagonal-purpura-l/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Caracol Paseo de Grácia",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/caracol-paseo-de-gracia/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Diagonal ll",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/diagonal-ll/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Diagonal l",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/diagonal-l/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Jardín Delícias Pink 1",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/jardin-delicias-pink-1/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Jardín de las delicias Pink 2",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/jardin-de-las-delicias-pink-2/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Jardín de las delicias Pink 3",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/jardin-de-las-delicias-pink-3/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Jardín de las delicias Blue",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/jardin-de-las-delicias-blue/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Aribau 16B",
+    "artista": "Juncosa",
+    "precio": "€790,00",
+    "precio_num": 790.0,
+    "url": "https://artquemy.com/producto/aribau-16b/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Aribau 16A",
+    "artista": "Juncosa",
+    "precio": "€790,00",
+    "precio_num": 790.0,
+    "url": "https://artquemy.com/producto/aribau-16a/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Carrer Diputació 199 A",
+    "artista": "Juncosa",
+    "precio": "€790,00",
+    "precio_num": 790.0,
+    "url": "https://artquemy.com/producto/carrer-diputacio-199-b/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Carrer Diputació 199 B",
+    "artista": "Juncosa",
+    "precio": "€790,00",
+    "precio_num": 790.0,
+    "url": "https://artquemy.com/producto/carrer-diputacio-199-a/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Barcelona Azul y turquesa",
+    "artista": "Juncosa",
+    "precio": "€690,00",
+    "precio_num": 690.0,
+    "url": "https://artquemy.com/producto/barcelona-azul-y-turquesa/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Barcelona Rosa",
+    "artista": "Juncosa",
+    "precio": "€690,00",
+    "precio_num": 690.0,
+    "url": "https://artquemy.com/producto/barcelona-rosa/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Barcelona Ultramar",
+    "artista": "Juncosa",
+    "precio": "€690,00",
+    "precio_num": 690.0,
+    "url": "https://artquemy.com/producto/barcelona-ultramar/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Barcelona Lila Imperial",
+    "artista": "Juncosa",
+    "precio": "€690,00",
+    "precio_num": 690.0,
+    "url": "https://artquemy.com/producto/barcelona-purpura-imperial/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Barcelona Naranja",
+    "artista": "Juncosa",
+    "precio": "€690,00",
+    "precio_num": 690.0,
+    "url": "https://artquemy.com/producto/barcelona-naranja/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Barcelona Fucsia",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/barcelona-fucsia/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Barcelona Azul y Rosa",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/serie-barcelona-azul-copy/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Origen Flúor",
+    "artista": "Juncosa",
+    "precio": "€600,00",
+    "precio_num": 600.0,
+    "url": "https://artquemy.com/producto/origen-fluor/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "C/Bruc",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/c-bruc/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Cactus",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/cactus/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "C/Rogent 3",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/c-rogent-3/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Balmes",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/balmes/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Cases sans",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/cases-sans/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Concell de Cent",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/concell-de-cent/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Mirror",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/mirror/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Cuadro Flor Verde",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/cuadro-flor-verde/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Cuadro Flor Fucsia",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/cuadro-flor/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Brilli brilli",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/brilli-brilli/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Passeig de Gràcia Turquesa lll",
+    "artista": "Juncosa",
+    "precio": "€290,00",
+    "precio_num": 290.0,
+    "url": "https://artquemy.com/producto/passeig-de-gracia-turquesa-lll/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Passeig de Gràcia Turquesa ll",
+    "artista": "Juncosa",
+    "precio": "€290,00",
+    "precio_num": 290.0,
+    "url": "https://artquemy.com/producto/passeig-de-gracia-turquesa-ll/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Passeig de Gràcia Turquesa l",
+    "artista": "Juncosa",
+    "precio": "€290,00",
+    "precio_num": 290.0,
+    "url": "https://artquemy.com/producto/passeig-de-gracia-turquesa-l/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Panot Gaudí – Lila II",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/panot-gaudi-lila-ii/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Panot Gaudí – Rosa II",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/panot-gaudi-rosa-ii/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Panot Gaudí – Verde II",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/panot-gaudi-verde-ii/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Panot Gaudí – Azul",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/panot-gaudi-azul-2/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Panot Gaudí – Verde",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/panot-gaudi-verde/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Panot Gaudí – Rosa",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/panot-gaudi-rosa/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Panot Gaudí – Lila",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/panot-gaudi-azul/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Plano Torres Sagrada Familia",
+    "artista": "Juncosa",
+    "precio": "€290,00",
+    "precio_num": 290.0,
+    "url": "https://artquemy.com/producto/plano-torres-sagrada-familia/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Plano Fachada Sagrada Familia",
+    "artista": "Juncosa",
+    "precio": "€290,00",
+    "precio_num": 290.0,
+    "url": "https://artquemy.com/producto/plano-fachada-sagrada-familia/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Panot Passeig de Gracia",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/panot-passeig-de-gracia/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Fábrega",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/fabrega/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Geometric Azul y Ocre",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/geometric-azul-y-ocre/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Serie Barcelona (Lila)",
+    "artista": "Juncosa",
+    "precio": "€240,00",
+    "precio_num": 240.0,
+    "url": "https://artquemy.com/producto/serie-barcelona-lila/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Serie Barcelona (Azul)",
+    "artista": "Juncosa",
+    "precio": "€240,00",
+    "precio_num": 240.0,
+    "url": "https://artquemy.com/producto/serie-barcelona-azul/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Paseo de Gracia Pisadas Rosa",
+    "artista": "Juncosa",
+    "precio": "€190,00",
+    "precio_num": 190.0,
+    "url": "https://artquemy.com/producto/paseo-de-gracia-pisadas-rosa/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Paseo de Gracia Pisadas Azul",
+    "artista": "Juncosa",
+    "precio": "€190,00",
+    "precio_num": 190.0,
+    "url": "https://artquemy.com/producto/paseo-de-gracia-pisadas-azul/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Barcelona Naranja",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/barcelona-naranja-3/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Barcelona Azul",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/barcelona-azul/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Barcelona Naranja",
+    "artista": "Juncosa",
+    "precio": "€190,00",
+    "precio_num": 190.0,
+    "url": "https://artquemy.com/producto/barcelona-naranja-2/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Barcelona Lila",
+    "artista": "Juncosa",
+    "precio": "€190,00",
+    "precio_num": 190.0,
+    "url": "https://artquemy.com/producto/barcelona-lila/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Barcelona Verde",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/barcelona-rosa-copy/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Barcelona Rosa",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/barcelona-rosa-2/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Barcelona Amarilla",
+    "artista": "Juncosa",
+    "precio": "€190,00",
+    "precio_num": 190.0,
+    "url": "https://artquemy.com/producto/barcelona-amarilla/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Panot Golden & Blue",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/panot-golden-blue/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Panot Pride",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/panot-pride/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Panot Lila ll",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/panot-lila-ll/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Panot Turquesa ll",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/panot-turquesa-ll/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Serie Barcelona (Lila) S",
+    "artista": "Juncosa",
+    "precio": "€190,00",
+    "precio_num": 190.0,
+    "url": "https://artquemy.com/producto/serie-barcelona-lila-s/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Serie Barcelona (Azul) S",
+    "artista": "Juncosa",
+    "precio": "€190,00",
+    "precio_num": 190.0,
+    "url": "https://artquemy.com/producto/serie-barcelona-azul-s/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Trencadís",
+    "artista": "Juncosa",
+    "precio": "€150,00",
+    "precio_num": 150.0,
+    "url": "https://artquemy.com/producto/trencadis/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Papel Passeig de Gràcia",
+    "artista": "Juncosa",
+    "precio": "€150,00",
+    "precio_num": 150.0,
+    "url": "https://artquemy.com/producto/papel-passeig-de-gracia/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Lienzo Artquemy",
+    "artista": "Juncosa",
+    "precio": "€149,00",
+    "precio_num": 149.0,
+    "url": "https://artquemy.com/producto/lienzo-artquemy/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Barcelona Sagrada Familia",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/barcelona-sagrada-familia/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Barcelona Sagrada Familia ll",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/barcelona-fucsia-copy/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Panot Lila",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/panot-lila/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Panot Turquesa III",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/panot-turquesa/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Hidráulica modular",
+    "artista": "Juncosa",
+    "precio": "€119,00",
+    "precio_num": 119.0,
+    "url": "https://artquemy.com/producto/hidraulica-modular/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Hidraúlica modular VII",
+    "artista": "Juncosa",
+    "precio": "€119,00",
+    "precio_num": 119.0,
+    "url": "https://artquemy.com/producto/hidraulica-modular-vii/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Lienzo Pride",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/lienzo-pride/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Hidráulico Artquemy",
+    "artista": "Juncosa",
+    "precio": "€119,00",
+    "precio_num": 119.0,
+    "url": "https://artquemy.com/producto/hidraulico-artquemy/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Hidráulica modular Vll",
+    "artista": "Juncosa",
+    "precio": "€119,00",
+    "precio_num": 119.0,
+    "url": "https://artquemy.com/producto/hidraulica-modular-vll/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Hidráulica modular Vl",
+    "artista": "Juncosa",
+    "precio": "€119,00",
+    "precio_num": 119.0,
+    "url": "https://artquemy.com/producto/hidraulica-modular-vl/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Hidráulica modular V",
+    "artista": "Juncosa",
+    "precio": "€119,00",
+    "precio_num": 119.0,
+    "url": "https://artquemy.com/producto/hidraulica-modular-v/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Hidraúlica modular lV",
+    "artista": "Juncosa",
+    "precio": "€119,00",
+    "precio_num": 119.0,
+    "url": "https://artquemy.com/producto/hidraulica-modular-lv/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Hidráulica modular ll",
+    "artista": "Juncosa",
+    "precio": "€119,00",
+    "precio_num": 119.0,
+    "url": "https://artquemy.com/producto/hidraulica-modular-ll/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Hidráulica modular l",
+    "artista": "Juncosa",
+    "precio": "€119,00",
+    "precio_num": 119.0,
+    "url": "https://artquemy.com/producto/hidraulica-modular-l/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Hidráulica modular lll",
+    "artista": "Juncosa",
+    "precio": "€119,00",
+    "precio_num": 119.0,
+    "url": "https://artquemy.com/producto/hidraulica-modular-lll/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Lienzo 38",
+    "artista": "Juncosa",
+    "precio": "€119,00",
+    "precio_num": 119.0,
+    "url": "https://artquemy.com/producto/lienzo-38/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Lienzo 37",
+    "artista": "Juncosa",
+    "precio": "€119,00",
+    "precio_num": 119.0,
+    "url": "https://artquemy.com/producto/lienzo-37/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Lienzo 35",
+    "artista": "Juncosa",
+    "precio": "€119,00",
+    "precio_num": 119.0,
+    "url": "https://artquemy.com/producto/lienzo-35/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Lienzo 34",
+    "artista": "Juncosa",
+    "precio": "€119,00",
+    "precio_num": 119.0,
+    "url": "https://artquemy.com/producto/lienzo-34/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Lienzo 33",
+    "artista": "Juncosa",
+    "precio": "€119,00",
+    "precio_num": 119.0,
+    "url": "https://artquemy.com/producto/lienzo-33/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Lienzo 20",
+    "artista": "Juncosa",
+    "precio": "€119,00",
+    "precio_num": 119.0,
+    "url": "https://artquemy.com/producto/lienzo-20/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Lienzo 6",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/lienzo-6/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Lienzo 3",
+    "artista": "Juncosa",
+    "precio": "€119,00",
+    "precio_num": 119.0,
+    "url": "https://artquemy.com/producto/lienzo-3/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Lienzo 9",
+    "artista": "Juncosa",
+    "precio": "€119,00",
+    "precio_num": 119.0,
+    "url": "https://artquemy.com/producto/lienzo-9/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Lienzo 15",
+    "artista": "Juncosa",
+    "precio": "€119,00",
+    "precio_num": 119.0,
+    "url": "https://artquemy.com/producto/lienzo-15/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Pasion",
+    "artista": "Juncosa",
+    "precio": "€110,00",
+    "precio_num": 110.0,
+    "url": "https://artquemy.com/producto/pasion/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Escalera",
+    "artista": "Juncosa",
+    "precio": "€110,00",
+    "precio_num": 110.0,
+    "url": "https://artquemy.com/producto/escalera/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Tejado",
+    "artista": "Juncosa",
+    "precio": "€110,00",
+    "precio_num": 110.0,
+    "url": "https://artquemy.com/producto/tejado/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Templo",
+    "artista": "Juncosa",
+    "precio": "€110,00",
+    "precio_num": 110.0,
+    "url": "https://artquemy.com/producto/templo/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Interior",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/interior/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Lienzo 36",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/lienzo-36/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Lienzo 32",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/lienzo-32/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Lienzo 30",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/lienzo-30/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Lienzo 29",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/lienzo-29/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Lienzo 28",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/lienzo-28/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Lienzo 27",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/lienzo-27/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Lienzo 26",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/lienzo-26/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Lienzo 25",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/lienzo-25/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Flor de Barcelona Verde",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/flor-de-barcelona-verde/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Flor de Barcelona Roja",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/flor-de-barcelona-amarilla-copy/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Flor de Barcelona Azul",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/flor-de-barcelona-azul/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Lienzo 21",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/lienzo-21/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Lienzo 18",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/lienzo-18/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Lienzo 17",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/lienzo-17/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Lienzo 14",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/lienzo-14/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Lienzo Pride II",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/lienzo-prideii/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Lienzo",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/lienzo/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Lienzo 7",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/lienzo-7/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Lienzo 1",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/lienzo-1/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Lienzo 2",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/lienzo-2/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Lienzo 4",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/lienzo-4/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Lienzo 16",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/lienzo-16/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Lienzo 23",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/lienzo-23/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Lienzo 24",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/lienzo-10/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Lienzo 11",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/lienzo-11/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Lienzo 13",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/lienzo-13/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Lienzo 12",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/lienzo-12/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Barcelona modular aqua",
+    "artista": "Juncosa",
+    "precio": "€79,00",
+    "precio_num": 79.0,
+    "url": "https://artquemy.com/producto/barcelona-modular-verde-claro/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Barcelona modular Azul",
+    "artista": "Juncosa",
+    "precio": "€79,00",
+    "precio_num": 79.0,
+    "url": "https://artquemy.com/producto/barcelona-modular-azul/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Barcelona modular Rosa",
+    "artista": "Juncosa",
+    "precio": "€79,00",
+    "precio_num": 79.0,
+    "url": "https://artquemy.com/producto/barcelona-modular-rosa/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Barcelona modular Verde",
+    "artista": "Juncosa",
+    "precio": "€79,00",
+    "precio_num": 79.0,
+    "url": "https://artquemy.com/producto/barcelona-modular-verde/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Barcelona modular Amarilla",
+    "artista": "Juncosa",
+    "precio": "€79,00",
+    "precio_num": 79.0,
+    "url": "https://artquemy.com/producto/barcelona-modular-amarilla/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Barcelona modular Roja",
+    "artista": "Juncosa",
+    "precio": "€79,00",
+    "precio_num": 79.0,
+    "url": "https://artquemy.com/producto/barcelona-modular-roja/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Barcelona modular Naranja",
+    "artista": "Juncosa",
+    "precio": "€79,00",
+    "precio_num": 79.0,
+    "url": "https://artquemy.com/producto/barcelona-modular-naranja/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Barcelona modular Lila",
+    "artista": "Juncosa",
+    "precio": "€79,00",
+    "precio_num": 79.0,
+    "url": "https://artquemy.com/producto/barcelona-modular-lila/",
+    "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Flor de Barcelona Amarilla",
+    "artista": "Juncosa",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/flor-de-barcelona-amarilla/",
+    "fecha": "17/10/2026 06:21"
   }
 ]
