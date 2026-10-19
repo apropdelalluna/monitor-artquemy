@@ -32939,5 +32939,14 @@
     "precio_num": 0.0,
     "url": "https://artquemy.com/producto/flor-de-barcelona-amarilla/",
     "fecha": "17/10/2026 06:21"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Artemis is a kid",
+    "artista": "KST",
+    "precio": "€3.000,00",
+    "precio_num": 3000.0,
+    "url": "https://artquemy.com/producto/artemis-is-a-kid/",
+    "fecha": "19/10/2026 19:16"
   }
 ]
