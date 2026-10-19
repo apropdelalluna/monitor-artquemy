@@ -4820,7 +4820,7 @@
         "url": "https://artquemy.com/producto/el-oleaje-de-verano/"
       }
     },
-    "ultima_comprobacion": "16/10/2026 00:35"
+    "ultima_comprobacion": "19/10/2026 19:15"
   },
   "Juandrés Vera": {
     "url": "https://artquemy.com/artists/juandres-vera/",
@@ -4904,7 +4904,7 @@
         "url": "https://artquemy.com/producto/loop/"
       }
     },
-    "ultima_comprobacion": "17/10/2026 06:21"
+    "ultima_comprobacion": "19/10/2026 19:16"
   },
   "Juncosa": {
     "url": "https://artquemy.com/artists/juncosa/",
@@ -6080,12 +6080,19 @@
         "url": "https://artquemy.com/producto/flor-de-barcelona-amarilla/"
       }
     },
-    "ultima_comprobacion": "17/10/2026 06:21"
+    "ultima_comprobacion": "19/10/2026 19:16"
   },
   "KST": {
     "url": "https://artquemy.com/artists/kst/",
-    "hash": "67206871cbfb6beb481ad78abbc9e781",
+    "hash": "b31534cb11519294d71d81d6289339ca",
     "obras": {
+      "https://artquemy.com/producto/artemis-is-a-kid/": {
+        "titulo": "Artemis is a kid",
+        "precio": "€3.000,00",
+        "precio_num": 3000.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/artemis-is-a-kid/"
+      },
       "https://artquemy.com/producto/candy-dealers/": {
         "titulo": "Candy dealers",
         "precio": "€3.000,00",
@@ -6374,7 +6381,7 @@
         "url": "https://artquemy.com/producto/en-el-bosque-2/"
       }
     },
-    "ultima_comprobacion": "17/10/2026 06:21"
+    "ultima_comprobacion": "19/10/2026 19:16"
   },
   "Laura Gonballes": {
     "url": "https://artquemy.com/artists/laura-gonballes/",
@@ -7137,7 +7144,7 @@
         "url": "https://artquemy.com/producto/hasta-el-alba-2/"
       }
     },
-    "ultima_comprobacion": "17/10/2026 06:22"
+    "ultima_comprobacion": "19/10/2026 19:17"
   },
   "Laura Plou": {
     "url": "https://artquemy.com/artists/laura-plou/",
@@ -7186,7 +7193,7 @@
         "url": "https://artquemy.com/producto/modelo-sa/"
       }
     },
-    "ultima_comprobacion": "17/10/2026 06:22"
+    "ultima_comprobacion": "19/10/2026 19:17"
   },
   "Lourdes Villagómez": {
     "url": "https://artquemy.com/artists/lourdes-villagomez/",
@@ -7326,7 +7333,7 @@
         "url": "https://artquemy.com/producto/el-jaguar-y-las-pinas/"
       }
     },
-    "ultima_comprobacion": "17/10/2026 06:22"
+    "ultima_comprobacion": "19/10/2026 19:18"
   },
   "Luciana Zamarbide": {
     "url": "https://artquemy.com/artists/luciana-zamarbide/",
@@ -7571,7 +7578,7 @@
         "url": "https://artquemy.com/producto/guarida-2/"
       }
     },
-    "ultima_comprobacion": "17/10/2026 06:22"
+    "ultima_comprobacion": "19/10/2026 19:18"
   },
   "Luz Marie Iturbe": {
     "url": "https://artquemy.com/artists/luz-marie-iturbe/",
@@ -7865,7 +7872,7 @@
         "url": "https://artquemy.com/producto/mooses/"
       }
     },
-    "ultima_comprobacion": "17/10/2026 06:23"
+    "ultima_comprobacion": "19/10/2026 19:18"
   },
   "Manuel Enríquez": {
     "url": "https://artquemy.com/artists/manuel-enriquez/",
@@ -7921,7 +7928,7 @@
         "url": "https://artquemy.com/producto/grietas/"
       }
     },
-    "ultima_comprobacion": "17/10/2026 06:23"
+    "ultima_comprobacion": "19/10/2026 19:19"
   },
   "Michelle Andrade": {
     "url": "https://artquemy.com/artists/michelle-andrade/",
