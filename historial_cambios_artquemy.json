@@ -32948,5 +32948,15 @@
     "precio_num": 3000.0,
     "url": "https://artquemy.com/producto/artemis-is-a-kid/",
     "fecha": "19/10/2026 19:16"
+  },
+  {
+    "tipo": "precio_cambiado",
+    "titulo": "Libertad",
+    "artista": "Alessia Innocenti",
+    "precio": "€70,00",
+    "precio_num": 70.0,
+    "precio_anterior": "€40,00",
+    "url": "https://artquemy.com/producto/libertad/",
+    "fecha": "21/10/2026 19:17"
   }
 ]
