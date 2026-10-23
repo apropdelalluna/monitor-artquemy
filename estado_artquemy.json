@@ -4236,472 +4236,9 @@
   },
   "Jor Ros": {
     "url": "https://artquemy.com/artists/jor-ros/",
-    "hash": "07e3c3af867421ee3164104d51751e54",
-    "obras": {
-      "https://artquemy.com/producto/ember/": {
-        "titulo": "Ember",
-        "precio": "€2.100,00",
-        "precio_num": 2100.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/ember/"
-      },
-      "https://artquemy.com/producto/tower/": {
-        "titulo": "Tower",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/tower/"
-      },
-      "https://artquemy.com/producto/tangerines/": {
-        "titulo": "Tangerines",
-        "precio": "€2.100,00",
-        "precio_num": 2100.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/tangerines/"
-      },
-      "https://artquemy.com/producto/vase-ii/": {
-        "titulo": "Vase II",
-        "precio": "€2.100,00",
-        "precio_num": 2100.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/vase-ii/"
-      },
-      "https://artquemy.com/producto/early-bird-ed/": {
-        "titulo": "Early Bird ED",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/early-bird-ed/"
-      },
-      "https://artquemy.com/producto/home/": {
-        "titulo": "Home",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/home/"
-      },
-      "https://artquemy.com/producto/glass/": {
-        "titulo": "Glass",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/glass/"
-      },
-      "https://artquemy.com/producto/vase-i/": {
-        "titulo": "Vase I",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/vase-i/"
-      },
-      "https://artquemy.com/producto/early-bird/": {
-        "titulo": "Early Bird",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/early-bird/"
-      },
-      "https://artquemy.com/producto/flower/": {
-        "titulo": "Flower",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/flower/"
-      },
-      "https://artquemy.com/producto/hakutaku-%e3%81%af%e3%81%8f%e3%81%9f%e3%81%8f/": {
-        "titulo": "Hakutaku / はくたく",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/hakutaku-%e3%81%af%e3%81%8f%e3%81%9f%e3%81%8f/"
-      },
-      "https://artquemy.com/producto/kamaitachi-%e3%81%8b%e3%81%be%e3%81%84%e3%81%9f%e3%81%a1/": {
-        "titulo": "Kamaitachi / かまいたち",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/kamaitachi-%e3%81%8b%e3%81%be%e3%81%84%e3%81%9f%e3%81%a1/"
-      },
-      "https://artquemy.com/producto/bull/": {
-        "titulo": "Bull",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/bull/"
-      },
-      "https://artquemy.com/producto/hound/": {
-        "titulo": "Hound",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/hound/"
-      },
-      "https://artquemy.com/producto/fox/": {
-        "titulo": "Fox",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/fox/"
-      },
-      "https://artquemy.com/producto/monkey/": {
-        "titulo": "Monkey",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/monkey/"
-      },
-      "https://artquemy.com/producto/tiger/": {
-        "titulo": "Tiger",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/tiger/"
-      },
-      "https://artquemy.com/producto/nue-%e3%81%ac%e3%81%88/": {
-        "titulo": "Nue / ぬえ",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/nue-%e3%81%ac%e3%81%88/"
-      },
-      "https://artquemy.com/producto/her-lll/": {
-        "titulo": "Her lll",
-        "precio": "€360,00",
-        "precio_num": 360.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/her-lll/"
-      },
-      "https://artquemy.com/producto/asagiri/": {
-        "titulo": "Asagiri",
-        "precio": "€360,00",
-        "precio_num": 360.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/asagiri/"
-      },
-      "https://artquemy.com/producto/saruyama/": {
-        "titulo": "Saruyama",
-        "precio": "€360,00",
-        "precio_num": 360.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/saruyama/"
-      },
-      "https://artquemy.com/producto/him-lll/": {
-        "titulo": "Him lll",
-        "precio": "€360,00",
-        "precio_num": 360.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/him-lll/"
-      },
-      "https://artquemy.com/producto/him/": {
-        "titulo": "Him",
-        "precio": "€360,00",
-        "precio_num": 360.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/him/"
-      },
-      "https://artquemy.com/producto/sacred-masks/": {
-        "titulo": "Sacred Masks",
-        "precio": "€360,00",
-        "precio_num": 360.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/sacred-masks/"
-      },
-      "https://artquemy.com/producto/her/": {
-        "titulo": "Her",
-        "precio": "€360,00",
-        "precio_num": 360.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/her/"
-      },
-      "https://artquemy.com/producto/smoker-hound/": {
-        "titulo": "Smoker Hound",
-        "precio": "€360,00",
-        "precio_num": 360.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/smoker-hound/"
-      },
-      "https://artquemy.com/producto/poster-lll-2/": {
-        "titulo": "Poster lll",
-        "precio": "€360,00",
-        "precio_num": 360.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/poster-lll-2/"
-      },
-      "https://artquemy.com/producto/poster-ll-3/": {
-        "titulo": "Poster ll",
-        "precio": "€360,00",
-        "precio_num": 360.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/poster-ll-3/"
-      },
-      "https://artquemy.com/producto/poster-ll/": {
-        "titulo": "Poster",
-        "precio": "€360,00",
-        "precio_num": 360.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/poster-ll/"
-      },
-      "https://artquemy.com/producto/tora/": {
-        "titulo": "Tora",
-        "precio": "€360,00",
-        "precio_num": 360.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/tora/"
-      },
-      "https://artquemy.com/producto/osuushy/": {
-        "titulo": "Osuushy",
-        "precio": "€360,00",
-        "precio_num": 360.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/osuushy/"
-      },
-      "https://artquemy.com/producto/her-ll-2/": {
-        "titulo": "Her ll",
-        "precio": "€360,00",
-        "precio_num": 360.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/her-ll-2/"
-      },
-      "https://artquemy.com/producto/him-ll/": {
-        "titulo": "Him ll",
-        "precio": "€360,00",
-        "precio_num": 360.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/him-ll/"
-      },
-      "https://artquemy.com/producto/fish-copy/": {
-        "titulo": "Fish",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/fish-copy/"
-      },
-      "https://artquemy.com/producto/fish/": {
-        "titulo": "Balloon",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/fish/"
-      },
-      "https://artquemy.com/producto/glass-2/": {
-        "titulo": "Glass",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/glass-2/"
-      },
-      "https://artquemy.com/producto/tangerine/": {
-        "titulo": "Tangerine?",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/tangerine/"
-      },
-      "https://artquemy.com/producto/spicy-ii-%e3%82%b9%e3%83%91%e3%82%a4%e3%82%b7%e3%83%bc/": {
-        "titulo": "Spicy II スパイシー",
-        "precio": "€200,00",
-        "precio_num": 200.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/spicy-ii-%e3%82%b9%e3%83%91%e3%82%a4%e3%82%b7%e3%83%bc/"
-      },
-      "https://artquemy.com/producto/hato-ii-%e3%83%8f%e3%83%88/": {
-        "titulo": "Hato II // ハト",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/hato-ii-%e3%83%8f%e3%83%88/"
-      },
-      "https://artquemy.com/producto/karasu-%e3%82%ab%e3%83%a9%e3%82%b9/": {
-        "titulo": "Karasu // カラス",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/karasu-%e3%82%ab%e3%83%a9%e3%82%b9/"
-      },
-      "https://artquemy.com/producto/hato-%e3%83%8f%e3%83%88/": {
-        "titulo": "Hato // ハト",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/hato-%e3%83%8f%e3%83%88/"
-      },
-      "https://artquemy.com/producto/spicy-%e3%82%b9%e3%83%91%e3%82%a4%e3%82%b7%e3%83%bc/": {
-        "titulo": "Spicy / スパイシー",
-        "precio": "€200,00",
-        "precio_num": 200.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/spicy-%e3%82%b9%e3%83%91%e3%82%a4%e3%82%b7%e3%83%bc/"
-      },
-      "https://artquemy.com/producto/set-somnis-de-gaudi/": {
-        "titulo": "Set somnis de Gaudí",
-        "precio": "€120,00",
-        "precio_num": 120.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/set-somnis-de-gaudi/"
-      },
-      "https://artquemy.com/producto/tower-2/": {
-        "titulo": "Tower",
-        "precio": "€120,00",
-        "precio_num": 120.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/tower-2/"
-      },
-      "https://artquemy.com/producto/glass-3/": {
-        "titulo": "Glass",
-        "precio": "€120,00",
-        "precio_num": 120.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/glass-3/"
-      },
-      "https://artquemy.com/producto/early-bird-2/": {
-        "titulo": "Early Bird",
-        "precio": "€120,00",
-        "precio_num": 120.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/early-bird-2/"
-      },
-      "https://artquemy.com/producto/dove-crow/": {
-        "titulo": "Dove & Crow",
-        "precio": "€120,00",
-        "precio_num": 120.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/dove-crow/"
-      },
-      "https://artquemy.com/producto/ember-2/": {
-        "titulo": "Ember",
-        "precio": "€120,00",
-        "precio_num": 120.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/ember-2/"
-      },
-      "https://artquemy.com/producto/vase-i-2/": {
-        "titulo": "Vase I",
-        "precio": "€120,00",
-        "precio_num": 120.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/vase-i-2/"
-      },
-      "https://artquemy.com/producto/her-lll-2/": {
-        "titulo": "Her lll",
-        "precio": "€120,00",
-        "precio_num": 120.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/her-lll-2/"
-      },
-      "https://artquemy.com/producto/him-lll-2/": {
-        "titulo": "Him lll",
-        "precio": "€120,00",
-        "precio_num": 120.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/him-lll-2/"
-      },
-      "https://artquemy.com/producto/him-ii/": {
-        "titulo": "Him II",
-        "precio": "€120,00",
-        "precio_num": 120.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/him-ii/"
-      },
-      "https://artquemy.com/producto/asagiri-2/": {
-        "titulo": "Asagiri",
-        "precio": "€120,00",
-        "precio_num": 120.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/asagiri-2/"
-      },
-      "https://artquemy.com/producto/saruyama-2/": {
-        "titulo": "Saruyama",
-        "precio": "€120,00",
-        "precio_num": 120.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/saruyama-2/"
-      },
-      "https://artquemy.com/producto/osuushi/": {
-        "titulo": "Osuushi",
-        "precio": "€120,00",
-        "precio_num": 120.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/osuushi/"
-      },
-      "https://artquemy.com/producto/tora-2/": {
-        "titulo": "Tora",
-        "precio": "€120,00",
-        "precio_num": 120.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/tora-2/"
-      },
-      "https://artquemy.com/producto/her-2/": {
-        "titulo": "Her",
-        "precio": "€120,00",
-        "precio_num": 120.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/her-2/"
-      },
-      "https://artquemy.com/producto/smoker-hound-2/": {
-        "titulo": "Smoker Hound",
-        "precio": "€120,00",
-        "precio_num": 120.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/smoker-hound-2/"
-      },
-      "https://artquemy.com/producto/sacred-masks-2/": {
-        "titulo": "Sacred Masks",
-        "precio": "€120,00",
-        "precio_num": 120.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/sacred-masks-2/"
-      },
-      "https://artquemy.com/producto/poster-lll/": {
-        "titulo": "Poster lll",
-        "precio": "€120,00",
-        "precio_num": 120.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/poster-lll/"
-      },
-      "https://artquemy.com/producto/poster-ll-2/": {
-        "titulo": "Poster ll",
-        "precio": "€120,00",
-        "precio_num": 120.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/poster-ll-2/"
-      },
-      "https://artquemy.com/producto/poster/": {
-        "titulo": "Poster",
-        "precio": "€120,00",
-        "precio_num": 120.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/poster/"
-      },
-      "https://artquemy.com/producto/her-ll/": {
-        "titulo": "Her ll",
-        "precio": "€120,00",
-        "precio_num": 120.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/her-ll/"
-      },
-      "https://artquemy.com/producto/him-2/": {
-        "titulo": "Him",
-        "precio": "€120,00",
-        "precio_num": 120.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/him-2/"
-      },
-      "https://artquemy.com/producto/tiger-warrior/": {
-        "titulo": "Tiger Warrior",
-        "precio": "€120,00",
-        "precio_num": 120.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/tiger-warrior/"
-      },
-      "https://artquemy.com/producto/tiger-snake-i/": {
-        "titulo": "Tiger & Snake I",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/tiger-snake-i/"
-      }
-    },
-    "ultima_comprobacion": "17/10/2026 12:32"
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "obras": {},
+    "ultima_comprobacion": "23/10/2026 14:19"
   },
   "Jorge Suñer": {
     "url": "https://artquemy.com/artists/jorge-suner/",
@@ -4820,7 +4357,7 @@
         "url": "https://artquemy.com/producto/el-oleaje-de-verano/"
       }
     },
-    "ultima_comprobacion": "19/10/2026 19:15"
+    "ultima_comprobacion": "23/10/2026 14:19"
   },
   "Juandrés Vera": {
     "url": "https://artquemy.com/artists/juandres-vera/",
@@ -4904,7 +4441,7 @@
         "url": "https://artquemy.com/producto/loop/"
       }
     },
-    "ultima_comprobacion": "19/10/2026 19:16"
+    "ultima_comprobacion": "23/10/2026 14:19"
   },
   "Juncosa": {
     "url": "https://artquemy.com/artists/juncosa/",
@@ -6080,11 +5617,11 @@
         "url": "https://artquemy.com/producto/flor-de-barcelona-amarilla/"
       }
     },
-    "ultima_comprobacion": "19/10/2026 19:16"
+    "ultima_comprobacion": "23/10/2026 14:19"
   },
   "KST": {
     "url": "https://artquemy.com/artists/kst/",
-    "hash": "b31534cb11519294d71d81d6289339ca",
+    "hash": "ac366ae18bb2d24c10cb79c4005cb73e",
     "obras": {
       "https://artquemy.com/producto/artemis-is-a-kid/": {
         "titulo": "Artemis is a kid",
@@ -6100,38 +5637,45 @@
         "estado": "disponible",
         "url": "https://artquemy.com/producto/candy-dealers/"
       },
+      "https://artquemy.com/producto/el-atardecer/": {
+        "titulo": "Estado líquido",
+        "precio": "€2.800,00",
+        "precio_num": 2800.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/el-atardecer/"
+      },
+      "https://artquemy.com/producto/lluvia/": {
+        "titulo": "Lluvia",
+        "precio": "€2.500,00",
+        "precio_num": 2500.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/lluvia/"
+      },
       "https://artquemy.com/producto/siesta-en-el-metro/": {
-        "titulo": "Siesta en el metro",
+        "titulo": "Vaporización",
         "precio": "€2.500,00",
         "precio_num": 2500.0,
         "estado": "disponible",
         "url": "https://artquemy.com/producto/siesta-en-el-metro/"
       },
-      "https://artquemy.com/producto/el-atardecer/": {
-        "titulo": "El atardecer",
-        "precio": "€2.500,00",
-        "precio_num": 2500.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/el-atardecer/"
-      },
       "https://artquemy.com/producto/mirada-de-ave-turquesa/": {
         "titulo": "Mirada de ave Turquesa",
-        "precio": "€400,00",
-        "precio_num": 400.0,
+        "precio": "€390,00",
+        "precio_num": 390.0,
         "estado": "disponible",
         "url": "https://artquemy.com/producto/mirada-de-ave-turquesa/"
       },
       "https://artquemy.com/producto/mirada-de-ave-verde/": {
         "titulo": "Mirada de ave Verde",
-        "precio": "€400,00",
-        "precio_num": 400.0,
+        "precio": "€390,00",
+        "precio_num": 390.0,
         "estado": "disponible",
         "url": "https://artquemy.com/producto/mirada-de-ave-verde/"
       },
       "https://artquemy.com/producto/mirada-de-ave-morada/": {
         "titulo": "Mirada de ave Morada",
-        "precio": "€400,00",
-        "precio_num": 400.0,
+        "precio": "€390,00",
+        "precio_num": 390.0,
         "estado": "disponible",
         "url": "https://artquemy.com/producto/mirada-de-ave-morada/"
       },
@@ -6381,7 +5925,7 @@
         "url": "https://artquemy.com/producto/en-el-bosque-2/"
       }
     },
-    "ultima_comprobacion": "19/10/2026 19:16"
+    "ultima_comprobacion": "23/10/2026 14:20"
   },
   "Laura Gonballes": {
     "url": "https://artquemy.com/artists/laura-gonballes/",
@@ -7144,7 +6688,7 @@
         "url": "https://artquemy.com/producto/hasta-el-alba-2/"
       }
     },
-    "ultima_comprobacion": "19/10/2026 19:17"
+    "ultima_comprobacion": "23/10/2026 14:20"
   },
   "Laura Plou": {
     "url": "https://artquemy.com/artists/laura-plou/",
@@ -7193,7 +6737,7 @@
         "url": "https://artquemy.com/producto/modelo-sa/"
       }
     },
-    "ultima_comprobacion": "19/10/2026 19:17"
+    "ultima_comprobacion": "23/10/2026 14:20"
   },
   "Lourdes Villagómez": {
     "url": "https://artquemy.com/artists/lourdes-villagomez/",
@@ -7333,7 +6877,7 @@
         "url": "https://artquemy.com/producto/el-jaguar-y-las-pinas/"
       }
     },
-    "ultima_comprobacion": "19/10/2026 19:18"
+    "ultima_comprobacion": "23/10/2026 14:21"
   },
   "Luciana Zamarbide": {
     "url": "https://artquemy.com/artists/luciana-zamarbide/",
@@ -7578,7 +7122,7 @@
         "url": "https://artquemy.com/producto/guarida-2/"
       }
     },
-    "ultima_comprobacion": "19/10/2026 19:18"
+    "ultima_comprobacion": "23/10/2026 14:21"
   },
   "Luz Marie Iturbe": {
     "url": "https://artquemy.com/artists/luz-marie-iturbe/",
@@ -7872,7 +7416,7 @@
         "url": "https://artquemy.com/producto/mooses/"
       }
     },
-    "ultima_comprobacion": "19/10/2026 19:18"
+    "ultima_comprobacion": "23/10/2026 14:21"
   },
   "Manuel Enríquez": {
     "url": "https://artquemy.com/artists/manuel-enriquez/",
