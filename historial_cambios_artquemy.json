@@ -32958,5 +32958,14 @@
     "precio_anterior": "€40,00",
     "url": "https://artquemy.com/producto/libertad/",
     "fecha": "21/10/2026 19:17"
+  },
+  {
+    "tipo": "vendida",
+    "titulo": "Poursuivre des fantômes",
+    "artista": "Collage Volage",
+    "precio": "€80,00",
+    "precio_num": 80.0,
+    "url": "https://artquemy.com/producto/de-la-serie-collage-10/",
+    "fecha": "23/10/2026 13:39"
   }
 ]
