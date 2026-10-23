@@ -2741,11 +2741,11 @@
         "url": "https://artquemy.com/producto/soul-portait/"
       }
     },
-    "ultima_comprobacion": "17/10/2026 10:30"
+    "ultima_comprobacion": "23/10/2026 13:39"
   },
   "Collage Volage": {
     "url": "https://artquemy.com/artists/collage-volage/",
-    "hash": "c3e584495dfecc77e0e7eaf16386f5ba",
+    "hash": "aa0f73e31ad0af241aa2eb1529cd9e55",
     "obras": {
       "https://artquemy.com/producto/africa/": {
         "titulo": "Africa",
@@ -2819,9 +2819,9 @@
       },
       "https://artquemy.com/producto/de-la-serie-collage-10/": {
         "titulo": "Poursuivre des fantômes",
-        "precio": "€80,00",
-        "precio_num": 80.0,
-        "estado": "disponible",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
         "url": "https://artquemy.com/producto/de-la-serie-collage-10/"
       },
       "https://artquemy.com/producto/de-la-serie-collage-7/": {
@@ -2895,7 +2895,7 @@
         "url": "https://artquemy.com/producto/de-la-serie-collage-1/"
       }
     },
-    "ultima_comprobacion": "17/10/2026 12:30"
+    "ultima_comprobacion": "23/10/2026 13:39"
   },
   "Daniele Verzini": {
     "url": "https://artquemy.com/artists/daniele-verzini/",
@@ -3021,7 +3021,7 @@
         "url": "https://artquemy.com/producto/addicted-8-2/"
       }
     },
-    "ultima_comprobacion": "17/10/2026 12:30"
+    "ultima_comprobacion": "23/10/2026 13:39"
   },
   "Droste Delacroix": {
     "url": "https://artquemy.com/artists/droste-de-la-croix/",
@@ -3063,7 +3063,7 @@
         "url": "https://artquemy.com/producto/crisis-magica-oro-viejo/"
       }
     },
-    "ultima_comprobacion": "17/10/2026 12:30"
+    "ultima_comprobacion": "23/10/2026 13:40"
   },
   "Elina Cerla": {
     "url": "https://artquemy.com/artists/elina-cerla/",
@@ -3210,7 +3210,7 @@
         "url": "https://artquemy.com/producto/see-no-evil/"
       }
     },
-    "ultima_comprobacion": "17/10/2026 12:31"
+    "ultima_comprobacion": "23/10/2026 13:40"
   },
   "El Xupet Negre": {
     "url": "https://artquemy.com/artists/el-xupet-negre/",
@@ -3637,7 +3637,7 @@
         "url": "https://artquemy.com/producto/pink-logo-t-shirt/"
       }
     },
-    "ultima_comprobacion": "17/10/2026 12:31"
+    "ultima_comprobacion": "23/10/2026 13:40"
   },
   "Evamik": {
     "url": "https://artquemy.com/artists/evamik/",
@@ -3742,7 +3742,7 @@
         "url": "https://artquemy.com/producto/work-come/"
       }
     },
-    "ultima_comprobacion": "17/10/2026 12:31"
+    "ultima_comprobacion": "23/10/2026 13:41"
   },
   "Erwtje": {
     "url": "https://artquemy.com/artists/erwtje/",
@@ -4113,7 +4113,7 @@
         "url": "https://artquemy.com/producto/t-shirt/"
       }
     },
-    "ultima_comprobacion": "17/10/2026 12:32"
+    "ultima_comprobacion": "23/10/2026 13:41"
   },
   "Irannis Mejias": {
     "url": "https://artquemy.com/artists/irannis/",
@@ -4183,7 +4183,7 @@
         "url": "https://artquemy.com/producto/lo-divino-en-lo-cotidiano/"
       }
     },
-    "ultima_comprobacion": "17/10/2026 12:32"
+    "ultima_comprobacion": "23/10/2026 13:41"
   },
   "Jamso": {
     "url": "https://artquemy.com/artists/jamso/",
@@ -4232,7 +4232,7 @@
         "url": "https://artquemy.com/producto/calavera-3/"
       }
     },
-    "ultima_comprobacion": "17/10/2026 12:32"
+    "ultima_comprobacion": "23/10/2026 13:42"
   },
   "Jor Ros": {
     "url": "https://artquemy.com/artists/jor-ros/",
