@@ -8264,6 +8264,18 @@
       "precio_num": 0.0,
       "tipo": "nueva_vendida",
       "url": "https://artquemy.com/producto/keko-01/"
+    },
+    {
+      "fecha": "23/10/2026 13:42",
+      "artista": {
+        "nombre": "Collage Volage",
+        "url": "https://artquemy.com/artists/collage-volage/"
+      },
+      "obra": "Poursuivre des fantômes",
+      "precio": "€80,00",
+      "precio_num": 80.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/de-la-serie-collage-10/"
     }
   ]
 }
