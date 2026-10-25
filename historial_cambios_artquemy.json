@@ -33610,5 +33610,14 @@
     "precio_anterior": "€400,00",
     "url": "https://artquemy.com/producto/mirada-de-ave-morada/",
     "fecha": "23/10/2026 14:20"
+  },
+  {
+    "tipo": "vendida",
+    "titulo": "Naked swimmers XLV",
+    "artista": "Ceci SN",
+    "precio": "€30,00",
+    "precio_num": 30.0,
+    "url": "https://artquemy.com/producto/naked-swimmers-xlv/",
+    "fecha": "25/10/2026 22:24"
   }
 ]
