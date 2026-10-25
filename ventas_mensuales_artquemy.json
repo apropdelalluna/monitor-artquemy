@@ -8276,6 +8276,18 @@
       "precio_num": 80.0,
       "tipo": "vendida",
       "url": "https://artquemy.com/producto/de-la-serie-collage-10/"
+    },
+    {
+      "fecha": "25/10/2026 22:27",
+      "artista": {
+        "nombre": "Ceci SN",
+        "url": "https://artquemy.com/artists/ceci-sn/"
+      },
+      "obra": "Naked swimmers XLV",
+      "precio": "€30,00",
+      "precio_num": 30.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/naked-swimmers-xlv/"
     }
   ]
 }
