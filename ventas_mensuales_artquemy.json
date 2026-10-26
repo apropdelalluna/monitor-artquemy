@@ -8288,6 +8288,66 @@
       "precio_num": 30.0,
       "tipo": "vendida",
       "url": "https://artquemy.com/producto/naked-swimmers-xlv/"
+    },
+    {
+      "fecha": "26/10/2026 12:18",
+      "artista": {
+        "nombre": "KST",
+        "url": "https://artquemy.com/artists/kst/"
+      },
+      "obra": "Artemis is a kid",
+      "precio": "€3.000,00",
+      "precio_num": 3000.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/artemis-is-a-kid/"
+    },
+    {
+      "fecha": "26/10/2026 12:18",
+      "artista": {
+        "nombre": "KST",
+        "url": "https://artquemy.com/artists/kst/"
+      },
+      "obra": "Auto rojo",
+      "precio": "€280,00",
+      "precio_num": 280.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/auto-rojo/"
+    },
+    {
+      "fecha": "26/10/2026 12:18",
+      "artista": {
+        "nombre": "KST",
+        "url": "https://artquemy.com/artists/kst/"
+      },
+      "obra": "Por qué hice eso?",
+      "precio": "€280,00",
+      "precio_num": 280.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/por-que-hice-eso/"
+    },
+    {
+      "fecha": "26/10/2026 12:18",
+      "artista": {
+        "nombre": "KST",
+        "url": "https://artquemy.com/artists/kst/"
+      },
+      "obra": "Despeinada",
+      "precio": "€280,00",
+      "precio_num": 280.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/despeinada/"
+    },
+    {
+      "fecha": "26/10/2026 12:18",
+      "artista": {
+        "nombre": "KST",
+        "url": "https://artquemy.com/artists/kst/"
+      },
+      "obra": "Abierta al sol",
+      "precio": "€280,00",
+      "precio_num": 280.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/abierta-al-sol/"
     }
   ]
 }
