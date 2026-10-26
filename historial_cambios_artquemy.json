@@ -33619,5 +33619,672 @@
     "precio_num": 30.0,
     "url": "https://artquemy.com/producto/naked-swimmers-xlv/",
     "fecha": "25/10/2026 22:24"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Ember",
+    "artista": "Jor Ros",
+    "precio": "€2.100,00",
+    "precio_num": 2100.0,
+    "url": "https://artquemy.com/producto/ember/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Tower",
+    "artista": "Jor Ros",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/tower/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Tangerines",
+    "artista": "Jor Ros",
+    "precio": "€2.100,00",
+    "precio_num": 2100.0,
+    "url": "https://artquemy.com/producto/tangerines/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Vase II",
+    "artista": "Jor Ros",
+    "precio": "€2.100,00",
+    "precio_num": 2100.0,
+    "url": "https://artquemy.com/producto/vase-ii/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Early Bird ED",
+    "artista": "Jor Ros",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/early-bird-ed/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Home",
+    "artista": "Jor Ros",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/home/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Glass",
+    "artista": "Jor Ros",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/glass/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Vase I",
+    "artista": "Jor Ros",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/vase-i/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Early Bird",
+    "artista": "Jor Ros",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/early-bird/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Flower",
+    "artista": "Jor Ros",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/flower/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Hakutaku / はくたく",
+    "artista": "Jor Ros",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/hakutaku-%e3%81%af%e3%81%8f%e3%81%9f%e3%81%8f/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Kamaitachi / かまいたち",
+    "artista": "Jor Ros",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/kamaitachi-%e3%81%8b%e3%81%be%e3%81%84%e3%81%9f%e3%81%a1/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Bull",
+    "artista": "Jor Ros",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/bull/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Hound",
+    "artista": "Jor Ros",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/hound/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Fox",
+    "artista": "Jor Ros",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/fox/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Monkey",
+    "artista": "Jor Ros",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/monkey/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Tiger",
+    "artista": "Jor Ros",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/tiger/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Nue / ぬえ",
+    "artista": "Jor Ros",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/nue-%e3%81%ac%e3%81%88/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Her lll",
+    "artista": "Jor Ros",
+    "precio": "€360,00",
+    "precio_num": 360.0,
+    "url": "https://artquemy.com/producto/her-lll/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Asagiri",
+    "artista": "Jor Ros",
+    "precio": "€360,00",
+    "precio_num": 360.0,
+    "url": "https://artquemy.com/producto/asagiri/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Saruyama",
+    "artista": "Jor Ros",
+    "precio": "€360,00",
+    "precio_num": 360.0,
+    "url": "https://artquemy.com/producto/saruyama/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Him lll",
+    "artista": "Jor Ros",
+    "precio": "€360,00",
+    "precio_num": 360.0,
+    "url": "https://artquemy.com/producto/him-lll/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Him",
+    "artista": "Jor Ros",
+    "precio": "€360,00",
+    "precio_num": 360.0,
+    "url": "https://artquemy.com/producto/him/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Sacred Masks",
+    "artista": "Jor Ros",
+    "precio": "€360,00",
+    "precio_num": 360.0,
+    "url": "https://artquemy.com/producto/sacred-masks/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Her",
+    "artista": "Jor Ros",
+    "precio": "€360,00",
+    "precio_num": 360.0,
+    "url": "https://artquemy.com/producto/her/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Smoker Hound",
+    "artista": "Jor Ros",
+    "precio": "€360,00",
+    "precio_num": 360.0,
+    "url": "https://artquemy.com/producto/smoker-hound/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Poster lll",
+    "artista": "Jor Ros",
+    "precio": "€360,00",
+    "precio_num": 360.0,
+    "url": "https://artquemy.com/producto/poster-lll-2/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Poster ll",
+    "artista": "Jor Ros",
+    "precio": "€360,00",
+    "precio_num": 360.0,
+    "url": "https://artquemy.com/producto/poster-ll-3/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Poster",
+    "artista": "Jor Ros",
+    "precio": "€360,00",
+    "precio_num": 360.0,
+    "url": "https://artquemy.com/producto/poster-ll/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Tora",
+    "artista": "Jor Ros",
+    "precio": "€360,00",
+    "precio_num": 360.0,
+    "url": "https://artquemy.com/producto/tora/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Osuushy",
+    "artista": "Jor Ros",
+    "precio": "€360,00",
+    "precio_num": 360.0,
+    "url": "https://artquemy.com/producto/osuushy/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Her ll",
+    "artista": "Jor Ros",
+    "precio": "€360,00",
+    "precio_num": 360.0,
+    "url": "https://artquemy.com/producto/her-ll-2/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Him ll",
+    "artista": "Jor Ros",
+    "precio": "€360,00",
+    "precio_num": 360.0,
+    "url": "https://artquemy.com/producto/him-ll/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Fish",
+    "artista": "Jor Ros",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/fish-copy/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Balloon",
+    "artista": "Jor Ros",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/fish/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Glass",
+    "artista": "Jor Ros",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/glass-2/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Tangerine?",
+    "artista": "Jor Ros",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/tangerine/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Spicy II スパイシー",
+    "artista": "Jor Ros",
+    "precio": "€200,00",
+    "precio_num": 200.0,
+    "url": "https://artquemy.com/producto/spicy-ii-%e3%82%b9%e3%83%91%e3%82%a4%e3%82%b7%e3%83%bc/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Hato II // ハト",
+    "artista": "Jor Ros",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/hato-ii-%e3%83%8f%e3%83%88/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Karasu // カラス",
+    "artista": "Jor Ros",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/karasu-%e3%82%ab%e3%83%a9%e3%82%b9/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Hato // ハト",
+    "artista": "Jor Ros",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/hato-%e3%83%8f%e3%83%88/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Spicy / スパイシー",
+    "artista": "Jor Ros",
+    "precio": "€200,00",
+    "precio_num": 200.0,
+    "url": "https://artquemy.com/producto/spicy-%e3%82%b9%e3%83%91%e3%82%a4%e3%82%b7%e3%83%bc/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Set somnis de Gaudí",
+    "artista": "Jor Ros",
+    "precio": "€120,00",
+    "precio_num": 120.0,
+    "url": "https://artquemy.com/producto/set-somnis-de-gaudi/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Tower",
+    "artista": "Jor Ros",
+    "precio": "€120,00",
+    "precio_num": 120.0,
+    "url": "https://artquemy.com/producto/tower-2/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Glass",
+    "artista": "Jor Ros",
+    "precio": "€120,00",
+    "precio_num": 120.0,
+    "url": "https://artquemy.com/producto/glass-3/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Early Bird",
+    "artista": "Jor Ros",
+    "precio": "€120,00",
+    "precio_num": 120.0,
+    "url": "https://artquemy.com/producto/early-bird-2/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Dove & Crow",
+    "artista": "Jor Ros",
+    "precio": "€120,00",
+    "precio_num": 120.0,
+    "url": "https://artquemy.com/producto/dove-crow/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Ember",
+    "artista": "Jor Ros",
+    "precio": "€120,00",
+    "precio_num": 120.0,
+    "url": "https://artquemy.com/producto/ember-2/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Vase I",
+    "artista": "Jor Ros",
+    "precio": "€120,00",
+    "precio_num": 120.0,
+    "url": "https://artquemy.com/producto/vase-i-2/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Her lll",
+    "artista": "Jor Ros",
+    "precio": "€120,00",
+    "precio_num": 120.0,
+    "url": "https://artquemy.com/producto/her-lll-2/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Him lll",
+    "artista": "Jor Ros",
+    "precio": "€120,00",
+    "precio_num": 120.0,
+    "url": "https://artquemy.com/producto/him-lll-2/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Him II",
+    "artista": "Jor Ros",
+    "precio": "€120,00",
+    "precio_num": 120.0,
+    "url": "https://artquemy.com/producto/him-ii/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Asagiri",
+    "artista": "Jor Ros",
+    "precio": "€120,00",
+    "precio_num": 120.0,
+    "url": "https://artquemy.com/producto/asagiri-2/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Saruyama",
+    "artista": "Jor Ros",
+    "precio": "€120,00",
+    "precio_num": 120.0,
+    "url": "https://artquemy.com/producto/saruyama-2/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Osuushi",
+    "artista": "Jor Ros",
+    "precio": "€120,00",
+    "precio_num": 120.0,
+    "url": "https://artquemy.com/producto/osuushi/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Tora",
+    "artista": "Jor Ros",
+    "precio": "€120,00",
+    "precio_num": 120.0,
+    "url": "https://artquemy.com/producto/tora-2/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Her",
+    "artista": "Jor Ros",
+    "precio": "€120,00",
+    "precio_num": 120.0,
+    "url": "https://artquemy.com/producto/her-2/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Smoker Hound",
+    "artista": "Jor Ros",
+    "precio": "€120,00",
+    "precio_num": 120.0,
+    "url": "https://artquemy.com/producto/smoker-hound-2/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Sacred Masks",
+    "artista": "Jor Ros",
+    "precio": "€120,00",
+    "precio_num": 120.0,
+    "url": "https://artquemy.com/producto/sacred-masks-2/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Poster lll",
+    "artista": "Jor Ros",
+    "precio": "€120,00",
+    "precio_num": 120.0,
+    "url": "https://artquemy.com/producto/poster-lll/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Poster ll",
+    "artista": "Jor Ros",
+    "precio": "€120,00",
+    "precio_num": 120.0,
+    "url": "https://artquemy.com/producto/poster-ll-2/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Poster",
+    "artista": "Jor Ros",
+    "precio": "€120,00",
+    "precio_num": 120.0,
+    "url": "https://artquemy.com/producto/poster/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Her ll",
+    "artista": "Jor Ros",
+    "precio": "€120,00",
+    "precio_num": 120.0,
+    "url": "https://artquemy.com/producto/her-ll/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Him",
+    "artista": "Jor Ros",
+    "precio": "€120,00",
+    "precio_num": 120.0,
+    "url": "https://artquemy.com/producto/him-2/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Tiger Warrior",
+    "artista": "Jor Ros",
+    "precio": "€120,00",
+    "precio_num": 120.0,
+    "url": "https://artquemy.com/producto/tiger-warrior/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Tiger & Snake I",
+    "artista": "Jor Ros",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/tiger-snake-i/",
+    "fecha": "26/10/2026 12:14"
+  },
+  {
+    "tipo": "precio_cambiado",
+    "titulo": "Candy dealers",
+    "artista": "KST",
+    "precio": "€3.200,00",
+    "precio_num": 3200.0,
+    "precio_anterior": "€3.000,00",
+    "url": "https://artquemy.com/producto/candy-dealers/",
+    "fecha": "26/10/2026 12:16"
+  },
+  {
+    "tipo": "vendida",
+    "titulo": "Artemis is a kid",
+    "artista": "KST",
+    "precio": "€3.000,00",
+    "precio_num": 3000.0,
+    "url": "https://artquemy.com/producto/artemis-is-a-kid/",
+    "fecha": "26/10/2026 12:16"
+  },
+  {
+    "tipo": "vendida",
+    "titulo": "Auto rojo",
+    "artista": "KST",
+    "precio": "€280,00",
+    "precio_num": 280.0,
+    "url": "https://artquemy.com/producto/auto-rojo/",
+    "fecha": "26/10/2026 12:16"
+  },
+  {
+    "tipo": "vendida",
+    "titulo": "Por qué hice eso?",
+    "artista": "KST",
+    "precio": "€280,00",
+    "precio_num": 280.0,
+    "url": "https://artquemy.com/producto/por-que-hice-eso/",
+    "fecha": "26/10/2026 12:16"
+  },
+  {
+    "tipo": "vendida",
+    "titulo": "Despeinada",
+    "artista": "KST",
+    "precio": "€280,00",
+    "precio_num": 280.0,
+    "url": "https://artquemy.com/producto/despeinada/",
+    "fecha": "26/10/2026 12:16"
+  },
+  {
+    "tipo": "vendida",
+    "titulo": "Abierta al sol",
+    "artista": "KST",
+    "precio": "€280,00",
+    "precio_num": 280.0,
+    "url": "https://artquemy.com/producto/abierta-al-sol/",
+    "fecha": "26/10/2026 12:16"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Gatodelic",
+    "artista": "KST",
+    "precio": "€250,00",
+    "precio_num": 250.0,
+    "url": "https://artquemy.com/producto/gatodelic/",
+    "fecha": "26/10/2026 12:16"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Lata de Sardinas",
+    "artista": "KST",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/lata-de-sardinas/",
+    "fecha": "26/10/2026 12:16"
   }
 ]
