@@ -1170,73 +1170,9 @@
   },
   "Carola Bagnato": {
     "url": "https://artquemy.com/artists/carola-bagnato/",
-    "hash": "09c1cb753cb2be62cdc7b6f5a522435a",
-    "obras": {
-      "https://artquemy.com/producto/sueno-lucido/": {
-        "titulo": "Sueño lúcido",
-        "precio": "€7.260,00",
-        "precio_num": 7260.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/sueno-lucido/"
-      },
-      "https://artquemy.com/producto/bestiario-onirico/": {
-        "titulo": "Bestiario Onírico",
-        "precio": "€3.200,00",
-        "precio_num": 3200.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/bestiario-onirico/"
-      },
-      "https://artquemy.com/producto/todo-lo-que-no-sabemos-nombrar/": {
-        "titulo": "Todo lo que no sabemos nombrar",
-        "precio": "€1.490,00",
-        "precio_num": 1490.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/todo-lo-que-no-sabemos-nombrar/"
-      },
-      "https://artquemy.com/producto/1993/": {
-        "titulo": "1993",
-        "precio": "€1.400,00",
-        "precio_num": 1400.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/1993/"
-      },
-      "https://artquemy.com/producto/todas-las-que-fui/": {
-        "titulo": "Todas las que fui",
-        "precio": "€1.200,00",
-        "precio_num": 1200.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/todas-las-que-fui/"
-      },
-      "https://artquemy.com/producto/bodegon/": {
-        "titulo": "Bodegón",
-        "precio": "€1.200,00",
-        "precio_num": 1200.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/bodegon/"
-      },
-      "https://artquemy.com/producto/bigotes/": {
-        "titulo": "Bigotes",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/bigotes/"
-      },
-      "https://artquemy.com/producto/intuicion-base/": {
-        "titulo": "Intuición base",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/intuicion-base/"
-      },
-      "https://artquemy.com/producto/lo-divino-en-lo-cotidiano/": {
-        "titulo": "Lo divino en lo cotidiano",
-        "precio": "€25,00",
-        "precio_num": 25.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/lo-divino-en-lo-cotidiano/"
-      }
-    },
-    "ultima_comprobacion": "25/10/2026 19:46"
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "obras": {},
+    "ultima_comprobacion": "27/10/2026 14:54"
   },
   "Ceci SN": {
     "url": "https://artquemy.com/artists/ceci-sn/",
@@ -1894,7 +1830,7 @@
         "url": "https://artquemy.com/producto/4-bikini-swimmers/"
       }
     },
-    "ultima_comprobacion": "25/10/2026 22:24"
+    "ultima_comprobacion": "27/10/2026 14:55"
   },
   "Ciro Marra": {
     "url": "https://artquemy.com/artists/ciro-marra/",
@@ -2741,7 +2677,7 @@
         "url": "https://artquemy.com/producto/soul-portait/"
       }
     },
-    "ultima_comprobacion": "25/10/2026 22:24"
+    "ultima_comprobacion": "27/10/2026 14:55"
   },
   "Collage Volage": {
     "url": "https://artquemy.com/artists/collage-volage/",
@@ -2895,7 +2831,7 @@
         "url": "https://artquemy.com/producto/de-la-serie-collage-1/"
       }
     },
-    "ultima_comprobacion": "25/10/2026 22:24"
+    "ultima_comprobacion": "27/10/2026 14:56"
   },
   "Daniele Verzini": {
     "url": "https://artquemy.com/artists/daniele-verzini/",
@@ -3021,7 +2957,7 @@
         "url": "https://artquemy.com/producto/addicted-8-2/"
       }
     },
-    "ultima_comprobacion": "25/10/2026 22:25"
+    "ultima_comprobacion": "27/10/2026 14:56"
   },
   "Droste Delacroix": {
     "url": "https://artquemy.com/artists/droste-de-la-croix/",
@@ -3063,7 +2999,7 @@
         "url": "https://artquemy.com/producto/crisis-magica-oro-viejo/"
       }
     },
-    "ultima_comprobacion": "25/10/2026 22:25"
+    "ultima_comprobacion": "27/10/2026 14:56"
   },
   "Elina Cerla": {
     "url": "https://artquemy.com/artists/elina-cerla/",
@@ -3210,7 +3146,7 @@
         "url": "https://artquemy.com/producto/see-no-evil/"
       }
     },
-    "ultima_comprobacion": "25/10/2026 22:25"
+    "ultima_comprobacion": "27/10/2026 14:57"
   },
   "El Xupet Negre": {
     "url": "https://artquemy.com/artists/el-xupet-negre/",
@@ -3637,7 +3573,7 @@
         "url": "https://artquemy.com/producto/pink-logo-t-shirt/"
       }
     },
-    "ultima_comprobacion": "25/10/2026 22:26"
+    "ultima_comprobacion": "27/10/2026 14:57"
   },
   "Evamik": {
     "url": "https://artquemy.com/artists/evamik/",
@@ -3742,7 +3678,7 @@
         "url": "https://artquemy.com/producto/work-come/"
       }
     },
-    "ultima_comprobacion": "25/10/2026 22:26"
+    "ultima_comprobacion": "27/10/2026 14:57"
   },
   "Erwtje": {
     "url": "https://artquemy.com/artists/erwtje/",
@@ -4113,7 +4049,7 @@
         "url": "https://artquemy.com/producto/t-shirt/"
       }
     },
-    "ultima_comprobacion": "25/10/2026 22:27"
+    "ultima_comprobacion": "27/10/2026 14:58"
   },
   "Irannis Mejias": {
     "url": "https://artquemy.com/artists/irannis/",
