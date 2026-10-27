@@ -7893,63 +7893,13 @@
         "url": "https://artquemy.com/producto/mooses/"
       }
     },
-    "ultima_comprobacion": "23/10/2026 14:21"
+    "ultima_comprobacion": "27/10/2026 09:31"
   },
   "Manuel Enríquez": {
     "url": "https://artquemy.com/artists/manuel-enriquez/",
-    "hash": "33c8c3bca82fb43e929b954ce6c26876",
-    "obras": {
-      "https://artquemy.com/producto/mirada/": {
-        "titulo": "Sombra",
-        "precio": "€65,00",
-        "precio_num": 65.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/mirada/"
-      },
-      "https://artquemy.com/producto/espiral/": {
-        "titulo": "Espiral",
-        "precio": "€65,00",
-        "precio_num": 65.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/espiral/"
-      },
-      "https://artquemy.com/producto/subterraneo/": {
-        "titulo": "Subterráneo",
-        "precio": "€65,00",
-        "precio_num": 65.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/subterraneo/"
-      },
-      "https://artquemy.com/producto/chispas/": {
-        "titulo": "Chispas",
-        "precio": "€65,00",
-        "precio_num": 65.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/chispas/"
-      },
-      "https://artquemy.com/producto/abduccion/": {
-        "titulo": "Abducción",
-        "precio": "€65,00",
-        "precio_num": 65.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/abduccion/"
-      },
-      "https://artquemy.com/producto/silencio/": {
-        "titulo": "Silencio",
-        "precio": "€65,00",
-        "precio_num": 65.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/silencio/"
-      },
-      "https://artquemy.com/producto/grietas/": {
-        "titulo": "Grietas",
-        "precio": "€65,00",
-        "precio_num": 65.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/grietas/"
-      }
-    },
-    "ultima_comprobacion": "25/10/2026 18:20"
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "obras": {},
+    "ultima_comprobacion": "27/10/2026 09:32"
   },
   "Michelle Andrade": {
     "url": "https://artquemy.com/artists/michelle-andrade/",
@@ -8061,7 +8011,7 @@
         "url": "https://artquemy.com/producto/whats-in-your-head/"
       }
     },
-    "ultima_comprobacion": "25/10/2026 18:21"
+    "ultima_comprobacion": "27/10/2026 09:32"
   },
   "Món Mort": {
     "url": "https://artquemy.com/artists/mon-mort/",
@@ -8082,7 +8032,7 @@
         "url": "https://artquemy.com/producto/las-monmortinas/"
       }
     },
-    "ultima_comprobacion": "25/10/2026 18:21"
+    "ultima_comprobacion": "27/10/2026 09:32"
   },
   "Okobé": {
     "url": "https://artquemy.com/artists/okobe/",
@@ -8117,7 +8067,7 @@
         "url": "https://artquemy.com/producto/ellas/"
       }
     },
-    "ultima_comprobacion": "25/10/2026 18:22"
+    "ultima_comprobacion": "27/10/2026 09:33"
   },
   "Prëo": {
     "url": "https://artquemy.com/artists/preo/",
@@ -8194,7 +8144,7 @@
         "url": "https://artquemy.com/producto/quebrada/"
       }
     },
-    "ultima_comprobacion": "25/10/2026 18:22"
+    "ultima_comprobacion": "27/10/2026 09:33"
   },
   "Qwert": {
     "url": "https://artquemy.com/artists/qwert/",
@@ -8495,7 +8445,7 @@
         "url": "https://artquemy.com/producto/a-little-traveller-2/"
       }
     },
-    "ultima_comprobacion": "25/10/2026 18:23"
+    "ultima_comprobacion": "27/10/2026 09:33"
   },
   "Rich One": {
     "url": "https://artquemy.com/artists/rich-one/",
@@ -8600,7 +8550,7 @@
         "url": "https://artquemy.com/producto/t-shirt-black/"
       }
     },
-    "ultima_comprobacion": "25/10/2026 18:23"
+    "ultima_comprobacion": "27/10/2026 09:34"
   },
   "Rocco Del Franco": {
     "url": "https://artquemy.com/artists/rocco-del-franco/",
@@ -8824,7 +8774,7 @@
         "url": "https://artquemy.com/producto/classic-orange-vii/"
       }
     },
-    "ultima_comprobacion": "25/10/2026 18:23"
+    "ultima_comprobacion": "27/10/2026 09:34"
   },
   "Rocío Iannone": {
     "url": "https://artquemy.com/artists/rocio-iannone/",
@@ -8985,7 +8935,7 @@
         "url": "https://artquemy.com/producto/como-se-contempla-una-desgracia/"
       }
     },
-    "ultima_comprobacion": "25/10/2026 18:24"
+    "ultima_comprobacion": "27/10/2026 09:35"
   },
   "Soy feo pero te amo": {
     "url": "https://artquemy.com/artists/soy-feo-pero-te-amo/",
