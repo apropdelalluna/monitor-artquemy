@@ -34349,5 +34349,14 @@
     "precio_num": 65.0,
     "url": "https://artquemy.com/producto/grietas/",
     "fecha": "27/10/2026 09:32"
+  },
+  {
+    "tipo": "vendida",
+    "titulo": "Eke Dream in History of Art",
+    "artista": "Camil Escruela",
+    "precio": "€3.800,00",
+    "precio_num": 3800.0,
+    "url": "https://artquemy.com/producto/eke-dream-in-history-of-art/",
+    "fecha": "27/10/2026 14:09"
   }
 ]
