@@ -34439,5 +34439,132 @@
     "precio_num": 25.0,
     "url": "https://artquemy.com/producto/lo-divino-en-lo-cotidiano/",
     "fecha": "27/10/2026 14:54"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Jartura (Enough)",
+    "artista": "Irannis Mejias",
+    "precio": "€1.200,00",
+    "precio_num": 1200.0,
+    "url": "https://artquemy.com/producto/jartura-enough/",
+    "fecha": "27/10/2026 18:45"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Entropía",
+    "artista": "Irannis Mejias",
+    "precio": "€1.200,00",
+    "precio_num": 1200.0,
+    "url": "https://artquemy.com/producto/entropia/",
+    "fecha": "27/10/2026 18:45"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "La Herencia",
+    "artista": "Irannis Mejias",
+    "precio": "€1.200,00",
+    "precio_num": 1200.0,
+    "url": "https://artquemy.com/producto/la-herencia/",
+    "fecha": "27/10/2026 18:45"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Excusas para Llorar",
+    "artista": "Irannis Mejias",
+    "precio": "€700,00",
+    "precio_num": 700.0,
+    "url": "https://artquemy.com/producto/excusas-para-llorar/",
+    "fecha": "27/10/2026 18:45"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Duquesa – La Maja Choni",
+    "artista": "Irannis Mejias",
+    "precio": "€600,00",
+    "precio_num": 600.0,
+    "url": "https://artquemy.com/producto/duquesa-la-maja-choni/",
+    "fecha": "27/10/2026 18:45"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Descenso del Orinoco",
+    "artista": "Irannis Mejias",
+    "precio": "€600,00",
+    "precio_num": 600.0,
+    "url": "https://artquemy.com/producto/descenso-del-orinoco/",
+    "fecha": "27/10/2026 18:45"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Salmuera y Barril",
+    "artista": "Irannis Mejias",
+    "precio": "€600,00",
+    "precio_num": 600.0,
+    "url": "https://artquemy.com/producto/salmuera-y-barril/",
+    "fecha": "27/10/2026 18:45"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "La Cooperativa",
+    "artista": "Irannis Mejias",
+    "precio": "€600,00",
+    "precio_num": 600.0,
+    "url": "https://artquemy.com/producto/la-cooperativa/",
+    "fecha": "27/10/2026 18:45"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Lo divino en lo cotidiano",
+    "artista": "Irannis Mejias",
+    "precio": "€25,00",
+    "precio_num": 25.0,
+    "url": "https://artquemy.com/producto/lo-divino-en-lo-cotidiano/",
+    "fecha": "27/10/2026 18:45"
+  },
+  {
+    "tipo": "precio_cambiado",
+    "titulo": "Medallón 1875",
+    "artista": "Juncosa",
+    "precio": "€8.900,00",
+    "precio_num": 8900.0,
+    "precio_anterior": "€7.500,00",
+    "url": "https://artquemy.com/producto/medallon-1875/",
+    "fecha": "27/10/2026 18:47"
+  },
+  {
+    "tipo": "vendida",
+    "titulo": "Barcelona Medallion 1910",
+    "artista": "Juncosa",
+    "precio": "€8.900,00",
+    "precio_num": 8900.0,
+    "url": "https://artquemy.com/producto/barcelona-medallion-1910/",
+    "fecha": "27/10/2026 18:47"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Bird XL",
+    "artista": "KST",
+    "precio": "€480,00",
+    "precio_num": 480.0,
+    "url": "https://artquemy.com/producto/bird-xl/",
+    "fecha": "27/10/2026 18:48"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Bird L",
+    "artista": "KST",
+    "precio": "€360,00",
+    "precio_num": 360.0,
+    "url": "https://artquemy.com/producto/bird-l/",
+    "fecha": "27/10/2026 18:48"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Artemis is a kid",
+    "artista": "KST",
+    "precio": "€25,00",
+    "precio_num": 25.0,
+    "url": "https://artquemy.com/producto/artemis-is-a-kid/",
+    "fecha": "27/10/2026 18:48"
   }
 ]
