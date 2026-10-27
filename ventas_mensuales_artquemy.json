@@ -8348,6 +8348,18 @@
       "precio_num": 280.0,
       "tipo": "vendida",
       "url": "https://artquemy.com/producto/abierta-al-sol/"
+    },
+    {
+      "fecha": "27/10/2026 14:09",
+      "artista": {
+        "nombre": "Camil Escruela",
+        "url": "https://artquemy.com/artists/camil-escruela/"
+      },
+      "obra": "Eke Dream in History of Art",
+      "precio": "€3.800,00",
+      "precio_num": 3800.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/eke-dream-in-history-of-art/"
     }
   ]
 }
