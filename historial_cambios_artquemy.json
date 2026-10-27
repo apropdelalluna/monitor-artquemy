@@ -34566,5 +34566,68 @@
     "precio_num": 25.0,
     "url": "https://artquemy.com/producto/artemis-is-a-kid/",
     "fecha": "27/10/2026 18:48"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Sombra",
+    "artista": "Manuel Enríquez",
+    "precio": "€65,00",
+    "precio_num": 65.0,
+    "url": "https://artquemy.com/producto/mirada/",
+    "fecha": "27/10/2026 21:49"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Espiral",
+    "artista": "Manuel Enríquez",
+    "precio": "€65,00",
+    "precio_num": 65.0,
+    "url": "https://artquemy.com/producto/espiral/",
+    "fecha": "27/10/2026 21:49"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Subterráneo",
+    "artista": "Manuel Enríquez",
+    "precio": "€65,00",
+    "precio_num": 65.0,
+    "url": "https://artquemy.com/producto/subterraneo/",
+    "fecha": "27/10/2026 21:49"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Chispas",
+    "artista": "Manuel Enríquez",
+    "precio": "€65,00",
+    "precio_num": 65.0,
+    "url": "https://artquemy.com/producto/chispas/",
+    "fecha": "27/10/2026 21:49"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Abducción",
+    "artista": "Manuel Enríquez",
+    "precio": "€65,00",
+    "precio_num": 65.0,
+    "url": "https://artquemy.com/producto/abduccion/",
+    "fecha": "27/10/2026 21:49"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Silencio",
+    "artista": "Manuel Enríquez",
+    "precio": "€65,00",
+    "precio_num": 65.0,
+    "url": "https://artquemy.com/producto/silencio/",
+    "fecha": "27/10/2026 21:49"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Grietas",
+    "artista": "Manuel Enríquez",
+    "precio": "€65,00",
+    "precio_num": 65.0,
+    "url": "https://artquemy.com/producto/grietas/",
+    "fecha": "27/10/2026 21:49"
   }
 ]
