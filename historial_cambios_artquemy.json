@@ -34286,5 +34286,68 @@
     "precio_num": 0.0,
     "url": "https://artquemy.com/producto/lata-de-sardinas/",
     "fecha": "26/10/2026 12:16"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Sombra",
+    "artista": "Manuel Enríquez",
+    "precio": "€65,00",
+    "precio_num": 65.0,
+    "url": "https://artquemy.com/producto/mirada/",
+    "fecha": "27/10/2026 09:32"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Espiral",
+    "artista": "Manuel Enríquez",
+    "precio": "€65,00",
+    "precio_num": 65.0,
+    "url": "https://artquemy.com/producto/espiral/",
+    "fecha": "27/10/2026 09:32"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Subterráneo",
+    "artista": "Manuel Enríquez",
+    "precio": "€65,00",
+    "precio_num": 65.0,
+    "url": "https://artquemy.com/producto/subterraneo/",
+    "fecha": "27/10/2026 09:32"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Chispas",
+    "artista": "Manuel Enríquez",
+    "precio": "€65,00",
+    "precio_num": 65.0,
+    "url": "https://artquemy.com/producto/chispas/",
+    "fecha": "27/10/2026 09:32"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Abducción",
+    "artista": "Manuel Enríquez",
+    "precio": "€65,00",
+    "precio_num": 65.0,
+    "url": "https://artquemy.com/producto/abduccion/",
+    "fecha": "27/10/2026 09:32"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Silencio",
+    "artista": "Manuel Enríquez",
+    "precio": "€65,00",
+    "precio_num": 65.0,
+    "url": "https://artquemy.com/producto/silencio/",
+    "fecha": "27/10/2026 09:32"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Grietas",
+    "artista": "Manuel Enríquez",
+    "precio": "€65,00",
+    "precio_num": 65.0,
+    "url": "https://artquemy.com/producto/grietas/",
+    "fecha": "27/10/2026 09:32"
   }
 ]
