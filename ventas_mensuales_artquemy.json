@@ -8360,6 +8360,18 @@
       "precio_num": 3800.0,
       "tipo": "vendida",
       "url": "https://artquemy.com/producto/eke-dream-in-history-of-art/"
+    },
+    {
+      "fecha": "27/10/2026 18:49",
+      "artista": {
+        "nombre": "Juncosa",
+        "url": "https://artquemy.com/artists/juncosa/"
+      },
+      "obra": "Barcelona Medallion 1910",
+      "precio": "€8.900,00",
+      "precio_num": 8900.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/barcelona-medallion-1910/"
     }
   ]
 }
