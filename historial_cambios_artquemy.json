@@ -34629,5 +34629,140 @@
     "precio_num": 65.0,
     "url": "https://artquemy.com/producto/grietas/",
     "fecha": "27/10/2026 21:49"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Sueño lúcido",
+    "artista": "Carola Bagnato",
+    "precio": "€7.260,00",
+    "precio_num": 7260.0,
+    "url": "https://artquemy.com/producto/sueno-lucido/",
+    "fecha": "28/10/2026 20:15"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Bestiario Onírico",
+    "artista": "Carola Bagnato",
+    "precio": "€3.200,00",
+    "precio_num": 3200.0,
+    "url": "https://artquemy.com/producto/bestiario-onirico/",
+    "fecha": "28/10/2026 20:15"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Todo lo que no sabemos nombrar",
+    "artista": "Carola Bagnato",
+    "precio": "€1.490,00",
+    "precio_num": 1490.0,
+    "url": "https://artquemy.com/producto/todo-lo-que-no-sabemos-nombrar/",
+    "fecha": "28/10/2026 20:15"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "1993",
+    "artista": "Carola Bagnato",
+    "precio": "€1.400,00",
+    "precio_num": 1400.0,
+    "url": "https://artquemy.com/producto/1993/",
+    "fecha": "28/10/2026 20:15"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Todas las que fui",
+    "artista": "Carola Bagnato",
+    "precio": "€1.200,00",
+    "precio_num": 1200.0,
+    "url": "https://artquemy.com/producto/todas-las-que-fui/",
+    "fecha": "28/10/2026 20:15"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Bodegón",
+    "artista": "Carola Bagnato",
+    "precio": "€1.200,00",
+    "precio_num": 1200.0,
+    "url": "https://artquemy.com/producto/bodegon/",
+    "fecha": "28/10/2026 20:15"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Bigotes",
+    "artista": "Carola Bagnato",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/bigotes/",
+    "fecha": "28/10/2026 20:15"
+  },
+  {
+    "tipo": "nueva_vendida",
+    "titulo": "Intuición base",
+    "artista": "Carola Bagnato",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/intuicion-base/",
+    "fecha": "28/10/2026 20:15"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Lo divino en lo cotidiano",
+    "artista": "Carola Bagnato",
+    "precio": "€25,00",
+    "precio_num": 25.0,
+    "url": "https://artquemy.com/producto/lo-divino-en-lo-cotidiano/",
+    "fecha": "28/10/2026 20:15"
+  },
+  {
+    "tipo": "vendida",
+    "titulo": "Black Mood 3",
+    "artista": "Ciro Marra",
+    "precio": "€130,00",
+    "precio_num": 130.0,
+    "url": "https://artquemy.com/producto/black-mood-3/",
+    "fecha": "28/10/2026 20:15"
+  },
+  {
+    "tipo": "vendida",
+    "titulo": "La Belle Époque 8",
+    "artista": "Ciro Marra",
+    "precio": "€120,00",
+    "precio_num": 120.0,
+    "url": "https://artquemy.com/producto/la-belle-epoque-8/",
+    "fecha": "28/10/2026 20:15"
+  },
+  {
+    "tipo": "vendida",
+    "titulo": "La Belle Époque 5",
+    "artista": "Ciro Marra",
+    "precio": "€120,00",
+    "precio_num": 120.0,
+    "url": "https://artquemy.com/producto/la-belle-epoque-5/",
+    "fecha": "28/10/2026 20:15"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "La ragazza con i piedi celesti e il cuore in fiamme",
+    "artista": "Ciro Marra",
+    "precio": "€1.790,00",
+    "precio_num": 1790.0,
+    "url": "https://artquemy.com/producto/la-ragazza-con-i-piedi-celesti-e-il-cuore-in-fiamme/",
+    "fecha": "28/10/2026 20:15"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Luchador",
+    "artista": "Ciro Marra",
+    "precio": "€1.620,00",
+    "precio_num": 1620.0,
+    "url": "https://artquemy.com/producto/luchador/",
+    "fecha": "28/10/2026 20:15"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Il fondo non è la fine",
+    "artista": "Ciro Marra",
+    "precio": "€1.400,00",
+    "precio_num": 1400.0,
+    "url": "https://artquemy.com/producto/autoritratto-distratto/",
+    "fecha": "28/10/2026 20:15"
   }
 ]
