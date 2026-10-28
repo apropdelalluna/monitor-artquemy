@@ -1166,13 +1166,77 @@
         "url": "https://artquemy.com/producto/homenatge-a-miro-2/"
       }
     },
-    "ultima_comprobacion": "27/10/2026 14:09"
+    "ultima_comprobacion": "28/10/2026 20:14"
   },
   "Carola Bagnato": {
     "url": "https://artquemy.com/artists/carola-bagnato/",
-    "hash": "d41d8cd98f00b204e9800998ecf8427e",
-    "obras": {},
-    "ultima_comprobacion": "27/10/2026 14:54"
+    "hash": "09c1cb753cb2be62cdc7b6f5a522435a",
+    "obras": {
+      "https://artquemy.com/producto/sueno-lucido/": {
+        "titulo": "Sueño lúcido",
+        "precio": "€7.260,00",
+        "precio_num": 7260.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/sueno-lucido/"
+      },
+      "https://artquemy.com/producto/bestiario-onirico/": {
+        "titulo": "Bestiario Onírico",
+        "precio": "€3.200,00",
+        "precio_num": 3200.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/bestiario-onirico/"
+      },
+      "https://artquemy.com/producto/todo-lo-que-no-sabemos-nombrar/": {
+        "titulo": "Todo lo que no sabemos nombrar",
+        "precio": "€1.490,00",
+        "precio_num": 1490.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/todo-lo-que-no-sabemos-nombrar/"
+      },
+      "https://artquemy.com/producto/1993/": {
+        "titulo": "1993",
+        "precio": "€1.400,00",
+        "precio_num": 1400.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/1993/"
+      },
+      "https://artquemy.com/producto/todas-las-que-fui/": {
+        "titulo": "Todas las que fui",
+        "precio": "€1.200,00",
+        "precio_num": 1200.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/todas-las-que-fui/"
+      },
+      "https://artquemy.com/producto/bodegon/": {
+        "titulo": "Bodegón",
+        "precio": "€1.200,00",
+        "precio_num": 1200.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/bodegon/"
+      },
+      "https://artquemy.com/producto/bigotes/": {
+        "titulo": "Bigotes",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/bigotes/"
+      },
+      "https://artquemy.com/producto/intuicion-base/": {
+        "titulo": "Intuición base",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
+        "url": "https://artquemy.com/producto/intuicion-base/"
+      },
+      "https://artquemy.com/producto/lo-divino-en-lo-cotidiano/": {
+        "titulo": "Lo divino en lo cotidiano",
+        "precio": "€25,00",
+        "precio_num": 25.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/lo-divino-en-lo-cotidiano/"
+      }
+    },
+    "ultima_comprobacion": "28/10/2026 20:15"
   },
   "Ceci SN": {
     "url": "https://artquemy.com/artists/ceci-sn/",
@@ -1830,11 +1894,11 @@
         "url": "https://artquemy.com/producto/4-bikini-swimmers/"
       }
     },
-    "ultima_comprobacion": "27/10/2026 14:55"
+    "ultima_comprobacion": "28/10/2026 20:15"
   },
   "Ciro Marra": {
     "url": "https://artquemy.com/artists/ciro-marra/",
-    "hash": "962fcbffb57401cc3b02a3bdb8e296ce",
+    "hash": "45525a35c10d6695a11e332478bd214f",
     "obras": {
       "https://artquemy.com/producto/resistenza-la-pelle-dellanima/": {
         "titulo": "Resistenza (la pelle dell’anima)",
@@ -1913,20 +1977,6 @@
         "estado": "vendido",
         "url": "https://artquemy.com/producto/just-soul-007/"
       },
-      "https://artquemy.com/producto/la-ragazza-con-i-piedi-celesti-e-il-cuore-in-fiamme/": {
-        "titulo": "La ragazza con i piedi celesti e il cuore in fiamme",
-        "precio": "€1.790,00",
-        "precio_num": 1790.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/la-ragazza-con-i-piedi-celesti-e-il-cuore-in-fiamme/"
-      },
-      "https://artquemy.com/producto/luchador/": {
-        "titulo": "Luchador",
-        "precio": "€1.620,00",
-        "precio_num": 1620.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/luchador/"
-      },
       "https://artquemy.com/producto/just-soul-065/": {
         "titulo": "Just Soul 065",
         "precio": "SOLD",
@@ -1954,13 +2004,6 @@
         "precio_num": 0.0,
         "estado": "vendido",
         "url": "https://artquemy.com/producto/abisso-quieto/"
-      },
-      "https://artquemy.com/producto/autoritratto-distratto/": {
-        "titulo": "Il fondo non è la fine",
-        "precio": "€1.400,00",
-        "precio_num": 1400.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/autoritratto-distratto/"
       },
       "https://artquemy.com/producto/riflesso/": {
         "titulo": "Riflesso",
@@ -2286,9 +2329,9 @@
       },
       "https://artquemy.com/producto/black-mood-3/": {
         "titulo": "Black Mood 3",
-        "precio": "€130,00",
-        "precio_num": 130.0,
-        "estado": "disponible",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
         "url": "https://artquemy.com/producto/black-mood-3/"
       },
       "https://artquemy.com/producto/black-mood-2/": {
@@ -2349,9 +2392,9 @@
       },
       "https://artquemy.com/producto/la-belle-epoque-8/": {
         "titulo": "La Belle Époque 8",
-        "precio": "€120,00",
-        "precio_num": 120.0,
-        "estado": "disponible",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
         "url": "https://artquemy.com/producto/la-belle-epoque-8/"
       },
       "https://artquemy.com/producto/la-belle-epoque-7/": {
@@ -2370,9 +2413,9 @@
       },
       "https://artquemy.com/producto/la-belle-epoque-5/": {
         "titulo": "La Belle Époque 5",
-        "precio": "€120,00",
-        "precio_num": 120.0,
-        "estado": "disponible",
+        "precio": "SOLD",
+        "precio_num": 0.0,
+        "estado": "vendido",
         "url": "https://artquemy.com/producto/la-belle-epoque-5/"
       },
       "https://artquemy.com/producto/la-belle-epoque-4/": {
@@ -2677,7 +2720,7 @@
         "url": "https://artquemy.com/producto/soul-portait/"
       }
     },
-    "ultima_comprobacion": "27/10/2026 14:55"
+    "ultima_comprobacion": "28/10/2026 20:15"
   },
   "Collage Volage": {
     "url": "https://artquemy.com/artists/collage-volage/",
@@ -2831,7 +2874,7 @@
         "url": "https://artquemy.com/producto/de-la-serie-collage-1/"
       }
     },
-    "ultima_comprobacion": "27/10/2026 14:56"
+    "ultima_comprobacion": "28/10/2026 20:15"
   },
   "Daniele Verzini": {
     "url": "https://artquemy.com/artists/daniele-verzini/",
@@ -2957,7 +3000,7 @@
         "url": "https://artquemy.com/producto/addicted-8-2/"
       }
     },
-    "ultima_comprobacion": "27/10/2026 14:56"
+    "ultima_comprobacion": "28/10/2026 20:16"
   },
   "Droste Delacroix": {
     "url": "https://artquemy.com/artists/droste-de-la-croix/",
@@ -2999,7 +3042,7 @@
         "url": "https://artquemy.com/producto/crisis-magica-oro-viejo/"
       }
     },
-    "ultima_comprobacion": "27/10/2026 14:56"
+    "ultima_comprobacion": "28/10/2026 20:16"
   },
   "Elina Cerla": {
     "url": "https://artquemy.com/artists/elina-cerla/",
@@ -3146,7 +3189,7 @@
         "url": "https://artquemy.com/producto/see-no-evil/"
       }
     },
-    "ultima_comprobacion": "27/10/2026 14:57"
+    "ultima_comprobacion": "28/10/2026 20:16"
   },
   "El Xupet Negre": {
     "url": "https://artquemy.com/artists/el-xupet-negre/",
@@ -3573,7 +3616,7 @@
         "url": "https://artquemy.com/producto/pink-logo-t-shirt/"
       }
     },
-    "ultima_comprobacion": "27/10/2026 14:57"
+    "ultima_comprobacion": "28/10/2026 20:17"
   },
   "Evamik": {
     "url": "https://artquemy.com/artists/evamik/",
@@ -3678,7 +3721,7 @@
         "url": "https://artquemy.com/producto/work-come/"
       }
     },
-    "ultima_comprobacion": "27/10/2026 14:57"
+    "ultima_comprobacion": "28/10/2026 20:17"
   },
   "Erwtje": {
     "url": "https://artquemy.com/artists/erwtje/",
