@@ -418,7 +418,8 @@ def guardar_ventas_mensuales(cambios: list) -> None:
         existentes_url = set((e.get("url", ""), e.get("fecha", "")[:10]) for e in acumulado[mes_actual] if e.get("url"))
 
         for cambio in cambios:
-            artista = cambio["artista"]
+            artista_raw = cambio["artista"]
+            artista = artista_raw["nombre"] if isinstance(artista_raw, dict) else artista_raw
             for c in cambio.get("cambios_obras", []):
                 # Solo registrar ventas detectadas en tiempo real (disponible -> vendido)
                 if c["tipo"] != "vendida":

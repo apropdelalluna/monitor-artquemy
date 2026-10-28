@@ -422,7 +422,7 @@
         const claseItem = esReserved ? 'reserved' : (tipo === 'artista_desaparecido' ? 'desaparecida' : tipo);
         cambiosHTML += `<div class="cambio-item ${claseItem}">
           <div class="cambio-header">
-            <div class="cambio-artista">${c.artista}</div>
+            <div class="cambio-artista">${artistaNombre(c.artista)}</div>
             <div class="cambio-fecha">${c.fecha}</div>
           </div>
           <div class="cambio-obra">
@@ -459,6 +459,12 @@
 
     function formatNum(n) {
       return n.toLocaleString('es-ES', { minimumFractionDigits: 0, maximumFractionDigits: 0 }) + ' €';
+    }
+
+    function artistaNombre(a) {
+      if (!a) return '';
+      if (typeof a === 'object') return a.nombre || '';
+      return a;
     }
 
     function showToast(msg) {
@@ -529,9 +535,10 @@
 
           const porArtista = {};
           vs.forEach(v => {
-            if (!porArtista[v.artista]) porArtista[v.artista] = { obras: 0, total: 0 };
-            porArtista[v.artista].obras++;
-            porArtista[v.artista].total += v.precio_num || 0;
+            const vArtista = artistaNombre(v.artista);
+            if (!porArtista[vArtista]) porArtista[vArtista] = { obras: 0, total: 0 };
+            porArtista[vArtista].obras++;
+            porArtista[vArtista].total += v.precio_num || 0;
           });
           const artistasOrdenados = Object.entries(porArtista).sort((a, b) => b[1].total - a[1].total);
           let artistasHTML = '';
@@ -553,7 +560,7 @@
               ? `<div class="empty" style="padding:16px 0 8px;">Sin obras vendidas este mes</div>`
               : [...ventasReales].reverse().map(v => `<div class="cambio-item vendida" style="margin-bottom:8px;">
                   <div class="cambio-header">
-                    <div class="cambio-artista">${v.artista || ''}</div>
+                    <div class="cambio-artista">${artistaNombre(v.artista)}</div>
                     <div class="cambio-fecha">${v.fecha || ''}</div>
                   </div>
                   <div class="cambio-obra">
