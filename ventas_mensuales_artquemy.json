@@ -8333,6 +8333,33 @@
       "precio_num": 8900.0,
       "tipo": "vendida",
       "url": "https://artquemy.com/producto/barcelona-medallion-1910/"
+    },
+    {
+      "fecha": "28/10/2026 20:17",
+      "artista": "Ciro Marra",
+      "obra": "Black Mood 3",
+      "precio": "€130,00",
+      "precio_num": 130.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/black-mood-3/"
+    },
+    {
+      "fecha": "28/10/2026 20:17",
+      "artista": "Ciro Marra",
+      "obra": "La Belle Époque 8",
+      "precio": "€120,00",
+      "precio_num": 120.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/la-belle-epoque-8/"
+    },
+    {
+      "fecha": "28/10/2026 20:17",
+      "artista": "Ciro Marra",
+      "obra": "La Belle Époque 5",
+      "precio": "€120,00",
+      "precio_num": 120.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/la-belle-epoque-5/"
     }
   ]
 }
