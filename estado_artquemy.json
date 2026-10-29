@@ -4092,13 +4092,77 @@
         "url": "https://artquemy.com/producto/t-shirt/"
       }
     },
-    "ultima_comprobacion": "27/10/2026 14:58"
+    "ultima_comprobacion": "29/10/2026 16:57"
   },
   "Irannis Mejias": {
     "url": "https://artquemy.com/artists/irannis/",
-    "hash": "d41d8cd98f00b204e9800998ecf8427e",
-    "obras": {},
-    "ultima_comprobacion": "27/10/2026 18:45"
+    "hash": "ec16be6ebc7e46eea32a89820f59ffa5",
+    "obras": {
+      "https://artquemy.com/producto/jartura-enough/": {
+        "titulo": "Jartura (Enough)",
+        "precio": "€1.200,00",
+        "precio_num": 1200.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/jartura-enough/"
+      },
+      "https://artquemy.com/producto/entropia/": {
+        "titulo": "Entropía",
+        "precio": "€1.200,00",
+        "precio_num": 1200.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/entropia/"
+      },
+      "https://artquemy.com/producto/la-herencia/": {
+        "titulo": "La Herencia",
+        "precio": "€1.200,00",
+        "precio_num": 1200.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/la-herencia/"
+      },
+      "https://artquemy.com/producto/excusas-para-llorar/": {
+        "titulo": "Excusas para Llorar",
+        "precio": "€700,00",
+        "precio_num": 700.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/excusas-para-llorar/"
+      },
+      "https://artquemy.com/producto/duquesa-la-maja-choni/": {
+        "titulo": "Duquesa – La Maja Choni",
+        "precio": "€600,00",
+        "precio_num": 600.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/duquesa-la-maja-choni/"
+      },
+      "https://artquemy.com/producto/descenso-del-orinoco/": {
+        "titulo": "Descenso del Orinoco",
+        "precio": "€600,00",
+        "precio_num": 600.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/descenso-del-orinoco/"
+      },
+      "https://artquemy.com/producto/salmuera-y-barril/": {
+        "titulo": "Salmuera y Barril",
+        "precio": "€600,00",
+        "precio_num": 600.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/salmuera-y-barril/"
+      },
+      "https://artquemy.com/producto/la-cooperativa/": {
+        "titulo": "La Cooperativa",
+        "precio": "€600,00",
+        "precio_num": 600.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/la-cooperativa/"
+      },
+      "https://artquemy.com/producto/lo-divino-en-lo-cotidiano/": {
+        "titulo": "Lo divino en lo cotidiano",
+        "precio": "€25,00",
+        "precio_num": 25.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/lo-divino-en-lo-cotidiano/"
+      }
+    },
+    "ultima_comprobacion": "29/10/2026 16:57"
   },
   "Jamso": {
     "url": "https://artquemy.com/artists/jamso/",
@@ -4147,7 +4211,7 @@
         "url": "https://artquemy.com/producto/calavera-3/"
       }
     },
-    "ultima_comprobacion": "27/10/2026 18:45"
+    "ultima_comprobacion": "29/10/2026 16:58"
   },
   "Jor Ros": {
     "url": "https://artquemy.com/artists/jor-ros/",
@@ -4616,7 +4680,7 @@
         "url": "https://artquemy.com/producto/tiger-snake-i/"
       }
     },
-    "ultima_comprobacion": "27/10/2026 18:46"
+    "ultima_comprobacion": "29/10/2026 16:58"
   },
   "Jorge Suñer": {
     "url": "https://artquemy.com/artists/jorge-suner/",
@@ -4735,7 +4799,7 @@
         "url": "https://artquemy.com/producto/el-oleaje-de-verano/"
       }
     },
-    "ultima_comprobacion": "27/10/2026 18:46"
+    "ultima_comprobacion": "29/10/2026 16:58"
   },
   "Juandrés Vera": {
     "url": "https://artquemy.com/artists/juandres-vera/",
@@ -4819,7 +4883,7 @@
         "url": "https://artquemy.com/producto/loop/"
       }
     },
-    "ultima_comprobacion": "27/10/2026 18:47"
+    "ultima_comprobacion": "29/10/2026 16:59"
   },
   "Juncosa": {
     "url": "https://artquemy.com/artists/juncosa/",
@@ -5995,7 +6059,7 @@
         "url": "https://artquemy.com/producto/flor-de-barcelona-amarilla/"
       }
     },
-    "ultima_comprobacion": "27/10/2026 18:47"
+    "ultima_comprobacion": "29/10/2026 16:59"
   },
   "KST": {
     "url": "https://artquemy.com/artists/kst/",
@@ -6331,7 +6395,7 @@
         "url": "https://artquemy.com/producto/artemis-is-a-kid/"
       }
     },
-    "ultima_comprobacion": "27/10/2026 18:48"
+    "ultima_comprobacion": "29/10/2026 17:00"
   },
   "Laura Gonballes": {
     "url": "https://artquemy.com/artists/laura-gonballes/",
@@ -7094,7 +7158,7 @@
         "url": "https://artquemy.com/producto/hasta-el-alba-2/"
       }
     },
-    "ultima_comprobacion": "27/10/2026 18:48"
+    "ultima_comprobacion": "29/10/2026 17:00"
   },
   "Laura Plou": {
     "url": "https://artquemy.com/artists/laura-plou/",
@@ -7143,7 +7207,7 @@
         "url": "https://artquemy.com/producto/modelo-sa/"
       }
     },
-    "ultima_comprobacion": "27/10/2026 18:49"
+    "ultima_comprobacion": "29/10/2026 17:00"
   },
   "Lourdes Villagómez": {
     "url": "https://artquemy.com/artists/lourdes-villagomez/",
