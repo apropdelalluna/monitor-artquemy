@@ -606,19 +606,12 @@
         "url": "https://artquemy.com/producto/castellers-2/"
       }
     },
-    "ultima_comprobacion": "28/10/2026 07:45"
+    "ultima_comprobacion": "30/10/2026 09:56"
   },
   "Camil Escruela": {
     "url": "https://artquemy.com/artists/camil-escruela/",
-    "hash": "abe561013e6e1995ed223e4cb21d5775",
+    "hash": "4c3919f4b7927a2972fb5b631df2f20a",
     "obras": {
-      "https://artquemy.com/producto/train-party/": {
-        "titulo": "Train game",
-        "precio": "SOLD",
-        "precio_num": 0.0,
-        "estado": "vendido",
-        "url": "https://artquemy.com/producto/train-party/"
-      },
       "https://artquemy.com/producto/homatge-a-basquiat/": {
         "titulo": "Homenatge a Basquiat",
         "precio": "SOLD",
@@ -759,6 +752,13 @@
         "estado": "disponible",
         "url": "https://artquemy.com/producto/bodego-de-paris/"
       },
+      "https://artquemy.com/producto/basquiat-warrior-2/": {
+        "titulo": "Basquiat Warrior 2",
+        "precio": "€1.500,00",
+        "precio_num": 1500.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/basquiat-warrior-2/"
+      },
       "https://artquemy.com/producto/galactic-rose-graff/": {
         "titulo": "Galactic Rose Graff",
         "precio": "€1.500,00",
@@ -779,6 +779,13 @@
         "precio_num": 0.0,
         "estado": "vendido",
         "url": "https://artquemy.com/producto/andenparty/"
+      },
+      "https://artquemy.com/producto/train-party/": {
+        "titulo": "Basquiat Warrior 1",
+        "precio": "€1.500,00",
+        "precio_num": 1500.0,
+        "estado": "disponible",
+        "url": "https://artquemy.com/producto/train-party/"
       },
       "https://artquemy.com/producto/clean-the-sea/": {
         "titulo": "Clean the sea",
@@ -1166,7 +1173,7 @@
         "url": "https://artquemy.com/producto/homenatge-a-miro-2/"
       }
     },
-    "ultima_comprobacion": "28/10/2026 20:14"
+    "ultima_comprobacion": "30/10/2026 09:57"
   },
   "Carola Bagnato": {
     "url": "https://artquemy.com/artists/carola-bagnato/",
@@ -1236,7 +1243,7 @@
         "url": "https://artquemy.com/producto/lo-divino-en-lo-cotidiano/"
       }
     },
-    "ultima_comprobacion": "28/10/2026 20:15"
+    "ultima_comprobacion": "30/10/2026 09:57"
   },
   "Ceci SN": {
     "url": "https://artquemy.com/artists/ceci-sn/",
@@ -1894,7 +1901,7 @@
         "url": "https://artquemy.com/producto/4-bikini-swimmers/"
       }
     },
-    "ultima_comprobacion": "28/10/2026 20:15"
+    "ultima_comprobacion": "30/10/2026 09:58"
   },
   "Ciro Marra": {
     "url": "https://artquemy.com/artists/ciro-marra/",
@@ -2720,7 +2727,7 @@
         "url": "https://artquemy.com/producto/soul-portait/"
       }
     },
-    "ultima_comprobacion": "28/10/2026 20:15"
+    "ultima_comprobacion": "30/10/2026 09:58"
   },
   "Collage Volage": {
     "url": "https://artquemy.com/artists/collage-volage/",
@@ -2874,7 +2881,7 @@
         "url": "https://artquemy.com/producto/de-la-serie-collage-1/"
       }
     },
-    "ultima_comprobacion": "28/10/2026 20:15"
+    "ultima_comprobacion": "30/10/2026 09:58"
   },
   "Daniele Verzini": {
     "url": "https://artquemy.com/artists/daniele-verzini/",
@@ -3000,7 +3007,7 @@
         "url": "https://artquemy.com/producto/addicted-8-2/"
       }
     },
-    "ultima_comprobacion": "28/10/2026 20:16"
+    "ultima_comprobacion": "30/10/2026 09:59"
   },
   "Droste Delacroix": {
     "url": "https://artquemy.com/artists/droste-de-la-croix/",
@@ -3042,7 +3049,7 @@
         "url": "https://artquemy.com/producto/crisis-magica-oro-viejo/"
       }
     },
-    "ultima_comprobacion": "28/10/2026 20:16"
+    "ultima_comprobacion": "30/10/2026 09:59"
   },
   "Elina Cerla": {
     "url": "https://artquemy.com/artists/elina-cerla/",
@@ -3189,7 +3196,7 @@
         "url": "https://artquemy.com/producto/see-no-evil/"
       }
     },
-    "ultima_comprobacion": "28/10/2026 20:16"
+    "ultima_comprobacion": "30/10/2026 09:59"
   },
   "El Xupet Negre": {
     "url": "https://artquemy.com/artists/el-xupet-negre/",
@@ -3616,7 +3623,7 @@
         "url": "https://artquemy.com/producto/pink-logo-t-shirt/"
       }
     },
-    "ultima_comprobacion": "28/10/2026 20:17"
+    "ultima_comprobacion": "30/10/2026 10:00"
   },
   "Evamik": {
     "url": "https://artquemy.com/artists/evamik/",
