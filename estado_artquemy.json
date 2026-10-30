@@ -3627,108 +3627,9 @@
   },
   "Evamik": {
     "url": "https://artquemy.com/artists/evamik/",
-    "hash": "71cf835decd0ad067408cc9257ad1569",
-    "obras": {
-      "https://artquemy.com/producto/cant-prompt-this/": {
-        "titulo": "Can´t prompt this!",
-        "precio": "€1.500,00",
-        "precio_num": 1500.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/cant-prompt-this/"
-      },
-      "https://artquemy.com/producto/real-or-cake/": {
-        "titulo": "Real or cake",
-        "precio": "€1.200,00",
-        "precio_num": 1200.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/real-or-cake/"
-      },
-      "https://artquemy.com/producto/no-filter/": {
-        "titulo": "No filter",
-        "precio": "€980,00",
-        "precio_num": 980.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/no-filter/"
-      },
-      "https://artquemy.com/producto/carrito-de-compra/": {
-        "titulo": "Carrito de compra",
-        "precio": "€850,00",
-        "precio_num": 850.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/carrito-de-compra/"
-      },
-      "https://artquemy.com/producto/rave/": {
-        "titulo": "Rave",
-        "precio": "€650,00",
-        "precio_num": 650.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/rave/"
-      },
-      "https://artquemy.com/producto/john/": {
-        "titulo": "John",
-        "precio": "€450,00",
-        "precio_num": 450.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/john/"
-      },
-      "https://artquemy.com/producto/mov/": {
-        "titulo": "MOV",
-        "precio": "€290,00",
-        "precio_num": 290.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/mov/"
-      },
-      "https://artquemy.com/producto/obj/": {
-        "titulo": "OBJ",
-        "precio": "€290,00",
-        "precio_num": 290.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/obj/"
-      },
-      "https://artquemy.com/producto/psd/": {
-        "titulo": "PSD",
-        "precio": "€290,00",
-        "precio_num": 290.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/psd/"
-      },
-      "https://artquemy.com/producto/jpg/": {
-        "titulo": "JPG",
-        "precio": "€290,00",
-        "precio_num": 290.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/jpg/"
-      },
-      "https://artquemy.com/producto/licked-it/": {
-        "titulo": "Licked it",
-        "precio": "€120,00",
-        "precio_num": 120.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/licked-it/"
-      },
-      "https://artquemy.com/producto/too-broke/": {
-        "titulo": "Too broke",
-        "precio": "€120,00",
-        "precio_num": 120.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/too-broke/"
-      },
-      "https://artquemy.com/producto/just-pee/": {
-        "titulo": "Just pee",
-        "precio": "€120,00",
-        "precio_num": 120.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/just-pee/"
-      },
-      "https://artquemy.com/producto/work-come/": {
-        "titulo": "Work come",
-        "precio": "€120,00",
-        "precio_num": 120.0,
-        "estado": "disponible",
-        "url": "https://artquemy.com/producto/work-come/"
-      }
-    },
-    "ultima_comprobacion": "28/10/2026 20:17"
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "obras": {},
+    "ultima_comprobacion": "30/10/2026 10:57"
   },
   "Erwtje": {
     "url": "https://artquemy.com/artists/erwtje/",
@@ -4099,7 +4000,7 @@
         "url": "https://artquemy.com/producto/t-shirt/"
       }
     },
-    "ultima_comprobacion": "29/10/2026 16:57"
+    "ultima_comprobacion": "30/10/2026 10:57"
   },
   "Irannis Mejias": {
     "url": "https://artquemy.com/artists/irannis/",
@@ -4169,7 +4070,7 @@
         "url": "https://artquemy.com/producto/lo-divino-en-lo-cotidiano/"
       }
     },
-    "ultima_comprobacion": "29/10/2026 16:57"
+    "ultima_comprobacion": "30/10/2026 10:58"
   },
   "Jamso": {
     "url": "https://artquemy.com/artists/jamso/",
@@ -4218,7 +4119,7 @@
         "url": "https://artquemy.com/producto/calavera-3/"
       }
     },
-    "ultima_comprobacion": "29/10/2026 16:58"
+    "ultima_comprobacion": "30/10/2026 10:58"
   },
   "Jor Ros": {
     "url": "https://artquemy.com/artists/jor-ros/",
@@ -4687,7 +4588,7 @@
         "url": "https://artquemy.com/producto/tiger-snake-i/"
       }
     },
-    "ultima_comprobacion": "29/10/2026 16:58"
+    "ultima_comprobacion": "30/10/2026 10:58"
   },
   "Jorge Suñer": {
     "url": "https://artquemy.com/artists/jorge-suner/",
@@ -4806,7 +4707,7 @@
         "url": "https://artquemy.com/producto/el-oleaje-de-verano/"
       }
     },
-    "ultima_comprobacion": "29/10/2026 16:58"
+    "ultima_comprobacion": "30/10/2026 10:59"
   },
   "Juandrés Vera": {
     "url": "https://artquemy.com/artists/juandres-vera/",
@@ -4890,7 +4791,7 @@
         "url": "https://artquemy.com/producto/loop/"
       }
     },
-    "ultima_comprobacion": "29/10/2026 16:59"
+    "ultima_comprobacion": "30/10/2026 10:59"
   },
   "Juncosa": {
     "url": "https://artquemy.com/artists/juncosa/",
@@ -6066,7 +5967,7 @@
         "url": "https://artquemy.com/producto/flor-de-barcelona-amarilla/"
       }
     },
-    "ultima_comprobacion": "29/10/2026 16:59"
+    "ultima_comprobacion": "30/10/2026 10:59"
   },
   "KST": {
     "url": "https://artquemy.com/artists/kst/",
@@ -6402,7 +6303,7 @@
         "url": "https://artquemy.com/producto/artemis-is-a-kid/"
       }
     },
-    "ultima_comprobacion": "29/10/2026 17:00"
+    "ultima_comprobacion": "30/10/2026 11:00"
   },
   "Laura Gonballes": {
     "url": "https://artquemy.com/artists/laura-gonballes/",
@@ -7165,7 +7066,7 @@
         "url": "https://artquemy.com/producto/hasta-el-alba-2/"
       }
     },
-    "ultima_comprobacion": "29/10/2026 17:00"
+    "ultima_comprobacion": "30/10/2026 11:00"
   },
   "Laura Plou": {
     "url": "https://artquemy.com/artists/laura-plou/",
