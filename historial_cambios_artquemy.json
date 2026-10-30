@@ -34845,5 +34845,23 @@
     "precio_num": 25.0,
     "url": "https://artquemy.com/producto/lo-divino-en-lo-cotidiano/",
     "fecha": "29/10/2026 16:57"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Basquiat Warrior 2",
+    "artista": "Camil Escruela",
+    "precio": "€1.500,00",
+    "precio_num": 1500.0,
+    "url": "https://artquemy.com/producto/basquiat-warrior-2/",
+    "fecha": "30/10/2026 09:57"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "Basquiat Warrior 1",
+    "artista": "Camil Escruela",
+    "precio": "€1.500,00",
+    "precio_num": 1500.0,
+    "url": "https://artquemy.com/producto/train-party/",
+    "fecha": "30/10/2026 09:57"
   }
 ]
