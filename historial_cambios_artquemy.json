@@ -35664,5 +35664,977 @@
     "precio_num": 790.0,
     "url": "https://artquemy.com/producto/aribau-16a/",
     "fecha": "01/11/2026 20:00"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Farga",
+    "artista": "Laura Gonballes",
+    "precio": "€3.630,00",
+    "precio_num": 3630.0,
+    "url": "https://artquemy.com/producto/farga/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Dosel",
+    "artista": "Laura Gonballes",
+    "precio": "€2.670,00",
+    "precio_num": 2670.0,
+    "url": "https://artquemy.com/producto/dosel/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Broken",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/broken/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Frágiles",
+    "artista": "Laura Gonballes",
+    "precio": "€2.490,00",
+    "precio_num": 2490.0,
+    "url": "https://artquemy.com/producto/fragiles/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Blue Cabinet",
+    "artista": "Laura Gonballes",
+    "precio": "€2.490,00",
+    "precio_num": 2490.0,
+    "url": "https://artquemy.com/producto/blue-cabinet/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Raim de uva",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/raim-de-uva/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "La piel habitada",
+    "artista": "Laura Gonballes",
+    "precio": "€2.100,00",
+    "precio_num": 2100.0,
+    "url": "https://artquemy.com/producto/la-piel-habitada/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Agua y fuego",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/mickey-laura/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Deseo querer",
+    "artista": "Laura Gonballes",
+    "precio": "€2.050,00",
+    "precio_num": 2050.0,
+    "url": "https://artquemy.com/producto/deseo-querer/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Sasenak",
+    "artista": "Laura Gonballes",
+    "precio": "€2.000,00",
+    "precio_num": 2000.0,
+    "url": "https://artquemy.com/producto/sasenak/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Opium",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/opium/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Detrás de la sombra",
+    "artista": "Laura Gonballes",
+    "precio": "€1.900,00",
+    "precio_num": 1900.0,
+    "url": "https://artquemy.com/producto/detras-de-la-sombra/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Deseando amar",
+    "artista": "Laura Gonballes",
+    "precio": "€1.900,00",
+    "precio_num": 1900.0,
+    "url": "https://artquemy.com/producto/deseando-amar/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Autómata",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/automata/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Salto cuántico",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/salto-cuantico/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Transmutación",
+    "artista": "Laura Gonballes",
+    "precio": "€1.700,00",
+    "precio_num": 1700.0,
+    "url": "https://artquemy.com/producto/transmutacion/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Nudos  ❤️",
+    "artista": "Laura Gonballes",
+    "precio": "€1.600,00",
+    "precio_num": 1600.0,
+    "url": "https://artquemy.com/producto/nudos-%e2%9d%a4%ef%b8%8f/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Oceánicas II",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/oceanicas-ii/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Blink",
+    "artista": "Laura Gonballes",
+    "precio": "€1.570,00",
+    "precio_num": 1570.0,
+    "url": "https://artquemy.com/producto/blink/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Hasta el Alba",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/hasta-el-alba/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Aranda",
+    "artista": "Laura Gonballes",
+    "precio": "€1.400,00",
+    "precio_num": 1400.0,
+    "url": "https://artquemy.com/producto/aranda/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Senda",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/senda/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Red Moon",
+    "artista": "Laura Gonballes",
+    "precio": "€1.400,00",
+    "precio_num": 1400.0,
+    "url": "https://artquemy.com/producto/red-moon-%e2%9d%a4%ef%b8%8f/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Piel de mármol",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/piel-de-marmol/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Bebié",
+    "artista": "Laura Gonballes",
+    "precio": "€1.350,00",
+    "precio_num": 1350.0,
+    "url": "https://artquemy.com/producto/bebie/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Alguitas azules",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/alguitas-azules/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Coral ❤️",
+    "artista": "Laura Gonballes",
+    "precio": "€1.300,00",
+    "precio_num": 1300.0,
+    "url": "https://artquemy.com/producto/coral-%e2%9d%a4%ef%b8%8f/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Oceánicas I ❤️",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/oceanicas-i/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "El valle",
+    "artista": "Laura Gonballes",
+    "precio": "€1.200,00",
+    "precio_num": 1200.0,
+    "url": "https://artquemy.com/producto/el-valle/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Ninfas ❤️",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/ninfas-%e2%9d%a4%ef%b8%8f/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Insomnia",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/insomnia-2/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Blue ❤️",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/blue-%e2%9d%a4%ef%b8%8f/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "La nit i l’alba",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/la-nit-i-lalba/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Collette amb Missy",
+    "artista": "Laura Gonballes",
+    "precio": "€980,00",
+    "precio_num": 980.0,
+    "url": "https://artquemy.com/producto/collette-amb-missy/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Naturaleza Viva ll ❤️",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/naturaleza-viva-ll/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Naturaleza Viva ❤️",
+    "artista": "Laura Gonballes",
+    "precio": "€800,00",
+    "precio_num": 800.0,
+    "url": "https://artquemy.com/producto/naturaleza-viva-%e2%9d%a4%ef%b8%8f/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "White Moon",
+    "artista": "Laura Gonballes",
+    "precio": "€800,00",
+    "precio_num": 800.0,
+    "url": "https://artquemy.com/producto/white-moon/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Cuerdas",
+    "artista": "Laura Gonballes",
+    "precio": "€590,00",
+    "precio_num": 590.0,
+    "url": "https://artquemy.com/producto/cuerdas/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Coral Azul",
+    "artista": "Laura Gonballes",
+    "precio": "€590,00",
+    "precio_num": 590.0,
+    "url": "https://artquemy.com/producto/coral-azul/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Flor modernista l",
+    "artista": "Laura Gonballes",
+    "precio": "€590,00",
+    "precio_num": 590.0,
+    "url": "https://artquemy.com/producto/flor-modernista-l/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Flor modernista ll",
+    "artista": "Laura Gonballes",
+    "precio": "€590,00",
+    "precio_num": 590.0,
+    "url": "https://artquemy.com/producto/flor-modernista-ll/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Objetos",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/objetos/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Geómetras",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/geometras/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Abrazo eterno",
+    "artista": "Laura Gonballes",
+    "precio": "€490,00",
+    "precio_num": 490.0,
+    "url": "https://artquemy.com/producto/abrazo-eterno-2/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Estrella Polar",
+    "artista": "Laura Gonballes",
+    "precio": "€490,00",
+    "precio_num": 490.0,
+    "url": "https://artquemy.com/producto/estrella-polar/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Por ellas",
+    "artista": "Laura Gonballes",
+    "precio": "€490,00",
+    "precio_num": 490.0,
+    "url": "https://artquemy.com/producto/por-ellas/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "El juego de la luna",
+    "artista": "Laura Gonballes",
+    "precio": "€490,00",
+    "precio_num": 490.0,
+    "url": "https://artquemy.com/producto/el-juego-de-la-luna/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Mujercitas",
+    "artista": "Laura Gonballes",
+    "precio": "€460,00",
+    "precio_num": 460.0,
+    "url": "https://artquemy.com/producto/mujercitas/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Barrocas ll (Piel de papel)",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/barrocas-ll-piel-de-papel/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "De vueltas al sol",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/de-vueltas-al-sol/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Transparencias (Piel de papel)",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/transparencias-piel-de-papel/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Dualidad (Piel de papel)",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/dualidad-piel-de-papel/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Agua de Primavera",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/agua-de-primavera/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Mapuches",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/mapuches/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Behind the mirror",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/behind-the-mirror/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Sol eterno",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/sol-eterno/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Lazos eternos",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/lazos-eternos/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Infinito",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/infinito/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Maguey",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/maguey/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "La iluminada",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/la-iluminada/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Colorinas",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/colorinas/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Negritas Azul",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/negritas-azul/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Negritas verdes",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/negritas-verdes/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Barrocas lll",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/barrocas-lll/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Desierto",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/desierto/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Cuerpo  (Piel de papel)",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/cuerpo-piel-de-papel/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Blue paper (Piel de papel)",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/blue-paper-piel-de-papel/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "La rosa naranja de la montaña (Piel de papel)",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/la-rosa-naranja-de-la-montana-piel-de-papel/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "El juego de la fruta",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/el-juego-de-la-fruta/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Flores",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/flores/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "The Room",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/the-room-2/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "En las nubes",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/en-las-nubes/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Comfortable Place",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/comfortable-place/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Bad jazz",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/bad-jazz/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Essitam ll",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/essitam-ll/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Essitam",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/essitam/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "El sueño ll",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/el-sueno-ll/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "El sueño l",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/el-sueno-l/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Cuerpo Rosa (Piel de papel)",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/cuerpo-rosa-piel-de-papel/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Ninfas marinas",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/ninfas-marinas/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Volar",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/volar/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Embrujo",
+    "artista": "Laura Gonballes",
+    "precio": "€75,00",
+    "precio_num": 75.0,
+    "url": "https://artquemy.com/producto/embrujo/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Mujer helecho",
+    "artista": "Laura Gonballes",
+    "precio": "€75,00",
+    "precio_num": 75.0,
+    "url": "https://artquemy.com/producto/mujer-helecho/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Blue Garden",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/blue-garden/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Gaiinbu",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/gaiinbu/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Océanicas ll",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/oceanicas-ll/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Aladina",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/aladina/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Agua y fuego",
+    "artista": "Laura Gonballes",
+    "precio": "€60,00",
+    "precio_num": 60.0,
+    "url": "https://artquemy.com/producto/agua-y-fuego/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Mapuches",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/mapuches-2/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Negritas",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/negritas/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Océanicas l",
+    "artista": "Laura Gonballes",
+    "precio": "€60,00",
+    "precio_num": 60.0,
+    "url": "https://artquemy.com/producto/oceanicas1-print/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Blue",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/blue/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Hot Flushes nº2",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/hot-flushes-no2/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Hot Flushes nº1",
+    "artista": "Laura Gonballes",
+    "precio": "€60,00",
+    "precio_num": 60.0,
+    "url": "https://artquemy.com/producto/hotflushes1/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Insomnia",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/insomnia/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Negras",
+    "artista": "Laura Gonballes",
+    "precio": "€60,00",
+    "precio_num": 60.0,
+    "url": "https://artquemy.com/producto/negras/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Piel de papel nº3",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/piel-de-papel-no3/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Piel de papel nº4",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/piel-de-papel-no4/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Piel de papel nº5",
+    "artista": "Laura Gonballes",
+    "precio": "€60,00",
+    "precio_num": 60.0,
+    "url": "https://artquemy.com/producto/pieldepapel5/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "De vueltas",
+    "artista": "Laura Gonballes",
+    "precio": "€60,00",
+    "precio_num": 60.0,
+    "url": "https://artquemy.com/producto/de-vueltas/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Pintur Jazz",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/pintur-jazz/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Reina de Corazones",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/reinadecorazones/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Corre",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/corre-print/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Piel de papel nº1",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/piel-de-papel-no1/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Piel de papel nº2",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/piel-de-papel-no2/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Opium",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/opium-a4/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Negritas",
+    "artista": "Laura Gonballes",
+    "precio": "SOLD",
+    "precio_num": 0.0,
+    "url": "https://artquemy.com/producto/negritas-a4/",
+    "fecha": "01/11/2026 20:49"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "Hasta el Alba",
+    "artista": "Laura Gonballes",
+    "precio": "€25,00",
+    "precio_num": 25.0,
+    "url": "https://artquemy.com/producto/hasta-el-alba-2/",
+    "fecha": "01/11/2026 20:49"
   }
 ]
