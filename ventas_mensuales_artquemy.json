@@ -8361,5 +8361,16 @@
       "tipo": "vendida",
       "url": "https://artquemy.com/producto/la-belle-epoque-5/"
     }
+  ],
+  "2026-11": [
+    {
+      "fecha": "01/11/2026 20:01",
+      "artista": "Juncosa",
+      "obra": "Aribau 16A",
+      "precio": "€790,00",
+      "precio_num": 790.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/aribau-16a/"
+    }
   ]
 }
