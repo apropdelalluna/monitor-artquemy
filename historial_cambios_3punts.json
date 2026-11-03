@@ -11271,5 +11271,206 @@
     "precio_num": 1500.0,
     "url": "https://www.3punts.com/es/shop/artwork/jugadors-de-cartes-adria-garcia-surribas",
     "fecha": "05/10/2026 11:13"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Alberto Fernández Hurtado",
+    "precio": "Consultar precio",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/la-gran-travesia",
+    "fecha": "03/11/2026 17:09"
+  },
+  {
+    "tipo": "precio_cambiado",
+    "titulo": "",
+    "artista": "Alejandro Monge",
+    "precio": "5 000,00 €",
+    "precio_num": 5000.0,
+    "precio_anterior": "6 000,00 €",
+    "url": "https://www.3punts.com/es/shop/artwork/core-time-01-alejandro-monge",
+    "fecha": "03/11/2026 17:09"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Alicia Suarez",
+    "precio": "1 500,00 €",
+    "precio_num": 1500.0,
+    "url": "https://www.3punts.com/es/shop/artwork/sin-titulo",
+    "fecha": "03/11/2026 17:09"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Alicia Suarez",
+    "precio": "5 000,00 €",
+    "precio_num": 5000.0,
+    "url": "https://www.3punts.com/es/shop/artwork/longitude-long-pose",
+    "fecha": "03/11/2026 17:09"
+  },
+  {
+    "tipo": "precio_cambiado",
+    "titulo": "",
+    "artista": "James Rielly",
+    "precio": "7 000,00 €",
+    "precio_num": 7000.0,
+    "precio_anterior": "12 000,00 €",
+    "url": "https://www.3punts.com/es/shop/artwork/or-whitout-god-our-side-james-rielly",
+    "fecha": "03/11/2026 17:09"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Kiko miyares",
+    "precio": "2 500,00 €",
+    "precio_num": 2500.0,
+    "url": "https://www.3punts.com/es/shop/artwork/mini-viaje-01-kiko-miyares",
+    "fecha": "03/11/2026 17:09"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Kiko miyares",
+    "precio": "2 500,00 €",
+    "precio_num": 2500.0,
+    "url": "https://www.3punts.com/es/shop/artwork/mini-viaje-02",
+    "fecha": "03/11/2026 17:09"
+  },
+  {
+    "tipo": "vendida",
+    "titulo": "Hong Series 2 Fluo 5 Lantomo",
+    "artista": "Antonella Montes - LANTOMO",
+    "precio": "2 500,00 €",
+    "precio_num": 2500.0,
+    "url": "https://www.3punts.com/es/shop/artwork/hong-series-2-fluo-5-lantomo",
+    "fecha": "03/11/2026 17:09"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Lantomo",
+    "precio": "1 500,00 €",
+    "precio_num": 1500.0,
+    "url": "https://www.3punts.com/es/shop/artwork/yu-me-dream",
+    "fecha": "03/11/2026 17:09"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Lantomo",
+    "precio": "1 500,00 €",
+    "precio_num": 1500.0,
+    "url": "https://www.3punts.com/es/shop/artwork/mi-rai-future",
+    "fecha": "03/11/2026 17:09"
+  },
+  {
+    "tipo": "precio_cambiado",
+    "titulo": "",
+    "artista": "Lantomo",
+    "precio": "2 500,00 €",
+    "precio_num": 2500.0,
+    "precio_anterior": "25 000,00 €",
+    "url": "https://www.3punts.com/es/shop/artwork/huang-16",
+    "fecha": "03/11/2026 17:09"
+  },
+  {
+    "tipo": "vendida",
+    "titulo": "Sad Revolution Lantomo",
+    "artista": "Antonella Montes - LANTOMO",
+    "precio": "4 900,00 €",
+    "precio_num": 4900.0,
+    "url": "https://www.3punts.com/es/shop/artwork/sad-revolution-lantomo",
+    "fecha": "03/11/2026 17:09"
+  },
+  {
+    "tipo": "vendida",
+    "titulo": "Loretta Lux Hugo Dylan",
+    "artista": "Loretta Lux",
+    "precio": "4 800,00 €",
+    "precio_num": 4800.0,
+    "url": "https://www.3punts.com/es/shop/artwork/loretta-lux-hugo-dylan",
+    "fecha": "03/11/2026 17:09"
+  },
+  {
+    "tipo": "nueva",
+    "titulo": "",
+    "artista": "Mr. Brainwash",
+    "precio": "9 500,00 €",
+    "precio_num": 9500.0,
+    "url": "https://www.3punts.com/es/shop/artwork/mona-linesa",
+    "fecha": "03/11/2026 17:09"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Antonella Montes - LANTOMO",
+    "precio": "2 500,00 €",
+    "precio_num": 2500.0,
+    "url": "https://www.3punts.com/es/shop/artwork/huang-11-lantomo",
+    "fecha": "03/11/2026 17:09"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Antonella Montes - LANTOMO",
+    "precio": "2 500,00 €",
+    "precio_num": 2500.0,
+    "url": "https://www.3punts.com/es/shop/artwork/violet-2-lantomo",
+    "fecha": "03/11/2026 17:09"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Antonella Montes - LANTOMO",
+    "precio": "2 500,00 €",
+    "precio_num": 2500.0,
+    "url": "https://www.3punts.com/es/shop/artwork/hong-15-star-2-lantomo",
+    "fecha": "03/11/2026 17:09"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Antonella Montes - LANTOMO",
+    "precio": "2 500,00 €",
+    "precio_num": 2500.0,
+    "url": "https://www.3punts.com/es/shop/artwork/intensity-braid-lantomo",
+    "fecha": "03/11/2026 17:09"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Antonella Montes - LANTOMO",
+    "precio": "2 500,00 €",
+    "precio_num": 2500.0,
+    "url": "https://www.3punts.com/es/shop/artwork/hei-4-lantomo",
+    "fecha": "03/11/2026 17:09"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Antonella Montes - LANTOMO",
+    "precio": "3 300,00 €",
+    "precio_num": 3300.0,
+    "url": "https://www.3punts.com/es/shop/artwork/super-h-lantomo",
+    "fecha": "03/11/2026 17:09"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Samuel Salcedo",
+    "precio": "Consultar precio",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/about-memories-i",
+    "fecha": "03/11/2026 17:09"
+  },
+  {
+    "tipo": "desaparecida",
+    "titulo": "",
+    "artista": "Samuel Salcedo",
+    "precio": "4 200,00 €",
+    "precio_num": 4200.0,
+    "url": "https://www.3punts.com/es/shop/artwork/iron-mask-samuel-salcedo",
+    "fecha": "03/11/2026 17:09"
   }
 ]
