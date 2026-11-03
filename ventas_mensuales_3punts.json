@@ -1927,5 +1927,34 @@
       "tipo": "vendida",
       "url": "https://www.3punts.com/es/shop/artwork/nick-veasey-11"
     }
+  ],
+  "2026-11": [
+    {
+      "fecha": "03/11/2026 17:09",
+      "artista": "Antonella Montes - LANTOMO",
+      "obra": "Hong Series 2 Fluo 5 Lantomo",
+      "precio": "2 500,00 €",
+      "precio_num": 2500.0,
+      "tipo": "vendida",
+      "url": "https://www.3punts.com/es/shop/artwork/hong-series-2-fluo-5-lantomo"
+    },
+    {
+      "fecha": "03/11/2026 17:09",
+      "artista": "Antonella Montes - LANTOMO",
+      "obra": "Sad Revolution Lantomo",
+      "precio": "4 900,00 €",
+      "precio_num": 4900.0,
+      "tipo": "vendida",
+      "url": "https://www.3punts.com/es/shop/artwork/sad-revolution-lantomo"
+    },
+    {
+      "fecha": "03/11/2026 17:09",
+      "artista": "Loretta Lux",
+      "obra": "Loretta Lux Hugo Dylan",
+      "precio": "4 800,00 €",
+      "precio_num": 4800.0,
+      "tipo": "vendida",
+      "url": "https://www.3punts.com/es/shop/artwork/loretta-lux-hugo-dylan"
+    }
   ]
 }
