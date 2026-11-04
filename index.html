@@ -311,6 +311,37 @@
       border-top: 1px solid var(--border);
     }
 
+    .ciclo-monitor {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-left: 3px solid var(--accent-dim);
+      padding: 12px 16px;
+      margin-bottom: 32px;
+      font-size: 11px;
+      color: var(--text-dim);
+    }
+
+    .ciclo-monitor strong {
+      color: var(--text);
+      font-weight: 500;
+    }
+
+    .ciclo-artistas {
+      margin-top: 6px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+    }
+
+    .ciclo-artista-tag {
+      background: rgba(255,255,255,0.05);
+      border: 1px solid var(--border);
+      padding: 2px 8px;
+      font-size: 10px;
+      letter-spacing: 0.5px;
+      color: var(--text-dim);
+    }
+
     .toast {
       position: fixed;
       bottom: 24px;
@@ -366,6 +397,15 @@
       </div>
       <div style="text-align:right; font-size:11px; color:var(--text-dim); margin-top:6px;" id="lastUpdateHeader">—</div>
     </header>
+
+    <div class="ciclo-monitor" id="cicloMonitor" style="display:none;">
+      <div>
+        <strong>Último ciclo Artquemy:</strong>
+        <span id="cicloHora">—</span> ·
+        Artistas <span id="cicloRango">—</span> de <span id="cicloTotal">—</span>
+      </div>
+      <div class="ciclo-artistas" id="cicloArtistas"></div>
+    </div>
 
     <div class="grid">
       <div class="card">
@@ -485,15 +525,27 @@
 
     async function cargarDatos() {
       try {
-        const [ventas, historial, meta] = await Promise.all([
+        const [ventas, historial, meta, puntero] = await Promise.all([
           fetchGitHub('ventas_mensuales_artquemy.json'),
           fetchGitHub('historial_cambios_artquemy.json'),
-          fetchGitHub('meta_artquemy.json')
+          fetchGitHub('meta_artquemy.json'),
+          fetchGitHub('puntero_artquemy.json').catch(() => null),
         ]);
 
-        // Última comprobación en Artevistas
+        // Última comprobación en Artquemy
         const ultimaComp = meta?.ultima_comprobacion || '—';
         document.getElementById('lastUpdateHeader').textContent = `Última visita a Artquemy: ${ultimaComp}`;
+
+        // Bloque último ciclo
+        if (puntero && puntero.ultima_hora) {
+          document.getElementById('cicloHora').textContent = puntero.ultima_hora;
+          document.getElementById('cicloRango').textContent = `${puntero.ultimo_inicio}–${puntero.ultimo_fin}`;
+          document.getElementById('cicloTotal').textContent = puntero.total || '—';
+          const artistas = puntero.ultimos_artistas || [];
+          document.getElementById('cicloArtistas').innerHTML = artistas
+            .map(a => `<span class="ciclo-artista-tag">${a}</span>`).join('');
+          document.getElementById('cicloMonitor').style.display = 'block';
+        }
 
         // Mes actual
         const ahora = new Date();
