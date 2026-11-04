@@ -1104,6 +1104,9 @@ def detectar_artistas_nuevos() -> list:
         except Exception:
             pass
 
+    # Guardar lista actualizada en GitHub para evitar duplicados en el próximo arranque
+    guardar_artistas_github()
+
     return cambios
 
 
@@ -1116,6 +1119,16 @@ def cargar_artistas_github() -> None:
             logging.info("Lista de artistas cargada desde GitHub: %d artistas.", len(ARTISTAS))
         except Exception as e:
             logging.warning("No se pudo parsear lista de artistas: %s", e)
+
+
+def guardar_artistas_github() -> None:
+    try:
+        with open(ARCHIVO_ARTISTAS, "w", encoding="utf-8") as f:
+            json.dump(ARTISTAS, f, ensure_ascii=False, indent=2)
+        github_guardar_archivo(ARCHIVO_ARTISTAS)
+        logging.info("✅ artistas_artquemy.json guardado en GitHub (%d artistas).", len(ARTISTAS))
+    except Exception as e:
+        logging.error("Error guardando lista de artistas: %s", e)
 
 
 # ── Email ─────────────────────────────────────
