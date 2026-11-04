@@ -42,6 +42,8 @@ ARCHIVO_ESTADO   = "estado_artquemy.json"
 ARCHIVO_MENSUAL  = "ventas_mensuales_artquemy.json"
 ARCHIVO_HISTORIAL = "historial_cambios_artquemy.json"
 ARCHIVO_ARTISTAS = "artistas_artquemy.json"
+ARCHIVO_PUNTERO  = "puntero_artquemy.json"
+GRUPO_SIZE       = 10
 
 # GitHub
 GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "")
@@ -948,27 +950,79 @@ def comprobar_artista(artista: dict) -> dict | None:
         return None
 
 
+def cargar_puntero() -> int:
+    """Carga el índice de inicio del próximo grupo desde GitHub."""
+    try:
+        contenido = github_cargar_archivo(ARCHIVO_PUNTERO)
+        if contenido:
+            datos = json.loads(contenido)
+            return datos.get("inicio", 0)
+    except Exception:
+        pass
+    if os.path.exists(ARCHIVO_PUNTERO):
+        try:
+            with open(ARCHIVO_PUNTERO, "r", encoding="utf-8") as f:
+                return json.load(f).get("inicio", 0)
+        except Exception:
+            pass
+    return 0
+
+
+def guardar_puntero(siguiente: int, ultimo_inicio: int, ultimo_fin: int, ultimos_artistas: list) -> None:
+    """Guarda el puntero con metadatos del último grupo procesado."""
+    datos = {
+        "inicio":           siguiente,
+        "ultimo_inicio":    ultimo_inicio,
+        "ultimo_fin":       ultimo_fin,
+        "total":            len(ARTISTAS),
+        "ultima_hora":      datetime.now().strftime("%d/%m/%Y %H:%M"),
+        "ultimos_artistas": ultimos_artistas,
+    }
+    try:
+        with open(ARCHIVO_PUNTERO, "w", encoding="utf-8") as f:
+            json.dump(datos, f, ensure_ascii=False, indent=2)
+        github_guardar_archivo(ARCHIVO_PUNTERO)
+        logging.info("✅ puntero_artquemy.json guardado en GitHub.")
+    except Exception as e:
+        logging.error("Error guardando puntero: %s", e)
+
+
 def comprobar_todos() -> None:
     global cambios_del_dia
+    total = len(ARTISTAS)
+
+    # Leer puntero
+    inicio = cargar_puntero()
+    if inicio >= total:
+        inicio = 0  # vuelta al principio
+    fin = min(inicio + GRUPO_SIZE, total)
+    grupo = ARTISTAS[inicio:fin]
+    siguiente = fin if fin < total else 0
+
     logging.info("=" * 50)
     logging.info("Inicio comprobación — %s", datetime.now().strftime("%d/%m/%Y %H:%M"))
-    logging.info("Artistas a comprobar: %d", len(ARTISTAS))
+    logging.info("Grupo: artistas %d-%d de %d", inicio, fin - 1, total)
 
     cambios_del_dia = []
 
-    for artista in ARTISTAS:
+    for artista in grupo:
+        logging.info("Comprobando: %s", artista["nombre"])
         comprobar_artista(artista)
-        time.sleep(2)  # pausa cortés entre peticiones
+        time.sleep(2)
 
     guardar_estado()
 
     if cambios_del_dia:
         guardar_ventas_mensuales(cambios_del_dia)
         guardar_historial(cambios_del_dia)
-        # enviar_resumen_cambios(cambios_del_dia)  # emails desactivados
         logging.info("Comprobación finalizada — %d artistas con cambios.", len(cambios_del_dia))
     else:
         logging.info("Comprobación finalizada — Sin cambios detectados.")
+
+    # Guardar puntero con metadatos
+    nombres_grupo = [a["nombre"] for a in grupo]
+    guardar_puntero(siguiente, inicio, fin - 1, nombres_grupo)
+    logging.info("Puntero actualizado: próximo grupo desde artista %d", siguiente)
 
 
 # ── Detección de artistas nuevos ──────────────
@@ -2301,14 +2355,14 @@ def main() -> None:
     tp_comprobar_todos()
     ld_comprobar_todos()
 
-    # Comprobación automática diaria a las 17:50
+    # Comprobación automática cada 2 horas (Artquemy va por grupos, los demás completos)
+    schedule.every(2).hours.do(comprobar_todos)
+    schedule.every(2).hours.do(be_comprobar_todos)
+    schedule.every(2).hours.do(tp_comprobar_todos)
+    schedule.every(2).hours.do(ld_comprobar_todos)
     schedule.every().day.at("17:50").do(detectar_artistas_nuevos)
-    schedule.every().day.at("17:50").do(comprobar_todos)
-    schedule.every().day.at("17:50").do(be_comprobar_todos)
-    schedule.every().day.at("17:50").do(tp_comprobar_todos)
-    schedule.every().day.at("17:50").do(ld_comprobar_todos)
 
-    logging.info("Scheduler activo. Comprobación automática a las 17:50 UTC.")
+    logging.info("Scheduler activo. Comprobación automática cada 2 horas.")
 
     while True:
         schedule.run_pending()
