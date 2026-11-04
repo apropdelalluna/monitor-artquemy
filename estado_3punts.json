@@ -1,5 +1,5 @@
 {
-  "__hash__": "74845a49ecbb5c3bc306eec0d8a918d4",
+  "__hash__": "9cbed3f12621f557c208e752d8890156",
   "obras": {
     "https://www.3punts.com/es/shop/artwork/vincent-vega-pulp-fiction": {
       "titulo": "",
@@ -32,6 +32,30 @@
       "precio_num": 0.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/la-gran-travesia"
+    },
+    "https://www.3punts.com/es/shop/artwork/revenant": {
+      "titulo": "",
+      "artista": "Alberto Fernández Hurtado",
+      "precio": "3 900,00 €",
+      "precio_num": 3900.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/revenant"
+    },
+    "https://www.3punts.com/es/shop/artwork/fr-agility-sensibility": {
+      "titulo": "",
+      "artista": "Alberto Fernández Hurtado",
+      "precio": "4 300,00 €",
+      "precio_num": 4300.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/fr-agility-sensibility"
+    },
+    "https://www.3punts.com/es/shop/artwork/fr-agility-nobility": {
+      "titulo": "",
+      "artista": "Alberto Fernández Hurtado",
+      "precio": "4 300,00 €",
+      "precio_num": 4300.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/fr-agility-nobility"
     },
     "https://www.3punts.com/es/shop/artwork/espera-verde-alberto-fernandez-hurtado": {
       "titulo": "",
@@ -5736,30 +5760,6 @@
       "precio_num": 0.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/needles-and-pins-samuel-salcedo"
-    },
-    "https://www.3punts.com/es/shop/artwork/metal-metal-ii-samuel-salcedo": {
-      "titulo": "",
-      "artista": "Samuel Salcedo",
-      "precio": "Consultar precio",
-      "precio_num": 0.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/metal-metal-ii-samuel-salcedo"
-    },
-    "https://www.3punts.com/es/shop/artwork/about-memories-iv": {
-      "titulo": "",
-      "artista": "Samuel Salcedo",
-      "precio": "Consultar precio",
-      "precio_num": 0.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/about-memories-iv"
-    },
-    "https://www.3punts.com/es/shop/artwork/about-memories-iii": {
-      "titulo": "",
-      "artista": "Samuel Salcedo",
-      "precio": "Consultar precio",
-      "precio_num": 0.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/about-memories-iii"
     }
   }
 }
