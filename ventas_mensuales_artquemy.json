@@ -8371,6 +8371,15 @@
       "precio_num": 790.0,
       "tipo": "vendida",
       "url": "https://artquemy.com/producto/aribau-16a/"
+    },
+    {
+      "fecha": "07/11/2026 19:09",
+      "artista": "Surfia",
+      "obra": "Salut!",
+      "precio": "€60,00",
+      "precio_num": 60.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/salut/"
     }
   ]
 }
