@@ -1,15 +1,6 @@
 [
   {
     "tipo": "desaparecida",
-    "titulo": "Roda de Samba",
-    "artista": "Prëo",
-    "precio": "€500,00",
-    "precio_num": 500.0,
-    "url": "https://artquemy.com/producto/roda-de-samba/",
-    "fecha": "14/10/2026 18:36"
-  },
-  {
-    "tipo": "desaparecida",
     "titulo": "Chicos de la pelota",
     "artista": "Prëo",
     "precio": "€200,00",
@@ -9324,6 +9315,19 @@
         "precio": "€60,00",
         "precio_num": 60.0,
         "url": "https://artquemy.com/producto/salut/"
+      }
+    ]
+  },
+  {
+    "fecha": "12/11/2026 14:25",
+    "artista": "Urban Flowers",
+    "cambios_obras": [
+      {
+        "tipo": "vendida",
+        "titulo": "Out of the pipe",
+        "precio": "€190,00",
+        "precio_num": 190.0,
+        "url": "https://artquemy.com/producto/out-of-the-pipe/"
       }
     ]
   }
