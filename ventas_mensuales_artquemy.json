@@ -8380,6 +8380,15 @@
       "precio_num": 60.0,
       "tipo": "vendida",
       "url": "https://artquemy.com/producto/salut/"
+    },
+    {
+      "fecha": "12/11/2026 14:25",
+      "artista": "Urban Flowers",
+      "obra": "Out of the pipe",
+      "precio": "€190,00",
+      "precio_num": 190.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/out-of-the-pipe/"
     }
   ]
 }
