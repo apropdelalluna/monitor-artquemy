@@ -1,19 +1,11 @@
 {
-  "inicio": 40,
-  "ultimo_inicio": 30,
-  "ultimo_fin": 39,
+  "inicio": 0,
+  "ultimo_inicio": 40,
+  "ultimo_fin": 41,
   "total": 42,
-  "ultima_hora": "12/11/2026 14:25",
+  "ultima_hora": "13/11/2026 18:04",
   "ultimos_artistas": [
-    "Prëo",
-    "Qwert",
-    "Rich One",
-    "Rocco Del Franco",
-    "Rocío Iannone",
-    "Soy feo pero te amo",
-    "Surfia",
-    "Tiny",
-    "Urban Flowers",
-    "Yilov"
+    "Various",
+    "Cuestión de caracter"
   ]
 }
