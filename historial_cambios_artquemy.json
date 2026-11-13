@@ -1,15 +1,6 @@
 [
   {
     "tipo": "desaparecida",
-    "titulo": "Chicos de la pelota",
-    "artista": "Prëo",
-    "precio": "€200,00",
-    "precio_num": 200.0,
-    "url": "https://artquemy.com/producto/chicos-de-la-pelota/",
-    "fecha": "14/10/2026 18:36"
-  },
-  {
-    "tipo": "desaparecida",
     "titulo": "Hojas de jabón",
     "artista": "Prëo",
     "precio": "€200,00",
@@ -9328,6 +9319,19 @@
         "precio": "€190,00",
         "precio_num": 190.0,
         "url": "https://artquemy.com/producto/out-of-the-pipe/"
+      }
+    ]
+  },
+  {
+    "fecha": "13/11/2026 18:04",
+    "artista": "Cuestión de caracter",
+    "cambios_obras": [
+      {
+        "tipo": "vendida",
+        "titulo": "Awake Until Sunrise",
+        "precio": "€550,00",
+        "precio_num": 550.0,
+        "url": "https://artquemy.com/producto/awake-until-sunrise/"
       }
     ]
   }
