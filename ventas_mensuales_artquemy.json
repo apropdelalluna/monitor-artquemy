@@ -8389,6 +8389,15 @@
       "precio_num": 190.0,
       "tipo": "vendida",
       "url": "https://artquemy.com/producto/out-of-the-pipe/"
+    },
+    {
+      "fecha": "13/11/2026 18:04",
+      "artista": "Cuestión de caracter",
+      "obra": "Awake Until Sunrise",
+      "precio": "€550,00",
+      "precio_num": 550.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/awake-until-sunrise/"
     }
   ]
 }
