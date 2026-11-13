@@ -1,11 +1,19 @@
 {
-  "inicio": 0,
-  "ultimo_inicio": 40,
-  "ultimo_fin": 41,
+  "inicio": 10,
+  "ultimo_inicio": 0,
+  "ultimo_fin": 9,
   "total": 42,
-  "ultima_hora": "13/11/2026 18:04",
+  "ultima_hora": "13/11/2026 21:02",
   "ultimos_artistas": [
-    "Various",
-    "Cuestión de caracter"
+    "Alessia Innocenti",
+    "Alessia Obinu",
+    "Catapop",
+    "Camil Escruela",
+    "Carola Bagnato",
+    "Ceci SN",
+    "Ciro Marra",
+    "Collage Volage",
+    "Daniele Verzini",
+    "Droste Delacroix"
   ]
 }
