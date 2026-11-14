@@ -3042,8 +3042,8 @@
     }
   },
   "Elina Cerla": {
-    "hash": "e8ef0482fa7e70d4a629d0ae086e0f6b",
-    "texto": "Out of Stock\nPainting\nUntitled (Doghead)\nSOLD\nOut of Stock\nPainting\nMateria Prima\nSOLD\nOut of Stock\nPainting\nVanitas\nSOLD\nDrawing\nHaptic Thinking\n€\n1.250,00\nAdd to cart\nThis product is already in your cart\nCart\nOut of Stock\nPainting\nSMILE\nSOLD\nOut of Stock\nPainting\nAphantasia\nSOLD\nPainting\nUrban Sunlight\n€\n780,00\nAdd to cart\nThis product is already in your cart\nCart\nDrawing\nFigure #16\n€\n520,00\nAdd to cart\nThis product is already in your cart\nCart\nOut of Stock\nPainting\nLondon Happy\nSOLD\nDrawing\nInferno #7\n€\n390,00\nAdd to cart\nThis product is already in your cart\nCart\nDrawing\nInferno #4\n€\n390,00\nAdd to cart\nThis product is already in your cart\nCart\nDrawing\nInferno #3\n€\n390,00\nAdd to cart\nThis product is already in your cart\nCart\nDrawing\nDance Composition #5\n€\n350,00\nAdd to cart\nThis product is already in your cart\nCart\nDrawing\nFigure #19\n€\n330,00\nAdd to cart\nThis product is already in your cart\nCart\nOut of Stock\nDrawing\nSpaces in Between #3\nSOLD\nDrawing\nHead #1\n€\n170,00\nAdd to cart\nThis product is already in your cart\nCart\nDrawing\nDance Composition #1\n€\n170,00\nAdd to cart\nThis product is already in your cart\nCart\nPrint\nSpeak No Evil\n€\n120,00\nAdd to cart\nThis product is already in your cart\nCart\nPrint\nSee No Evil\n€\n120,00\nAdd to cart\nThis product is already in your cart\nCart\nPrint\nHear No Evil\n€\n120,00\nAdd to cart\nThis product is already in your cart\nCart",
+    "hash": "6b89a4bd4b724463618d96d2d3bcb9df",
+    "texto": "Out of Stock\nPainting\nUntitled (Doghead)\nSOLD\nOut of Stock\nPainting\nMateria Prima\nSOLD\nOut of Stock\nPainting\nVanitas\nSOLD\nDrawing\nHaptic Thinking\n€\n1.250,00\nAdd to cart\nThis product is already in your cart\nCart\nOut of Stock\nPainting\nSMILE\nSOLD\nOut of Stock\nPainting\nAphantasia\nSOLD\nPainting\nUrban Sunlight\n€\n780,00\nAdd to cart\nThis product is already in your cart\nCart\nDrawing\nFigure #16\n€\n520,00\nAdd to cart\nThis product is already in your cart\nCart\nOut of Stock\nPainting\nLondon Happy\nSOLD\nDrawing\nInferno #7\n€\n390,00\nAdd to cart\nThis product is already in your cart\nCart\nDrawing\nInferno #4\n€\n390,00\nAdd to cart\nThis product is already in your cart\nCart\nDrawing\nInferno #3\n€\n390,00\nAdd to cart\nThis product is already in your cart\nCart\nOut of Stock\nDrawing\nDance Composition #5\nSOLD\nDrawing\nFigure #19\n€\n330,00\nAdd to cart\nThis product is already in your cart\nCart\nOut of Stock\nDrawing\nSpaces in Between #3\nSOLD\nDrawing\nHead #1\n€\n170,00\nAdd to cart\nThis product is already in your cart\nCart\nDrawing\nDance Composition #1\n€\n170,00\nAdd to cart\nThis product is already in your cart\nCart\nPrint\nSpeak No Evil\n€\n120,00\nAdd to cart\nThis product is already in your cart\nCart\nPrint\nSee No Evil\n€\n120,00\nAdd to cart\nThis product is already in your cart\nCart\nPrint\nHear No Evil\n€\n120,00\nAdd to cart\nThis product is already in your cart\nCart",
     "obras": {
       "https://artquemy.com/producto/untitled-doghead/": {
         "titulo": "Untitled (Doghead)",
@@ -3131,9 +3131,9 @@
       },
       "https://artquemy.com/producto/dance-composition-5/": {
         "titulo": "Dance Composition #5",
-        "precio": "€350,00",
-        "precio_num": 350.0,
-        "estado": "disponible",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "estado": "vendido",
         "url": "https://artquemy.com/producto/dance-composition-5/"
       },
       "https://artquemy.com/producto/figure-19/": {
