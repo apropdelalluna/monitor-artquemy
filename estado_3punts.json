@@ -1,5 +1,5 @@
 {
-  "__hash__": "fa8d87ba48b7ad81644039bea0ea5823",
+  "__hash__": "a3e0d0b774cfcf31c872c5a639a61e24",
   "obras": {
     "https://www.3punts.com/es/shop/artwork/vincent-vega-pulp-fiction": {
       "titulo": "",
@@ -145,14 +145,6 @@
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/individuum"
     },
-    "https://www.3punts.com/es/shop/artwork/hoar-frost-alejandro-monge": {
-      "titulo": "",
-      "artista": "Alejandro Monge",
-      "precio": "Consultar precio",
-      "precio_num": 0.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/hoar-frost-alejandro-monge"
-    },
     "https://www.3punts.com/es/shop/artwork/transhumanism-30": {
       "titulo": "",
       "artista": "Alejandro Monge",
@@ -161,173 +153,21 @@
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/transhumanism-30"
     },
-    "https://www.3punts.com/es/shop/artwork/shell-alejandro-monge": {
-      "titulo": "",
-      "artista": "Alejandro Monge",
-      "precio": "Consultar precio",
-      "precio_num": 0.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/shell-alejandro-monge"
-    },
-    "https://www.3punts.com/es/shop/artwork/soho-alejandro-monge": {
-      "titulo": "",
-      "artista": "Alejandro Monge",
-      "precio": "Consultar precio",
-      "precio_num": 0.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/soho-alejandro-monge"
-    },
-    "https://www.3punts.com/es/shop/artwork/core-time-01-alejandro-monge": {
-      "titulo": "",
-      "artista": "Alejandro Monge",
-      "precio": "5 000,00 €",
-      "precio_num": 5000.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/core-time-01-alejandro-monge"
-    },
-    "https://www.3punts.com/es/shop/artwork/core-time-03-alejandro-monge": {
-      "titulo": "",
-      "artista": "Alejandro Monge",
-      "precio": "7 500,00 €",
-      "precio_num": 7500.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/core-time-03-alejandro-monge"
-    },
-    "https://www.3punts.com/es/shop/artwork/core-time-shell-alejandro-monge": {
-      "titulo": "",
-      "artista": "Alejandro Monge",
-      "precio": "8 800,00 €",
-      "precio_num": 8800.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/core-time-shell-alejandro-monge"
-    },
-    "https://www.3punts.com/es/shop/artwork/core-time-02-alejandro-monge": {
-      "titulo": "",
-      "artista": "Alejandro Monge",
-      "precio": "9 500,00 €",
-      "precio_num": 9500.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/core-time-02-alejandro-monge"
-    },
-    "https://www.3punts.com/es/shop/artwork/little-teddy-pink-concrete-alejandro-monge": {
-      "titulo": "",
-      "artista": "Alejandro Monge",
-      "precio": "7 900,00 €",
-      "precio_num": 7900.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/little-teddy-pink-concrete-alejandro-monge"
-    },
-    "https://www.3punts.com/es/shop/artwork/little-teddy-grey-concrete-alejandro-monge": {
-      "titulo": "",
-      "artista": "Alejandro Monge",
-      "precio": "7 900,00 €",
-      "precio_num": 7900.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/little-teddy-grey-concrete-alejandro-monge"
-    },
-    "https://www.3punts.com/es/shop/artwork/little-teddy-supergloss-alejandro-monge": {
-      "titulo": "",
-      "artista": "Alejandro Monge",
-      "precio": "7 900,00 €",
-      "precio_num": 7900.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/little-teddy-supergloss-alejandro-monge"
-    },
-    "https://www.3punts.com/es/shop/artwork/daisy-flower-alejandro-monge": {
-      "titulo": "",
-      "artista": "Alejandro Monge",
-      "precio": "4 500,00 €",
-      "precio_num": 4500.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/daisy-flower-alejandro-monge"
-    },
-    "https://www.3punts.com/es/shop/artwork/little-heart-alejandro-monge": {
-      "titulo": "",
-      "artista": "Alejandro Monge",
-      "precio": "4 500,00 €",
-      "precio_num": 4500.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/little-heart-alejandro-monge"
-    },
-    "https://www.3punts.com/es/shop/artwork/block-alejandro-monge": {
-      "titulo": "",
-      "artista": "Alejandro Monge",
-      "precio": "6 500,00 €",
-      "precio_num": 6500.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/block-alejandro-monge"
-    },
-    "https://www.3punts.com/es/shop/artwork/ash-grey-alejandro-monge": {
-      "titulo": "",
-      "artista": "Alejandro Monge",
-      "precio": "7 300,00 €",
-      "precio_num": 7300.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/ash-grey-alejandro-monge"
-    },
-    "https://www.3punts.com/es/shop/artwork/alejandro-monge-inverse-shape-x": {
-      "titulo": "",
-      "artista": "Alejandro Monge",
-      "precio": "7 500,00 €",
-      "precio_num": 7500.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/alejandro-monge-inverse-shape-x"
-    },
-    "https://www.3punts.com/es/shop/artwork/inverse-shape-y-alejandro-monge": {
-      "titulo": "",
-      "artista": "Alejandro Monge",
-      "precio": "7 500,00 €",
-      "precio_num": 7500.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/inverse-shape-y-alejandro-monge"
-    },
     "https://www.3punts.com/es/shop/artwork/beggining-alejandro-monge": {
-      "titulo": "",
-      "artista": "Alejandro Monge",
-      "precio": "Consultar precio",
-      "precio_num": 0.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/beggining-alejandro-monge"
-    },
-    "https://www.3punts.com/es/shop/artwork/inverse-shape-alejandro-monge": {
-      "titulo": "",
-      "artista": "Alejandro Monge",
-      "precio": "Consultar precio",
-      "precio_num": 0.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/inverse-shape-alejandro-monge"
-    },
-    "https://www.3punts.com/es/shop/artwork/inverse-shape-north-side-alejandro-monge": {
-      "titulo": "",
-      "artista": "Alejandro Monge",
-      "precio": "Consultar precio",
-      "precio_num": 0.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/inverse-shape-north-side-alejandro-monge"
-    },
-    "https://www.3punts.com/es/shop/artwork/inverse-shape-gravity-alejandro-monge": {
-      "titulo": "",
-      "artista": "Alejandro Monge",
-      "precio": "Consultar precio",
-      "precio_num": 0.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/inverse-shape-gravity-alejandro-monge"
-    },
-    "https://www.3punts.com/es/shop/artwork/aiko-alejandro-monge": {
-      "titulo": "",
-      "artista": "Alejandro Monge",
-      "precio": "Consultar precio",
-      "precio_num": 0.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/aiko-alejandro-monge"
-    },
-    "https://www.3punts.com/es/shop/artwork/offline-alejandro-monge": {
-      "titulo": "Offline Alejandro Monge",
+      "titulo": "Beggining Alejandro Monge",
       "artista": "Alejandro Monge",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
       "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/offline-alejandro-monge"
+      "url": "https://www.3punts.com/es/shop/artwork/beggining-alejandro-monge"
+    },
+    "https://www.3punts.com/es/shop/artwork/inverse-shape-alejandro-monge": {
+      "titulo": "Inverse Shape Alejandro Monge",
+      "artista": "Alejandro Monge",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "estado": "vendido",
+      "url": "https://www.3punts.com/es/shop/artwork/inverse-shape-alejandro-monge"
     },
     "https://www.3punts.com/es/shop/artwork/still-awake": {
       "titulo": "",
@@ -337,45 +177,29 @@
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/still-awake"
     },
-    "https://www.3punts.com/es/shop/artwork/offline-10-0": {
-      "titulo": "",
+    "https://www.3punts.com/es/shop/artwork/transhumanism-02": {
+      "titulo": "Transhumanism 02",
       "artista": "Alejandro Monge",
-      "precio": "Consultar precio",
+      "precio": "Precio no disponible",
       "precio_num": 0.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/offline-10-0"
+      "estado": "vendido",
+      "url": "https://www.3punts.com/es/shop/artwork/transhumanism-02"
     },
-    "https://www.3punts.com/es/shop/artwork/transhumanism-00": {
-      "titulo": "",
+    "https://www.3punts.com/es/shop/artwork/transhumanism-01": {
+      "titulo": "Transhumanism 01",
       "artista": "Alejandro Monge",
-      "precio": "5 500,00 €",
-      "precio_num": 5500.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/transhumanism-00"
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "estado": "vendido",
+      "url": "https://www.3punts.com/es/shop/artwork/transhumanism-01"
     },
-    "https://www.3punts.com/es/shop/artwork/core-time-00": {
-      "titulo": "",
-      "artista": "Alejandro Monge",
-      "precio": "5 500,00 €",
-      "precio_num": 5500.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/core-time-00"
-    },
-    "https://www.3punts.com/es/shop/artwork/not-alone-20": {
-      "titulo": "",
-      "artista": "Alejandro Monge",
-      "precio": "6 800,00 €",
-      "precio_num": 6800.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/not-alone-20"
-    },
-    "https://www.3punts.com/es/shop/artwork/not-alone-10": {
+    "https://www.3punts.com/es/shop/artwork/inverse-shape-o": {
       "titulo": "",
       "artista": "Alejandro Monge",
       "precio": "7 500,00 €",
       "precio_num": 7500.0,
       "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/not-alone-10"
+      "url": "https://www.3punts.com/es/shop/artwork/inverse-shape-o"
     },
     "https://www.3punts.com/es/shop/artwork/still-waiting": {
       "titulo": "",
@@ -385,69 +209,13 @@
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/still-waiting"
     },
-    "https://www.3punts.com/es/shop/artwork/still-waiting-10": {
-      "titulo": "",
-      "artista": "Alejandro Monge",
-      "precio": "8 000,00 €",
-      "precio_num": 8000.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/still-waiting-10"
-    },
-    "https://www.3punts.com/es/shop/artwork/core-time-shell-10": {
-      "titulo": "",
-      "artista": "Alejandro Monge",
-      "precio": "8 800,00 €",
-      "precio_num": 8800.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/core-time-shell-10"
-    },
-    "https://www.3punts.com/es/shop/artwork/offline": {
-      "titulo": "",
-      "artista": "Alejandro Monge",
-      "precio": "9 800,00 €",
-      "precio_num": 9800.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/offline"
-    },
-    "https://www.3punts.com/es/shop/artwork/playlist-mode-00": {
-      "titulo": "",
-      "artista": "Alejandro Monge",
-      "precio": "9 800,00 €",
-      "precio_num": 9800.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/playlist-mode-00"
-    },
-    "https://www.3punts.com/es/shop/artwork/not-alone": {
-      "titulo": "",
-      "artista": "Alejandro Monge",
-      "precio": "9 800,00 €",
-      "precio_num": 9800.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/not-alone"
-    },
-    "https://www.3punts.com/es/shop/artwork/alejandro-monge-2": {
-      "titulo": "Alejandro Monge 2",
+    "https://www.3punts.com/es/shop/artwork/little-teddy-gray-concrete": {
+      "titulo": "Little Teddy Gray Concrete",
       "artista": "Alejandro Monge",
       "precio": "Precio no disponible",
       "precio_num": 0.0,
       "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/alejandro-monge-2"
-    },
-    "https://www.3punts.com/es/shop/artwork/alejandro-monge-ready-it": {
-      "titulo": "Alejandro Monge Ready It",
-      "artista": "Alejandro Monge",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/alejandro-monge-ready-it"
-    },
-    "https://www.3punts.com/es/shop/artwork/alejandro-monge-good-morning": {
-      "titulo": "Alejandro Monge Good Morning",
-      "artista": "Alejandro Monge",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/alejandro-monge-good-morning"
+      "url": "https://www.3punts.com/es/shop/artwork/little-teddy-gray-concrete"
     },
     "https://www.3punts.com/es/shop/artwork/shibuya-alejandro-monge": {
       "titulo": "Shibuya Alejandro Monge",
@@ -456,22 +224,6 @@
       "precio_num": 0.0,
       "estado": "vendido",
       "url": "https://www.3punts.com/es/shop/artwork/shibuya-alejandro-monge"
-    },
-    "https://www.3punts.com/es/shop/artwork/brkln-alejandro-monge": {
-      "titulo": "Brkln Alejandro Monge",
-      "artista": "Alejandro Monge",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/brkln-alejandro-monge"
-    },
-    "https://www.3punts.com/es/shop/artwork/insomnia-alejandro-monge-0": {
-      "titulo": "Insomnia Alejandro Monge 0",
-      "artista": "Alejandro Monge",
-      "precio": "Precio no disponible",
-      "precio_num": 0.0,
-      "estado": "vendido",
-      "url": "https://www.3punts.com/es/shop/artwork/insomnia-alejandro-monge-0"
     },
     "https://www.3punts.com/es/shop/artwork/playlist-mode-alejandro-monge": {
       "titulo": "Playlist Mode Alejandro Monge",
@@ -1080,6 +832,62 @@
       "precio_num": 6000.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/antonio-beneytoserie-color-1"
+    },
+    "https://www.3punts.com/es/shop/artwork/new-horns": {
+      "titulo": "",
+      "artista": "Bart Calero",
+      "precio": "1 200,00 €",
+      "precio_num": 1200.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/new-horns"
+    },
+    "https://www.3punts.com/es/shop/artwork/air": {
+      "titulo": "",
+      "artista": "Bart Calero",
+      "precio": "1 200,00 €",
+      "precio_num": 1200.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/air"
+    },
+    "https://www.3punts.com/es/shop/artwork/bronze-snails": {
+      "titulo": "",
+      "artista": "Bart Calero",
+      "precio": "1 800,00 €",
+      "precio_num": 1800.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/bronze-snails"
+    },
+    "https://www.3punts.com/es/shop/artwork/mediterrania-ii": {
+      "titulo": "",
+      "artista": "Bart Calero",
+      "precio": "1 800,00 €",
+      "precio_num": 1800.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/mediterrania-ii"
+    },
+    "https://www.3punts.com/es/shop/artwork/sweet-disaster": {
+      "titulo": "",
+      "artista": "Bart Calero",
+      "precio": "1 800,00 €",
+      "precio_num": 1800.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/sweet-disaster"
+    },
+    "https://www.3punts.com/es/shop/artwork/cup-trouble": {
+      "titulo": "",
+      "artista": "Bart Calero",
+      "precio": "1 800,00 €",
+      "precio_num": 1800.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/cup-trouble"
+    },
+    "https://www.3punts.com/es/shop/artwork/mediterrania": {
+      "titulo": "",
+      "artista": "Bart Calero",
+      "precio": "3 500,00 €",
+      "precio_num": 3500.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/mediterrania"
     },
     "https://www.3punts.com/es/shop/artwork/my-partenaire-bidias-romaric": {
       "titulo": "",
@@ -5760,6 +5568,198 @@
       "precio_num": 6000.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/thoughts-samuel-salcedo"
+    },
+    "https://www.3punts.com/es/shop/artwork/round-mirror-i-samuel-salcedo": {
+      "titulo": "",
+      "artista": "Samuel Salcedo",
+      "precio": "8 000,00 €",
+      "precio_num": 8000.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/round-mirror-i-samuel-salcedo"
+    },
+    "https://www.3punts.com/es/shop/artwork/mirror-mirror-wall-samuel-salcedo": {
+      "titulo": "",
+      "artista": "Samuel Salcedo",
+      "precio": "8 000,00 €",
+      "precio_num": 8000.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/mirror-mirror-wall-samuel-salcedo"
+    },
+    "https://www.3punts.com/es/shop/artwork/santi-moix-untitled": {
+      "titulo": "",
+      "artista": "Santi Moix",
+      "precio": "Consultar precio",
+      "precio_num": 0.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/santi-moix-untitled"
+    },
+    "https://www.3punts.com/es/shop/artwork/santiago-picatoste-event-horizon-ii": {
+      "titulo": "",
+      "artista": "Santiago Picatoste",
+      "precio": "Consultar precio",
+      "precio_num": 0.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/santiago-picatoste-event-horizon-ii"
+    },
+    "https://www.3punts.com/es/shop/artwork/santiago-picatoste-ad-terminum": {
+      "titulo": "",
+      "artista": "Santiago Picatoste",
+      "precio": "Consultar precio",
+      "precio_num": 0.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/santiago-picatoste-ad-terminum"
+    },
+    "https://www.3punts.com/es/shop/artwork/santiago-picatoste-atlas-astartes-i": {
+      "titulo": "",
+      "artista": "Santiago Picatoste",
+      "precio": "Consultar precio",
+      "precio_num": 0.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/santiago-picatoste-atlas-astartes-i"
+    },
+    "https://www.3punts.com/es/shop/artwork/santiago-picatoste-atlas-astartes-ii": {
+      "titulo": "",
+      "artista": "Santiago Picatoste",
+      "precio": "Consultar precio",
+      "precio_num": 0.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/santiago-picatoste-atlas-astartes-ii"
+    },
+    "https://www.3punts.com/es/shop/artwork/santiago-picatoste-atlas-pangea-i": {
+      "titulo": "Santiago Picatoste Atlas Pangea I",
+      "artista": "Santiago Picatoste",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "estado": "vendido",
+      "url": "https://www.3punts.com/es/shop/artwork/santiago-picatoste-atlas-pangea-i"
+    },
+    "https://www.3punts.com/es/shop/artwork/santiago-picatoste-atlas-sororitas-i": {
+      "titulo": "",
+      "artista": "Santiago Picatoste",
+      "precio": "Consultar precio",
+      "precio_num": 0.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/santiago-picatoste-atlas-sororitas-i"
+    },
+    "https://www.3punts.com/es/shop/artwork/santiago-picatoste-atlas-sororitas-ii": {
+      "titulo": "",
+      "artista": "Santiago Picatoste",
+      "precio": "Consultar precio",
+      "precio_num": 0.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/santiago-picatoste-atlas-sororitas-ii"
+    },
+    "https://www.3punts.com/es/shop/artwork/santiago-picatoste-atlas-hyperion-i": {
+      "titulo": "",
+      "artista": "Santiago Picatoste",
+      "precio": "Consultar precio",
+      "precio_num": 0.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/santiago-picatoste-atlas-hyperion-i"
+    },
+    "https://www.3punts.com/es/shop/artwork/santiago-picatoste-atlas-hyperion-ii": {
+      "titulo": "",
+      "artista": "Santiago Picatoste",
+      "precio": "Consultar precio",
+      "precio_num": 0.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/santiago-picatoste-atlas-hyperion-ii"
+    },
+    "https://www.3punts.com/es/shop/artwork/santiago-picatoste-atlas-event-horizon-i": {
+      "titulo": "",
+      "artista": "Santiago Picatoste",
+      "precio": "Consultar precio",
+      "precio_num": 0.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/santiago-picatoste-atlas-event-horizon-i"
+    },
+    "https://www.3punts.com/es/shop/artwork/santiago-picatoste-mapped": {
+      "titulo": "",
+      "artista": "Santiago Picatoste",
+      "precio": "Consultar precio",
+      "precio_num": 0.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/santiago-picatoste-mapped"
+    },
+    "https://www.3punts.com/es/shop/artwork/santiago-picatoste-limbo-canvas-fluo-i": {
+      "titulo": "",
+      "artista": "Santiago Picatoste",
+      "precio": "Consultar precio",
+      "precio_num": 0.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/santiago-picatoste-limbo-canvas-fluo-i"
+    },
+    "https://www.3punts.com/es/shop/artwork/santiago-picatoste-between": {
+      "titulo": "Santiago Picatoste Between",
+      "artista": "Santiago Picatoste",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "estado": "vendido",
+      "url": "https://www.3punts.com/es/shop/artwork/santiago-picatoste-between"
+    },
+    "https://www.3punts.com/es/shop/artwork/santiago-picatoste-atlas-lux-i": {
+      "titulo": "",
+      "artista": "Santiago Picatoste",
+      "precio": "Consultar precio",
+      "precio_num": 0.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/santiago-picatoste-atlas-lux-i"
+    },
+    "https://www.3punts.com/es/shop/artwork/santiago-picatoste-atlas-tenebrae-i": {
+      "titulo": "",
+      "artista": "Santiago Picatoste",
+      "precio": "Consultar precio",
+      "precio_num": 0.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/santiago-picatoste-atlas-tenebrae-i"
+    },
+    "https://www.3punts.com/es/shop/artwork/santiago-picatoste-oublie-i": {
+      "titulo": "",
+      "artista": "Santiago Picatoste",
+      "precio": "Consultar precio",
+      "precio_num": 0.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/santiago-picatoste-oublie-i"
+    },
+    "https://www.3punts.com/es/shop/artwork/santiago-picatoste-chirality-2": {
+      "titulo": "",
+      "artista": "Santiago Picatoste",
+      "precio": "Consultar precio",
+      "precio_num": 0.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/santiago-picatoste-chirality-2"
+    },
+    "https://www.3punts.com/es/shop/artwork/santiago-picatoste-chirality-9": {
+      "titulo": "",
+      "artista": "Santiago Picatoste",
+      "precio": "Consultar precio",
+      "precio_num": 0.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/santiago-picatoste-chirality-9"
+    },
+    "https://www.3punts.com/es/shop/artwork/limbo-fluo-orange-santiago-picatoste": {
+      "titulo": "",
+      "artista": "Santiago Picatoste",
+      "precio": "2 200,00 €",
+      "precio_num": 2200.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/limbo-fluo-orange-santiago-picatoste"
+    },
+    "https://www.3punts.com/es/shop/artwork/limbo-fluo-pink-santiago-picatoste": {
+      "titulo": "",
+      "artista": "Santiago Picatoste",
+      "precio": "2 200,00 €",
+      "precio_num": 2200.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/limbo-fluo-pink-santiago-picatoste"
+    },
+    "https://www.3punts.com/es/shop/artwork/limbo-fluo-yellow-santiago-picatoste": {
+      "titulo": "",
+      "artista": "Santiago Picatoste",
+      "precio": "2 200,00 €",
+      "precio_num": 2200.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/limbo-fluo-yellow-santiago-picatoste"
     }
   }
 }
