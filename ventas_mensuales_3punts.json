@@ -1955,6 +1955,51 @@
       "precio_num": 4800.0,
       "tipo": "vendida",
       "url": "https://www.3punts.com/es/shop/artwork/loretta-lux-hugo-dylan"
+    },
+    {
+      "fecha": "17/11/2026 19:20",
+      "artista": "Alejandro Monge",
+      "obra": "Beggining Alejandro Monge",
+      "precio": "Consultar precio",
+      "precio_num": 0.0,
+      "tipo": "vendida",
+      "url": "https://www.3punts.com/es/shop/artwork/beggining-alejandro-monge"
+    },
+    {
+      "fecha": "17/11/2026 19:20",
+      "artista": "Alejandro Monge",
+      "obra": "Inverse Shape Alejandro Monge",
+      "precio": "Consultar precio",
+      "precio_num": 0.0,
+      "tipo": "vendida",
+      "url": "https://www.3punts.com/es/shop/artwork/inverse-shape-alejandro-monge"
+    },
+    {
+      "fecha": "17/11/2026 19:20",
+      "artista": "Alejandro Monge",
+      "obra": "Transhumanism 02",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.3punts.com/es/shop/artwork/transhumanism-02"
+    },
+    {
+      "fecha": "17/11/2026 19:20",
+      "artista": "Alejandro Monge",
+      "obra": "Transhumanism 01",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.3punts.com/es/shop/artwork/transhumanism-01"
+    },
+    {
+      "fecha": "17/11/2026 19:20",
+      "artista": "Alejandro Monge",
+      "obra": "Little Teddy Gray Concrete",
+      "precio": "Precio no disponible",
+      "precio_num": 0.0,
+      "tipo": "nueva_vendida",
+      "url": "https://www.3punts.com/es/shop/artwork/little-teddy-gray-concrete"
     }
   ]
 }
