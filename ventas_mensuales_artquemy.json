@@ -8407,6 +8407,33 @@
       "precio_num": 350.0,
       "tipo": "vendida",
       "url": "https://artquemy.com/producto/dance-composition-5/"
+    },
+    {
+      "fecha": "17/11/2026 21:06",
+      "artista": "Ceci SN",
+      "obra": "Climbers II",
+      "precio": "€70,00",
+      "precio_num": 70.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/climbers-ii/"
+    },
+    {
+      "fecha": "17/11/2026 21:06",
+      "artista": "Ceci SN",
+      "obra": "Naked swimmers XLVI",
+      "precio": "€65,00",
+      "precio_num": 65.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/naked-swimmers-xlvi/"
+    },
+    {
+      "fecha": "17/11/2026 21:06",
+      "artista": "Daniele Verzini",
+      "obra": "Addicted #2",
+      "precio": "€40,00",
+      "precio_num": 40.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/addicted-2-2/"
     }
   ]
 }
