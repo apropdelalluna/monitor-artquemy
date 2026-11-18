@@ -1,15 +1,6 @@
 [
   {
     "tipo": "nueva",
-    "titulo": "As vezes, Quando chove…",
-    "artista": "Prëo",
-    "precio": "€1.800,00",
-    "precio_num": 1800.0,
-    "url": "https://artquemy.com/producto/as-vezes-quando-chove/",
-    "fecha": "15/10/2026 12:33"
-  },
-  {
-    "tipo": "nueva",
     "titulo": "Rain combines with yellow",
     "artista": "Prëo",
     "precio": "€750,00",
@@ -9351,6 +9342,26 @@
         "precio": "€40,00",
         "precio_num": 40.0,
         "url": "https://artquemy.com/producto/addicted-2-2/"
+      }
+    ]
+  },
+  {
+    "fecha": "18/11/2026 17:52",
+    "artista": "Laura Plou",
+    "cambios_obras": [
+      {
+        "tipo": "vendida",
+        "titulo": "Modelo LAU",
+        "precio": "€166,00",
+        "precio_num": 166.0,
+        "url": "https://artquemy.com/producto/modelo-lau/"
+      },
+      {
+        "tipo": "vendida",
+        "titulo": "Modelo SA",
+        "precio": "€166,00",
+        "precio_num": 166.0,
+        "url": "https://artquemy.com/producto/modelo-sa/"
       }
     ]
   }
