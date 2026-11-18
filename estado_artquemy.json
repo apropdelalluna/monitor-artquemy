@@ -7146,8 +7146,8 @@
     }
   },
   "Laura Plou": {
-    "hash": "11740f6d069eeeb43642163e48c6a263",
-    "texto": "Painting\nDesos cristalizados\n€\n1.400,00\nAdd to cart\nThis product is already in your cart\nCart\nPainting\nModelo RA\n€\n180,00\nAdd to cart\nThis product is already in your cart\nCart\nOut of Stock\nPainting\nModelo ALNU\nSOLD\nPainting\nModelo LAU\n€\n166,00\nAdd to cart\nThis product is already in your cart\nCart\nOut of Stock\nPainting\nModelo CARE\nSOLD\nPainting\nModelo SA\n€\n166,00\nAdd to cart\nThis product is already in your cart\nCart",
+    "hash": "4b22fee25fdf79b42bf81306f5134f11",
+    "texto": "Painting\nDesos cristalizados\n€\n1.400,00\nAdd to cart\nThis product is already in your cart\nCart\nPainting\nModelo RA\n€\n180,00\nAdd to cart\nThis product is already in your cart\nCart\nOut of Stock\nPainting\nModelo ALNU\nSOLD\nOut of Stock\nPainting\nModelo LAU\nSOLD\nOut of Stock\nPainting\nModelo CARE\nSOLD\nOut of Stock\nPainting\nModelo SA\nSOLD",
     "obras": {
       "https://artquemy.com/producto/desos-cristalizados/": {
         "titulo": "Desos cristalizados",
@@ -7172,9 +7172,9 @@
       },
       "https://artquemy.com/producto/modelo-lau/": {
         "titulo": "Modelo LAU",
-        "precio": "€166,00",
-        "precio_num": 166.0,
-        "estado": "disponible",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "estado": "vendido",
         "url": "https://artquemy.com/producto/modelo-lau/"
       },
       "https://artquemy.com/producto/modelo-care/": {
@@ -7186,9 +7186,9 @@
       },
       "https://artquemy.com/producto/modelo-sa/": {
         "titulo": "Modelo SA",
-        "precio": "€166,00",
-        "precio_num": 166.0,
-        "estado": "disponible",
+        "precio": "Precio no disponible",
+        "precio_num": 0.0,
+        "estado": "vendido",
         "url": "https://artquemy.com/producto/modelo-sa/"
       }
     }
