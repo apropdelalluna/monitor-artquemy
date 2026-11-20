@@ -8461,6 +8461,15 @@
       "precio_num": 350.0,
       "tipo": "vendida",
       "url": "https://artquemy.com/producto/entre-tentaculos-y-flores/"
+    },
+    {
+      "fecha": "20/11/2026 07:26",
+      "artista": "Cuestión de caracter",
+      "obra": "i love Graffiti",
+      "precio": "€190,00",
+      "precio_num": 190.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/addicted-to-you/"
     }
   ]
 }
