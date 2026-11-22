@@ -1,14 +1,5 @@
 [
   {
-    "tipo": "nueva_vendida",
-    "titulo": "Lluvia milagrosa",
-    "artista": "Prëo",
-    "precio": "SOLD",
-    "precio_num": 0.0,
-    "url": "https://artquemy.com/producto/lluvia-milagrosa/",
-    "fecha": "15/10/2026 12:33"
-  },
-  {
     "tipo": "nueva",
     "titulo": "As Baianas",
     "artista": "Prëo",
@@ -9370,6 +9361,26 @@
         "precio": "€190,00",
         "precio_num": 190.0,
         "url": "https://artquemy.com/producto/addicted-to-you/"
+      }
+    ]
+  },
+  {
+    "fecha": "22/11/2026 20:31",
+    "artista": "Luz Marie Iturbe",
+    "cambios_obras": [
+      {
+        "tipo": "vendida",
+        "titulo": "Fresh air",
+        "precio": "€190,00",
+        "precio_num": 190.0,
+        "url": "https://artquemy.com/producto/fresh-air/"
+      },
+      {
+        "tipo": "vendida",
+        "titulo": "Wave",
+        "precio": "€50,00",
+        "precio_num": 50.0,
+        "url": "https://artquemy.com/producto/wave/"
       }
     ]
   }
