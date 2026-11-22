@@ -8470,6 +8470,24 @@
       "precio_num": 190.0,
       "tipo": "vendida",
       "url": "https://artquemy.com/producto/addicted-to-you/"
+    },
+    {
+      "fecha": "22/11/2026 20:31",
+      "artista": "Luz Marie Iturbe",
+      "obra": "Fresh air",
+      "precio": "€190,00",
+      "precio_num": 190.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/fresh-air/"
+    },
+    {
+      "fecha": "22/11/2026 20:31",
+      "artista": "Luz Marie Iturbe",
+      "obra": "Wave",
+      "precio": "€50,00",
+      "precio_num": 50.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/wave/"
     }
   ]
 }
