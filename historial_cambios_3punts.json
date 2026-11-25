@@ -12552,5 +12552,35 @@
     "precio_num": 0.0,
     "url": "https://www.3punts.com/es/shop/artwork/insomnia-alejandro-monge-0",
     "fecha": "17/11/2026 19:20"
+  },
+  {
+    "tipo": "precio_cambiado",
+    "titulo": "",
+    "artista": "Santiago Picatoste",
+    "precio": "1 800,00 €",
+    "precio_num": 1800.0,
+    "precio_anterior": "2 200,00 €",
+    "url": "https://www.3punts.com/es/shop/artwork/limbo-fluo-orange-santiago-picatoste",
+    "fecha": "25/11/2026 14:14"
+  },
+  {
+    "tipo": "precio_cambiado",
+    "titulo": "",
+    "artista": "Santiago Picatoste",
+    "precio": "1 800,00 €",
+    "precio_num": 1800.0,
+    "precio_anterior": "2 200,00 €",
+    "url": "https://www.3punts.com/es/shop/artwork/limbo-fluo-pink-santiago-picatoste",
+    "fecha": "25/11/2026 14:14"
+  },
+  {
+    "tipo": "precio_cambiado",
+    "titulo": "",
+    "artista": "Santiago Picatoste",
+    "precio": "1 800,00 €",
+    "precio_num": 1800.0,
+    "precio_anterior": "2 200,00 €",
+    "url": "https://www.3punts.com/es/shop/artwork/limbo-fluo-yellow-santiago-picatoste",
+    "fecha": "25/11/2026 14:14"
   }
 ]
