@@ -1,5 +1,5 @@
 {
-  "__hash__": "a3e0d0b774cfcf31c872c5a639a61e24",
+  "__hash__": "bbfcdd0008f9c47b1ff1def21a293c48",
   "obras": {
     "https://www.3punts.com/es/shop/artwork/vincent-vega-pulp-fiction": {
       "titulo": "",
@@ -5740,24 +5740,24 @@
     "https://www.3punts.com/es/shop/artwork/limbo-fluo-orange-santiago-picatoste": {
       "titulo": "",
       "artista": "Santiago Picatoste",
-      "precio": "2 200,00 €",
-      "precio_num": 2200.0,
+      "precio": "1 800,00 €",
+      "precio_num": 1800.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/limbo-fluo-orange-santiago-picatoste"
     },
     "https://www.3punts.com/es/shop/artwork/limbo-fluo-pink-santiago-picatoste": {
       "titulo": "",
       "artista": "Santiago Picatoste",
-      "precio": "2 200,00 €",
-      "precio_num": 2200.0,
+      "precio": "1 800,00 €",
+      "precio_num": 1800.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/limbo-fluo-pink-santiago-picatoste"
     },
     "https://www.3punts.com/es/shop/artwork/limbo-fluo-yellow-santiago-picatoste": {
       "titulo": "",
       "artista": "Santiago Picatoste",
-      "precio": "2 200,00 €",
-      "precio_num": 2200.0,
+      "precio": "1 800,00 €",
+      "precio_num": 1800.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/limbo-fluo-yellow-santiago-picatoste"
     }
