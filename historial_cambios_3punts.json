@@ -12582,5 +12582,14 @@
     "precio_anterior": "2 200,00 €",
     "url": "https://www.3punts.com/es/shop/artwork/limbo-fluo-yellow-santiago-picatoste",
     "fecha": "25/11/2026 14:14"
+  },
+  {
+    "tipo": "vendida",
+    "titulo": "Santiago Picatoste Event Horizon Ii",
+    "artista": "Santiago Picatoste",
+    "precio": "Consultar precio",
+    "precio_num": 0.0,
+    "url": "https://www.3punts.com/es/shop/artwork/santiago-picatoste-event-horizon-ii",
+    "fecha": "25/11/2026 16:04"
   }
 ]
