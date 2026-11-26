@@ -1,5 +1,5 @@
 {
-  "__hash__": "bbfcdd0008f9c47b1ff1def21a293c48",
+  "__hash__": "d1c507e4a0067fe2cdac58e3844bef71",
   "obras": {
     "https://www.3punts.com/es/shop/artwork/vincent-vega-pulp-fiction": {
       "titulo": "",
@@ -5594,11 +5594,11 @@
       "url": "https://www.3punts.com/es/shop/artwork/santi-moix-untitled"
     },
     "https://www.3punts.com/es/shop/artwork/santiago-picatoste-event-horizon-ii": {
-      "titulo": "",
+      "titulo": "Santiago Picatoste Event Horizon Ii",
       "artista": "Santiago Picatoste",
-      "precio": "Consultar precio",
+      "precio": "Precio no disponible",
       "precio_num": 0.0,
-      "estado": "disponible",
+      "estado": "vendido",
       "url": "https://www.3punts.com/es/shop/artwork/santiago-picatoste-event-horizon-ii"
     },
     "https://www.3punts.com/es/shop/artwork/santiago-picatoste-ad-terminum": {
@@ -5668,8 +5668,8 @@
     "https://www.3punts.com/es/shop/artwork/santiago-picatoste-atlas-event-horizon-i": {
       "titulo": "",
       "artista": "Santiago Picatoste",
-      "precio": "Consultar precio",
-      "precio_num": 0.0,
+      "precio": "6 500,00 €",
+      "precio_num": 6500.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/santiago-picatoste-atlas-event-horizon-i"
     },
@@ -5700,42 +5700,26 @@
     "https://www.3punts.com/es/shop/artwork/santiago-picatoste-atlas-lux-i": {
       "titulo": "",
       "artista": "Santiago Picatoste",
-      "precio": "Consultar precio",
-      "precio_num": 0.0,
+      "precio": "8 000,00 €",
+      "precio_num": 8000.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/santiago-picatoste-atlas-lux-i"
     },
     "https://www.3punts.com/es/shop/artwork/santiago-picatoste-atlas-tenebrae-i": {
       "titulo": "",
       "artista": "Santiago Picatoste",
-      "precio": "Consultar precio",
-      "precio_num": 0.0,
+      "precio": "8 000,00 €",
+      "precio_num": 8000.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/santiago-picatoste-atlas-tenebrae-i"
     },
     "https://www.3punts.com/es/shop/artwork/santiago-picatoste-oublie-i": {
       "titulo": "",
       "artista": "Santiago Picatoste",
-      "precio": "Consultar precio",
-      "precio_num": 0.0,
+      "precio": "8 000,00 €",
+      "precio_num": 8000.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/santiago-picatoste-oublie-i"
-    },
-    "https://www.3punts.com/es/shop/artwork/santiago-picatoste-chirality-2": {
-      "titulo": "",
-      "artista": "Santiago Picatoste",
-      "precio": "Consultar precio",
-      "precio_num": 0.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/santiago-picatoste-chirality-2"
-    },
-    "https://www.3punts.com/es/shop/artwork/santiago-picatoste-chirality-9": {
-      "titulo": "",
-      "artista": "Santiago Picatoste",
-      "precio": "Consultar precio",
-      "precio_num": 0.0,
-      "estado": "disponible",
-      "url": "https://www.3punts.com/es/shop/artwork/santiago-picatoste-chirality-9"
     },
     "https://www.3punts.com/es/shop/artwork/limbo-fluo-orange-santiago-picatoste": {
       "titulo": "",
@@ -5760,6 +5744,22 @@
       "precio_num": 1800.0,
       "estado": "disponible",
       "url": "https://www.3punts.com/es/shop/artwork/limbo-fluo-yellow-santiago-picatoste"
+    },
+    "https://www.3punts.com/es/shop/artwork/santiago-picatoste-chirality-2": {
+      "titulo": "",
+      "artista": "Santiago Picatoste",
+      "precio": "3 300,00 €",
+      "precio_num": 3300.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/santiago-picatoste-chirality-2"
+    },
+    "https://www.3punts.com/es/shop/artwork/santiago-picatoste-chirality-9": {
+      "titulo": "",
+      "artista": "Santiago Picatoste",
+      "precio": "3 300,00 €",
+      "precio_num": 3300.0,
+      "estado": "disponible",
+      "url": "https://www.3punts.com/es/shop/artwork/santiago-picatoste-chirality-9"
     }
   }
 }
