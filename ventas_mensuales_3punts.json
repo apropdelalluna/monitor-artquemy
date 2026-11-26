@@ -2000,6 +2000,15 @@
       "precio_num": 0.0,
       "tipo": "nueva_vendida",
       "url": "https://www.3punts.com/es/shop/artwork/little-teddy-gray-concrete"
+    },
+    {
+      "fecha": "26/11/2026 16:04",
+      "artista": "Santiago Picatoste",
+      "obra": "Santiago Picatoste Event Horizon Ii",
+      "precio": "Consultar precio",
+      "precio_num": 0.0,
+      "tipo": "vendida",
+      "url": "https://www.3punts.com/es/shop/artwork/santiago-picatoste-event-horizon-ii"
     }
   ]
 }
