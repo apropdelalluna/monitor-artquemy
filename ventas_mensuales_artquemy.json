@@ -8497,6 +8497,33 @@
       "precio_num": 110.0,
       "tipo": "vendida",
       "url": "https://artquemy.com/producto/templo/"
+    },
+    {
+      "fecha": "27/11/2026 20:00",
+      "artista": "KST",
+      "obra": "Y si se acaba el verano, se acaba la playa?",
+      "precio": "€280,00",
+      "precio_num": 280.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/y-si-se-acaba-el-verano-se-acaba-la-playa/"
+    },
+    {
+      "fecha": "27/11/2026 20:00",
+      "artista": "KST",
+      "obra": "Ramen box",
+      "precio": "€250,00",
+      "precio_num": 250.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/ramen-box/"
+    },
+    {
+      "fecha": "27/11/2026 20:00",
+      "artista": "KST",
+      "obra": "Bolsa de naranjas",
+      "precio": "€250,00",
+      "precio_num": 250.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/bolsa-de-naranjas/"
     }
   ]
 }
