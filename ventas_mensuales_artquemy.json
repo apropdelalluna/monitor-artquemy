@@ -8488,6 +8488,15 @@
       "precio_num": 50.0,
       "tipo": "vendida",
       "url": "https://artquemy.com/producto/wave/"
+    },
+    {
+      "fecha": "27/11/2026 16:34",
+      "artista": "Juncosa",
+      "obra": "Templo",
+      "precio": "€110,00",
+      "precio_num": 110.0,
+      "tipo": "vendida",
+      "url": "https://artquemy.com/producto/templo/"
     }
   ]
 }
